@@ -1,0 +1,17 @@
+body {
+	background-color: #535353;
+}
+
+h1 {
+	font-family: "Helvetica-Neue", "Arial", sans-serif;
+	position: absolute;
+	top: 100px;
+	margin: 0 auto;
+	text-align: center;
+	width: 100%;
+	color: #fff;
+}
+
+.red {
+	color: #ff0000;
+}
