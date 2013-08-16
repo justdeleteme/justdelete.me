@@ -1,0 +1,89 @@
+[
+
+	{
+		"name" : "Twitter",
+		"url" : "https://twitter.com/settings/accounts/confirm_deactivation",
+		"difficulty" : "easy"
+	},
+
+	{
+		"name" : "Skype",
+		"url" : "https://support.skype.com/en/faq/FA142/can-i-delete-my-skype-account",
+		"difficulty" : "hard",
+		"notes" : [
+			"To delete your Skype account you must contact customer services."
+		]
+	},
+
+	{
+		"name" : "Facebook",
+		"url" : "https://www.facebook.com/help/delete_account?rdrhc",
+		"difficulty" : "easy"
+	},
+
+	{
+		"name" : "iTunes",
+		"url" : "http://www.apple.com/support/itunes/contact/",
+		"difficulty" : "hard"
+	},
+
+	{
+		"name" : "Medium",
+		"url" : "https://medium.com/me",
+		"difficulty" : "easy"
+	},
+
+	{
+		"name" : "LinkedIn",
+		"url" : "http://help.linkedin.com/app/answers/detail/a_id/63/kw/delete%20account",
+		"difficulty" : "easy"
+	},
+
+	{
+		"name" : "Hotmail",
+		"url" : "https://mail.live.com/mail/CloseAccountConfirmation.aspx",
+		"difficulty" : "easy"
+	},
+
+	{
+		"name" : "Netflix",
+		"url" : "https://support.netflix.com/en/node/407",
+		"difficulty" : "hard"
+	},
+
+	{
+		"name" : "Google",
+		"url" : "https://www.google.com/accounts/Login",
+		"difficulty" : "easy"
+	},
+
+	{
+		"name" : "Yahoo!",
+		"url" : "https://edit.yahoo.com/config/delete_user",
+		"difficulty" : "easy"
+	},
+
+	{
+		"name" : "Dropbox",
+		"url" : "https://www.dropbox.com/account/delete",
+		"difficulty" : "easy"
+	},
+
+	{
+		"name" : "Foursquare",
+		"url" : "https://foursquare.com/delete_me",
+		"difficulty" : "easy"
+	},
+
+	{
+		"name" : "PayPal",
+		"url" : "https://www.paypal.com/us/cgi-bin/webscr?cmd=_close-account",
+		"difficulty" : "easy"
+	},
+
+	{
+		"name" : "Tumblr",
+		"url" : "http://www.tumblr.com/account/delete",
+		"difficulty" : "easy"
+	}
+]
