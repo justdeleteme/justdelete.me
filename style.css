@@ -82,6 +82,7 @@ header h1 span {
 
 .sites {
 	padding: 30px 0;
+	min-height: 143px;
 }
 
 .site {
@@ -130,6 +131,11 @@ header h1 span {
 .site.medium a {border-bottom: 6px solid #E8C674;}
 .site.hard a {border-bottom: 6px solid #CF5A5A;}
 
+.no-results {
+	display: none;
+	text-align: center;
+	font-weight: bold;
+}
 
 .info-block {
 	background-color: #293840;
@@ -154,6 +160,7 @@ header h1 span {
 	margin: 0;
 	font-size: 14px;
 	line-height: 1.5;
+	margin-bottom: 10px;
 }
 
 .info-container li {
@@ -180,12 +187,12 @@ footer {
 	margin-top: 30px;
 }
 
-footer a {
+footer a, .info-container a {
 	color: white;
 	text-decoration: none;
 }
 
-footer a:hover {
+footer a:hover, .info-container a:hover {
 	color: #CF5A5A;
 }
 
