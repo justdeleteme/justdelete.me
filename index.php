@@ -44,7 +44,7 @@
 	<section class="main">		
 		<section class="sites" id="sites">
 
-			<p class="no-results">Can't find what you're looking for? <a href='#'>Help make justdelete.me better</a>.</p>
+			<p class="no-results">Can't find what you're looking for? <a href='http://github.com/rmlewisuk/justdelete.me'>Help make justdelete.me better</a>.</p>
 
 		</section>
 	</section>
