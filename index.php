@@ -9,6 +9,7 @@
 	<link rel="shortcut icon" href="img/favicon.ico">
 	<link rel="stylesheet" type="text/css" href="style.css" />
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<script src="inc/search.js"></script>
 </head>	
 <body>
 	<script>
@@ -36,12 +37,12 @@
 	</div>
 	<div class="search">
 		<div class="search-container">
-			<input type="text">
+			<input type="text" id="search">
 			<a href="">search</a>
 		</div>
 	</div>
 	<section class="main">		
-		<section class="sites">
+		<section class="sites" id="sites">
 
 		</section>
 	</section>
