@@ -11,8 +11,6 @@ body {
 	background-color:#D4D8DC;
 }
 
-
-
 header {	
 	background-color: #293840;
 	color: #E8E8E8;	
@@ -84,6 +82,16 @@ header h1 span {
 	padding: 30px 0;
 	min-height: 143px;
 }
+
+	.sites a {
+		color: #d15a58;
+		text-decoration: none;
+	}
+
+	.sites a:hover {
+		color: #283840;
+		text-decoration: underline;
+	}
 
 .site {
 	display: inline-block;
