@@ -74,6 +74,8 @@
 		<div class="info-container">
 			<h2>What is this? </h2>
 
+			<p><a href="http://robblewis.me/just-delete-me" target="_blank">Read the announcement blog post &raquo;</a></p>
+
 			<p>Many companies use <a href="http://darkpatterns.org/">dark pattern</a> techniques to make it difficult to find how to delete your account. JustDelete.me aims to be a directory of urls to enable you to easily delete your account from web services.</p>
 
 			<p>The links above are colour-coded to indicate the difficulty level of account deletion:</p>
