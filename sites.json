@@ -7,12 +7,24 @@
 	},
 
 	{
+		"name" : "App.net",
+		"url" : "https://account.app.net/settings/delete/",
+		"difficulty" : "easy"
+	},
+
+	{
 		"name" : "Skype",
 		"url" : "https://support.skype.com/en/faq/FA142/can-i-delete-my-skype-account",
 		"difficulty" : "hard",
 		"notes" : [
 			"To delete your Skype account you must contact customer services."
 		]
+	},
+
+	{
+		"name" : "Github",
+		"url" : "https://github.com/settings/admin",
+		"difficulty" : "easy"
 	},
 
 	{
