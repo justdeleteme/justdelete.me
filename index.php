@@ -60,7 +60,7 @@
 	<div class="search">
 		<div class="search-container">
 			<input type="text" id="search">
-			<a href="">search</a>
+			<a href="#">search</a>
 		</div>
 	</div>
 	<section class="main">		
