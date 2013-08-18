@@ -16,3 +16,5 @@ The sites, urls and additional notes are stored in `sites.json`. If you want to 
 - `notes`: (optional) This is for sites listed as `hard`. Notes will be shown when someone hovers on that service. Notes may include additional information you might need to delete your account (e.g. Skype) or consequences of deleting your account (e.g. iTunes).
 
 Simply fork this repo, add the site to `sites.json` and submit a pull request. Simples.
+
+Search functionality modified from [DevCenter.me](https://github.com/stevestreza/DevCenter.me).
