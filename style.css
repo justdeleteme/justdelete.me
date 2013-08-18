@@ -135,6 +135,22 @@ header h1 span {
 	background-color: white;
 }
 
+.tooltip {
+	display: none;
+	z-index: 1;
+	position: absolute;
+	width: 25%;
+	margin-left: -3%;
+	margin-top: 10px;
+	background-color: #EAEBED;
+	padding: 0 5px 0 5px;
+	color: #273840;
+	border-bottom: 3px solid #D15A58;
+	box-shadow: 1px 1px 10px #283840;
+	font-size: 14px;
+	line-height: 1.5;
+}
+
 .site.easy a {border-bottom: 6px solid #68AD68;}
 .site.medium a {border-bottom: 6px solid #E8C674;}
 .site.hard a {border-bottom: 6px solid #CF5A5A;}

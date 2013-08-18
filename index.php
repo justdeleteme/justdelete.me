@@ -9,25 +9,9 @@
 	<link rel="shortcut icon" href="img/favicon.ico">
 	<link rel="stylesheet" type="text/css" href="style.css" />
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-	<script src="inc/search.js"></script>
+	<script src="inc/scripts.js"></script>
 </head>	
 <body>
-	<script>
-		$.getJSON('sites.json', function(data) {
-			// Sort by name, asc
-			data.sort(function(a, b){
-			 var nameA=a.name.toLowerCase(), nameB=b.name.toLowerCase()
-			 if (nameA < nameB)
-			  return -1 
-			 if (nameA > nameB)
-			  return 1
-			 return 0
-			});
-			for (i = 0; i < data.length; i++) {
-				$('.sites').append("<section class='site "+data[i].difficulty+"'><a href='"+data[i].url+"'>"+data[i].name+"</a></section>");
-			}
-		});
-	</script>
 	<header>
 		<h1>just<span>delete</span>.me</h1>
 		<p class="tagline">A directory of urls to delete your account from web services.</p>

@@ -16,9 +16,7 @@
 		"name" : "Skype",
 		"url" : "https://support.skype.com/en/faq/FA142/can-i-delete-my-skype-account",
 		"difficulty" : "hard",
-		"notes" : [
-			"To delete your Skype account you must contact customer services."
-		]
+		"notes" : "Contact customer services. You'll need to know 5 contacts from your contacts list, the month you created you account and your signup email address."
 	},
 
 	{
@@ -36,7 +34,8 @@
 	{
 		"name" : "iTunes",
 		"url" : "http://www.apple.com/support/itunes/contact/",
-		"difficulty" : "hard"
+		"difficulty" : "hard",
+		"notes" : "Contact customer services. You will lose access to any media you haven't downloaded to your computer."
 	},
 
 	{
@@ -60,7 +59,8 @@
 	{
 		"name" : "Netflix",
 		"url" : "https://support.netflix.com/en/node/407",
-		"difficulty" : "hard"
+		"difficulty" : "hard",
+		"notes" : "Contact customer services. Even then they may not delete your account under the premise that you might want to rejoin and keep your history and recommendations."
 	},
 
 	{
