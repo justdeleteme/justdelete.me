@@ -98,11 +98,19 @@
 		"url" : "http://www.tumblr.com/account/delete",
 		"difficulty" : "easy"
 	},
-	
+
 	{
 		"name" : "Reddit",
 		"url" : "https://ssl.reddit.com/prefs/delete/",
 		"difficulty" : "easy",
 		"notes" : "Increase your productivity by over 5 times with this one trick they don't want you to know about!"
+	},
+
+	{
+		"name" : "Lovefilm",
+		"url" : "https://www.lovefilm.com/account/cancel",
+		"difficulty" : "medium",
+		"notes" : "Requires any physical discs to be returned - account will be 'cancellation pending' until received."
 	}
+
 ]
