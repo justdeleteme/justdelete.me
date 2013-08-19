@@ -117,6 +117,13 @@
 		"name" : "MySpace",
 		"url" : "https://new.myspace.com/settings/profile",
 		"difficulty" : "easy"
+ 	},
+
+ 	{
+ 		"name" : "Klout",
+ 		"url" : "http://klout.com/#/edit-settings/optout",
+ 		"difficulty" : "medium",
+ 		"notes" : "It can take up to 180 days for all your data to be removed from the system."
  	}
 
 ]
