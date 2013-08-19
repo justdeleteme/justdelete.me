@@ -12,7 +12,6 @@ $(document).ready(function(){
 			});
 			for (i = 0; i < data.length; i++) {
 				if (data[i].notes) {
-					console.log(data[i].notes);
 					$('.sites').append("<section class='site "+data[i].difficulty+"'><a href='"+data[i].url+"'>"+data[i].name+"</a><div class='tooltip'><p>" + data[i].notes + "</p></div></section>");
 				}
 				else {
@@ -36,7 +35,6 @@ $(document).ready(function(){
     }).hide();
 
     if ( ! $('.site').is(':visible')) {
-		console.log($('.site').is(':visible'));
 		$('.no-results').show();
     }
   });
