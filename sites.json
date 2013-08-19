@@ -97,5 +97,11 @@
 		"name" : "Tumblr",
 		"url" : "http://www.tumblr.com/account/delete",
 		"difficulty" : "easy"
+	},
+	
+	{
+		"name" : "Reddit",
+		"url" : "https://ssl.reddit.com/prefs/delete/",
+		"difficulty" : "easy"
 	}
 ]
