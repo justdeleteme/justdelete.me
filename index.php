@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-	<title>Just Delete Me | A directory of urls to delete your account from web services</title>
+	<title>Just Delete Me | A directory of direct links to delete your account from web services.</title>
 	<meta charset="UTF-8">
 	<!--[if lt IE 9]>
 		<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -52,7 +52,7 @@
 
 	<header>
 		<h1>just<span>delete</span>.me</h1>
-		<p class="tagline">A directory of urls to delete your account from web services</p>
+		<p class="tagline">A directory of direct links to delete your account from web services.</p>
 	</header>
 
 	<div id="test">

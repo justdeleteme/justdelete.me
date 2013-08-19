@@ -1,7 +1,7 @@
 JustDelete.me
 =============
 
-A directory of urls to delete your account from web services.
+A directory of direct links to delete your account from web services.
 
 ##Contributing a site
 

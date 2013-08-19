@@ -111,6 +111,13 @@
 		"url" : "https://www.lovefilm.com/account/cancel",
 		"difficulty" : "medium",
 		"notes" : "Requires any physical discs to be returned - account will be 'cancellation pending' until received."
-	}
+	},
+
+	{
+		"name" : "MySpace",
+		"url" : "https://new.myspace.com/settings/profile",
+		"difficulty" : "easy",
+		"notes" : "You still have a MySpace account?"
+ 	}
 
 ]
