@@ -7,6 +7,7 @@
 		<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
 	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<meta name="description" content="A directory of direct links to delete your account from web services. Find out how to delete your Facebook, Twitter, LinkedIn accounts and more.">
 
 	<!-- Icons -->
 	<link rel="shortcut icon" href="inc/icons/favicon.ico">
