@@ -193,9 +193,7 @@ header h1 span {
 	margin: 5px 0;
 }
 
-.info-container li {
-	font-weight: bold;
-}
+.green, .yellow, .red { font-weight: bold; }
 
 .info-container li .green {
 	color: #7bac7b;
