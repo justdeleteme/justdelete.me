@@ -20,7 +20,7 @@
 	},
 
 	{
-		"name" : "Github",
+		"name" : "GitHub",
 		"url" : "https://github.com/settings/admin",
 		"difficulty" : "easy"
 	},
@@ -136,7 +136,29 @@
  	{
  		"name" : "Droplr",
  		"url" : "https://droplr.com/settings",
- 		"difficulty" : "easy"
+ 		"difficulty" : "easy",
+ 		"notes" : "To close your account, contact Amazon by Email (Contact form) and request your account to be closed. "
+ 	},
+ 	
+ 	{
+ 		"name" : "Spotify",
+ 		"url" : "https://www.spotify.com/se/about-us/contact/contact-spotify-support/?contact",
+ 		"difficulty" : "hard",
+ 		"notes" : "Contact Spotify's customer services through their contact form and request for your account to be closed."
+ 	},
+ 	
+ 	{
+ 		"name" : "eBay",
+ 		"url" : "http://cgi1.ebay.com/ws/eBayISAPI.dll?CloseAccount",
+ 		"difficulty" : "easy",
+ 		"notes" : "A few survey questions will be asked prior to account deletion."
+ 	},
+ 	
+ 	{
+ 		"name" : "Digg",
+ 		"url" : "http://digg.com/contact",
+ 		"difficulty" : "hard",
+ 		"notes" : "Contact Digg's customer support and request for your account to be closed."
  	}
 
 ]
