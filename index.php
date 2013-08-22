@@ -87,7 +87,7 @@
 				<li><span class="green">Green:</span> Simple process</li>
 				<li><span class="yellow">Yellow:</span> Some extra steps involved</li>
 				<li><span class="red">Red:</span> Cannot be fully deleted without contacting customer services</li>
-				<li><span class="impossible">Black:</span> Cannot be deleted</li>
+				<li><span class="black">Black:</span> Cannot be deleted</li>
 			</ul>
 
 			<p>Got a site you think should be added? <a href="http://github.com/rmlewisuk/justdelete.me">Fork the project GitHub</a> or <A HREF="mailto:&#115;&#117;&#098;&#109;&#105;&#116;&#064;&#106;&#117;&#115;&#116;&#100;&#101;&#108;&#101;&#116;&#101;&#046;&#109;&#101;?Subject=JustDelete.me%3A%20Site%20suggestion&Body=Site%20name%3A%20%0AURL/Link%3A%20%0ADifficulty%3A%20%0ANotes%20%28optional%29%3A">Submit a site</></p>

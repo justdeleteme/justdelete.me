@@ -194,7 +194,7 @@ header h1 span {
 	margin: 5px 0;
 }
 
-.green, .yellow, .red, .impossible { font-weight: bold; }
+.green, .yellow, .red, .black { font-weight: bold; }
 
 .info-container li .green {
 	color: #7bac7b;
@@ -205,7 +205,7 @@ header h1 span {
 .info-container li .red {
 	color: #cc1919;
 }
-.info-container li .impossible {
+.info-container li .black {
 	color: #000;
 }
 
