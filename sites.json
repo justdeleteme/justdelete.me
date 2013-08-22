@@ -16,7 +16,7 @@
 		"name" : "Skype",
 		"url" : "https://support.skype.com/en/faq/FA142/can-i-delete-my-skype-account",
 		"difficulty" : "hard",
-		"notes" : "Contact customer services. You’ll need to know 5 contacts from your contacts list, the month you created you account and your signup email address."
+		"notes" : "Contact customer services. You’ll need to know 5 contacts from your contacts list, the month you created your account ,and your signup email address."
 	},
 
 	{
@@ -110,7 +110,7 @@
 		"name" : "Lovefilm",
 		"url" : "https://www.lovefilm.com/account/cancel",
 		"difficulty" : "medium",
-		"notes" : "Requires any physical discs to be returned - account will be “cancellation pending” until received."
+		"notes" : "Requires any physical discs to be returned—account will be “cancellation pending” until received."
 	},
 
 	{
@@ -130,14 +130,13 @@
  		"name" : "Amazon",
  		"url" : "https://www.amazon.com/gp/help/customer/contact-us/ref=cu_cf_email?ie=UTF8&mode=email#a",
  		"difficulty" : "hard",
- 		"notes" : "To close your account, contact Amazon by Email (Contact form) and request your account to be closed."
+ 		"notes" : "To close your account, contact Amazon by email (via this contact form) and request that your account be closed."
  	},
 
  	{
  		"name" : "Droplr",
  		"url" : "https://droplr.com/settings",
  		"difficulty" : "easy",
- 		"notes" : "To close your account, contact Amazon by Email (Contact form) and request your account to be closed. "
  	},
  	
  	{
