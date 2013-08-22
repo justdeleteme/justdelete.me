@@ -159,6 +159,25 @@
  		"url" : "http://digg.com/contact",
  		"difficulty" : "hard",
  		"notes" : "Contact Digg's customer support and request for your account to be closed."
+ 	},
+
+ 	{
+ 		"name" : "Wordpress",
+ 		"url" : "http://en.support.wordpress.com/deleting-accounts/",
+ 		"difficulty" : "hard",
+ 		"notes" : "'WordPress.com accounts cannot be deleted.' The best you can do is remove any identifying data from your account."
+ 	},
+
+ 	{
+ 		"name" : "Flickr",
+ 		"url" : "http://www.flickr.com/profile_delete.gne",
+ 		"difficulty" : "easy"
+ 	},
+
+ 	{
+ 		"name" : "Quora",
+ 		"url" : "https://www.quora.com/settings/privacy",
+ 		"difficulty" : "easy"
  	}
 
 ]
