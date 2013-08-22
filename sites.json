@@ -185,5 +185,12 @@
  		"url" : "https://dashboard.heroku.com/account",
  		"difficulty" : "easy",
  		"notes": "'Close your account...' link at the bottom of the page."
+ 	},
+
+ 	{
+ 		"name" : "New York Times",
+ 		"url" : "https://myaccount.nytimes.com/membercenter/help.html",
+ 		"difficulty" : "hard",
+ 		"notes" : "Use the form to write to customer service and ask them to close your account."
  	}
 ]
