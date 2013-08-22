@@ -154,6 +154,7 @@ header h1 span {
 .site.easy a {border-bottom: 6px solid #7bac7b;}
 .site.medium a {border-bottom: 6px solid #E8C674;}
 .site.hard a {border-bottom: 6px solid #cc1919;}
+.site.impossible a {border-bottom: 6px solid #000;}
 
 .no-results {
 	display: none;
@@ -193,7 +194,7 @@ header h1 span {
 	margin: 5px 0;
 }
 
-.green, .yellow, .red { font-weight: bold; }
+.green, .yellow, .red, .impossible { font-weight: bold; }
 
 .info-container li .green {
 	color: #7bac7b;
@@ -203,6 +204,9 @@ header h1 span {
 }
 .info-container li .red {
 	color: #cc1919;
+}
+.info-container li .impossible {
+	color: #000;
 }
 
 footer {
