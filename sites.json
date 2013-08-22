@@ -178,6 +178,12 @@
  		"name" : "Quora",
  		"url" : "https://www.quora.com/settings/privacy",
  		"difficulty" : "easy"
- 	}
+ 	},
 
+ 	{
+ 		"name" : "Heroku",
+ 		"url" : "https://dashboard.heroku.com/account",
+ 		"difficulty" : "easy",
+ 		"notes": "'Close your account...' link at the bottom of the page."
+ 	}
 ]
