@@ -205,5 +205,11 @@
 		"url" : "http://glassboard.com/support/",
 		"difficulty" : "hard",
 		"notes" : "Use the support email address to ask them to close your account."
+	},
+
+	{
+		"name" : "TripIt",
+		"url" : "https://www.tripit.com/account/delete",
+		"difficulty" : "easy"
 	}
 ]
