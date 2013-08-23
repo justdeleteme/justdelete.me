@@ -14,7 +14,7 @@ The sites, urls and additional notes are stored in `sites.json`. If you want to 
 	- `medium`: Sites that do allow account deletion but require you to perform additional steps
 	- `hard`: Sites that require you to contact customer services or those that don't allow automatic or easy account deletion
 	- `impossible`: For sites where it's basically impossible to totally delete your account, even if you contact them
-- `notes`: (optional) This is for sites listed as `hard`. Notes will be shown when someone hovers on that service. Notes may include additional information you might need to delete your account (e.g. Skype) or consequences of deleting your account (e.g. iTunes).
+- `notes`: *(optional)* Notes will be shown when someone hovers on that service. Notes may include additional information you might need to delete your account (e.g. Skype) or consequences of deleting your account (e.g. iTunes).
 
 Simply fork this repo, add the site to `sites.json` and submit a pull request. Simples.
 
