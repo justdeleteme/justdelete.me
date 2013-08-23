@@ -198,4 +198,10 @@
  		"difficulty" : "hard",
  		"notes" : "If you haven't posted on the site, it's just one click. Otherwise, edit your 'About Me' bio to say 'please delete me' then contact support."
  	}
+ 	{
+  		"name" : "Steam",
+		 "url" : "https://support.steampowered.com/newticket.php",
+		 "difficulty" : "impossible",
+  		"notes" : "If you contact Steam support, they will most likley tell you just to not use th eaccount. If you account has no games on it, it will be disabled after a while."
+  	}
 ]
