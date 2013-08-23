@@ -1,3 +1,11 @@
+<?php
+$sites = json_decode(file_get_contents('sites.json'));
+usort($sites, function($a, $b) {
+	list($a, $b) = array(strtolower($a->name), strtolower($b->name));
+	if ($a < $b) return -1;
+	if ($a > $b) return 1;
+	return 0;
+}); ?>
 <!DOCTYPE HTML>
 <html>
 <head>
@@ -68,6 +76,17 @@
 		<section class="sites" id="sites">
 
 			<p class="no-results">Can't find what you're looking for? <a href='http://github.com/rmlewisuk/justdelete.me'>Help make justdelete.me better</a>.</p>
+
+			<?php foreach ($sites as $site) : ?><section class="site <?php echo $site->difficulty; ?>">
+				<a href="<?php echo $site->url; ?>" title="<?php if (isset($site->notes)) echo $site->notes; ?>">
+					<?php echo $site->name; ?>
+				</a>
+				<?php if (isset($site->notes)) : ?>
+					<div class="tooltip">
+						<p><?php echo $site->notes; ?></p>
+					</div>
+				<?php endif; ?>
+			</section><?php endforeach; ?>
 
 		</section>
 	</section>

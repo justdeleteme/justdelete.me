@@ -1,25 +1,5 @@
 $(document).ready(function(){     
 
-	$.getJSON('sites.json', function(data) {
-			// Sort by name, asc
-			data.sort(function(a, b){
-			 var nameA=a.name.toLowerCase(), nameB=b.name.toLowerCase()
-			 if (nameA < nameB)
-			  return -1 
-			 if (nameA > nameB)
-			  return 1
-			 return 0
-			});
-			for (i = 0; i < data.length; i++) {
-				if (data[i].notes) {
-					$('.sites').append("<section class='site "+data[i].difficulty+"'><a href='"+data[i].url+"'>"+data[i].name+"</a><div class='tooltip'><p>" + data[i].notes + "</p></div></section>");
-				}
-				else {
-					$('.sites').append("<section class='site "+data[i].difficulty+"'><a href='"+data[i].url+"'>"+data[i].name+"</a></section>");
-				}
-			}
-		});
-
   $("input").keyup(function(){
 
 	if ($('.no-results').is(':visible')) {
