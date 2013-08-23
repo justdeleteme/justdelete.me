@@ -125,7 +125,7 @@
  		"difficulty" : "medium",
  		"notes" : "It can take up to 180 days for all your data to be removed from the system."
  	},
- 	
+
  	{
  		"name" : "Amazon",
  		"url" : "https://www.amazon.com/gp/help/customer/contact-us/ref=cu_cf_email?ie=UTF8&mode=email#a",
@@ -138,21 +138,21 @@
  		"url" : "https://droplr.com/settings",
  		"difficulty" : "easy"
  	},
- 	
+
  	{
  		"name" : "Spotify",
  		"url" : "https://www.spotify.com/se/about-us/contact/contact-spotify-support/?contact",
  		"difficulty" : "hard",
  		"notes" : "Contact Spotify’s customer services through their contact form and request for your account to be closed."
  	},
- 	
+
  	{
  		"name" : "eBay",
  		"url" : "http://cgi1.ebay.com/ws/eBayISAPI.dll?CloseAccount",
  		"difficulty" : "easy",
  		"notes" : "A few survey questions will be asked prior to account deletion."
  	},
- 	
+
  	{
  		"name" : "Digg",
  		"url" : "http://digg.com/contact",
@@ -214,7 +214,7 @@
  		"difficulty" : "hard",
  		"notes" : "You can't have any unpaid Etsy bills or an open non-delivery reports. Your email address will remain on file."
  	},
- 	
+
  	{
   		"name" : "Steam",
 		"url" : "https://support.steampowered.com/newticket.php",
@@ -252,5 +252,20 @@
 		"url" : "http://customerservice.starbucks.com/app/contact/ask_starbucks_website/",
 		"difficulty" : "impossible",
 		"notes" : "They will not delete your account but upon request they can “scramble all of your information so that you don’t receive emails and none of your information is available to [them] for potential fraud”."
-	}
+	},
+
+ 	{
+ 		"name" : "Gumroad",
+ 		"url" : "https://gumroad.com/",
+ 		"difficulty" : "hard",
+ 		"notes" : "No page explaining how to delete youraccount. You have to contact support directly (link at the bottom of the page) and they'll do it for you."
+ 	},
+
+ 	{
+ 		"name" : "Artsy",
+ 		"url" : "http://artsy.net/user/delete",
+ 		"difficulty" : "easy",
+ 		"notes" : "We're sad to see you go, but we still love you."
+ 	}
+
 ]
