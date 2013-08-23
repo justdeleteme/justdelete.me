@@ -259,5 +259,12 @@
  		"url" : "https://gumroad.com/",
  		"difficulty" : "hard",
  		"notes" : "No page explaining how to delete youraccount. You have to contact support directly (link at the bottom of the page) and they'll do it for you."
+ 	},
+ 	
+ 	{
+ 		"name" : "Vine",
+ 		"url" : "https://support.twitter.com/forms/vine",
+ 		"difficulty" : "hard",
+ 		"notes" : "The only way to delete your Vine account without deleting your Twitter account is to contact Twitter through their contact form."
  	}
 ]
