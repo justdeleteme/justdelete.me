@@ -20,6 +20,8 @@ $(function(){
 			$('.no-results').show();
 		}
 	});
+	
+	$('.site a').prop('title', '');
 
 	$('.site').hover(function () {
 		$(this).find('.tooltip').fadeIn();
