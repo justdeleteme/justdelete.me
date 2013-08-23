@@ -7,6 +7,13 @@
 	},
 
 	{
+		"name" : "Wikipedia",
+		"url" : "https://en.wikipedia.org/wiki/Wikipedia:FAQ#How_do_I_change_my_username.2Fdelete_my_account.3F",
+		"difficulty" : "impossible",
+		"notes": "'A username cannot be deleted.' However, they do have some suggestions."
+	},
+	
+	{
 		"name" : "App.net",
 		"url" : "https://account.app.net/settings/delete/",
 		"difficulty" : "easy"
