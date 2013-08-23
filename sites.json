@@ -198,5 +198,12 @@
  		"url" : "http://meta.stackoverflow.com/help/deleting-account",
  		"difficulty" : "hard",
  		"notes" : "If you haven’t posted on the site, it’s just one click. Otherwise, edit your “About Me” bio to say “please delete me” then contact support."
- 	}
+ 	},
+
+	{
+		"name" : "Glassboard",
+		"url" : "http://glassboard.com/support/",
+		"difficulty" : "hard",
+		"notes" : "Use the support email address to ask them to close your account."
+	}
 ]
