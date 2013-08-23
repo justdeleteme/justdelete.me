@@ -16,7 +16,7 @@
 		"name" : "Skype",
 		"url" : "https://support.skype.com/en/faq/FA142/can-i-delete-my-skype-account",
 		"difficulty" : "hard",
-		"notes" : "Contact customer services. You’ll need to know 5 contacts from your contacts list, the month you created your account ,and your signup email address."
+		"notes" : "Contact customer services. You’ll need to know 5 contacts from your contacts list, the month you created your account, and your signup email address."
 	},
 
 	{
@@ -192,10 +192,11 @@
  		"difficulty" : "hard",
  		"notes" : "Use the form to write to customer services and ask them to close your account."
  	},
+
  	{
  		"name" : "StackOverflow",
  		"url" : "http://meta.stackoverflow.com/help/deleting-account",
  		"difficulty" : "hard",
- 		"notes" : "If you haven't posted on the site, it's just one click. Otherwise, edit your 'About Me' bio to say 'please delete me' then contact support."
+ 		"notes" : "If you haven’t posted on the site, it’s just one click. Otherwise, edit your “About Me” bio to say “please delete me” then contact support."
  	}
 ]
