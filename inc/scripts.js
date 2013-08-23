@@ -19,11 +19,9 @@ $(document).ready(function(){
     }
   });
 
-	$(".sites").on('mouseenter','.site',function () {
+	$(".site").hover(function () {
 		$(this).find(".tooltip").fadeIn();
-	});
-
-	$(".sites").on('mouseleave','.site',function () {
+	}, function () {
 	    $(this).find(".tooltip").fadeOut('fast');
 	});
 });
