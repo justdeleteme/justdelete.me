@@ -176,7 +176,8 @@
  	{
  		"name" : "Quora",
  		"url" : "https://www.quora.com/settings/privacy",
- 		"difficulty" : "easy"
+ 		"difficulty" : "hard",
+ 		"notes" : "You can deactivate your account from your settings page. To permanently delete an account, email privacy@quora.com with the link to your profile."
  	},
 
  	{
@@ -259,5 +260,45 @@
  		"url" : "https://gumroad.com/",
  		"difficulty" : "hard",
  		"notes" : "No page explaining how to delete youraccount. You have to contact support directly (link at the bottom of the page) and they'll do it for you."
+ 	},
+
+ 	{
+ 		"name" : "GoDaddy",
+ 		"url" : "http://support.godaddy.com/groups/go-daddy-customers/forum/topic/how-do-i-delete-my-account-with-godaddy/",
+ 		"difficulty" : "impossible",
+ 		"notes" : "Due to \"legal\" reasons, GoDaddy will never delete your account. To deactivate your account, all you can do is cancel all services and products in your account,  deactivate your payment methods, and disable all communication preferences."
+ 	},
+
+ 	{
+ 		"name" : "Evernote",
+ 		"url" : "https://www.evernote.com/Deactivate.action",
+ 		"difficulty" : "impossible",
+ 		"notes" : "You cannot delete your Evernote account, just deactivate it temporarily. Deactivation does not remove your data so you will have to manually delete all notes and personal info, perform a sync and then deactivate the account." 
+ 	},
+
+ 	{
+ 		"name" : "Disqus",
+ 		"url" : "disqus.com/admin/settings/advanced/",
+ 		"difficulty" : "easy"
+ 	},
+
+ 	{
+ 		"name" : "Instagram",
+ 		"url" : "https://instagram.com/accounts/remove/request",
+ 		"difficulty" : "easy"
+ 	},
+
+ 	{
+ 		"name" : "IMDb",
+ 		"url" : "https://secure.imdb.com/register-imdb/delete",
+ 		"difficulty" : "easy"
+ 	},
+
+ 	{
+ 		"name" : "Pandora",
+ 		"url" : "http://help.pandora.com/customer/portal/articles/24624-cancel-account?t=12416",
+ 		"difficulty" : "hard",
+ 		"notes" : "You have to contact customer support to permanently delete your account. Fortunately, they've made the process quite simple! Just click the url and click on email us."
  	}
+
 ]
