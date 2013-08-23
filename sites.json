@@ -263,8 +263,14 @@
 
  	{
  		"name" : "Path",
- 		"url": "http://service.path.com/customer/portal/emails/new",
+ 		"url" : "http://service.path.com/customer/portal/emails/new",
  		"difficulty" : "hard",
  		"notes" : "Full account deletion requires you to email them asking them to delete your account manually."
+ 	},
+
+ 	{
+ 		"name" : "Rdio",
+ 		"url" : "http://www.rdio.com/settings/advanced/",
+ 		"difficulty" : "easy"
  	}
 ]
