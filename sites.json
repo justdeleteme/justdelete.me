@@ -217,5 +217,12 @@
 		"name" : "Goodreads",
 		"url" : "http://www.goodreads.com/user/destroy",
 		"difficulty" : "easy"
+	},
+
+	{
+		"name" : "Starbucks",
+		"url" : "http://customerservice.starbucks.com/app/contact/ask_starbucks_website/",
+		"difficulty" : "impossible",
+		"notes" : "They will not delete your account but upon request they can “scramble all of your information so that you don’t receive emails and none of your information is available to [them] for potential fraud”."
 	}
 ]
