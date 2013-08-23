@@ -1,5 +1,7 @@
 $(function(){     
 
+	$('body').addClass('js-on');
+
 	$('input').keyup(function(){
 
 		if ($('.no-results').is(':visible')) {

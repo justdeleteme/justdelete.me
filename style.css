@@ -36,6 +36,11 @@ header h1 span {
 .search {
 	background-color: #cf5a5a;
 	padding: 10px 0;
+	display: none;
+}
+
+.js-on .search {
+	display: block;
 }
 
 .search .search-container {
