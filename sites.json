@@ -198,4 +198,9 @@
  		"difficulty" : "hard",
  		"notes" : "If you haven't posted on the site, it's just one click. Otherwise, edit your 'About Me' bio to say 'please delete me' then contact support."
  	}
+ 	{
+ 		"name" : "Outlook",
+ 		"url" : "https://account.live.com/summarypage.aspx"
+ 		"difficulty" : "easy",
+ 	}
 ]
