@@ -197,5 +197,11 @@
  		"url" : "http://meta.stackoverflow.com/help/deleting-account",
  		"difficulty" : "hard",
  		"notes" : "If you haven't posted on the site, it's just one click. Otherwise, edit your 'About Me' bio to say 'please delete me' then contact support."
+ 	},
+ 	{
+ 		"name" : "Mozilla Persona",
+ 		"url" : "https://login.persona.org/",
+ 		"difficulty" : "easy",
+ 		"notes" : "“Cancel your account” link at the bottom of the page."
  	}
 ]
