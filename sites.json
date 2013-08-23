@@ -259,5 +259,46 @@
  		"url" : "https://gumroad.com/",
  		"difficulty" : "hard",
  		"notes" : "No page explaining how to delete youraccount. You have to contact support directly (link at the bottom of the page) and they'll do it for you."
- 	}
+ 	},
+ 	
+ 	{
+		"name" : "GoDaddy",
+		"url" : "http://support.godaddy.com/groups/go-daddy-customers/forum/topic/how-do-i-delete-my-account-with-godaddy/",
+		"difficulty" : "impossible",
+		"notes" : "GoDaddy Accounts are apparently retained “to comply with [their] legal obligations” though you are able to clear out most of your information by editing your profile."
+	},
+	
+	{
+		"name" : "SourceForge",
+		"url" : "https://sourceforge.net/account/remove",
+		"difficulty" : "medium",
+		"notes" : "Data created by the user such as posts and tickets will remain and be attributed to the account, even if deleted. The username will not become available."
+	},
+	
+	{
+		"name" : "Pinterest",
+		"url" : "https://pinterest.com/settings/",
+		"difficulty" : "medium",
+		"notes" : "Deactivates the account by un-linking it from social media, and hiding pins and profile. Logging in again will re-activate the account."
+	},
+	
+	{
+		"name" : "Scribd",
+		"url" : "http://www.scribd.com/account_settings/preferences",
+		"difficulty" : "easy"
+	},
+	
+	{
+		"name" : "Evernote",
+		"url" : "https://www.evernote.com/Deactivate.action",
+		"difficulty" : "medium",
+		"notes" : "You must delete all your notes and content, then empty the trash (Evernote will not do this for you)."
+	},
+	
+	{
+		"name" : "Hacker News",
+		"url" : "http://jacquesmattheij.com/The+Unofficial+HN+FAQ#deleteaccount",
+		"difficulty" : "impossible",
+		"notes": "Your contributions are there to stay, but you can at least clear out your profile -- even your email address."
+	}
 ]
