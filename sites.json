@@ -197,5 +197,11 @@
  		"url" : "http://meta.stackoverflow.com/help/deleting-account",
  		"difficulty" : "hard",
  		"notes" : "If you haven't posted on the site, it's just one click. Otherwise, edit your 'About Me' bio to say 'please delete me' then contact support."
+ 	},
+ 	{
+ 		"name" : "Gumroad"
+ 		"url"  : "https://gumroad.com/"
+ 		"difficulty" : "hard"
+ 		"notes" : "No URL explaining how to delete account. You have to contact support directly (link at the bottom of the page) and they'll do it for you.
  	}
 ]
