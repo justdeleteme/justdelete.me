@@ -16,7 +16,7 @@
 		"name" : "Skype",
 		"url" : "https://support.skype.com/en/faq/FA142/can-i-delete-my-skype-account",
 		"difficulty" : "hard",
-		"notes" : "Contact customer services. You’ll need to know 5 contacts from your contacts list, the month you created your account ,and your signup email address."
+		"notes" : "Contact customer services. You’ll need to know 5 contacts from your contacts list, the month you created your account, and your signup email address."
 	},
 
 	{
@@ -192,10 +192,37 @@
  		"difficulty" : "hard",
  		"notes" : "Use the form to write to customer services and ask them to close your account."
  	},
+
  	{
  		"name" : "StackOverflow",
  		"url" : "http://meta.stackoverflow.com/help/deleting-account",
  		"difficulty" : "hard",
- 		"notes" : "If you haven't posted on the site, it's just one click. Otherwise, edit your 'About Me' bio to say 'please delete me' then contact support."
- 	}
+ 		"notes" : "If you haven’t posted on the site, it’s just one click. Otherwise, edit your “About Me” bio to say “please delete me” then contact support."
+ 	},
+
+	{
+		"name" : "Glassboard",
+		"url" : "http://glassboard.com/support/",
+		"difficulty" : "hard",
+		"notes" : "Use the support email address to ask them to close your account."
+	},
+
+	{
+		"name" : "TripIt",
+		"url" : "https://www.tripit.com/account/delete",
+		"difficulty" : "easy"
+	},
+
+	{
+		"name" : "Goodreads",
+		"url" : "http://www.goodreads.com/user/destroy",
+		"difficulty" : "easy"
+	},
+
+	{
+		"name" : "Starbucks",
+		"url" : "http://customerservice.starbucks.com/app/contact/ask_starbucks_website/",
+		"difficulty" : "impossible",
+		"notes" : "They will not delete your account but upon request they can “scramble all of your information so that you don’t receive emails and none of your information is available to [them] for potential fraud”."
+	}
 ]
