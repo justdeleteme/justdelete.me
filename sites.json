@@ -259,5 +259,12 @@
  		"url" : "https://gumroad.com/",
  		"difficulty" : "hard",
  		"notes" : "No page explaining how to delete youraccount. You have to contact support directly (link at the bottom of the page) and they'll do it for you."
+ 	},
+	
+ 	{
+ 		"name" : "Strava",
+ 		"url" : "https://www.strava.com/settings/privacy",
+ 		"difficulty" : "medium",
+ 		"notes" : "Upon deactivation, all of your activities will be deleted and you will be removed from all leaderboards. Strava will keep an archive of your raw GPS data as uploaded to Strava, but the archive cannot be used to restore your account."
  	}
 ]
