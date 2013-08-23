@@ -211,5 +211,11 @@
 		"name" : "TripIt",
 		"url" : "https://www.tripit.com/account/delete",
 		"difficulty" : "easy"
+	},
+
+	{
+		"name" : "Goodreads",
+		"url" : "http://www.goodreads.com/user/destroy",
+		"difficulty" : "easy"
 	}
 ]
