@@ -264,13 +264,13 @@
  		"name" : "GoDaddy",
  		"url" : "http://support.godaddy.com/groups/go-daddy-customers/forum/topic/how-do-i-delete-my-account-with-godaddy/",
  		"difficulty" : "impossible",
- 		"notes" : "Due to \"legal\" reasons, GoDaddy will never delete your account. All you can do is cancel all services and products in your account,  deactivate your payment methods, and disable all communication preferences to deactivate your account."
+ 		"notes" : "Due to \"legal\" reasons, GoDaddy will never delete your account. To deactivate your account, all you can do is cancel all services and products in your account,  deactivate your payment methods, and disable all communication preferences."
  	},
  	{
  		"name" : "Evernote",
  		"url" : "https://www.evernote.com/Deactivate.action",
  		"difficulty" : "impossible",
- 		"notes" : "You cannot delete your Evernote account, just deactivate it temporarily. Deactivation does not remove your notes so you will have to manually delete all notes and personal info, perform a sync and then deactivate the account." 
+ 		"notes" : "You cannot delete your Evernote account, just deactivate it temporarily. Deactivation does not remove your data so you will have to manually delete all notes and personal info, perform a sync and then deactivate the account." 
  	},
  	{
  		"name" : "Disqus",
