@@ -219,6 +219,6 @@
   		"name" : "Steam",
 		"url" : "https://support.steampowered.com/newticket.php",
 		"difficulty" : "impossible",
-  		"notes" : "If you contact Steam support, they will most likley tell you just to not use the account. If you account has no games on it, it will be disabled after a while."
+  		"notes" : "If you contact Steam support, they will most likely tell you just to not use the account. If your account has no games on it, it will be disabled after a while."
   	}
 ]
