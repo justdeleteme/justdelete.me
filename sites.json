@@ -192,22 +192,33 @@
  		"difficulty" : "hard",
  		"notes" : "Use the form to write to customer services and ask them to close your account."
  	},
+
  	{
  		"name" : "StackOverflow",
  		"url" : "http://meta.stackoverflow.com/help/deleting-account",
  		"difficulty" : "hard",
  		"notes" : "If you haven't posted on the site, it's just one click. Otherwise, edit your 'About Me' bio to say 'please delete me' then contact support."
  	},
+
  	{
+
  		"name" : "Mozilla Persona",
  		"url" : "https://login.persona.org/",
  		"difficulty" : "easy",
  		"notes" : "“Cancel your account” link at the bottom of the page."
- 	}
+ 	},
+
+ 	{
+ 		"name" : "Etsy",
+ 		"url" : "http://www.etsy.com/help/article/53",
+ 		"difficulty" : "hard",
+ 		"notes" : "You can't have any unpaid Etsy bills or an open non-delivery reports. Your email address will remain on file."
+ 	},
+ 	
  	{
   		"name" : "Steam",
-		 "url" : "https://support.steampowered.com/newticket.php",
-		 "difficulty" : "impossible",
+		"url" : "https://support.steampowered.com/newticket.php",
+		"difficulty" : "impossible",
   		"notes" : "If you contact Steam support, they will most likley tell you just to not use the account. If you account has no games on it, it will be disabled after a while."
   	}
 ]
