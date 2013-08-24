@@ -32,12 +32,17 @@ $(function(){
 	$('.contains-info').click(function(e) {
 		e.preventDefault();
 		if ($(this).prev().hasClass('toggled')) {
-			$(this).html("Show info...");
+			if ($(this).hasClass('text-toggled')) {
+				$(this).html("Show info...").removeClass('text-toggled');
+			} else {
+				$(this).html("Show info...").removeClass('text-toggled');
+			}
 			$(this).prev().slideToggle().removeClass('toggled');
 		} else {
+			$('.toggled').next().html("Show info...");
 			$('.toggled').slideToggle().removeClass('toggled');
 			$(this).prev().slideToggle().addClass('toggled');
-			$(this).html("Hide info...");
+			$(this).html("Hide info...").addClass('text-toggled');
 		}		
 	});
 
