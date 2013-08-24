@@ -522,6 +522,24 @@
 		"url" : "https://www.coursera.org/about/contact",
 		"difficulty" : "hard",
 		"notes" : "Contact support and request they delete your account."
+	},
+
+	{
+		"name" : "Dribbble",
+		"url" : "http://dribbble.com/account/destroy_confirm",
+		"difficulty" : "easy"
+	},
+	
+	{
+		"name" : "CloudApp",
+		"url" : "http://my.cl.ly/account/delete",
+		"difficulty" : "easy"
+	},
+
+	{
+		"name" : "Hulu",
+		"url" : "https://secure.hulu.com/users/delete",
+		"difficulty" : "easy"
 	}
 
 ]
