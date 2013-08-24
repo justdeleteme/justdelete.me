@@ -642,6 +642,13 @@
 		"url" : "http://help.codecademy.com/customer/portal/articles/416872",
 		"difficulty" : "hard",
 		"notes": "For security reasons, we will need to verify that these requests have come from the email address that's on your Codecademy account."
+	},
+
+	{
+		"name" : "Grindr",
+		"url" : "http://help.grindr.com/entries/21377499-All-Devices-Clear-Your-Grindr-Profile",
+		"difficulty" : "medium",
+		"notes" : "You can remove your profile and chat history from within the app or you can email support with your UDID."
 	}
 
 ]
