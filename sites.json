@@ -655,6 +655,11 @@
     	"name" : "LibraryThing",
     	"url" : "http://www.librarything.de/editprofile/change",
 		"difficulty" : "easy"
-	}
+	},
 
+	{
+		"name" : "ImageShack",
+		"url" : "http://imageshack.us/prefs/",
+		"difficulty" : "easy"
+	}
 ]
