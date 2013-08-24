@@ -292,5 +292,18 @@
  		"url" : "http://help.pandora.com/customer/portal/articles/24624-cancel-account",
  		"difficulty" : "hard",
  		"notes" : "You have to email support from the email associated with your account.  If you do not have access to that, you need to provide the email address, birth year, and zip code on the account."
+ 	},
+
+ 	{
+ 		"name" : "Meetup",
+ 		"url" : "http://www.meetup.com/account/remove/",
+ 		"difficulty" : "easy"
+ 	},
+
+ 	{
+ 		"name" : "Craigslist",
+ 		"url" : "http://www.craigslist.org/about/help/user_accounts",
+ 		"difficulty" : "impossible",
+ 		"notes" : "There is no way to delete your account, not even by contacting support."
  	}
 ]
