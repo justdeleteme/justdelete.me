@@ -629,5 +629,11 @@
 		"url" : "http://www.pixoona.com/dashboard#user/delete",
 		"difficulty" : "easy"
 	}
+	{
+		"name" : "Freenode",
+		"url" : "https://toxin.jottit.com/freenode_nickserv_commands",
+		"difficulty" : "easy",
+		"notes" : "/msg NickServ DROP nick password"
+	}
 
 ]
