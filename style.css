@@ -119,16 +119,22 @@ header h1 span {
 
 
 .banner {
+	display: block;
 	text-align: center;
 	background-color: #7BAC7B;
 	font-weight: bold;
 	color: #293840;
 	padding: 20px;
-	-webkit-transition: all 2s;
-	-moz-transition: all 2s;
-	-ms-transition: all 2s;
-	-o-transition: all 2s;
-	transition: all 2s;
+	text-decoration: none;
+	color: white;
+}
+
+.banner span {
+	
+}
+
+.banner:hover {
+	background-color: #5D895D;
 }
 
 .banner-block {

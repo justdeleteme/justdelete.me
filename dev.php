@@ -52,9 +52,9 @@ usort($sites, function($a, $b) {
 	<!-- Facebook Like Button SDK -->
 	<div id="fb-root"></div>
 
-	<div class="banner">
-		Try our new <a href="">Chrome Extension</a>
-	</div>
+	<a href="#" class="banner">
+		Try our new <span>Chrome Extension</span>
+	</a>
 
 
 	<header>
