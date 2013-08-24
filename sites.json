@@ -39,7 +39,7 @@
 	},
 
 	{
-		"name" : "iTunes",
+		"name" : "iTunes / Apple ID",
 		"url" : "http://www.apple.com/support/itunes/contact/",
 		"difficulty" : "hard",
 		"notes" : "Contact customer services. You will lose access to any media you haven’t downloaded to your computer."
@@ -201,7 +201,7 @@
  	},
 
  	{
- 		"name" : "Stack Overflow",
+ 		"name" : "StackOverflow",
  		"url" : "http://meta.stackoverflow.com/help/deleting-account",
  		"difficulty" : "hard",
  		"notes" : "If you haven't posted on the site, it's just one click. Otherwise, edit your 'About Me' bio to say 'please delete me' then contact support."
@@ -525,20 +525,108 @@
 	},
 
 	{
-		"name" : "Dribbble",
-		"url" : "http://dribbble.com/account/destroy_confirm",
+		"name" : "Delicious",
+		"url" : "https://delicious.com/settings/deactivate",
 		"difficulty" : "easy"
 	},
 	
 	{
-		"name" : "CloudApp",
-		"url" : "http://my.cl.ly/account/delete",
+		"name" : "Xing",
+		"url" : "https://www.xing.com/app/user?op=cancel;sid=0.bc7191",
 		"difficulty" : "easy"
 	},
-
+	
 	{
-		"name" : "Hulu",
-		"url" : "https://secure.hulu.com/users/delete",
+		"name" : "OpenID",
+		"url" : "https://www.myopenid.com/delete",
+		"difficulty" : "impossible",
+		"notes" : "Although it seems the account is deleted, you can reactivate so likely the data has not been deleted at all."
+	},
+	
+	{
+		"name" : "Zoho",
+		"url" : "https://accounts.zoho.com/u/h#setting/closeaccount",
+		"difficulty" : "easy"
+	},
+	
+	{
+		"name" : "Geni",
+		"url" : "http://www.geni.com/account_settings",
+		"difficulty" : "medium",
+		"notes" : "Delete any of the information you would like removed from the site. Then select 'Account Settings' and 'Close Account'"
+	},
+	
+	{
+		"name" : "Netlog",
+		"url" : "http://en.netlog.com/go/login",
+		"difficulty" : "easy",
+		"notes" : "Select 'settings', then 'account', then 'delete'."
+	},
+	
+	{
+		"name" : "Hi5",
+		"url" : "http://www.tagged.com/account_cancel.html",
+		"difficulty" : "easy"
+	},
+	
+	{
+		"name" : "Last.fm",
+		"url" : "http://www.lastfm.de/settings/account",
+		"difficulty" : "easy",
+		"notes" : "May take up to 7 days to delete your data."
+	},
+	
+	{
+		"name" : "Feedly",
+		"url" : "https://getsatisfaction.com/feedly/topics/how_do_i_delete_my_feedly_account",
+		"difficulty" : "hard",
+		"notes" : "Email customer support to request deletion."
+	},
+	
+	{
+		"name" : "Shutterfly",
+		"url" : "http://www.shutterfly.com/about/contact_details.jsp",
+		"difficulty" : "hard",
+		"notes" : "Contact customers services by email or live chat and request deletion."
+	},
+	
+	{
+		"name" : "EA Origin",
+		"url" : "https://help.ea.com/en/contact-us/ask",
+		"difficulty" : "hard",
+		"notes" : "Contact customer services to request deletion. If you're outside the US this must be by phone."
+	},
+	
+	{
+		"name" : "Yelp",
+		"url" : "http://www.yelp.co.uk/contact?topic=support&subtopic=close",
+		"difficulty" : "easy"
+	},
+	
+	{
+		"name" : "Plenty of Fish",
+		"url" : "http://www.pof.com/deleteaccount.aspx",
+		"difficulty" : "easy",
+		"notes" : "Fill out the deletion form"
+	},
+	
+	{
+		"name" : "Code School",
+		"url" : "http://help.codeschool.com/kb/codeschool-faqs/account-questions",
+		"difficulty" : "medium",
+		"notes" : "Start a private discussion with them and they will 'take care of it'."
+	},
+	
+	{
+		"name" : "Yatado",
+		"url" : "http://about.yatedo.com/manage-your-digital-id/",
+		"difficulty" : "medium",
+		"notes" : "You must request deletion of your Yatado data <em>before</em> deleting the related social account."
+	},
+	
+	{
+		"name" : "Pixoona",
+		"url" : "http://www.pixoona.com/dashboard#user/delete",
 		"difficulty" : "easy"
 	}
 
