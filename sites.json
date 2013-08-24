@@ -259,5 +259,25 @@
  		"url" : "https://gumroad.com/",
  		"difficulty" : "hard",
  		"notes" : "No page explaining how to delete youraccount. You have to contact support directly (link at the bottom of the page) and they'll do it for you."
- 	}
+ 	},
+
+  {
+    "name": "Pocket",
+    "url": "http://help.getpocket.com/customer/portal/articles/482659-how-can-i-delete-my-pocket-account-",
+    "difficulty": "easy",
+  },
+
+  {
+    "name": "Fitocracy",
+    "url": "https://www.fitocracy.com/home/",
+    "difficulty":"hard",
+    "notes":"Drop support a request at requests@fitocracy.com and they'll mark your account for deletion",
+  },
+
+  {
+    "name": "Daily Mile",
+    "url": "http://www.dailymile.com/account/settings/edit",
+    "difficulty":"easy",
+    "notes":"Edit your account, and look for the \"remove my account\" link",
+  }
 ]
