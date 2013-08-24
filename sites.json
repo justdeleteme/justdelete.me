@@ -444,6 +444,63 @@
     	"name" : "Pushover",
     	"url" : "https://pushover.net/settings/delete_account",
     	"difficulty" : "easy"
-    }
+    },
+
+    {
+    	"name" : "NewsBlur",
+    	"url" : "https://www.newsblur.com/profile/delete_account",
+    	"difficulty" : "easy"
+    },
+
+    {
+    	"name" : "Vine",
+    	"url" : "https://support.twitter.com/forms/vine",
+    	"difficulty" : "hard",
+    	"notes" : "The only way to delete your Vine account without deleting your Twitter account is to contact Twitter through their contact form."
+    },
+
+    {
+    	"name" : "Strava",
+    	"url" : "https://www.strava.com/settings/privacy",
+    	"difficulty" : "medium",
+    	"notes" : "Upon deactivation, all of your activities will be deleted and you will be removed from all leaderboards. Strava will keep an archive of your raw GPS data as uploaded to Strava, but the archive cannot be used to restore your account."
+    },
+
+    {
+    	"name" : "Rainforest QA",
+    	"url" : "https://app.rainforestqa.com/settings",
+    	"difficulty" : "easy",
+    	"notes" : "Login, go to the settings page and click 'I want to delete my account'."
+    },
+
+    {
+		"name" : "Twitch",
+		"url" : "http://www.twitch.tv/user/close_account",
+		"difficulty" : "easy"
+    },
+
+    {
+		"name" : "Gumtree",
+		"url" : "https://my.gumtree.com/manage/details/deactivate",
+		"difficulty" : "easy"
+	},
+	
+	{
+		"name" : "500px",
+		"url" : "https://500px.com/settings",
+		"difficulty" : "easy"
+	},
+
+	{
+	  	"name" : "Khan Academy",
+	  	"url" : "https://www.khanacademy.org/settings",
+	  	"difficulty" : "easy"
+	},
+
+	{
+	  	"name" : "Duolingo",
+	  	"url" : "http://www.duolingo.com/settings/deactivate",
+	  	"difficulty" : "easy"
+	}
 
 ]
