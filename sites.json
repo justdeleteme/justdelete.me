@@ -515,6 +515,13 @@
 		"url": "http://www.dailymile.com/account/settings/edit",
 		"difficulty":"easy",
 		"notes":"Edit your account and select \"remove my account\"."
+	},
+
+	{
+		"name" : "Coursera",
+		"url" : "https://www.coursera.org/about/contact",
+		"difficulty" : "hard",
+		"notes" : "Contact support and request they delete your account."
 	}
 
 ]
