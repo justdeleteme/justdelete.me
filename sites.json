@@ -661,5 +661,12 @@
 		"name" : "ImageShack",
 		"url" : "http://imageshack.us/prefs/",
 		"difficulty" : "easy"
+	},
+	
+	{
+		"name" : "Dribbble",
+		"url" : "http://dribbble.com/account",
+		"difficulty" : "easy"
 	}
+	
 ]
