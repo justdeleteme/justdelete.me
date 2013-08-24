@@ -364,6 +364,13 @@
  		"name" : "Rdio",
  		"url" : "http://www.rdio.com/settings/advanced/",
  		"difficulty" : "easy"
+ 	},
+
+ 	{
+ 		"name" : "Battle.net",
+ 		"url" : "https://eu.battle.net/support/en/ticket/submit",
+ 		"difficulty" : "hard",
+ 		"notes" : "You need to submit a support ticket to have your account deleted. Select 'Battle.net', 'Use a few words to summarize your issue' and say you want it deleted. You may need to follow additional instructions from the Blizzard support team."
  	}
 
 ]
