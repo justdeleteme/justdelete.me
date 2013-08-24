@@ -26,6 +26,7 @@ $(function(){
 	$('.site').hover(function () {
 		$(this).find('.tooltip').fadeIn();
 	}, function () {
+		$(this).find('.tooltip').stop();
 		$(this).find('.tooltip').fadeOut('fast');
 	});
 
