@@ -35,9 +35,9 @@ $(function(){
 			$(this).html("Show info...");
 			$(this).prev().slideToggle().removeClass('toggled');
 		} else {
-			$(this).html("Hide info...");
 			$('.toggled').slideToggle().removeClass('toggled');
 			$(this).prev().slideToggle().addClass('toggled');
+			$(this).html("Hide info...");
 		}		
 	});
 
@@ -53,8 +53,8 @@ $(function(){
 
 			// do something such as:
 			(function(){
-				$('.site:first').after('<section class="site impossible"><a href="http://www.nsa.gov/">NSA</a></section>'
-					+'<section class="site impossible"><a href="http://www.gchq.gov.uk/Pages/homepage.aspx">GCHQ</a></section>');
+				$('.site-block:first').after('<section class="site-block impossible"><a class="site-header" href="http://www.nsa.gov/">NSA</a><p class="site-difficulty">Difficulty: impossible</p><p class="tooltip-toggle">No Info Available</p></section>'
+					+'<section class="site-block impossible"><a class="site-header" href="http://www.gchq.gov.uk/Pages/homepage.aspx">GCHQ</a><p class="site-difficulty">Difficulty: impossible</p><p class="tooltip-toggle">No Info Available</p></section>');
 			})();
 
 			// and finally clean up the keys array
