@@ -328,16 +328,29 @@
 	},
 	
 	{
-		"name" : "Evernote",
-		"url" : "https://www.evernote.com/Deactivate.action",
-		"difficulty" : "medium",
-		"notes" : "You must delete all your notes and content, then empty the trash (Evernote will not do this for you)."
-	},
+ 		"name" : "Evernote",
+ 		"url" : "https://www.evernote.com/Deactivate.action",
+ 		"difficulty" : "impossible",
+ 		"notes" : "You cannot delete your Evernote account, just deactivate it temporarily. Deactivation does not remove your data so you will have to manually delete all notes and personal info, perform a sync and then deactivate the account." 
+ 	},
 	
 	{
 		"name" : "Hacker News",
 		"url" : "http://jacquesmattheij.com/The+Unofficial+HN+FAQ#deleteaccount",
 		"difficulty" : "impossible",
 		"notes": "Your contributions are there to stay, but you can at least clear out your profile -- even your email address."
-	}
+	},
+
+	{
+ 		"name" : "Instagram",
+ 		"url" : "https://instagram.com/accounts/remove/request",
+ 		"difficulty" : "easy"
+ 	},
+
+ 	{
+ 		"name" : "IMDb",
+ 		"url" : "https://secure.imdb.com/register-imdb/delete",
+ 		"difficulty" : "easy"
+ 	}
+
 ]
