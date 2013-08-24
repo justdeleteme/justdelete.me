@@ -259,5 +259,60 @@
  		"url" : "https://gumroad.com/",
  		"difficulty" : "hard",
  		"notes" : "No page explaining how to delete youraccount. You have to contact support directly (link at the bottom of the page) and they'll do it for you."
+ 	},
+
+ 	{
+ 		"name" : "About.me",
+ 		"url" : "https://about.me/account",
+ 		"difficulty" : "easy",
+ 	},
+
+ 	{
+ 		"name" : "Airbnb",
+ 		"url" : "https://www.airbnb.com/users/settings",
+ 		"difficulty" : "easy",
+ 	},
+
+ 	{
+ 		"name" : "Box",
+ 		"url" : "https://app.box.com/settings",
+ 		"difficulty" : "easy",
+ 	},
+
+ 	{
+ 		"name" : "Forrst",
+ 		"url" : "http://forrst.com/settings",
+ 		"difficulty" : "easy",
+ 	},
+
+ 	{
+ 		"name" : "Instapaper",
+ 		"url" : "https://www.instapaper.com/user/delete",
+ 		"difficulty" : "easy",
+ 	},
+
+ 	{
+ 		"name" : "LiveJournal",
+ 		"url" : "http://www.livejournal.com/accountstatus.bml",
+ 		"difficulty" : "medium",
+ 		"notes" : "Once you delete your journal you have 30 days to undelete it, in case you change your mind. After 30 days, the journal will be permanently deleted and there will be no way to recover it."
+ 	},
+
+ 	{
+ 		"name" : "Mint",
+ 		"url" : "https://mint.com",
+ 		"difficulty" : "easy",
+ 	},
+
+ 	{
+ 		"name" : "Pocket",
+ 		"url" : "http://getpocket.com/account_deletion/",
+ 		"difficulty" : "easy",
+ 	},
+
+ 	{
+ 		"name" : "Vimeo",
+ 		"url" : "https://vimeo.com/settings/goodbye/forever",
+ 		"difficulty" : "easy",
  	}
 ]
