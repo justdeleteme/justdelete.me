@@ -432,6 +432,12 @@
  		"name" : "Artsy",
  		"url" : "http://artsy.net/user/delete",
  		"difficulty" : "easy"
- 	}
+ 	},
+
+ 	{
+        "name" : "Grooveshark",
+        "url" : "http://grooveshark.com/#!/settings/account",
+        "difficulty" : "easy"
+	}
 
 ]
