@@ -426,6 +426,12 @@
  		"name" : "Vimeo",
  		"url" : "https://vimeo.com/settings/goodbye/forever",
  		"difficulty" : "easy"
+ 	},
+
+ 	{
+ 		"name" : "Artsy",
+ 		"url" : "http://artsy.net/user/delete",
+ 		"difficulty" : "easy"
  	}
 
 ]
