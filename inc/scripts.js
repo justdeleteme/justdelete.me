@@ -16,19 +16,28 @@ $(function(){
 			return !~text.indexOf(term);
 		}).hide();
 
-		if ( ! $('.site').is(':visible')) {
+		if ( ! $('.site-block').is(':visible')) {
 			$('.no-results').show();
 		}
 	});
 	
 	$('.site a').prop('title', '');
 
-	$('.site').hover(function () {
-		$(this).find('.tooltip').fadeIn();
-	}, function () {
-		$(this).find('.tooltip').fadeOut('fast');
-	});
+	// $('.site').hover(function () {
+	// 	$(this).find('.tooltip').fadeIn();
+	// }, function () {
+	// 	$(this).find('.tooltip').fadeOut('fast');
+	// });
 
+	$('.contains-info').click(function(e) {
+		e.preventDefault();
+		if ($(this).prev().hasClass('toggled')) {
+			$(this).prev().slideToggle().removeClass('toggled');
+		} else {			
+			$('.toggled').slideToggle().removeClass('toggled');
+			$(this).prev().slideToggle().addClass('toggled');
+		}		
+	});
 
 	// create the keys and konami variables
 	var keys = [],
