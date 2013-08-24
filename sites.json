@@ -438,6 +438,12 @@
         "name" : "Grooveshark",
         "url" : "http://grooveshark.com/#!/settings/account",
         "difficulty" : "easy"
-	}
+	},
+
+	{
+    	"name" : "Pushover",
+    	"url" : "https://pushover.net/settings/delete_account",
+    	"difficulty" : "easy"
+    }
 
 ]
