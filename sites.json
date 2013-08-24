@@ -279,5 +279,18 @@
  		"url" : "https://pinterest.com/settings/",
  		"difficulty" : "impossible",
  		"notes" : "Accounts can be deactivated, which means that your pins and profile are hidden but not deleted."
+ 	},
+
+ 	{
+ 		"name" : "Disqus",
+ 		"url" : "http://disqus.com/pages/dashboard/#account",
+ 		"difficulty" : "easy"
+ 	},
+
+ 	{
+ 		"name" : "Pandora",
+ 		"url" : "http://help.pandora.com/customer/portal/articles/24624-cancel-account",
+ 		"difficulty" : "hard",
+ 		"notes" : "You have to email support from the email associated with your account.  If you do not have access to that, you need to provide the email address, birth year, and zip code on the account."
  	}
 ]
