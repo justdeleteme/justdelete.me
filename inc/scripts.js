@@ -32,8 +32,10 @@ $(function(){
 	$('.contains-info').click(function(e) {
 		e.preventDefault();
 		if ($(this).prev().hasClass('toggled')) {
+			$(this).html("Show info...");
 			$(this).prev().slideToggle().removeClass('toggled');
-		} else {			
+		} else {
+			$(this).html("Hide info...");
 			$('.toggled').slideToggle().removeClass('toggled');
 			$(this).prev().slideToggle().addClass('toggled');
 		}		
