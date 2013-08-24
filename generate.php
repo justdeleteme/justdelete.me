@@ -70,16 +70,24 @@ usort($sites, function($a, $b) {
 
 			<p class="no-results">Can't find what you're looking for? <a href='http://github.com/rmlewisuk/justdelete.me'>Help make justdelete.me better</a>.</p>
 
-			<?php foreach ($sites as $site) : ?><section class="site <?php echo $site->difficulty; ?>">
-				<a href="<?php echo $site->url; ?>" title="<?php if (isset($site->notes)) echo $site->notes; ?>">
-					<?php echo $site->name; ?>
-				</a>
-				<?php if (isset($site->notes)) : ?>
-					<div class="tooltip">
-						<p><?php echo $site->notes; ?></p>
-					</div>
-				<?php endif; ?>
-			</section><?php endforeach; ?>
+			<!-- // FIRST FOR EACH -->
+
+			<?php foreach ($sites as $site) : ?><section class="site-block <?php echo $site->difficulty; ?>">
+					<a class="site-header" href="<?php echo $site->url; ?>">
+						<?php echo $site->name; ?>
+					</a>
+					<p class="site-difficulty">
+						Difficulty: <?php echo $site->difficulty; ?>
+					</p>
+					<?php if (isset($site->notes)) : ?>
+						<div class="tooltip-content">
+							<?php echo $site->notes; ?>	
+						</div>
+						<a href="#" class="tooltip-toggle contains-info">Show Info...</a>
+					<?php else : ?>
+						<p class="tooltip-toggle">No Info Available</p>
+					<?php endif; ?>
+				</section><?php endforeach; ?>
 
 		</section>
 	</section>
