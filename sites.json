@@ -263,15 +263,14 @@
 	
 	{
 		"name" : "Khan Academy",
-		"url": "https://www.khanacademy.org/settings",
+		"url" : "https://www.khanacademy.org/settings",
 		"difficulty" : "easy",
 		"notes" : "“Delete your account” link at the bottom of the page."
 	},
 	
 	{
 		"name" : "Duolingo",
-		"url": "http://www.duolingo.com/settings/deactivate",
+		"url" : "http://www.duolingo.com/settings/deactivate",
 		"difficulty" : "easy"
 	}
-	
 ]
