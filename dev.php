@@ -52,6 +52,11 @@ usort($sites, function($a, $b) {
 	<!-- Facebook Like Button SDK -->
 	<div id="fb-root"></div>
 
+	<div class="banner">
+		Try our new <a href="">Chrome Extension</a>
+	</div>
+
+
 	<header>
 		<h1>just<span>delete</span>.me</h1>
 		<p class="tagline">A directory of direct links to delete your account from web services.</p>
@@ -111,8 +116,30 @@ usort($sites, function($a, $b) {
 					<li><span class="red">Red:</span> Cannot be fully deleted without contacting customer services</li>
 					<li><span class="black">Black:</span> Cannot be deleted</li>
 				</ul>
-			</div>			
-			
+			</div>		
+		</div>
+	</section>
+	<div class="banner-block">
+		<div class="banner-content">
+			<div class="banner-block-half">
+				<h2>Google Chrome Extension</h2>
+				<p>Our good friend <a href="http://mikerogers.io">Mike Rogers</a> has helped us to release an awesome Google Chrome Extension for JustDelete.me.</p>
+				<p>When you are on a website that is listed on justdelete.me, the Chrome Extension will add a small dot to the omnibar. Clicking on this icon will take you to the relevant delete page.</p>
+				<p>To install it, simply proceed to the <a href="">Chrome Web Store</a>.</p>			
+			</div><div class="banner-block-half">
+				<h2>Extension Dot Guide</h2>
+				<ul>
+					<li><span class="dot-wrapper"><span class="dot easy"></span></span> - Simple process</li>
+					<li><span class="dot-wrapper"><span class="dot medium"></span></span> - Some extra steps involved</li>
+					<li><span class="dot-wrapper"><span class="dot hard"></span></span> - Cannot be fully deleted without contacting customer-services</li>
+					<li><span class="dot-wrapper"><span class="dot impossible"></span></span> - Cannot be deleted</li>					
+				</ul>				
+			</div>	
+		</div>
+		<div class="banner-block-extension"></div>
+	</div>
+	<section class="info-block">
+		<div class="info-container">
 			<footer>
 				<span>Made by <a href="http://robblewis.me">Robb Lewis</a> | Designed by <a href="http://edpoole.me">Ed Poole</a> | Fork on <a href="http://github.com/rmlewisuk/justdelete.me">GitHub</a></span>
 				<div class="share-buttons" id="share buttons">
@@ -125,6 +152,6 @@ usort($sites, function($a, $b) {
 				</div>
 			</footer>
 		</div>		
-	</section>	
+	</section>
 </body>
 </html>
