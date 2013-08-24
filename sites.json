@@ -501,6 +501,20 @@
 	  	"name" : "Duolingo",
 	  	"url" : "http://www.duolingo.com/settings/deactivate",
 	  	"difficulty" : "easy"
+	},
+
+	{
+		"name": "Fitocracy",
+		"url": "https://www.fitocracy.com/home/",
+		"difficulty":"hard",
+		"notes":"Send support a request to requests@fitocracy.com and they'll mark your account for deletion"
+	},
+
+	{
+		"name": "Daily Mile",
+		"url": "http://www.dailymile.com/account/settings/edit",
+		"difficulty":"easy",
+		"notes":"Edit your account and select \"remove my account\"."
 	}
 
 ]
