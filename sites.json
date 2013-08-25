@@ -786,6 +786,12 @@
 		"url" : "https://trello.com/your/account",
 		"difficulty" : "easy",
 		"notes" : "Select 'Delete your account?' option to delete your account"
-	}
+	},
 	
+	{
+		"name" : "Bitbucket",
+		"url" : "https://bitbucket.org/account/",
+		"difficulty" : "easy",
+		"notes" : "On the side menu, click on 'Delete Account' and on the confirmation page click 'Delete Account', all repositories and the account is immediately wiped."
+	}
 ]
