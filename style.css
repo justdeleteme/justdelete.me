@@ -502,8 +502,8 @@ header h1 span {
 	display: inline-block;
 }
 .info-container li .black {
-	background-color: #000000;
-	border: 1px solid #2B2B2B;
+	background-color: #2B2B2B;
+	border: 1px solid #000000;
 	padding: 6px 12px;
 	line-height: 1;
 	color: white;
