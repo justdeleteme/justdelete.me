@@ -142,7 +142,7 @@ usort($sites, function($a, $b) {
 	<section class="info-block">
 		<div class="info-container">
 			<footer>
-				<span>Made by <a href="http://robblewis.me">Robb Lewis</a> | Designed by <a href="http://edpoole.me">Ed Poole</a> | Fork on <a href="http://github.com/rmlewisuk/justdelete.me">GitHub</a></span>
+				<span>Made by <a href="http://robblewis.me">Robb Lewis</a> | Designed by <a href="http://edpoole.me">Ed Poole</a> | Fork on <a href="http://github.com/rmlewisuk/justdelete.me">GitHub</a> | Hosted by <a href="http://mdtm.pl/17Wu4ia">Media Temple</a></span>
 				<div class="share-buttons" id="share buttons">
 				<!-- Twitter -->
 					<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://justdelete.me">Tweet</a>
