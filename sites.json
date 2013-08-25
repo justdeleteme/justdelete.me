@@ -537,7 +537,7 @@
 	},
 	
 	{
-		"name" : "OpenID",
+		"name" : "MyOpenID",
 		"url" : "https://www.myopenid.com/delete",
 		"difficulty" : "impossible",
 		"notes" : "Although it seems the account is deleted, you can reactivate so likely the data has not been deleted at all."
