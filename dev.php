@@ -108,6 +108,7 @@ usort($sites, function($a, $b) {
 					<li><a href="http://robblewis.me/just-delete-me?utm_source=JustDeleteMe&amp;utm_medium=link&amp;utm_campaign=Just+Delete+Me" target="_blank">Read the announcement blog post &raquo;</a></li>
 					<li><a href="http://robblewis.me/24-hours-of-just-delete-me/" target="_blank">See the first-day stats &raquo;</a></li>
 				</ul>
+				<p><a href="https://twitter.com/justdeletedotme" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @justdeletedotme</a></p>
 			</div><div class="info-block-half">
 				<h2>Guide</h2>
 				<p>The links above are colour-coded to indicate the difficulty level of account deletion:</p>
