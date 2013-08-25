@@ -4,6 +4,8 @@
 		"name" : "Soundcloud",
 		"url" : "http://soundcloud.com/settings/account#delete-user",
 		"difficulty" : "easy"
+	},
+	
 	{
 		"name" : "Twitter",
 		"url" : "https://twitter.com/settings/accounts/confirm_deactivation",
