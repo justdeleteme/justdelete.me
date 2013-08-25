@@ -124,7 +124,7 @@ usort($sites, function($a, $b) {
 			<div class="banner-block-half">
 				<h2>Google Chrome Extension</h2>
 				<p>Our good friend <a href="http://mikerogers.io">Mike Rogers</a> has helped us to release an awesome Google Chrome Extension for JustDelete.me.</p>
-				<p>When you are on a website that is listed on justdelete.me, the Chrome Extension will add a small dot to the omnibar. Clicking on this icon will take you to the relevant delete page.</p>
+				<p>When you are on a website that is listed on justdelete.me, the Chrome Extension will add a small dot to the omnibar. Clicking on this dot will take you to the relevant delete page.</p>
 				<p>To install it, simply proceed to the <a href="">Chrome Web Store</a>.</p>			
 			</div><div class="banner-block-half">
 				<h2>Extension Dot Guide</h2>
