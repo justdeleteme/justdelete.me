@@ -478,16 +478,36 @@ header h1 span {
 .green, .yellow, .red, .black { font-weight: bold; }
 
 .info-container li .green {
-	color: #7bac7b;
+	background-color: #7bac7b;
+	border: 1px solid #5D895D;
+	padding: 6px 12px;
+	line-height: 1;
+	color: white;
+	display: inline-block;
 }
 .info-container li .yellow {
-	color: #E8C674;
+	background-color: #E8C674;
+	border: 1px solid #C5A65C;
+	padding: 6px 12px;
+	line-height: 1;
+	color: white;
+	display: inline-block;
 }
 .info-container li .red {
-	color: #cc1919;
+	background-color: #cc1919;
+	border: 1px solid #AC4949;
+	padding: 6px 12px;
+	line-height: 1;
+	color: white;
+	display: inline-block;
 }
 .info-container li .black {
-	color: #000;
+	background-color: #000000;
+	border: 1px solid #2B2B2B;
+	padding: 6px 12px;
+	line-height: 1;
+	color: white;
+	display: inline-block;
 }
 
 footer {
