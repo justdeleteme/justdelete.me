@@ -813,4 +813,11 @@
 		"difficulty" : "easy",
 		"notes" : ""
 	}
+	
+	{
+		"name" : "HOL Virtual Hogwarts",
+		"url" : "http://hol.org.uk/profile.php?view=quithol",
+		"difficulty" : "impossible",
+		"notes" : "You can remove information and manually quit HOL, but you account stays forever."
+	},
 ]
