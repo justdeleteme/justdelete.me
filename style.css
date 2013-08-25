@@ -172,6 +172,10 @@ header h1 span {
 	text-decoration: none;
 }
 
+.banner-block .banner-block-half ul {
+	padding: 0;
+}
+
 .banner-block .banner-block-half li {
 	font-size: 14px;
 	list-style: none;
@@ -363,11 +367,14 @@ header h1 span {
 		float: none;
 		margin-top: 10px;
 	}
-}
-
-@media only screen and (max-width: 560px) {
 	.site-block {
 		width: 50%;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	.site-block {
+		width: 100%;
 	}
 }
 
@@ -476,6 +483,10 @@ header h1 span {
 }
 
 .green, .yellow, .red, .black { font-weight: bold; }
+
+.info-container ul {
+	padding: 0;
+}
 
 .info-container li .green {
 	background-color: #7bac7b;
