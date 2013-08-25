@@ -807,10 +807,17 @@
 		"difficulty" : "easy",
 		"notes" : "On the side menu, click on 'Delete Account' and on the confirmation page click 'Delete Account', all repositories and the account is immediately wiped."
 	},
-		{
+	
+	{
 		"name" : "VK/ВКонтакте",
 		"url" : "http://vk.com/settings?act=deactivate",
 		"difficulty" : "easy",
 		"notes" : ""
+	},
+			{
+		"name" : "C&M News by Rеss.at",
+		"url" : "http://www.ress.at/profil/profil_entfernen.php",
+		"difficulty" : "easy",
+		"notes" : "Just click 'Abschicken'"
 	}
 ]
