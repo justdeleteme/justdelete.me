@@ -494,8 +494,8 @@ header h1 span {
 	display: inline-block;
 }
 .info-container li .red {
-	background-color: #cc1919;
-	border: 1px solid #AC4949;
+	background-color: #AC4949;
+	border: 1px solid #cc1919;
 	padding: 6px 12px;
 	line-height: 1;
 	color: white;

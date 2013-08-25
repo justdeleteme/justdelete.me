@@ -111,10 +111,10 @@ usort($sites, function($a, $b) {
 				<h2>Guide</h2>
 				<p>The links above are colour-coded to indicate the difficulty level of account deletion:</p>
 				<ul>
-					<li><span class="green">Green</span> - Simple process</li>
-					<li><span class="yellow">Yellow</span> - Some extra steps involved</li>
-					<li><span class="red">Red</span> - Cannot be fully deleted without contacting customer services</li>
-					<li><span class="black">Black</span> - Cannot be deleted</li>
+					<li><span class="green">Easy</span> - Simple process</li>
+					<li><span class="yellow">Medium</span> - Some extra steps involved</li>
+					<li><span class="red">Hard</span> - Cannot be fully deleted without contacting customer services</li>
+					<li><span class="black">Impossible</span> - Cannot be deleted</li>
 				</ul>
 			</div>		
 		</div>
