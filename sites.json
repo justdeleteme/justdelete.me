@@ -695,6 +695,12 @@
 		"url" : "http://support.groundspeak.com/index.php?pg=kb.page&id=102",
 		"difficulty" : "medium",
 		"notes" : "You must email support from the registered email to remove this account. Any outstanding Premium Memberships will not be refunded"
+	},
+
+	{
+		"name" : "Orkut",
+		"url" : "https://accounts.google.com/DeleteService?service=orkut",
+		"difficulty" : "easy"
 	}
 	
 ]
