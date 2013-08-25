@@ -649,6 +649,13 @@
 		"url" : "http://flixster.desk.com/customer/portal/articles/169347-how-do-i-cancel-my-account-",
 		"difficulty" : "hard",
 		"notes" : "You need to contact flixster to cancel a native RT profile, while Facebook linked or Flixster.com accounts are easier to cancel."
+	},
+
+	{
+		"name" : "EdX",
+		"url" : "https://www.edx.org/student-faq",
+		"difficulty" : "impossible",
+		"notes" : "There's no need to delete your account. An old, unused edX account with no course completions associated with it will disappear."
 	}
 
 ]
