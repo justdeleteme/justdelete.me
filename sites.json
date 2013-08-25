@@ -788,6 +788,13 @@
 		"notes" : "Select 'Delete your account?' option to delete your account"
 	},
 	
+ 	{
+ 		"name" : "Xobni",
+ 		"url" : "https://www.xobni.com/account/settings",
+ 		"difficulty" : "easy",
+ 		"notes": "“Delete account” link at the bottom of the page."
+ 	},
+	
 	{
 		"name" : "Bitbucket",
 		"url" : "https://bitbucket.org/account/",
