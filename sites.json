@@ -773,6 +773,12 @@
 		"url" : "https://www.deviantart.com/settings/deactivation",
 		"difficulty" : "easy",
 		"notes" : "All data is wiped immediately. Accounts can be reactivated within 30 days, after that they can no longer be recovered."
+	},
+	{
+		"name" : "Bitbucket",
+		"url" : "https://bitbucket.org/account/",
+		"difficulty" : "easy",
+		"notes" : "On the side menu, click on 'Delete Account' and on the confirmation page click 'Delete Account', all repositories and the account is immediately wiped."
 	}
 	
 ]
