@@ -815,6 +815,11 @@
 		"url" : "https://bitbucket.org/account/",
 		"difficulty" : "easy",
 		"notes" : "On the side menu, click on 'Delete Account' and on the confirmation page click 'Delete Account', all repositories and the account is immediately wiped."
+	},
+
+	{
+		"name" : "Remember The Milk",
+		"url" : "https://www.rememberthemilk.com/login/delete.rtm",
+		"difficulty" : "easy",
+		"notes" : "Login, and the 'Delete Account' option is under the settings menu. The process is very straightforward."
 	}
->>>>>>> b9c35e4de92efe6dc4b8f2d47f88bc046df90210
-]
