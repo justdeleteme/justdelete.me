@@ -642,6 +642,13 @@
 		"url" : "http://help.codecademy.com/customer/portal/articles/416872",
 		"difficulty" : "hard",
 		"notes": "For security reasons, we will need to verify that these requests have come from the email address that's on your Codecademy account."
+	},
+
+	{
+		"name" : "Rotten Tomatoes",
+		"url" : "http://flixster.desk.com/customer/portal/articles/169347-how-do-i-cancel-my-account-",
+		"difficulty" : "hard",
+		"notes" : "You need to contact flixster to cancel a native RT profile, while Facebook linked or Flixster.com accounts are easier to cancel."
 	}
 
 ]
