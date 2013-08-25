@@ -16,6 +16,6 @@ The sites, urls and additional notes are stored in `sites.json`. If you want to 
 	- `impossible`: For sites where it's basically impossible to totally delete your account, even if you contact them
 - `notes`: *(optional)* Notes will be shown when someone hovers on that service. Notes may include additional information you might need to delete your account (e.g. Skype) or consequences of deleting your account (e.g. iTunes).
 
-Fork this repo and add the site details to `sites.json`. Then go to localhost/static-gen.php to generate the html for the site then submit a pull request. Simple. Ish.
+Fork this repo, add the site details to `sites.json` and submit a pull request. Simples.
 
 Search functionality modified from [DevCenter.me](https://github.com/stevestreza/DevCenter.me).
