@@ -812,5 +812,11 @@
 		"url" : "http://vk.com/settings?act=deactivate",
 		"difficulty" : "easy",
 		"notes" : ""
-	}
+	},
+    {
+        "name" : "Abload",
+        "url" : "http://abload.de/settings.php",
+        "difficulty" : "easy",
+        "notes" : ""
+    }
 ]
