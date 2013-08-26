@@ -839,5 +839,12 @@
 		"url" : "http://hol.org.uk/profile.php?view=quithol",
 		"difficulty" : "impossible",
 		"notes" : "You can remove information and manually quit HOL, but you account stays forever."
+	},
+
+	{
+		"name" : "BodyBuilding",
+		"url" : "http://www.bodybuilding.com/store/help/delete-bodyspace-account.htm",
+		"difficulty" : "impossible",
+		"notes" : "You can only deactivate your account by contacting support as they state on the help page. There is no way to permanently delete your account or data, and an inactive public profile will always be visible to public."
 	}
 ]
