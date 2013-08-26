@@ -272,6 +272,15 @@
  		"url" : "https://gumroad.com/",
  		"difficulty" : "hard",
  		"notes" : "No page explaining how to delete your account. You have to contact support directly (link at the bottom of the page) and they'll do it for you."
+<<<<<<< HEAD
+   {
+      "name" : "Coursera",
+      "url" : "https://www.coursera.org/about/contact",
+      "difficulty" : "hard",
+      "notes" : "No way to delete your account through their website, you have to contact support and ask them to do it for you."
+   }
+ 	}
+=======
  	},
  	
  	{
