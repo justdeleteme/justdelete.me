@@ -832,6 +832,12 @@
 		"url" : "http://www.ress.at/profil/profil_entfernen.php",
 		"difficulty" : "easy",
 		"notes" : "Just click 'Abschicken'"
+	},
+	
+	{
+		"name" : "HOL Virtual Hogwarts",
+		"url" : "http://hol.org.uk/profile.php?view=quithol",
+		"difficulty" : "impossible",
+		"notes" : "You can remove information and manually quit HOL, but you account stays forever."
 	}
-		
 ]
