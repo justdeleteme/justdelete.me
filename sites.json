@@ -667,6 +667,11 @@
 		"name" : "Dribbble",
 		"url" : "http://dribbble.com/account",
 		"difficulty" : "easy"
-	}
+	},
 	
+	{
+		"name" : "Deezer",
+		"url" : "http://www.deezer.com/account",
+		"difficulty" : "easy"
+	}
 ]
