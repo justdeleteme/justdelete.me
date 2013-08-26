@@ -807,10 +807,16 @@
 		"difficulty" : "easy",
 		"notes" : "On the side menu, click on 'Delete Account' and on the confirmation page click 'Delete Account', all repositories and the account is immediately wiped."
 	},
-		{
+	{
 		"name" : "VK/ВКонтакте",
 		"url" : "http://vk.com/settings?act=deactivate",
 		"difficulty" : "easy",
 		"notes" : ""
+	}
+	{
+		"name"	: "Remember The Milk"
+		"url"   : "https://www.rememberthemilk.com/login/delete.rtm"
+		"difficulty" : "easy"
+		"Notes" : ""
 	}
 ]
