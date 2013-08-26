@@ -812,5 +812,12 @@
 		"url" : "http://vk.com/settings?act=deactivate",
 		"difficulty" : "easy",
 		"notes" : ""
+	},
+		{
+		"name" : "Microsoft Office 365",
+		"url" : "http://office.com/myaccount",
+		"difficulty" : "easy",
+		"notes" : ""
 	}
+]
 ]
