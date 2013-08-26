@@ -799,7 +799,13 @@
  		"url" : "https://www.xobni.com/account/settings",
  		"difficulty" : "easy",
  		"notes": "“Delete account” link at the bottom of the page."
- 	},
+ 	},	
+ 	{
+		"name" : "Code Red",
+		"url" : "https://cne.coderedweb.com",
+		"difficulty" : "impossible",
+		"notes" : "You can't delete yourself. You can only change your phone nr. to a bogus number."
+	},
 	
 	{
 		"name" : "Bitbucket",
@@ -813,4 +819,5 @@
 		"difficulty" : "easy",
 		"notes" : ""
 	}
+		
 ]
