@@ -1,4 +1,28 @@
 [
+	{
+		"name" : "Wunderlist",
+		"url" : "https://www.wunderlist.com/#/preferences/account",
+		"difficulty" : "easy",
+		"notes" : "Click 'Delete Account' at the bottom of the account preferences pane"
+	},
+	
+	{
+		"name" : "Grammarly",
+		"url" : "https://ed.grammarly.com/accounts/me",
+		"difficulty" : "easy"
+	},
+	
+	{
+		"name" : "Boxee",
+		"url" : "http://bbx.boxee.tv/user/delete",
+		"difficulty" : "easy"
+	},
+	
+	{
+		"name" : "Dropmark",
+		"url" : "http://support.dropmark.com/customer/portal/questions/564826-deleting-my-account",
+		"difficulty" : "hard"
+	},
 
 	{
 		"name" : "Soundcloud",
