@@ -382,7 +382,7 @@
  		"name" : "Battle.net",
  		"url" : "https://eu.battle.net/support/en/ticket/submit",
  		"difficulty" : "hard",
- 		"notes" : "You need to submit a support ticket to have your account deleted. Select 'Battle.net', 'Use a few words to summarize your issue' and say you want it deleted. You may need to follow additional instructions from the Blizzard support team."
+ 		"notes" : "Customer Support will require you to send a signed written letter confirming your wishes, your account details and a copy of legal identification (passport, drivers license) to your account region's office headquarters."
  	},
 
  	{
@@ -806,6 +806,13 @@
  		"difficulty" : "easy",
  		"notes": "“Delete account” link at the bottom of the page."
  	},
+
+ 	{
+		"name" : "Code Red",
+		"url" : "https://cne.coderedweb.com",
+		"difficulty" : "impossible",
+		"notes" : "You can't delete yourself. You can only change your phone nr. to a bogus number."
+	},
 	
 	{
 		"name" : "Bitbucket",
@@ -813,10 +820,24 @@
 		"difficulty" : "easy",
 		"notes" : "On the side menu, click on 'Delete Account' and on the confirmation page click 'Delete Account', all repositories and the account is immediately wiped."
 	},
-		{
+	
+	{
 		"name" : "VK/ВКонтакте",
 		"url" : "http://vk.com/settings?act=deactivate",
+		"difficulty" : "easy"
+	},
+
+	{
+		"name" : "Abload",
+		"url" : "http://abload.de/settings.php",
+		"difficulty" : "easy"
+	},
+
+	{
+		"name" : "C&M News by Rеss.at",
+		"url" : "http://www.ress.at/profil/profil_entfernen.php",
 		"difficulty" : "easy",
-		"notes" : ""
+		"notes" : "Just click 'Abschicken'"
 	}
+		
 ]
