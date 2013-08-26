@@ -47,7 +47,7 @@
 		"name" : "Wikipedia",
 		"url" : "https://en.wikipedia.org/wiki/Wikipedia:FAQ#How_do_I_change_my_username.2Fdelete_my_account.3F",
 		"difficulty" : "impossible",
-		"notes": "'A username cannot be deleted.' However, they do have some suggestions."
+		"notes" : "'A username cannot be deleted.' However, they do have some suggestions."
 	},
 	
 	{
@@ -227,7 +227,7 @@
  		"name" : "Heroku",
  		"url" : "https://dashboard.heroku.com/account",
  		"difficulty" : "easy",
- 		"notes": "“Close your account...” link at the bottom of the page."
+ 		"notes" : "“Close your account...” link at the bottom of the page."
  	},
 
  	{
@@ -375,7 +375,7 @@
 		"name" : "Hacker News",
 		"url" : "http://jacquesmattheij.com/The+Unofficial+HN+FAQ#deleteaccount",
 		"difficulty" : "impossible",
-		"notes": "Your contributions are there to stay, but you can at least clear out your profile -- even your email address."
+		"notes" : "Your contributions are there to stay, but you can at least clear out your profile -- even your email address."
 	},
 
 	{
@@ -541,17 +541,17 @@
 	},
 
 	{
-		"name": "Fitocracy",
-		"url": "https://www.fitocracy.com/home/",
-		"difficulty":"hard",
-		"notes":"Send support a request to requests@fitocracy.com and they'll mark your account for deletion"
+		"name" : "Fitocracy",
+		"url" : "https://www.fitocracy.com/home/",
+		"difficulty" : "hard",
+		"notes" : "Send support a request to requests@fitocracy.com and they'll mark your account for deletion"
 	},
 
 	{
-		"name": "Daily Mile",
-		"url": "http://www.dailymile.com/account/settings/edit",
-		"difficulty":"easy",
-		"notes":"Edit your account and select \"remove my account\"."
+		"name" : "Daily Mile",
+		"url" : "http://www.dailymile.com/account/settings/edit",
+		"difficulty" : "easy",
+		"notes" : "Edit your account and select \"remove my account\"."
 	},
 
 	{
@@ -678,7 +678,7 @@
 		"name" : "Codecademy",
 		"url" : "http://help.codecademy.com/customer/portal/articles/416872",
 		"difficulty" : "hard",
-		"notes": "For security reasons, we will need to verify that these requests have come from the email address that's on your Codecademy account."
+		"notes" : "For security reasons, we will need to verify that these requests have come from the email address that's on your Codecademy account."
 	},
 
 	{
@@ -813,9 +813,9 @@
 	},
 
 	{
-		"name": "Desktoppr",
-		"url": "https://www.desktoppr.co/settings",
-		"difficulty": "easy"
+		"name" : "Desktoppr",
+		"url" : "https://www.desktoppr.co/settings",
+		"difficulty" : "easy"
 	},
 
 	{
@@ -829,7 +829,7 @@
  		"name" : "Xobni",
  		"url" : "https://www.xobni.com/account/settings",
  		"difficulty" : "easy",
- 		"notes": "“Delete account” link at the bottom of the page."
+ 		"notes" : "“Delete account” link at the bottom of the page."
  	},
 
  	{
@@ -845,7 +845,7 @@
 		"difficulty" : "easy",
 		"notes" : "On the side menu, click on 'Delete Account' and on the confirmation page click 'Delete Account', all repositories and the account is immediately wiped."
 	},
-	
+
 	{
 		"name" : "VK/ВКонтакте",
 		"url" : "http://vk.com/settings?act=deactivate",
@@ -877,5 +877,31 @@
 		"url" : "http://www.bodybuilding.com/store/help/delete-bodyspace-account.htm",
 		"difficulty" : "impossible",
 		"notes" : "You can only deactivate your account by contacting support as they state on the help page. There is no way to permanently delete your account or data, and an inactive public profile will always be visible to public."
+	},
+	
+	{
+		"name" : "Gitorious",
+		"url" : "https://gitorious.org",
+		"difficulty" : "easy"
+	},
+
+	{
+		"name" : "Transifex",
+		"url" : "http://support.transifex.com/customer/portal/articles/1052765-how-can-i-delete-my-account-",
+		"difficulty" : "impossible",
+		"notes" : "You can't delete your account, but you can contact them via email to deactivate it."
+	},
+
+	{
+		"name" : "Imgur",
+		"url" : "http://imgur.com/account/settings",
+		"difficulty" : "easy"
+	},
+
+	{
+		"name" : "Adobe",
+		"url" : "https://learn.adobe.com/wiki/display/wel/Delete+your+account",
+		"difficulty" : "hard",
+		"notes" : "You have to call them in order to delete your account. Alternatively, you can send them an email."
 	}
 ]
