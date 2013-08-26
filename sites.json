@@ -813,4 +813,12 @@
 		"difficulty" : "easy",
 		"notes" : ""
 	}
+	},
+	
+	{
+		"name" : "C&M News",
+		"url" : "http://www.ress.at/profil/profil_entfernen.php",
+		"difficulty" : "easy",
+		"notes" : "click on 'Abschicken' "
+	}
 ]
