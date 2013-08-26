@@ -24,6 +24,13 @@
 		"difficulty" : "hard"
 	},
 
+    {
+		"name" : "ScanMyServer",
+		"url" : "https://scanmyserver.com/?suspend=1",
+		"difficulty" : "easy",
+		"notes" : "Login to your account and follow 'Account Suspension' instructions."
+    },
+
 	{
 		"name" : "Soundcloud",
 		"url" : "http://soundcloud.com/settings/account#delete-user",
