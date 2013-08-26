@@ -321,6 +321,12 @@
 	},
 	
 	{
+		"name" : "Slashdot",
+		"url" : "http://slashdot.org/faq/accounts.shtml",
+		"difficulty" : "impossible"
+	},
+	
+	{
 		"name" : "SourceForge",
 		"url" : "https://sourceforge.net/account/remove",
 		"difficulty" : "medium",
@@ -432,7 +438,7 @@
  		"name" : "Vimeo",
  		"url" : "https://vimeo.com/settings/goodbye/forever",
  		"difficulty" : "easy"
- 	},
+	},
 
  	{
  		"name" : "Artsy",
