@@ -361,9 +361,9 @@
 
  	{
  		"name" : "Path",
- 		"url" : "http://service.path.com/customer/portal/emails/new",
- 		"difficulty" : "hard",
- 		"notes" : "Full account deletion requires you to email them asking them to delete your account manually."
+ 		"url" : "https://path.com",
+ 		"difficulty" : "medium",
+ 		"notes" : "You cannot delete your account from the website. Open the iOS/Android app, go to settings &rarr; about &rarr; disable account &rarr; delete account."
  	},
 
  	{
