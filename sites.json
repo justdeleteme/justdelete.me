@@ -272,15 +272,6 @@
  		"url" : "https://gumroad.com/",
  		"difficulty" : "hard",
  		"notes" : "No page explaining how to delete your account. You have to contact support directly (link at the bottom of the page) and they'll do it for you."
-<<<<<<< HEAD
-   {
-      "name" : "Coursera",
-      "url" : "https://www.coursera.org/about/contact",
-      "difficulty" : "hard",
-      "notes" : "No way to delete your account through their website, you have to contact support and ask them to do it for you."
-   }
- 	}
-=======
  	},
  	
  	{
@@ -370,9 +361,9 @@
 
  	{
  		"name" : "Path",
- 		"url" : "http://service.path.com/customer/portal/emails/new",
- 		"difficulty" : "hard",
- 		"notes" : "Full account deletion requires you to email them asking them to delete your account manually."
+ 		"url" : "https://path.com",
+ 		"difficulty" : "medium",
+ 		"notes" : "You cannot delete your account from the website. Open the iOS/Android app, go to settings &rarr; about &rarr; disable account &rarr; delete account."
  	},
 
  	{
@@ -816,10 +807,18 @@
 		"difficulty" : "easy",
 		"notes" : "On the side menu, click on 'Delete Account' and on the confirmation page click 'Delete Account', all repositories and the account is immediately wiped."
 	},
+<<<<<<< HEAD
 
 	{
 		"name" : "Remember The Milk",
 		"url" : "https://www.rememberthemilk.com/login/delete.rtm",
 		"difficulty" : "easy",
 		"notes" : "Login, and the 'Delete Account' option is under the settings menu. The process is very straightforward."
+=======
+		{
+		"name" : "VK/ВКонтакте",
+		"url" : "http://vk.com/settings?act=deactivate",
+		"difficulty" : "easy",
+		"notes" : ""
+>>>>>>> f56374123093450a0b53c18d7d90d5df54e09db9
 	}

@@ -102,11 +102,13 @@ usort($sites, function($a, $b) {
 			<div class="info-block-half">
 				<h2>What is this?</h2>
 				<p>Many companies use <a href="http://darkpatterns.org/">dark pattern</a> techniques to make it difficult to find how to delete your account. JustDelete.me aims to be a directory of urls to enable you to easily delete your account from web services.</p>
-				<p>Got a site you think should be added? <a href="http://github.com/rmlewisuk/justdelete.me">Fork the project GitHub</a> or <A HREF="mailto:&#115;&#117;&#098;&#109;&#105;&#116;&#064;&#106;&#117;&#115;&#116;&#100;&#101;&#108;&#101;&#116;&#101;&#046;&#109;&#101;?Subject=JustDelete.me%3A%20Site%20suggestion&amp;Body=Site%20name%3A%20%0AURL/Link%3A%20%0ADifficulty%3A%20%0ANotes%20%28optional%29%3A">Submit a site</a>.</p>
+				<p>Got a site you think should be added? <a href="http://github.com/rmlewisuk/justdelete.me">Fork the project GitHub</a>.</p>
+				<p><em>Email submission is temporarily disabled</em></p>
 				<ul>
 					<li><a href="http://robblewis.me/just-delete-me?utm_source=JustDeleteMe&amp;utm_medium=link&amp;utm_campaign=Just+Delete+Me" target="_blank">Read the announcement blog post &raquo;</a></li>
 					<li><a href="http://robblewis.me/24-hours-of-just-delete-me/" target="_blank">See the first-day stats &raquo;</a></li>
 				</ul>
+				<p><a href="https://twitter.com/justdeletedotme" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @justdeletedotme</a></p>
 			</div><div class="info-block-half">
 				<h2>Guide</h2>
 				<p>The links above are colour-coded to indicate the difficulty level of account deletion:</p>
@@ -141,7 +143,7 @@ usort($sites, function($a, $b) {
 	<section class="info-block">
 		<div class="info-container">
 			<footer>
-				<span>Made by <a href="http://robblewis.me">Robb Lewis</a> | Designed by <a href="http://edpoole.me">Ed Poole</a> | Fork on <a href="http://github.com/rmlewisuk/justdelete.me">GitHub</a></span>
+				<span>Made by <a href="http://robblewis.me">Robb Lewis</a> and <a href="http://edpoole.me">Ed Poole</a> | Fork on <a href="http://github.com/rmlewisuk/justdelete.me">GitHub</a> | Hosted by <a href="http://www.mediatemple.net/#a_aid=521a8aefe4c3b">Media Temple</a> | Analytics by <a href="https://t.co/fvPnva7p4Y">GoSquared</a></span>
 				<div class="share-buttons" id="share buttons">
 				<!-- Twitter -->
 					<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://justdelete.me">Tweet</a>
