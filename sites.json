@@ -361,9 +361,9 @@
 
  	{
  		"name" : "Path",
- 		"url" : "https://path.com",
- 		"difficulty" : "medium",
- 		"notes" : "You cannot delete your account from the website. Open the iOS/Android app, go to settings &rarr; about &rarr; disable account &rarr; delete account."
+ 		"url" : "http://service.path.com/customer/portal/emails/new",
+ 		"difficulty" : "hard",
+ 		"notes" : "Full account deletion requires you to email them asking them to delete your account manually."
  	},
 
  	{
@@ -812,5 +812,11 @@
 		"url" : "http://vk.com/settings?act=deactivate",
 		"difficulty" : "easy",
 		"notes" : ""
+	},
+			{
+		"name" : "Ashley Madison",
+		"url" : "http://www.ashleymadison.com.com/delete",
+		"difficulty" : "medium",
+		"notes" : "Delete the Ashley Madison Account"
 	}
 ]
