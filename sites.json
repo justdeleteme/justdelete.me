@@ -1,5 +1,11 @@
 [
 	{
+		"name" : "Raptr",
+		"url" : "http://raptr.com/account/deactivation",
+		"difficulty" : "easy"
+	},
+
+	{
 		"name" : "Wunderlist",
 		"url" : "https://www.wunderlist.com/#/preferences/account",
 		"difficulty" : "easy",
