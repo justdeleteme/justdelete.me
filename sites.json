@@ -1,11 +1,24 @@
 [
 
 	{
+		"name" : "Soundcloud",
+		"url" : "http://soundcloud.com/settings/account#delete-user",
+		"difficulty" : "easy"
+	},
+	
+	{
 		"name" : "Twitter",
 		"url" : "https://twitter.com/settings/accounts/confirm_deactivation",
 		"difficulty" : "easy"
 	},
 
+	{
+		"name" : "Wikipedia",
+		"url" : "https://en.wikipedia.org/wiki/Wikipedia:FAQ#How_do_I_change_my_username.2Fdelete_my_account.3F",
+		"difficulty" : "impossible",
+		"notes": "'A username cannot be deleted.' However, they do have some suggestions."
+	},
+	
 	{
 		"name" : "App.net",
 		"url" : "https://account.app.net/settings/delete/",
@@ -32,7 +45,7 @@
 	},
 
 	{
-		"name" : "iTunes",
+		"name" : "iTunes / Apple ID",
 		"url" : "http://www.apple.com/support/itunes/contact/",
 		"difficulty" : "hard",
 		"notes" : "Contact customer services. You will lose access to any media you haven’t downloaded to your computer."
@@ -161,7 +174,7 @@
  	},
 
  	{
- 		"name" : "WordPress",
+ 		"name" : "WordPress.com",
  		"url" : "http://en.support.wordpress.com/deleting-accounts/",
  		"difficulty" : "impossible",
  		"notes" : "“WordPress.com accounts cannot be deleted.” The best you can do is remove any identifying data from your account."
@@ -258,19 +271,546 @@
  		"name" : "Gumroad",
  		"url" : "https://gumroad.com/",
  		"difficulty" : "hard",
- 		"notes" : "No page explaining how to delete youraccount. You have to contact support directly (link at the bottom of the page) and they'll do it for you."
+ 		"notes" : "No page explaining how to delete your account. You have to contact support directly (link at the bottom of the page) and they'll do it for you."
  	},
-	
-	{
-		"name" : "Khan Academy",
-		"url" : "https://www.khanacademy.org/settings",
-		"difficulty" : "easy",
-		"notes" : "“Delete your account” link at the bottom of the page."
+ 	
+ 	{
+ 		"name" : "IFTTT",
+ 		"url" : "https://ifttt.com/settings/deactivate",
+ 		"difficulty" : "easy"
+ 	},
+
+ 	{
+ 		"name" : "Pinterest",
+ 		"url" : "https://pinterest.com/settings/",
+ 		"difficulty" : "impossible",
+ 		"notes" : "Accounts can be deactivated, which means that your pins and profile are hidden but not deleted."
+ 	},
+
+ 	{
+ 		"name" : "Disqus",
+ 		"url" : "http://disqus.com/pages/dashboard/#account",
+ 		"difficulty" : "easy"
+ 	},
+
+ 	{
+ 		"name" : "Pandora",
+ 		"url" : "http://help.pandora.com/customer/portal/articles/24624-cancel-account",
+ 		"difficulty" : "hard",
+ 		"notes" : "You have to email support from the email associated with your account.  If you do not have access to that, you need to provide the email address, birth year, and zip code on the account."
+ 	},
+
+ 	{
+ 		"name" : "Meetup",
+ 		"url" : "http://www.meetup.com/account/remove/",
+ 		"difficulty" : "easy"
+ 	},
+
+ 	{
+ 		"name" : "Craigslist",
+ 		"url" : "http://www.craigslist.org/about/help/user_accounts",
+ 		"difficulty" : "impossible",
+ 		"notes" : "There is no way to delete your account, not even by contacting support."
+ 	},
+
+ 	{
+		"name" : "GoDaddy",
+		"url" : "http://support.godaddy.com/groups/go-daddy-customers/forum/topic/how-do-i-delete-my-account-with-godaddy/",
+		"difficulty" : "impossible",
+		"notes" : "GoDaddy Accounts are apparently retained “to comply with [their] legal obligations” though you are able to clear out most of your information by editing your profile."
 	},
 	
 	{
-		"name" : "Duolingo",
-		"url" : "http://www.duolingo.com/settings/deactivate",
+		"name" : "SourceForge",
+		"url" : "https://sourceforge.net/account/remove",
+		"difficulty" : "medium",
+		"notes" : "Data created by the user such as posts and tickets will remain and be attributed to the account, even if deleted. The username will not become available."
+	},
+	
+	{
+		"name" : "Scribd",
+		"url" : "http://www.scribd.com/account_settings/preferences",
 		"difficulty" : "easy"
+	},
+	
+	{
+ 		"name" : "Evernote",
+ 		"url" : "https://www.evernote.com/Deactivate.action",
+ 		"difficulty" : "impossible",
+ 		"notes" : "You cannot delete your Evernote account, just deactivate it temporarily. Deactivation does not remove your data so you will have to manually delete all notes and personal info, perform a sync and then deactivate the account." 
+ 	},
+	
+	{
+		"name" : "Hacker News",
+		"url" : "http://jacquesmattheij.com/The+Unofficial+HN+FAQ#deleteaccount",
+		"difficulty" : "impossible",
+		"notes": "Your contributions are there to stay, but you can at least clear out your profile -- even your email address."
+	},
+
+	{
+ 		"name" : "Instagram",
+ 		"url" : "https://instagram.com/accounts/remove/request",
+ 		"difficulty" : "easy"
+ 	},
+
+ 	{
+ 		"name" : "IMDb",
+ 		"url" : "https://secure.imdb.com/register-imdb/delete",
+ 		"difficulty" : "easy"
+ 	},
+
+ 	{
+ 		"name" : "Path",
+ 		"url" : "http://service.path.com/customer/portal/emails/new",
+ 		"difficulty" : "hard",
+ 		"notes" : "Full account deletion requires you to email them asking them to delete your account manually."
+ 	},
+
+ 	{
+ 		"name" : "Rdio",
+ 		"url" : "http://www.rdio.com/settings/advanced/",
+ 		"difficulty" : "easy"
+ 	},
+
+ 	{
+ 		"name" : "Battle.net",
+ 		"url" : "https://eu.battle.net/support/en/ticket/submit",
+ 		"difficulty" : "hard",
+ 		"notes" : "You need to submit a support ticket to have your account deleted. Select 'Battle.net', 'Use a few words to summarize your issue' and say you want it deleted. You may need to follow additional instructions from the Blizzard support team."
+ 	},
+
+ 	{
+ 		"name" : "About.me",
+ 		"url" : "https://about.me/account",
+ 		"difficulty" : "easy"
+ 	},
+
+ 	{
+ 		"name" : "Airbnb",
+ 		"url" : "https://www.airbnb.com/users/settings",
+ 		"difficulty" : "easy"
+ 	},
+
+ 	{
+ 		"name" : "Box",
+ 		"url" : "https://app.box.com/settings",
+ 		"difficulty" : "easy"
+ 	},
+
+ 	{
+ 		"name" : "Forrst",
+ 		"url" : "http://forrst.com/settings",
+ 		"difficulty" : "easy"
+ 	},
+
+ 	{
+ 		"name" : "Instapaper",
+ 		"url" : "https://www.instapaper.com/user/delete",
+ 		"difficulty" : "easy"
+ 	},
+
+ 	{
+ 		"name" : "LiveJournal",
+ 		"url" : "http://www.livejournal.com/accountstatus.bml",
+ 		"difficulty" : "medium",
+ 		"notes" : "Once you delete your journal you have 30 days to undelete it, in case you change your mind. After 30 days, the journal will be permanently deleted and there will be no way to recover it."
+ 	},
+
+ 	{
+ 		"name" : "Mint",
+ 		"url" : "https://mint.com",
+ 		"difficulty" : "easy"
+ 	},
+
+ 	{
+ 		"name" : "Pocket",
+ 		"url" : "http://getpocket.com/account_deletion/",
+ 		"difficulty" : "easy"
+ 	},
+
+ 	{
+ 		"name" : "Vimeo",
+ 		"url" : "https://vimeo.com/settings/goodbye/forever",
+ 		"difficulty" : "easy"
+ 	},
+
+ 	{
+ 		"name" : "Artsy",
+ 		"url" : "http://artsy.net/user/delete",
+ 		"difficulty" : "easy"
+ 	},
+
+ 	{
+        "name" : "Grooveshark",
+        "url" : "http://grooveshark.com/#!/settings/account",
+        "difficulty" : "easy"
+	},
+
+	{
+    	"name" : "Pushover",
+    	"url" : "https://pushover.net/settings/delete_account",
+    	"difficulty" : "easy"
+    },
+
+    {
+    	"name" : "NewsBlur",
+    	"url" : "https://www.newsblur.com/profile/delete_account",
+    	"difficulty" : "easy"
+    },
+
+    {
+    	"name" : "Vine",
+    	"url" : "https://support.twitter.com/forms/vine",
+    	"difficulty" : "hard",
+    	"notes" : "The only way to delete your Vine account without deleting your Twitter account is to contact Twitter through their contact form."
+    },
+
+    {
+    	"name" : "Strava",
+    	"url" : "https://www.strava.com/settings/privacy",
+    	"difficulty" : "medium",
+    	"notes" : "Upon deactivation, all of your activities will be deleted and you will be removed from all leaderboards. Strava will keep an archive of your raw GPS data as uploaded to Strava, but the archive cannot be used to restore your account."
+    },
+
+    {
+    	"name" : "Rainforest QA",
+    	"url" : "https://app.rainforestqa.com/settings",
+    	"difficulty" : "easy",
+    	"notes" : "Login, go to the settings page and click 'I want to delete my account'."
+    },
+
+    {
+		"name" : "Twitch",
+		"url" : "http://www.twitch.tv/user/close_account",
+		"difficulty" : "easy"
+    },
+
+    {
+		"name" : "Gumtree",
+		"url" : "https://my.gumtree.com/manage/details/deactivate",
+		"difficulty" : "easy"
+	},
+	
+	{
+		"name" : "500px",
+		"url" : "https://500px.com/settings",
+		"difficulty" : "easy"
+	},
+
+	{
+	  	"name" : "Khan Academy",
+	  	"url" : "https://www.khanacademy.org/settings",
+	  	"difficulty" : "easy"
+	},
+
+	{
+	  	"name" : "Duolingo",
+	  	"url" : "http://www.duolingo.com/settings/deactivate",
+	  	"difficulty" : "easy"
+	},
+
+	{
+		"name": "Fitocracy",
+		"url": "https://www.fitocracy.com/home/",
+		"difficulty":"hard",
+		"notes":"Send support a request to requests@fitocracy.com and they'll mark your account for deletion"
+	},
+
+	{
+		"name": "Daily Mile",
+		"url": "http://www.dailymile.com/account/settings/edit",
+		"difficulty":"easy",
+		"notes":"Edit your account and select \"remove my account\"."
+	},
+
+	{
+		"name" : "Coursera",
+		"url" : "https://www.coursera.org/about/contact",
+		"difficulty" : "hard",
+		"notes" : "Contact support and request they delete your account."
+	},
+
+	{
+		"name" : "Delicious",
+		"url" : "https://delicious.com/settings/deactivate",
+		"difficulty" : "easy"
+	},
+	
+	{
+		"name" : "Xing",
+		"url" : "https://www.xing.com/app/user?op=cancel;sid=0.bc7191",
+		"difficulty" : "easy"
+	},
+	
+	{
+		"name" : "MyOpenID",
+		"url" : "https://www.myopenid.com/delete",
+		"difficulty" : "impossible",
+		"notes" : "Although it seems the account is deleted, you can reactivate so likely the data has not been deleted at all."
+	},
+	
+	{
+		"name" : "Zoho",
+		"url" : "https://accounts.zoho.com/u/h#setting/closeaccount",
+		"difficulty" : "easy"
+	},
+	
+	{
+		"name" : "Geni",
+		"url" : "http://www.geni.com/account_settings",
+		"difficulty" : "medium",
+		"notes" : "Delete any of the information you would like removed from the site. Then select 'Account Settings' and 'Close Account'"
+	},
+	
+	{
+		"name" : "Netlog",
+		"url" : "http://en.netlog.com/go/login",
+		"difficulty" : "easy",
+		"notes" : "Select 'settings', then 'account', then 'delete'."
+	},
+	
+	{
+		"name" : "Hi5",
+		"url" : "http://www.hi5.com/account_cancel.html",
+		"difficulty" : "easy"
+	},
+	
+	{
+		"name" : "Last.fm",
+		"url" : "http://www.lastfm.de/settings/account",
+		"difficulty" : "easy",
+		"notes" : "May take up to 7 days to delete your data."
+	},
+	
+	{
+		"name" : "Feedly",
+		"url" : "https://getsatisfaction.com/feedly/topics/how_do_i_delete_my_feedly_account",
+		"difficulty" : "hard",
+		"notes" : "Email customer support to request deletion."
+	},
+	
+	{
+		"name" : "Shutterfly",
+		"url" : "http://www.shutterfly.com/about/contact_details.jsp",
+		"difficulty" : "hard",
+		"notes" : "Contact customers services by email or live chat and request deletion."
+	},
+	
+	{
+		"name" : "EA Origin",
+		"url" : "https://help.ea.com/en/contact-us/ask",
+		"difficulty" : "hard",
+		"notes" : "Contact customer services to request deletion. If you're outside the US this must be by phone."
+	},
+	
+	{
+		"name" : "Yelp",
+		"url" : "http://www.yelp.co.uk/contact?topic=support&subtopic=close",
+		"difficulty" : "easy"
+	},
+	
+	{
+		"name" : "Plenty of Fish",
+		"url" : "http://www.pof.com/deleteaccount.aspx",
+		"difficulty" : "easy",
+		"notes" : "Fill out the deletion form"
+	},
+	
+	{
+		"name" : "Code School",
+		"url" : "http://help.codeschool.com/kb/codeschool-faqs/account-questions",
+		"difficulty" : "medium",
+		"notes" : "Start a private discussion with them and they will 'take care of it'."
+	},
+	
+	{
+		"name" : "Yatado",
+		"url" : "http://about.yatedo.com/manage-your-digital-id/",
+		"difficulty" : "medium",
+		"notes" : "You must request deletion of your Yatado data <em>before</em> deleting the related social account."
+	},
+	
+	{
+		"name" : "Pixoona",
+		"url" : "http://www.pixoona.com/dashboard#user/delete",
+		"difficulty" : "easy"
+	},
+	
+	{
+		"name" : "Freenode",
+		"url" : "https://ezcrypt.it/ML4n#ej6rorotmsxq7jF8ViyGjTVh",
+		"difficulty" : "easy",
+		"notes" : "/msg NickServ DROP nick password"
+	},
+
+	{
+		"name" : "Codecademy",
+		"url" : "http://help.codecademy.com/customer/portal/articles/416872",
+		"difficulty" : "hard",
+		"notes": "For security reasons, we will need to verify that these requests have come from the email address that's on your Codecademy account."
+	},
+
+	{
+		"name" : "Grindr",
+		"url" : "http://help.grindr.com/entries/21377499-All-Devices-Clear-Your-Grindr-Profile",
+		"difficulty" : "medium",
+		"notes" : "You can remove your profile and chat history from within the app or you can email support with your UDID."
+	},
+	
+	{
+    	"name" : "LibraryThing",
+    	"url" : "http://www.librarything.de/editprofile/change",
+		"difficulty" : "easy"
+	},
+
+	{
+		"name" : "ImageShack",
+		"url" : "http://imageshack.us/prefs/",
+		"difficulty" : "easy"
+	},
+	
+	{
+		"name" : "Dribbble",
+		"url" : "http://dribbble.com/account",
+		"difficulty" : "easy"
+	},
+
+	{
+		"name" : "Rotten Tomatoes",
+		"url" : "http://flixster.desk.com/customer/portal/articles/169347-how-do-i-cancel-my-account-",
+		"difficulty" : "hard",
+		"notes" : "You need to contact flixster to cancel a native RT profile, while Facebook linked or Flixster.com accounts are easier to cancel."
+	},
+
+	{
+		"name" : "EdX",
+		"url" : "https://www.edx.org/student-faq",
+		"difficulty" : "impossible",
+		"notes" : "There's no need to delete your account. An old, unused edX account with no course completions associated with it will disappear."
+	},
+
+	{
+		"name" : "Udacity",
+		"url" : "http://forums.udacity.com/answer_link/100044663/",
+		"difficulty" : "impossible",
+		"notes" : "A Udacity employee recommends that you stop using the account, which means there's currently no way of deleting the account."
+	},
+
+	{
+		"name" : "Geocaching",
+		"url" : "http://support.groundspeak.com/index.php?pg=kb.page&id=102",
+		"difficulty" : "medium",
+		"notes" : "You must email support from the registered email to remove this account. Any outstanding Premium Memberships will not be refunded"
+	},
+
+	{
+		"name" : "Orkut",
+		"url" : "https://accounts.google.com/DeleteService?service=orkut",
+		"difficulty" : "easy"
+	},
+
+	{
+		"name" : "Hulu",
+		"url" : "https://secure.hulu.com/users/delete",
+		"difficulty" : "easy"
+	},
+
+	{
+		"name" : "CloudApp",
+		"url" : "http://my.cl.ly/account/delete",
+		"difficulty" : "easy"
+	},
+
+	{
+		"name" : "Hypejar",
+		"url" : "http://www.hypejar.com/settings/account",
+		"difficulty" : "easy"
+	},
+
+	{
+		"name" : "MediaFire",
+		"url" : "https://www.mediafire.com/myaccount/accountbilling.php",
+		"difficulty" : "easy"
+	},
+
+	{
+		"name" : "Flipboard",
+		"url" : "https://flipboard.com/support/",
+		"difficulty" : "easy",
+		"notes" : "Go to account management within the app"
+	},
+
+	{
+		"name" : "Instacanvas",
+		"url" : "http://feedback.instacanv.as/knowledgebase/articles/117760-how-do-i-cancel-my-gallery-",
+		"difficulty" : "hard",
+		"notes" : "Email your username and email to customer services and they will delete your account."
+	},
+
+	{
+		"name" : "MyLife.com",
+		"url" : "http://www.mylife.com/showDeleteAccount.do",
+		"difficulty" : "easy"
+	},
+
+	{
+		"name" : "Sonico",
+		"url" : "http://www.sonico.com/tyc.php",
+		"difficulty" : "hard",
+		"notes" : "Send a request to legal@sonico.com and request deletion."
+	},
+
+	{
+		"name" : "Kik",
+		"url" : "https://kikinteractive.zendesk.com/entries/23593116-How-do-I-deactivate-my-account-",
+		"difficulty" : "impossible",
+		"notes" : "You can only deactivate your account. There appears to be no way to permanently delete your account or data."
+	},
+
+	{
+		"name" : "Couchsurfing",
+		"url" : "https://www.couchsurfing.org/delete_profile.html?delete=1",
+		"difficulty" : "easy",
+		"notes" : "Fill out the form and select 'I understand. Please delete my profile.'"
+	},
+
+	{
+		"name" : "DeviantArt",
+		"url" : "https://www.deviantart.com/settings/deactivation",
+		"difficulty" : "easy",
+		"notes" : "All data is wiped immediately. Accounts can be reactivated within 30 days, after that they can no longer be recovered."
+	},
+
+	{
+		"name": "Desktoppr",
+		"url": "https://www.desktoppr.co/settings",
+		"difficulty": "easy"
+	},
+
+	{
+		"name" : "Trello",
+		"url" : "https://trello.com/your/account",
+		"difficulty" : "easy",
+		"notes" : "Select 'Delete your account?' option to delete your account"
+	},
+	
+ 	{
+ 		"name" : "Xobni",
+ 		"url" : "https://www.xobni.com/account/settings",
+ 		"difficulty" : "easy",
+ 		"notes": "“Delete account” link at the bottom of the page."
+ 	},
+	
+	{
+		"name" : "Bitbucket",
+		"url" : "https://bitbucket.org/account/",
+		"difficulty" : "easy",
+		"notes" : "On the side menu, click on 'Delete Account' and on the confirmation page click 'Delete Account', all repositories and the account is immediately wiped."
+	},
+		{
+		"name" : "VK/ВКонтакте",
+		"url" : "http://vk.com/settings?act=deactivate",
+		"difficulty" : "easy",
+		"notes" : ""
 	}
 ]
