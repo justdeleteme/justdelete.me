@@ -833,11 +833,12 @@
 		"difficulty" : "easy",
 		"notes" : "Just click 'Abschicken'"
 	},
-	
+
 	{
-		"name" : "HOL Virtual Hogwarts",
-		"url" : "http://hol.org.uk/profile.php?view=quithol",
-		"difficulty" : "impossible",
-		"notes" : "You can remove information and manually quit HOL, but you account stays forever."
+		"name" : "Iceber.gs",
+		"url" : "http://iceber.gs/home",
+		"difficulty" : "easy",
+		"notes" : "On top bar: 'Your name', 'My Account' and just click on 'Delete Account' link at bottom."
 	}
+		
 ]
