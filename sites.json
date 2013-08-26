@@ -812,5 +812,11 @@
 		"url" : "http://vk.com/settings?act=deactivate",
 		"difficulty" : "easy",
 		"notes" : ""
+	},
+	{
+		"name" : "Udemy",
+		"url" : "https://www.udemy.com/user/edit-danger-zone/",
+		"difficulty" : "medium",
+		"notes" : "In order to delete your account, you need to first unsubscribe from all of your courses."
 	}
 ]
