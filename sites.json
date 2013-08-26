@@ -670,12 +670,6 @@
 	},
 	
 	{
-		"name" : "Deezer",
-		"url" : "http://www.deezer.com/account",
-		"difficulty" : "easy"
-	},
-
-	{
 		"name" : "4shared",
 		"url" : "http://www.4shared.com/web/account/settings#overview",
 		"difficulty" : "easy"
