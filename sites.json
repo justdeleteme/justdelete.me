@@ -4,6 +4,14 @@
 		"url" : "www.blueapron.com/cancel_subscription",
 		"difficulty" : "easy"
 	},
+
+	{
+		"name" : "Jottacloud",
+		"url" : "https://www.jottacloud.com/account/delete",
+		"difficulty" : "easy",
+		"notes" : "Log in. Type in password. Press 'delete'."
+	},
+
 	{
 		"name" : "Raptr",
 		"url" : "http://raptr.com/account/deactivation",
