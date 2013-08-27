@@ -985,5 +985,13 @@
         "name" : "MixCloud",
         "url" : "http://www.mixcloud.com/myaccount/account/",
         "difficulty" : "easy"
-    }
+    },
+
+    {
+
+		"name" : "Scriptogr.am",
+		"url" : "http://scriptogr.am/dashboard/#settings",
+		"difficulty" : "easy",
+		"notes" : "Click the link 'Delete your account' at the bottom. Note: On your dropbox, the content of this site will not be removed. If needed, you can delete the folder 'Apps/scriptogram' manually."
+	}
 ]
