@@ -1,5 +1,12 @@
 [
 	{
+		"name" : "Jottacloud",
+		"url" : "hhttps://www.jottacloud.com/account/delete",
+		"difficulty" : "easy",
+		"notes" : "Log in. Fill in password. Press the delete button."
+	},
+	
+	{
 		"name" : "Wunderlist",
 		"url" : "https://www.wunderlist.com/#/preferences/account",
 		"difficulty" : "easy",
