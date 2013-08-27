@@ -1060,5 +1060,19 @@
 		"url" : "https://iceber.gs/home",
 		"difficulty" : "easy",
 		"notes" : "On top bar: 'Your name', 'My Account' and just click on 'Delete Account' link at bottom."
+	},
+
+	{
+		"name" : "Bambuser",
+		"url" : "https://bambuser.com/settings",
+		"difficulty" : "easy",
+		"notes" : "Go to your Settings page and scroll down to find 'Deactivate' account. Click on 'Close Account' button, and confirm the account deletion."
+	},
+
+	{
+		"name" : "Ustream",
+		"url" : "http://www.ustream.tv/account/preferences",
+		"difficulty" : "easy",
+		"notes" : "Scroll down to the bottom of the 'Account Settings' page and click 'Delete Account'"
 	}
 ]
