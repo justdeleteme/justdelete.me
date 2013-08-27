@@ -935,5 +935,11 @@
 		"name" : "Microsoft Office 365",
 		"url" : "http://office.com/myaccount",
 		"difficulty" : "easy"
+	},
+
+	{
+		"name"	: "Remember The Milk",
+		"url" : "https://www.rememberthemilk.com/login/delete.rtm",
+		"difficulty" : "easy"
 	}
 ]
