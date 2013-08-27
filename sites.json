@@ -967,5 +967,23 @@
 		"name" : "4shared",
 		"url" : "http://www.4shared.com/web/account/settings#overview",
 		"difficulty" : "easy"
-	}
+	},
+    
+    {
+        "name" : "CloudMagic",
+        "url" : "https://cloudmagic.com/a/v2/preferences",
+        "difficulty" : "easy"
+    },
+
+    {
+        "name" : "Splitwise",
+        "url" : "https://secure.splitwise.com/account/settings",
+        "difficulty" : "easy"
+    },
+
+    {
+        "name" : "MixCloud",
+        "url" : "http://www.mixcloud.com/myaccount/account/",
+        "difficulty" : "easy"
+    }
 ]
