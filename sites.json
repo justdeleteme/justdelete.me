@@ -36,6 +36,7 @@
 		"difficulty" : "hard",
 		"notes" : "To close your account, contact Amazon by email (via this contact form) and request that your account be closed."
 	},
+	
 	{
 		"name" : "App.net",
 		"url" : "https://account.app.net/settings/delete/",
