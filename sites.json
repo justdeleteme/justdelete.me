@@ -909,5 +909,11 @@
 		"url" : "https://learn.adobe.com/wiki/display/wel/Delete+your+account",
 		"difficulty" : "hard",
 		"notes" : "You have to call them in order to delete your account. Alternatively, you can send them an email."
+	},
+	{
+		"name" : "Odnoklassniki",
+		"url" : "http://www.odnoklassniki.ru/regulations",
+		"difficulty" : "easy",
+		"notes" : "Login to your account, scroll License Agreement down, click Delete profile, check any boxes you want, enter password and press Remove button."
 	}
 ]
