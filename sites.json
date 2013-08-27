@@ -914,6 +914,6 @@
 		"name" : "Odnoklassniki",
 		"url" : "http://www.odnoklassniki.ru/regulations",
 		"difficulty" : "easy",
-		"notes" : "Login to your account, scroll License Agreement down, select Delete profile, check any boxes you want, enter password and press Remove button."
+		"notes" : "Login to your account, scroll License Agreement down, click Delete profile, check any boxes you want, enter password and press Remove button."
 	}
 ]
