@@ -1,6 +1,4 @@
 $(function(){
-	
-	$('#search').focus();
 
 	$('body').addClass('js-on');
 
@@ -96,6 +94,9 @@ $(function(){
 
 // Load Facebook after page load
 window.onload = function() {
+
+	$('#search').focus();
+
 	(function(d, s, id) {
 	  var js, fjs = d.getElementsByTagName(s)[0];
 	  if (d.getElementById(id)) return;
