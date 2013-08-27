@@ -922,4 +922,29 @@
 		"difficulty" : "easy",
 		"notes" : "Login to your account, scroll License Agreement down, click Delete profile, check any boxes you want, enter password and press Remove button."
 	}
+    {
+        "name" : "CloudMagic",
+        "url" : "https://cloudmagic.com/a/v2/preferences",
+        "difficulty" : "easy"
+    }
+    {
+        "name" : "Splitwise",
+        "url" : "https://secure.splitwise.com/account/settings",
+        "difficulty" : "easy"
+    }
+    {
+        "name" : "JoliCloud",
+        "url" : "https://drive.jolicloud.com/#/settings/account",
+        "difficulty" : "easy"
+    }
+    {
+        "name" : "MixCloud",
+        "url" : "http://www.mixcloud.com/myaccount/account/",
+        "difficulty" : "easy"
+    }
+    {
+        "name" : "SpringPad",
+        "url" : "https://springpad.com/#!/r.rajath/settings",
+        "difficulty" : "easy"
+    }
 ]
