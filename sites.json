@@ -19,6 +19,12 @@
 	},
 	
 	{
+		"name" : "Anime-Greek",
+		"url" : "http://www.anime-greek.com/",
+		"difficulty" : "easy"
+	},
+	
+	{
 		"name" : "Boxee",
 		"url" : "http://bbx.boxee.tv/user/delete",
 		"difficulty" : "easy"
