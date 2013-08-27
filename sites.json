@@ -941,5 +941,11 @@
 		"name"	: "Remember The Milk",
 		"url" : "https://www.rememberthemilk.com/login/delete.rtm",
 		"difficulty" : "easy"
+	},
+
+	{
+		"name" : "BBC iD",
+		"url" : "https://ssl.bbc.co.uk/id/settings/delete",
+		"difficulty" : "easy"
 	}
 ]
