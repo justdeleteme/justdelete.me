@@ -1,11 +1,14 @@
 <?php
 $sites = json_decode(file_get_contents('sites.json'));
 usort($sites, function($a, $b) {
-	list($a, $b) = array(strtolower($a->name), strtolower($b->name));
+          $a = strtolower($a->name);
+          $b = strtolower($b->name);
+          
 	if ($a < $b) return -1;
 	if ($a > $b) return 1;
 	return 0;
-}); ?>
+}); 
+?>
 <!DOCTYPE HTML>
 <html>
 <head>
