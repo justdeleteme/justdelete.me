@@ -28,7 +28,8 @@ usort($sites, function($a, $b) {
 	<link rel="apple-touch-icon-precomposed" href="inc/icons/apple-touch-icon-144x144-precomposed.png">
 
 	<link rel="stylesheet" type="text/css" href="style.css" />
-	<script src="inc/jquery.js"></script>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<script>window.jQuery || document.write('<script src="inc/jquery.js"><\/script>')</script>
 	<script src="inc/scripts.js"></script>
 
 	<script type="text/javascript">
