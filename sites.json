@@ -197,9 +197,9 @@
     
         {
 	        "name" : "Shopify",
-	        "url" : "http://docs.shopify.com/support/settings/8-account/how-do-i-cancel-my-shopify-store#close-my-account",
-	        "difficulty" : "medium",
-	        "notes" : "This is a link to How to delete my Store Documentation. To cancel, you need to login into your store and follow few steps"
+	        "url" : "http://shopify.com/admin/settings/account",
+	        "difficulty" : "easy",
+	        "notes" : "Select 'Please cancel my account'. Choose a reason then select 'close my shopify store'."
         }, 
 	{
 		"name" : "Reddit",
