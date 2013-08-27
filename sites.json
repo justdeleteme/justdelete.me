@@ -6,6 +6,13 @@
 	},
 
 	{
+		"name" : "JoliCloud / JoliDrive",
+		"url" : "https://drive.jolicloud.com/#/settings/account",
+		"difficulty" : "easy",
+		"notes" : "Click 'Delete Account' at the botom of the account preference page"
+	},
+	
+	{
 		"name" : "Wunderlist",
 		"url" : "https://www.wunderlist.com/#/preferences/account",
 		"difficulty" : "easy",
