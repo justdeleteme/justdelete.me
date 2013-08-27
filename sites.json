@@ -148,7 +148,13 @@
 		"url" : "http://www.tumblr.com/account/delete",
 		"difficulty" : "easy"
 	},
-
+    
+        {
+	        "name" : "Shopify",
+	        "url" : "http://docs.shopify.com/support/settings/8-account/how-do-i-cancel-my-shopify-store#close-my-account",
+	        "difficulty" : "medium",
+	        "notes" : "This is a link to How to delete my Store Documentation. To cancel, you need to login into your store and follow few steps"
+        }, 
 	{
 		"name" : "Reddit",
 		"url" : "https://ssl.reddit.com/prefs/delete/",
