@@ -69,6 +69,12 @@
 		"difficulty" : "hard"
 	},
 
+	{
+		"name" : "Dwolla",
+		"url" : "http://help.dwolla.com/customer/portal/articles/269223-how-can-i-delete-my-dwolla-account-",
+		"difficulty" : "hard"
+	},
+
     {
 		"name" : "ScanMyServer",
 		"url" : "https://scanmyserver.com/?suspend=1",
