@@ -151,7 +151,8 @@
 	{
 		"name" : "LinkedIn",
 		"url" : "http://help.linkedin.com/app/answers/detail/a_id/63/kw/delete%20account",
-		"difficulty" : "easy"
+		"difficulty" : "hard",
+		"notes" : "Contact customer services to delete account instead of just closing it. Even then, they will maintain a record of your email address."
 	},
 
 	{
