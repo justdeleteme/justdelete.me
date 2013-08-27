@@ -11,6 +11,13 @@
 		"difficulty" : "easy",
 		"notes" : "Click 'Delete Account' at the botom of the account preference page"
 	},
+
+	{
+		"name" : "Libre.fm",
+		"url" : "http://libre.fm/user-edit.php#",
+		"difficulty" : "easy",
+		"notes" : "Click 'Profile', then 'Edit', then 'Show advanced settings', and finally check the 'Delete my account' checkbox."
+	},
 	
 	{
 		"name" : "Wunderlist",
