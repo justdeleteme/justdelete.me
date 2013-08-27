@@ -1032,5 +1032,12 @@
 		"url" : "https://9gag.com/member/delete",
 		"difficulty" : "easy",
 		"notes" : "Login to your account, go to parameters, click Delete my account. Confirm by clicking I want to delete my account. And again by clicking Delete my 9GAG account."
+	},
+
+	{
+		"name" : "Iceber.gs",
+		"url" : "https://iceber.gs/home",
+		"difficulty" : "easy",
+		"notes" : "On top bar: 'Your name', 'My Account' and just click on 'Delete Account' link at bottom."
 	}
 ]
