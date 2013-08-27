@@ -1,5 +1,12 @@
 [
 	{
+		"name" : "Gamespot",
+		"url" : "https://gamespot.custhelp.com/app/ask",
+		"difficulty" : "hard",
+		"notes" : "Account deletion requires contacting Customer Support"
+	},
+	
+	{
 		"name" : "Raptr",
 		"url" : "http://raptr.com/account/deactivation",
 		"difficulty" : "easy"
