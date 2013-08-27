@@ -13,6 +13,11 @@
 	},
 
 	{
+		"name" : "LastPass",
+		"url" : "https://lastpass.com/delete_account.php",
+		"difficulty" : "easy"
+	},
+	{
 		"name" : "Raptr",
 		"url" : "http://raptr.com/account/deactivation",
 		"difficulty" : "easy"
