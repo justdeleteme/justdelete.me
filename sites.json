@@ -947,5 +947,11 @@
 		"name" : "BBC iD",
 		"url" : "https://ssl.bbc.co.uk/id/settings/delete",
 		"difficulty" : "easy"
+	},
+	
+	{
+		"name" : "4shared",
+		"url" : "http://www.4shared.com/web/account/settings#overview",
+		"difficulty" : "easy"
 	}
 ]
