@@ -1,8 +1,8 @@
 [
 	{
-		"name" : "Gamespot"
-		"url" : "https://gamespot.custhelp.com/app/ask"
-		"difficulty" : "hard"
+		"name" : "Gamespot",
+		"url" : "https://gamespot.custhelp.com/app/ask",
+		"difficulty" : "hard",
 		"notes" : "Account deletion requires contacting Customer Support"
 	},
 	
