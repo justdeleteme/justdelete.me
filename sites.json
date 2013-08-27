@@ -929,5 +929,11 @@
 		"url" : "https://www.udemy.com/user/edit-danger-zone/",
 		"difficulty" : "medium",
 		"notes" : "In order to delete your account, you need to first unsubscribe from all of your courses."
+	},
+	
+	{
+		"name" : "Microsoft Office 365",
+		"url" : "http://office.com/myaccount",
+		"difficulty" : "easy"
 	}
 ]
