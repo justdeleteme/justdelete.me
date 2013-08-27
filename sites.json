@@ -921,5 +921,11 @@
 		"url" : "http://www.odnoklassniki.ru/regulations",
 		"difficulty" : "easy",
 		"notes" : "Login to your account, scroll License Agreement down, click Delete profile, check any boxes you want, enter password and press Remove button."
+	},
+	{
+		"name" : "9GAG",
+		"url" : "https://9gag.com/member/delete",
+		"difficulty" : "easy",
+		"notes" : "Login to your account, go to parameters, click Delete my account. Confirm by clicking I want to delete my account. And again by clicking Delete my 9GAG account."
 	}
 ]
