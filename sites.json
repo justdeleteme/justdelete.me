@@ -340,8 +340,8 @@
  	{
  		"name" : "Craigslist",
  		"url" : "http://www.craigslist.org/about/help/user_accounts",
- 		"difficulty" : "impossible",
- 		"notes" : "There is no way to delete your account, not even by contacting support."
+ 		"difficulty" : "hard",
+ 		"notes" : "Send an email to abuse@craigslist.org and request deletion."
  	},
 
  	{
@@ -614,7 +614,7 @@
 	
 	{
 		"name" : "Last.fm",
-		"url" : "http://www.lastfm.de/settings/account",
+		"url" : "http://www.last.fm/settings/account",
 		"difficulty" : "easy",
 		"notes" : "May take up to 7 days to delete your data."
 	},
