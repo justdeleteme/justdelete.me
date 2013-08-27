@@ -1,4 +1,6 @@
-$(function(){     
+$(function(){
+	
+	$('#search').focus();
 
 	$('body').addClass('js-on');
 
