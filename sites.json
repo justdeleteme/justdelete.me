@@ -909,5 +909,12 @@
 		"url" : "https://learn.adobe.com/wiki/display/wel/Delete+your+account",
 		"difficulty" : "hard",
 		"notes" : "You have to call them in order to delete your account. Alternatively, you can send them an email."
+	},
+	
+	{
+		"name" : "Viadeo",
+		"url" : "http://www.viadeo.com/settings/account/?language=fr&ga_from=Fu:%2Fsettings%2Faccount%2F;Fb%3Amenu_box_right%3BFe%3AL1-account-settings%3B",
+		"difficulty" : "easy",
+		"notes" : "There's a button on the right, just under the menu."
 	}
 ]
