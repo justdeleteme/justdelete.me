@@ -910,24 +910,28 @@
 		"difficulty" : "hard",
 		"notes" : "You have to call them in order to delete your account. Alternatively, you can send them an email."
 	},
+    
     {
         "name" : "CloudMagic",
         "url" : "https://cloudmagic.com/a/v2/preferences",
         "difficulty" : "easy"
     },
+
     {
         "name" : "Splitwise",
         "url" : "https://secure.splitwise.com/account/settings",
         "difficulty" : "easy"
     },
+
     {
         "name" : "JoliCloud",
         "url" : "https://drive.jolicloud.com/#/settings/account",
         "difficulty" : "easy"
     },
+
     {
         "name" : "MixCloud",
         "url" : "http://www.mixcloud.com/myaccount/account/",
         "difficulty" : "easy"
-    },
+    }
 ]
