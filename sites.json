@@ -1074,5 +1074,76 @@
 		"url" : "http://www.ustream.tv/account/preferences",
 		"difficulty" : "easy",
 		"notes" : "Scroll down to the bottom of the 'Account Settings' page and click 'Delete Account'"
+	},
+
+	{
+		"name" : "Assembla",
+		"url" : "https://www.assembla.com/user/edit/edit_account_settings",
+		"difficulty" : "easy"
+	},
+
+	{
+		"name" : "InnoGames",
+		"url" : "http://goodbye.innogames.com/",
+		"difficulty" : "easy"
+	},
+
+	{
+		"name" : "Krrb",
+		"url" : "http://krrb.com/settings/disable-account",
+		"difficulty" : "easy"
+	},
+
+	{
+		"name" : "StumbleUpon",
+		"url" : "https://www.stumbleupon.com/settings/delete-account",
+		"difficulty" : "easy",
+		"notes" : "You can reactivate within 14 days. After that the account is deleted."
+	},
+
+	{
+		"name" : "Glassdoor",
+		"url" : "http://www.glassdoor.com/about/contact_input.htm?opt=cc",
+		"difficulty" : "hard",
+		"notes" : "Contact customer services and request deletion."
+	},
+
+	{
+		"name" : "Forka",
+		"url" : "http://www.fotka.pl/ustawienia/konto_usun",
+		"difficulty" : "medium",
+		"notes" : "To delete your account, you must not post anything for at least three days."
+	},
+
+	{
+		"name" : "Trakt",
+		"url" : "http://trakt.tv/settings/data",
+		"difficulty" : "easy"
+	},
+
+	{
+		"name" : "Letterboxed",
+		"url" : "http://letterboxd.com/user/disableaccount/",
+		"difficulty" : "easy"
+	},
+
+	{
+		"name" : "WhatsApp",
+		"url" : "https://whatsapp.zendesk.com/entries/21119703-How-do-I-delete-my-account-",
+		"difficulty" : "medium",
+		"notes" : "From the app: Settings &rarr; Account &rarr; Delete your account."
+	},
+
+	{
+		"name" : "Eventbrite",
+		"url" : "https://www.eventbrite.com/account-close",
+		"difficulty" : "easy"
+	},
+
+	{
+		"name" : "Ask.fm",
+		"url" : "http://ask.fm/feedbacks/new",
+		"difficulty" : "hard",
+		"notes" : "Request deletion from customer services."
 	}
 ]
