@@ -24,6 +24,13 @@
 		"difficulty" : "hard"
 	},
 
+    {
+		"name" : "ScanMyServer",
+		"url" : "https://scanmyserver.com/?suspend=1",
+		"difficulty" : "easy",
+		"notes" : "Login to your account and follow 'Account Suspension' instructions."
+    },
+
 	{
 		"name" : "Soundcloud",
 		"url" : "http://soundcloud.com/settings/account#delete-user",
@@ -40,7 +47,7 @@
 		"name" : "Wikipedia",
 		"url" : "https://en.wikipedia.org/wiki/Wikipedia:FAQ#How_do_I_change_my_username.2Fdelete_my_account.3F",
 		"difficulty" : "impossible",
-		"notes": "'A username cannot be deleted.' However, they do have some suggestions."
+		"notes" : "'A username cannot be deleted.' However, they do have some suggestions."
 	},
 	
 	{
@@ -220,7 +227,7 @@
  		"name" : "Heroku",
  		"url" : "https://dashboard.heroku.com/account",
  		"difficulty" : "easy",
- 		"notes": "“Close your account...” link at the bottom of the page."
+ 		"notes" : "“Close your account...” link at the bottom of the page."
  	},
 
  	{
@@ -345,6 +352,12 @@
 	},
 	
 	{
+		"name" : "Slashdot",
+		"url" : "http://slashdot.org/faq/accounts.shtml",
+		"difficulty" : "impossible"
+	},
+	
+	{
 		"name" : "SourceForge",
 		"url" : "https://sourceforge.net/account/remove",
 		"difficulty" : "medium",
@@ -368,7 +381,7 @@
 		"name" : "Hacker News",
 		"url" : "http://jacquesmattheij.com/The+Unofficial+HN+FAQ#deleteaccount",
 		"difficulty" : "impossible",
-		"notes": "Your contributions are there to stay, but you can at least clear out your profile -- even your email address."
+		"notes" : "Your contributions are there to stay, but you can at least clear out your profile -- even your email address."
 	},
 
 	{
@@ -385,9 +398,9 @@
 
  	{
  		"name" : "Path",
- 		"url" : "http://service.path.com/customer/portal/emails/new",
- 		"difficulty" : "hard",
- 		"notes" : "Full account deletion requires you to email them asking them to delete your account manually."
+ 		"url" : "https://path.com",
+ 		"difficulty" : "medium",
+ 		"notes" : "You cannot delete your account from the website. Open the iOS/Android app, go to settings &rarr; about &rarr; disable account &rarr; delete account."
  	},
 
  	{
@@ -400,7 +413,7 @@
  		"name" : "Battle.net",
  		"url" : "https://eu.battle.net/support/en/ticket/submit",
  		"difficulty" : "hard",
- 		"notes" : "You need to submit a support ticket to have your account deleted. Select 'Battle.net', 'Use a few words to summarize your issue' and say you want it deleted. You may need to follow additional instructions from the Blizzard support team."
+ 		"notes" : "Customer Support will require you to send a signed written letter confirming your wishes, your account details and a copy of legal identification (passport, drivers license) to your account region's office headquarters."
  	},
 
  	{
@@ -456,7 +469,7 @@
  		"name" : "Vimeo",
  		"url" : "https://vimeo.com/settings/goodbye/forever",
  		"difficulty" : "easy"
- 	},
+	},
 
  	{
  		"name" : "Artsy",
@@ -465,51 +478,51 @@
  	},
 
  	{
-        "name" : "Grooveshark",
-        "url" : "http://grooveshark.com/#!/settings/account",
-        "difficulty" : "easy"
+		"name" : "Grooveshark",
+		"url" : "http://grooveshark.com/#!/settings/account",
+		"difficulty" : "easy"
 	},
 
 	{
-    	"name" : "Pushover",
-    	"url" : "https://pushover.net/settings/delete_account",
-    	"difficulty" : "easy"
-    },
+		"name" : "Pushover",
+		"url" : "https://pushover.net/settings/delete_account",
+		"difficulty" : "easy"
+	},
 
-    {
-    	"name" : "NewsBlur",
-    	"url" : "https://www.newsblur.com/profile/delete_account",
-    	"difficulty" : "easy"
-    },
+	{
+		"name" : "NewsBlur",
+		"url" : "https://www.newsblur.com/profile/delete_account",
+		"difficulty" : "easy"
+	},
 
-    {
-    	"name" : "Vine",
-    	"url" : "https://support.twitter.com/forms/vine",
-    	"difficulty" : "hard",
-    	"notes" : "The only way to delete your Vine account without deleting your Twitter account is to contact Twitter through their contact form."
-    },
+	{
+		"name" : "Vine",
+		"url" : "https://support.twitter.com/forms/vine",
+		"difficulty" : "hard",
+		"notes" : "The only way to delete your Vine account without deleting your Twitter account is to contact Twitter through their contact form."
+	},
 
-    {
-    	"name" : "Strava",
-    	"url" : "https://www.strava.com/settings/privacy",
-    	"difficulty" : "medium",
-    	"notes" : "Upon deactivation, all of your activities will be deleted and you will be removed from all leaderboards. Strava will keep an archive of your raw GPS data as uploaded to Strava, but the archive cannot be used to restore your account."
-    },
+	{
+		"name" : "Strava",
+		"url" : "https://www.strava.com/settings/privacy",
+		"difficulty" : "medium",
+		"notes" : "Upon deactivation, all of your activities will be deleted and you will be removed from all leaderboards. Strava will keep an archive of your raw GPS data as uploaded to Strava, but the archive cannot be used to restore your account."
+	},
 
-    {
-    	"name" : "Rainforest QA",
-    	"url" : "https://app.rainforestqa.com/settings",
-    	"difficulty" : "easy",
-    	"notes" : "Login, go to the settings page and click 'I want to delete my account'."
-    },
+	{
+		"name" : "Rainforest QA",
+		"url" : "https://app.rainforestqa.com/settings",
+		"difficulty" : "easy",
+		"notes" : "Login, go to the settings page and click 'I want to delete my account'."
+	},
 
-    {
+	{
 		"name" : "Twitch",
 		"url" : "http://www.twitch.tv/user/close_account",
 		"difficulty" : "easy"
-    },
+	},
 
-    {
+	{
 		"name" : "Gumtree",
 		"url" : "https://my.gumtree.com/manage/details/deactivate",
 		"difficulty" : "easy"
@@ -534,17 +547,17 @@
 	},
 
 	{
-		"name": "Fitocracy",
-		"url": "https://www.fitocracy.com/home/",
-		"difficulty":"hard",
-		"notes":"Send support a request to requests@fitocracy.com and they'll mark your account for deletion"
+		"name" : "Fitocracy",
+		"url" : "https://www.fitocracy.com/home/",
+		"difficulty" : "hard",
+		"notes" : "Send support a request to requests@fitocracy.com and they'll mark your account for deletion"
 	},
 
 	{
-		"name": "Daily Mile",
-		"url": "http://www.dailymile.com/account/settings/edit",
-		"difficulty":"easy",
-		"notes":"Edit your account and select \"remove my account\"."
+		"name" : "Daily Mile",
+		"url" : "http://www.dailymile.com/account/settings/edit",
+		"difficulty" : "easy",
+		"notes" : "Edit your account and select \"remove my account\"."
 	},
 
 	{
@@ -671,7 +684,7 @@
 		"name" : "Codecademy",
 		"url" : "http://help.codecademy.com/customer/portal/articles/416872",
 		"difficulty" : "hard",
-		"notes": "For security reasons, we will need to verify that these requests have come from the email address that's on your Codecademy account."
+		"notes" : "For security reasons, we will need to verify that these requests have come from the email address that's on your Codecademy account."
 	},
 
 	{
@@ -682,8 +695,8 @@
 	},
 	
 	{
-    	"name" : "LibraryThing",
-    	"url" : "http://www.librarything.de/editprofile/change",
+		"name" : "LibraryThing",
+		"url" : "http://www.librarything.de/editprofile/change",
 		"difficulty" : "easy"
 	},
 
@@ -806,9 +819,9 @@
 	},
 
 	{
-		"name": "Desktoppr",
-		"url": "https://www.desktoppr.co/settings",
-		"difficulty": "easy"
+		"name" : "Desktoppr",
+		"url" : "https://www.desktoppr.co/settings",
+		"difficulty" : "easy"
 	},
 
 	{
@@ -822,8 +835,15 @@
  		"name" : "Xobni",
  		"url" : "https://www.xobni.com/account/settings",
  		"difficulty" : "easy",
- 		"notes": "“Delete account” link at the bottom of the page."
+ 		"notes" : "“Delete account” link at the bottom of the page."
  	},
+
+ 	{
+		"name" : "Code Red",
+		"url" : "https://cne.coderedweb.com",
+		"difficulty" : "impossible",
+		"notes" : "You can't delete yourself. You can only change your phone nr. to a bogus number."
+	},
 	
 	{
 		"name" : "Bitbucket",
@@ -831,10 +851,63 @@
 		"difficulty" : "easy",
 		"notes" : "On the side menu, click on 'Delete Account' and on the confirmation page click 'Delete Account', all repositories and the account is immediately wiped."
 	},
-		{
+
+	{
 		"name" : "VK/ВКонтакте",
 		"url" : "http://vk.com/settings?act=deactivate",
+		"difficulty" : "easy"
+	},
+
+	{
+		"name" : "Abload",
+		"url" : "http://abload.de/settings.php",
+		"difficulty" : "easy"
+	},
+
+	{
+		"name" : "C&M News by Rеss.at",
+		"url" : "http://www.ress.at/profil/profil_entfernen.php",
 		"difficulty" : "easy",
-		"notes" : ""
+		"notes" : "Just click 'Abschicken'"
+	},
+	
+	{
+		"name" : "HOL Virtual Hogwarts",
+		"url" : "http://hol.org.uk/profile.php?view=quithol",
+		"difficulty" : "impossible",
+		"notes" : "You can remove information and manually quit HOL, but you account stays forever."
+	},
+
+	{
+		"name" : "BodyBuilding",
+		"url" : "http://www.bodybuilding.com/store/help/delete-bodyspace-account.htm",
+		"difficulty" : "impossible",
+		"notes" : "You can only deactivate your account by contacting support as they state on the help page. There is no way to permanently delete your account or data, and an inactive public profile will always be visible to public."
+	},
+	
+	{
+		"name" : "Gitorious",
+		"url" : "https://gitorious.org",
+		"difficulty" : "easy"
+	},
+
+	{
+		"name" : "Transifex",
+		"url" : "http://support.transifex.com/customer/portal/articles/1052765-how-can-i-delete-my-account-",
+		"difficulty" : "impossible",
+		"notes" : "You can't delete your account, but you can contact them via email to deactivate it."
+	},
+
+	{
+		"name" : "Imgur",
+		"url" : "http://imgur.com/account/settings",
+		"difficulty" : "easy"
+	},
+
+	{
+		"name" : "Adobe",
+		"url" : "https://learn.adobe.com/wiki/display/wel/Delete+your+account",
+		"difficulty" : "hard",
+		"notes" : "You have to call them in order to delete your account. Alternatively, you can send them an email."
 	}
 ]
