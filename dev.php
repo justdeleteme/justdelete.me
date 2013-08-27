@@ -1,11 +1,14 @@
 <?php
 $sites = json_decode(file_get_contents('sites.json'));
 usort($sites, function($a, $b) {
-	list($a, $b) = array(strtolower($a->name), strtolower($b->name));
+          $a = strtolower($a->name);
+          $b = strtolower($b->name);
+          
 	if ($a < $b) return -1;
 	if ($a > $b) return 1;
 	return 0;
-}); ?>
+}); 
+?>
 <!DOCTYPE HTML>
 <html>
 <head>
@@ -25,7 +28,8 @@ usort($sites, function($a, $b) {
 	<link rel="apple-touch-icon-precomposed" href="inc/icons/apple-touch-icon-144x144-precomposed.png">
 
 	<link rel="stylesheet" type="text/css" href="style.css" />
-	<script src="inc/jquery.js"></script>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<script>window.jQuery || document.write('<script src="inc/jquery.js"><\/script>')</script>
 	<script src="inc/scripts.js"></script>
 
 	<script type="text/javascript">
@@ -52,7 +56,7 @@ usort($sites, function($a, $b) {
 	<!-- Facebook Like Button SDK -->
 	<div id="fb-root"></div>
 
-	<a href="#" class="banner">
+	<a href="https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf" target="_blank" class="banner">
 		Try our new <span>Chrome Extension</span>
 	</a>
 
@@ -126,7 +130,7 @@ usort($sites, function($a, $b) {
 		<div class="banner-content">
 			<div class="banner-block-half">
 				<h2>Google Chrome Extension</h2>
-				<p>Our good friend <a href="http://mikerogers.io">Mike Rogers</a> has helped us to release an awesome Google Chrome Extension for JustDelete.me.</p>
+				<p>Our good friend <a target="_blank" href="http://mikerogers.io">Mike Rogers</a> has helped us to release an awesome Google Chrome Extension for JustDelete.me.</p>
 				<p>When you are on a website that is listed on justdelete.me, the Chrome Extension will add a small dot to the omnibar. Clicking on this dot will take you to the relevant delete page.</p>
 				<p>To install it, simply proceed to the <a target="_blank" href="https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf">Chrome Web Store</a>.</p>			
 			</div><div class="banner-block-half">

@@ -1,10 +1,57 @@
 [
 	{
+		"name" : "Blue Apron",
+		"url" : "www.blueapron.com/cancel_subscription",
+		"difficulty" : "easy"
+	},
+
+	{
+		"name" : "Jottacloud",
+		"url" : "https://www.jottacloud.com/account/delete",
+		"difficulty" : "easy",
+		"notes" : "Log in. Type in password. Press 'delete'."
+	},
+
+	{
+		"name" : "LastPass",
+		"url" : "https://lastpass.com/delete_account.php",
+		"difficulty" : "easy"
+	},
+
+	{
+		"name" : "Gamespot",
+		"url" : "https://gamespot.custhelp.com/app/ask",
+		"difficulty" : "hard",
+		"notes" : "Account deletion requires contacting Customer Support"
+	},
+	
+	{
 		"name" : "Raptr",
 		"url" : "http://raptr.com/account/deactivation",
 		"difficulty" : "easy"
 	},
+	
+	{
+		"name" : "GoSquared",
+		"url" : "https://www.gosquared.com/home/account/close",
+		"difficulty" : "easy",
+		"notes" : "Select a reason for closing and it'll take 2 clicks."
+	},
 
+	{
+		"name" : "JoliCloud / JoliDrive",
+		"url" : "https://drive.jolicloud.com/#/settings/account",
+		"difficulty" : "easy",
+		"notes" : "Click 'Delete Account' at the botom of the account preference page"
+	},
+
+	{
+		"name" : "Libre.fm",
+		"url" : "http://libre.fm/user-edit.php#",
+		"difficulty" : "easy",
+		"notes" : "Click 'Profile', then 'Edit', then 'Show advanced settings', and finally check the 'Delete my account' checkbox."
+	},
+	
 	{
 		"name" : "Wunderlist",
 		"url" : "https://www.wunderlist.com/#/preferences/account",
@@ -28,6 +75,13 @@
 		"name" : "Dropmark",
 		"url" : "http://support.dropmark.com/customer/portal/questions/564826-deleting-my-account",
 		"difficulty" : "hard"
+	},
+
+	{
+		"name" : "Dwolla",
+		"url" : "http://help.dwolla.com/customer/portal/articles/269223-how-can-i-delete-my-dwolla-account-",
+		"difficulty" : "hard",
+		"notes" : "All accounts stay in their system for at least 3 years. Remove any banking information before you delete."
 	},
 
     {
@@ -148,7 +202,13 @@
 		"url" : "http://www.tumblr.com/account/delete",
 		"difficulty" : "easy"
 	},
-
+    
+        {
+	        "name" : "Shopify",
+	        "url" : "http://shopify.com/admin/settings/account",
+	        "difficulty" : "easy",
+	        "notes" : "Select 'Please cancel my account'. Choose a reason then select 'close my shopify store'."
+        }, 
 	{
 		"name" : "Reddit",
 		"url" : "https://ssl.reddit.com/prefs/delete/",
@@ -881,7 +941,7 @@
 		"name" : "HOL Virtual Hogwarts",
 		"url" : "http://hol.org.uk/profile.php?view=quithol",
 		"difficulty" : "impossible",
-		"notes" : "You can remove information and manually quit HOL, but you account stays forever."
+		"notes" : "You can remove information and manually quit HOL, but your account stays forever."
 	},
 
 	{
@@ -916,10 +976,89 @@
 		"difficulty" : "hard",
 		"notes" : "You have to call them in order to delete your account. Alternatively, you can send them an email."
 	},
+
 	{
 		"name" : "Odnoklassniki",
 		"url" : "http://www.odnoklassniki.ru/regulations",
 		"difficulty" : "easy",
 		"notes" : "Login to your account, scroll License Agreement down, click Delete profile, check any boxes you want, enter password and press Remove button."
+	},
+	
+	{
+		"name" : "Udemy",
+		"url" : "https://www.udemy.com/user/edit-danger-zone/",
+		"difficulty" : "medium",
+		"notes" : "In order to delete your account, you need to first unsubscribe from all of your courses."
+	},
+	
+	{
+		"name" : "Microsoft Office 365",
+		"url" : "http://office.com/myaccount",
+		"difficulty" : "easy"
+	},
+
+	{
+		"name"	: "Remember The Milk",
+		"url" : "https://www.rememberthemilk.com/login/delete.rtm",
+		"difficulty" : "easy"
+	},
+
+	{
+		"name" : "BBC iD",
+		"url" : "https://ssl.bbc.co.uk/id/settings/delete",
+		"difficulty" : "easy"
+	},
+	
+	{
+		"name" : "4shared",
+		"url" : "http://www.4shared.com/web/account/settings#overview",
+		"difficulty" : "easy"
+	},
+    
+    {
+        "name" : "CloudMagic",
+        "url" : "https://cloudmagic.com/a/v2/preferences",
+        "difficulty" : "easy"
+    },
+
+    {
+        "name" : "Splitwise",
+        "url" : "https://secure.splitwise.com/account/settings",
+        "difficulty" : "easy"
+    },
+
+    {
+        "name" : "MixCloud",
+        "url" : "http://www.mixcloud.com/myaccount/account/",
+        "difficulty" : "easy"
+    },
+
+    {
+
+		"name" : "Scriptogr.am",
+		"url" : "http://scriptogr.am/dashboard/#settings",
+		"difficulty" : "easy",
+		"notes" : "Click the link 'Delete your account' at the bottom. Note: On your dropbox, the content of this site will not be removed. If needed, you can delete the folder 'Apps/scriptogram' manually."
+	},
+	
+	{
+		"name" : "Viadeo",
+		"url" : "http://www.viadeo.com/settings/account/?language=fr&ga_from=Fu:%2Fsettings%2Faccount%2F;Fb%3Amenu_box_right%3BFe%3AL1-account-settings%3B",
+		"difficulty" : "easy",
+		"notes" : "There's a button on the right, just under the menu."
+	},
+
+	{
+		"name" : "9GAG",
+		"url" : "https://9gag.com/member/delete",
+		"difficulty" : "easy",
+		"notes" : "Login to your account, go to parameters, click Delete my account. Confirm by clicking I want to delete my account. And again by clicking Delete my 9GAG account."
+	},
+
+	{
+		"name" : "Iceber.gs",
+		"url" : "https://iceber.gs/home",
+		"difficulty" : "easy",
+		"notes" : "On top bar: 'Your name', 'My Account' and just click on 'Delete Account' link at bottom."
 	}
 ]
