@@ -1060,5 +1060,12 @@
 		"url" : "https://iceber.gs/home",
 		"difficulty" : "easy",
 		"notes" : "On top bar: 'Your name', 'My Account' and just click on 'Delete Account' link at bottom."
+	},
+
+	{
+		"name" : "Good Noows",
+		"url" : "http://goodnoows.com",
+		"difficulty" : "easy",
+		"notes" : "On the top bar, click on 'Your name', then click on the 'Delete Account' button at the bottom of the dialog."
 	}
 ]
