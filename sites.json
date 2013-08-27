@@ -916,10 +916,18 @@
 		"difficulty" : "hard",
 		"notes" : "You have to call them in order to delete your account. Alternatively, you can send them an email."
 	},
+
 	{
 		"name" : "Odnoklassniki",
 		"url" : "http://www.odnoklassniki.ru/regulations",
 		"difficulty" : "easy",
 		"notes" : "Login to your account, scroll License Agreement down, click Delete profile, check any boxes you want, enter password and press Remove button."
+	},
+	
+	{
+		"name" : "Udemy",
+		"url" : "https://www.udemy.com/user/edit-danger-zone/",
+		"difficulty" : "medium",
+		"notes" : "In order to delete your account, you need to first unsubscribe from all of your courses."
 	}
 ]
