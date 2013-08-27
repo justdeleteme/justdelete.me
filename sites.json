@@ -84,12 +84,12 @@
 		"notes" : "All accounts stay in their system for at least 3 years. Remove any banking information before you delete."
 	},
 
-    {
+	{
 		"name" : "ScanMyServer",
 		"url" : "https://scanmyserver.com/?suspend=1",
 		"difficulty" : "easy",
 		"notes" : "Login to your account and follow 'Account Suspension' instructions."
-    },
+	},
 
 	{
 		"name" : "Soundcloud",
@@ -202,13 +202,14 @@
 		"url" : "http://www.tumblr.com/account/delete",
 		"difficulty" : "easy"
 	},
-    
-        {
-	        "name" : "Shopify",
-	        "url" : "http://shopify.com/admin/settings/account",
-	        "difficulty" : "easy",
-	        "notes" : "Select 'Please cancel my account'. Choose a reason then select 'close my shopify store'."
-        }, 
+	
+	{
+		"name" : "Shopify",
+		"url" : "http://shopify.com/admin/settings/account",
+		"difficulty" : "easy",
+		"notes" : "Select 'Please cancel my account'. Choose a reason then select 'close my shopify store'."
+	}, 
+	
 	{
 		"name" : "Reddit",
 		"url" : "https://ssl.reddit.com/prefs/delete/",
@@ -1014,27 +1015,26 @@
 		"url" : "http://www.4shared.com/web/account/settings#overview",
 		"difficulty" : "easy"
 	},
-    
-    {
-        "name" : "CloudMagic",
-        "url" : "https://cloudmagic.com/a/v2/preferences",
-        "difficulty" : "easy"
-    },
+	
+	{
+		"name" : "CloudMagic",
+		"url" : "https://cloudmagic.com/a/v2/preferences",
+		"difficulty" : "easy"
+	},
 
-    {
-        "name" : "Splitwise",
-        "url" : "https://secure.splitwise.com/account/settings",
-        "difficulty" : "easy"
-    },
+	{
+		"name" : "Splitwise",
+		"url" : "https://secure.splitwise.com/account/settings",
+		"difficulty" : "easy"
+	},
 
-    {
-        "name" : "MixCloud",
-        "url" : "http://www.mixcloud.com/myaccount/account/",
-        "difficulty" : "easy"
-    },
+	{
+		"name" : "MixCloud",
+		"url" : "http://www.mixcloud.com/myaccount/account/",
+		"difficulty" : "easy"
+	},
 
-    {
-
+	{
 		"name" : "Scriptogr.am",
 		"url" : "http://scriptogr.am/dashboard/#settings",
 		"difficulty" : "easy",
