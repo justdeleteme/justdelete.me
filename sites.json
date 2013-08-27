@@ -72,7 +72,8 @@
 	{
 		"name" : "Dwolla",
 		"url" : "http://help.dwolla.com/customer/portal/articles/269223-how-can-i-delete-my-dwolla-account-",
-		"difficulty" : "hard"
+		"difficulty" : "hard",
+		"notes" : "All accounts stay in their system for at least 3 years. Remove any banking information before you delete."
 	},
 
     {
