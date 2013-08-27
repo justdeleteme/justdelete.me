@@ -1,5 +1,10 @@
 [
 	{
+		"name" : "Blue Apron",
+		"url" : "www.blueapron.com/cancel_subscription",
+		"difficulty" : "easy"
+	},
+	{
 		"name" : "Raptr",
 		"url" : "http://raptr.com/account/deactivation",
 		"difficulty" : "easy"
