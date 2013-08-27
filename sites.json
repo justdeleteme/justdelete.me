@@ -1145,5 +1145,12 @@
 		"url" : "http://ask.fm/feedbacks/new",
 		"difficulty" : "hard",
 		"notes" : "Request deletion from customer services."
+	},
+
+	{
+		"name" : "Animal Crossing Community",
+		"url" : "http://www.animalcrossingcommunity.com/help_main.asp?HelpSectionID=5#Topic201",
+		"difficulty" : "impossible",
+		"notes" : "We do not 'delete' or 'terminate' accounts on ACC. If you no longer wish to use the site, you may delete all personal information from your profile and then stop logging in."
 	}
 ]
