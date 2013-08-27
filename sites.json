@@ -1,5 +1,12 @@
 [
 	{
+		"name" : "Libre.fm",
+		"url" : "http://libre.fm/user-edit.php#",
+		"difficulty" : "easy",
+		"notes" : "Click 'Profile', then 'Edit', then 'Show advanced settings', and finally check the 'Delete my account' checkbox."
+	},
+	
+	{
 		"name" : "Wunderlist",
 		"url" : "https://www.wunderlist.com/#/preferences/account",
 		"difficulty" : "easy",
