@@ -1172,5 +1172,12 @@
 		"name" : "Topface",
 		"url" : "http://topface.com/delete-profile/",
 		"difficulty" : "easy"
+	},
+	
+	{
+		"name" : "DHL"
+		"url" : "https://www.paket.de/pkp/appmanager/pkp/desktop?_nfpb=true&_nfxr=false&_pageLabel=pkp_portal_page_footer_cah_faqs"
+		"difficulty" : "impossible",
+		"notes" : "No information in the FAQ about account deletion, the operator on the hotline said that deleting is not possible."
 	}
 ]
