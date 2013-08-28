@@ -1199,5 +1199,11 @@
 		"url" : "http://pastebin.com/profile",
 		"difficulty" : "impossible",
 		"notes" : "You can remove your pastes, but there's no link to delete your account."
+	},
+	{
+		"name" : "Codepen",
+		"url" : "http://blog.codepen.io/documentation/faq/how-do-i-delete-my-account/",
+		"difficulty" : "easy",
+        	"notes" : "A direct link is not available as it is based on your username."
 	}
 ]
