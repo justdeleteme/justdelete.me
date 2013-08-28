@@ -938,6 +938,6 @@
 		"name" : "Pastebin",
 		"url" : "http://pastebin.com/profile",
 		"difficulty" : "impossible",
-		"notes" : "You can remove your past, but there's no link to delete your account."
+		"notes" : "You can remove your pastes, but there's no link to delete your account."
 	}
 ]
