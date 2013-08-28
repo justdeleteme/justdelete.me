@@ -1145,5 +1145,11 @@
 		"url" : "http://ask.fm/feedbacks/new",
 		"difficulty" : "hard",
 		"notes" : "Request deletion from customer services."
+	},
+
+	{
+		"name" : "Topface",
+		"url" : "http://topface.com/delete-profile/",
+		"difficulty" : "easy"
 	}
 ]
