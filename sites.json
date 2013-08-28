@@ -1166,5 +1166,11 @@
 		"url" : "http://kb.mailchimp.com/article/how-do-i-close-my-account",
 		"difficulty" : "medium",
 		"notes" : "Account Settings &rarr; Account Settings Drop-down &rarr; Close my account &rarr; Type DELETE and press Delete Account button."
+	},
+
+	{
+		"name" : "Topface",
+		"url" : "http://topface.com/delete-profile/",
+		"difficulty" : "easy"
 	}
 ]
