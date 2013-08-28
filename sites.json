@@ -177,8 +177,8 @@
     {
         "name": "Couchsurfing",
         "url": "https://www.couchsurfing.org/delete_profile.html?delete=1",
-        "difficulty": "easy",
-        "notes": "Fill out the form and select 'I understand. Please delete my profile.'"
+        "difficulty": "impossible",
+        "notes": "Fill out the form and select 'I understand. Please delete my profile.'. Profile will be deactivated."
     },
 
     {
