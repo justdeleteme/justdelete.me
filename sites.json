@@ -927,5 +927,11 @@
 		"url" : "https://9gag.com/member/delete",
 		"difficulty" : "easy",
 		"notes" : "Login to your account, go to parameters, click Delete my account. Confirm by clicking I want to delete my account. And again by clicking Delete my 9GAG account."
+	},
+	{
+		"name" : "Diaspora",
+		"url" : "https://diasp.eu/user/edit#close_account_pane",
+		"difficulty" : "easy",
+		"notes" : "Click close my account and confirm with your password."
 	}
 ]
