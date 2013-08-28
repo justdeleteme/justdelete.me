@@ -1185,5 +1185,12 @@
 		"url" : "http://help.slideshare.com/entries/57912-How-do-I-delete-my-SlideShare-account-",
 		"difficulty" : "easy",
         "notes" : "A direct link is not available as it is based on your username."
+	},
+
+	{
+		"name" : "Diaspora",
+		"url" : "https://diasp.eu/user/edit#close_account_pane",
+		"difficulty" : "easy",
+		"notes" : "Click close my account and confirm with your password."
 	}
 ]
