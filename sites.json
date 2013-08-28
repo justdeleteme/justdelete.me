@@ -606,6 +606,13 @@
     },
 
     {
+        "name" : "jsFiddle",
+        "url" : "https://github.com/jsfiddle/jsfiddle-issues/issues/237",
+        "difficulty" : "hard",
+        "notes" : "Please send a request to support@jsfiddle.net if you'd like your account to be deleted."
+    },
+
+    {
         "name": "Khan Academy",
         "url": "https://www.khanacademy.org/settings",
         "difficulty": "easy"
