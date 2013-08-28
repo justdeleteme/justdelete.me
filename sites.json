@@ -221,6 +221,14 @@
         "notes": "All data is wiped immediately. Accounts can be reactivated within 30 days, after that they can no longer be recovered."
     },
 
+
+    {
+        "name" : "Diaspora",
+        "url" : "https://diasp.eu/user/edit#close_account_pane",
+        "difficulty" : "easy",
+        "notes" : "Click close my account and confirm with your password."
+    },
+
     {
         "name": "Digg",
         "url": "http://digg.com/contact",
@@ -813,6 +821,13 @@
     },
 
     {
+        "name" : "Pastebin",
+        "url" : "http://pastebin.com/profile",
+        "difficulty" : "impossible",
+        "notes" : "You can remove your pastes, but there's no link to delete your account."
+    },
+
+    {
         "name": "Path",
         "url": "https://path.com",
         "difficulty": "medium",
@@ -947,6 +962,13 @@
         "name": "Slashdot",
         "url": "http://slashdot.org/faq/accounts.shtml",
         "difficulty": "impossible"
+    },
+
+    {
+        "name" : "Slideshare",
+        "url" : "http://help.slideshare.com/entries/57912-How-do-I-delete-my-SlideShare-account-",
+        "difficulty" : "easy",
+        "notes" : "A direct link is not available as it is based on your username."
     },
 
     {
@@ -1178,26 +1200,5 @@
         "name": "Zoho",
         "url": "https://accounts.zoho.com/u/h#setting/closeaccount",
         "difficulty": "easy"
-    },
-
-	{
-		"name" : "Slideshare",
-		"url" : "http://help.slideshare.com/entries/57912-How-do-I-delete-my-SlideShare-account-",
-		"difficulty" : "easy",
-        "notes" : "A direct link is not available as it is based on your username."
-	},
-
-	{
-		"name" : "Diaspora",
-		"url" : "https://diasp.eu/user/edit#close_account_pane",
-		"difficulty" : "easy",
-		"notes" : "Click close my account and confirm with your password."
-	},
-    
-	{
-		"name" : "Pastebin",
-		"url" : "http://pastebin.com/profile",
-		"difficulty" : "impossible",
-		"notes" : "You can remove your pastes, but there's no link to delete your account."
-	}
+    }
 ]
