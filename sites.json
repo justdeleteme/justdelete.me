@@ -1172,5 +1172,11 @@
 		"name" : "Topface",
 		"url" : "http://topface.com/delete-profile/",
 		"difficulty" : "easy"
+	},
+
+	{
+		"name" : "Slideshare",
+		"url" : "http://help.slideshare.com/entries/57912-How-do-I-delete-my-SlideShare-account-",
+		"difficulty" : "easy"
 	}
 ]
