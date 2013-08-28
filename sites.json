@@ -1200,5 +1200,12 @@
         "name": "Zoho",
         "url": "https://accounts.zoho.com/u/h#setting/closeaccount",
         "difficulty": "easy"
-    }
+    },
+
+	{
+		"name" : "Codepen",
+		"url" : "http://blog.codepen.io/documentation/faq/how-do-i-delete-my-account/",
+		"difficulty" : "easy",
+        "notes" : "A direct link is not available as it is based on your username."
+	}
 ]
