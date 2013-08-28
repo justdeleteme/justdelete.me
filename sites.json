@@ -1183,6 +1183,7 @@
 	{
 		"name" : "Slideshare",
 		"url" : "http://help.slideshare.com/entries/57912-How-do-I-delete-my-SlideShare-account-",
-		"difficulty" : "easy"
+		"difficulty" : "easy",
+        "notes" : "A direct link is not available as it is based on your username."
 	}
 ]
