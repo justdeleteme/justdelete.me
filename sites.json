@@ -933,5 +933,11 @@
 		"url" : "https://diasp.eu/user/edit#close_account_pane",
 		"difficulty" : "easy",
 		"notes" : "Click close my account and confirm with your password."
+	},
+	{
+		"name" : "Pastebin",
+		"url" : "http://pastebin.com/profile",
+		"difficulty" : "impossible",
+		"notes" : "You can remove your past, but there's no link to delete your account."
 	}
 ]
