@@ -1205,7 +1205,13 @@
 	{
 		"name" : "Codepen",
 		"url" : "http://blog.codepen.io/documentation/faq/how-do-i-delete-my-account/",
-		"difficulty" : "easy",
-        "notes" : "A direct link is not available as it is based on your username."
+		"difficulty" : "easy"
+	},
+
+	{
+		"name" : "DHL (Paket.de)",
+		"url" : "https://www.paket.de/pkp/appmanager/pkp/desktop?_nfpb=true&_nfxr=false&_pageLabel=pkp_portal_page_footer_cah_faqs",
+		"difficulty" : "impossible",
+		"notes" : "No information in the FAQ about account deletion, the operator on the hotline said that deleting is not possible."
 	}
 ]
