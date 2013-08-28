@@ -1159,5 +1159,12 @@
 		"url" : "http://www.animalcrossingcommunity.com/help_main.asp?HelpSectionID=5#Topic201",
 		"difficulty" : "impossible",
 		"notes" : "We do not 'delete' or 'terminate' accounts on ACC. If you no longer wish to use the site, you may delete all personal information from your profile and then stop logging in."
+	},
+
+	{
+		"name" : "MailChimp",
+		"url" : "http://kb.mailchimp.com/article/how-do-i-close-my-account",
+		"difficulty" : "medium",
+		"notes" : "Account Settings &rarr; Account Settings Drop-down &rarr; Close my account &rarr; Type DELETE and press Delete Account button."
 	}
 ]
