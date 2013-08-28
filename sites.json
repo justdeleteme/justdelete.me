@@ -1178,5 +1178,11 @@
         "name": "Zoho",
         "url": "https://accounts.zoho.com/u/h#setting/closeaccount",
         "difficulty": "easy"
-    }
+    },
+
+	{
+		"name" : "Slideshare",
+		"url" : "http://help.slideshare.com/entries/57912-How-do-I-delete-my-SlideShare-account-",
+		"difficulty" : "easy"
+	}
 ]
