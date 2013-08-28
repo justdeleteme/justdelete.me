@@ -1149,8 +1149,8 @@
 	
 	{
 		"name" : "MailChimp",
-		"url" : "https://us7.admin.mailchimp.com/account/close/",
-		"difficulty" : "easy",
+		"url" : "http://kb.mailchimp.com/article/how-do-i-close-my-account",
+		"difficulty" : "medium",
 		"notes" : "From the app Account Settings > Account Settings Drop-down > Close my account > Type DELETE and press Delete Account button."
 	}
 ]
