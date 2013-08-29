@@ -1239,6 +1239,14 @@
         "url": "http://picasaweb.google.com/",
         "difficulty": "impossible",
         "notes": "You can't delete your Google Account for Picasa Web Albums without deleting your entire Google Account."
+    },
+
+    {
+        "name": "Readability",
+        "url": "https://www.readability.com/account/delete",
+        "difficulty": "impossible",
+        "notes": "You can't delete your account, but you can deactivate it."
     }
+
 
 ]
