@@ -999,6 +999,13 @@
     },
 
     {
+        "name": "Speaker Deck",
+        "url": "https://speakerdeck.com/tos",
+        "difficulty": "impossible",
+        "notes": "If you wish to terminate your Speaker Deck account, you may simply discontinue using Speaker Deck."
+    },
+
+    {
         "name": "Splitwise",
         "url": "https://secure.splitwise.com/account/settings",
         "difficulty": "easy"
