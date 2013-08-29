@@ -1,0 +1,38 @@
+<?php
+const title = "Just Delete Me | Una directory di link diretti per eliminare il tuo account dai siti web.";
+const description = "Una directory di link diretti per eliminare il tuo account dai siti web. Scopri come eliminare il tuo account Facebook, Twitter, LinkedIn e molti altri.";
+const banner = "Prova la nostra nuova <span>Estensione Chrome</span>";
+const tagline = "Una directory di link diretti per eliminare il tuo account dai siti web.";
+const noResults = "Can't find what you're looking for? <a href='http://github.com/rmlewisuk/justdelete.me'>Help make justdelete.me better</a>.";
+const difficulty = "Difficoltà: ";
+const difficulty_easy = "Facile";
+const difficulty_medium = "Media";
+const difficulty_hard = "Difficile";
+const difficulty_impossible = "Impossibile";
+const noInfo = "Nessuna Informazione Disponibile";
+const showInfo = "Mostra informazioni...";
+const hideInfo = "Nascondi Informazioni...";
+const whatIsThis = "Cos'è?";
+const whatIsThisp1 = "Molte compagnie usano strategie di <a href=\"http://darkpatterns.org/\">dark pattern</a> per rendere difficile la possibilità di eliminare il tuo account. JustDelete.me punta a essere una directory di urls per permetterti di eliminare facilmente il tuo account dai siti web.";
+const whatIsThisp2 = "Hai trovato un sito che credi dovrebbe essere aggiunto? <a href=\"http://github.com/rmlewisuk/justdelete.me\">Fork the project GitHub</a>.";
+const whatIsThisp3 = "<em>L'invio email è temporaneamente disabilitato</em>";
+const whatIsThisl1 = "<a href=\"http://robblewis.me/just-delete-me?utm_source=JustDeleteMe&amp;utm_medium=link&amp;utm_campaign=Just+Delete+Me\" target=\"_blank\">Read the announcement blog post &raquo;</a>";
+const whatIsThisl2 = "<a href=\"http://robblewis.me/24-hours-of-just-delete-me/\" target=\"_blank\">See the first-day stats &raquo;</a>";
+const whatIsThisl3 = "<a href=\"http://thetechtailor.com/justdeleteme\" target=\"_blank\">Listen to an interview with Robb on The Tech Tailor podcast &raquo;</a>";
+const twitter = "<a href=\"https://twitter.com/justdeletedotme\" class=\"twitter-follow-button\" data-show-count=\"false\" data-size=\"large\">Segui @justdeletedotme</a>";
+const guide = "Guida";
+const guideExplanations = "The links above are colour-coded to indicate the difficulty level of account deletion:";
+const guideEasy = "<span class=\"green\">Facile</span> - Processo semplice";
+const guideMedium = "<span class=\"yellow\">Medio</span> - Richiede qualche azione aggiuntiva";
+const guideHard = "<span class=\"red\">Difficile</span> - Non può essere completamente cancellato senza contattare l'assistenza clienti";
+const guideImpossible = "<span class=\"black\">Impossibile</span> - Non può essere cancellato";
+const extension = "Estensione Google Chrome";
+const extensionp1 = "Il nostro amico <a target=\"_blank\" href=\"http://mikerogers.io\">Mike Rogers</a> ci ha aiutato a rilasciare l'estensione di JustDelete.me per Google Chrome.";
+const extensionp2 = "Quando sei su un sito che è elencato su justdelete.me, l'estensione aggiungerà un puntino colorato sulla barra degli indirizzi. Cliccandoci verrai reindirizzato alla pagina per eliminare il tuo account.";
+const extensionp3 = "Per installare l'estensione, procedi su <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome Web Store</a>.";
+const extensionl1 = "<span class=\"dot-wrapper\"><span class=\"dot easy\"></span></span> - Processo semplice";
+const extensionl2 = "<span class=\"dot-wrapper\"><span class=\"dot medium\"></span></span> -  Richiede qualche azione aggiuntiva";
+const extensionl3 = "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Non può essere completamente cancellato senza contattare l'assistenza clienti";
+const extensionl4 = "<span class=\"dot-wrapper\"><span class=\"dot impossible\"></span></span> - Non può essere cancellato";
+const footer = "Creato da <a href=\"http://robblewis.me\">Robb Lewis</a> and <a href=\"http://edpoole.me\">Ed Poole</a> | Fork on <a href=\"http://github.com/rmlewisuk/justdelete.me\">GitHub</a> | Hosted by <a href=\"http://www.mediatemple.net/#a_aid=521a8aefe4c3b\">Media Temple</a> | Analytics by <a href=\"https://t.co/fvPnva7p4Y\">GoSquared</a>";
+?>
