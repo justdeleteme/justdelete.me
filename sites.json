@@ -828,6 +828,13 @@
     },
 
     {
+        "name": "OpenDNS",
+        "url": "http://forums.opendns.com/comments.php?DiscussionID=8326",
+        "difficulty": "hard",
+        "notes": "You must open a ticket to completely get your account deleted at http://www.opendns.com/support/contact/"
+    },
+
+    {
         "name": "Orkut",
         "url": "https://accounts.google.com/DeleteService?service=orkut",
         "difficulty": "easy"
