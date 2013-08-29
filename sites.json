@@ -1293,5 +1293,11 @@
         "name": "Zoho",
         "url": "https://accounts.zoho.com/u/h#setting/closeaccount",
         "difficulty": "easy"
+    },
+    
+    {
+        "name": "Zurker",
+        "url": "https://my.zurker.com/destroy",
+        "difficulty": "easy"
     }
 ]
