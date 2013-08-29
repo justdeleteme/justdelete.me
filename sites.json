@@ -1039,5 +1039,13 @@
 		"url" : "https://iceber.gs/home",
 		"difficulty" : "easy",
 		"notes" : "On top bar: 'Your name', 'My Account' and just click on 'Delete Account' link at bottom."
+	},
+
+	{
+		"name" : "Rovio",
+		"url" : "https://account.rovio.com/",
+		"difficulty" : "easy",
+		"notes" : "Bottom link 'Delete Account'"
 	}
+	
 ]
