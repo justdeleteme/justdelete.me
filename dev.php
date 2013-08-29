@@ -8,17 +8,18 @@ usort($sites, function($a, $b) {
 	if ($a > $b) return 1;
 	return 0;
 }); 
+require('lang/en.php');
 ?>
 <!DOCTYPE HTML>
 <html>
 <head>
-	<title>Just Delete Me | A directory of direct links to delete your account from web services.</title>
+	<title><?php echo title ?></title>
 	<meta charset="UTF-8">
 	<!--[if lt IE 9]>
 		<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
 	<meta name="viewport" content="width=device-width,initial-scale=1">
-	<meta name="description" content="A directory of direct links to delete your account from web services. Find out how to delete your Facebook, Twitter, LinkedIn accounts and more.">
+	<meta name="description" content="<?php echo description; ?>">
 
 	<!-- Icons -->
 	<link rel="shortcut icon" href="inc/icons/favicon.ico">
@@ -57,13 +58,13 @@ usort($sites, function($a, $b) {
 	<div id="fb-root"></div>
 
 	<a href="https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf" target="_blank" class="banner">
-		Try our new <span>Chrome Extension</span>
+	    <?php echo banner; ?>
 	</a>
 
 
 	<header>
 		<h1>just<span>delete</span>.me</h1>
-		<p class="tagline">A directory of direct links to delete your account from web services.</p>
+	    <p class="tagline"><?php echo tagline; ?></p>
 	</header>
 
 	<div id="test">
@@ -77,7 +78,7 @@ usort($sites, function($a, $b) {
 	<section class="main">		
 		<section class="sites" id="sites">
 
-			<p class="no-results">Can't find what you're looking for? <a href='http://github.com/rmlewisuk/justdelete.me'>Help make justdelete.me better</a>.</p>
+	    <p class="no-results"><?php echo noResults; ?></p>
 
 			<!-- // FIRST FOR EACH -->
 
@@ -86,15 +87,15 @@ usort($sites, function($a, $b) {
 						<?php echo $site->name; ?>
 					</a>
 					<p class="site-difficulty">
-						Difficulty: <?php echo $site->difficulty; ?>
+	    <?php echo difficulty; ?><?php echo $site->difficulty; ?>
 					</p>
 					<?php if (isset($site->notes)) : ?>
 						<div class="tooltip-content">
 							<?php echo $site->notes; ?>	
 						</div>
-						<a href="#" class="tooltip-toggle contains-info">Show Info...</a>
+						<a href="#" class="tooltip-toggle contains-info">showInfo</a>
 					<?php else : ?>
-						<p class="tooltip-toggle">No Info Available</p>
+	    <p class="tooltip-toggle"><?php echo noInfo; ?></p>
 					<?php endif; ?>
 				</section><?php endforeach; ?>
 
@@ -104,24 +105,24 @@ usort($sites, function($a, $b) {
 		<div class="info-container">
 
 			<div class="info-block-half">
-				<h2>What is this?</h2>
-				<p>Many companies use <a href="http://darkpatterns.org/">dark pattern</a> techniques to make it difficult to find how to delete your account. JustDelete.me aims to be a directory of urls to enable you to easily delete your account from web services.</p>
-				<p>Got a site you think should be added? <a href="http://github.com/rmlewisuk/justdelete.me">Fork the project GitHub</a>.</p>
-				<p><em>Email submission is temporarily disabled</em></p>
+	    <h2><?php echo whatIsThis; ?></h2>
+	    <p><?php echo whatIsThisp1; ?></p>
+	    <p><?php echo whatIsThisp2; ?></p>
+	    <p><?php echo whatIsThisp3; ?></p>
 				<ul>
-					<li><a href="http://robblewis.me/just-delete-me?utm_source=JustDeleteMe&amp;utm_medium=link&amp;utm_campaign=Just+Delete+Me" target="_blank">Read the announcement blog post &raquo;</a></li>
-					<li><a href="http://robblewis.me/24-hours-of-just-delete-me/" target="_blank">See the first-day stats &raquo;</a></li>
-					<li><a href="http://thetechtailor.com/justdeleteme" target="_blank">Listen to an interview with Robb on The Tech Tailor podcast &raquo;</a></li>
+	    <li><?php echo whatIsThisl1; ?></li>
+	    <li><?php echo whatIsThisl2; ?></li>
+	    <li><?php echo whatIsThisl3; ?></li>
 				</ul>
-				<p><a href="https://twitter.com/justdeletedotme" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @justdeletedotme</a></p>
+	    <p><?php echo twitter; ?></p>
 			</div><div class="info-block-half">
-				<h2>Guide</h2>
-				<p>The links above are colour-coded to indicate the difficulty level of account deletion:</p>
+	    <h2><?php echo guide; ?></h2>
+	    <p><?php echo guideExplanations; ?></p>
 				<ul>
-					<li><span class="green">Easy</span> - Simple process</li>
-					<li><span class="yellow">Medium</span> - Some extra steps involved</li>
-					<li><span class="red">Hard</span> - Cannot be fully deleted without contacting customer services</li>
-					<li><span class="black">Impossible</span> - Cannot be deleted</li>
+	    <li><?php echo guideEasy; ?></li>
+	    <li><?php echo guideMedium; ?></li>
+	    <li><?php echo guideHard; ?></li>
+	    <li><?php echo guideImpossible; ?></li>
 				</ul>
 			</div>		
 		</div>
@@ -129,17 +130,17 @@ usort($sites, function($a, $b) {
 	<div class="banner-block">
 		<div class="banner-content">
 			<div class="banner-block-half">
-				<h2>Google Chrome Extension</h2>
-				<p>Our good friend <a target="_blank" href="http://mikerogers.io">Mike Rogers</a> has helped us to release an awesome Google Chrome Extension for JustDelete.me.</p>
-				<p>When you are on a website that is listed on justdelete.me, the Chrome Extension will add a small dot to the omnibar. Clicking on this dot will take you to the relevant delete page.</p>
-				<p>To install it, simply proceed to the <a target="_blank" href="https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf">Chrome Web Store</a>.</p>			
+	    <h2><?php echo extension; ?></h2>
+	    <p><?php echo extensionp1; ?></p>
+	    <p><?php echo extensionp2; ?></p>
+	    <p><?php echo extensionp3; ?></p>			
 			</div><div class="banner-block-half">
 				<h2>Extension Dot Guide</h2>
 				<ul>
-					<li><span class="dot-wrapper"><span class="dot easy"></span></span> - Simple process</li>
-					<li><span class="dot-wrapper"><span class="dot medium"></span></span> - Some extra steps involved</li>
-					<li><span class="dot-wrapper"><span class="dot hard"></span></span> - Cannot be fully deleted without contacting customer-services</li>
-					<li><span class="dot-wrapper"><span class="dot impossible"></span></span> - Cannot be deleted</li>					
+	    <li><?php echo extensionl1; ?></li>
+	    <li><?php echo extensionl2; ?></li>
+	    <li><?php echo extensionl3; ?></li>
+	    <li><?php echo extensionl4; ?></li>					
 				</ul>				
 			</div>	
 		</div>
@@ -148,7 +149,7 @@ usort($sites, function($a, $b) {
 	<section class="info-block">
 		<div class="info-container">
 			<footer>
-				<span>Made by <a href="http://robblewis.me">Robb Lewis</a> and <a href="http://edpoole.me">Ed Poole</a> | Fork on <a href="http://github.com/rmlewisuk/justdelete.me">GitHub</a> | Hosted by <a href="http://www.mediatemple.net/#a_aid=521a8aefe4c3b">Media Temple</a> | Analytics by <a href="https://t.co/fvPnva7p4Y">GoSquared</a></span>
+	    <span><?php echo footer; ?></span>
 				<div class="share-buttons" id="share buttons">
 				<!-- Twitter -->
 					<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://justdelete.me">Tweet</a>
