@@ -874,6 +874,12 @@
     },
 
     {
+        "name": "Pingdom",
+        "url": "https://my.pingdom.com/account/cancel/confirm",
+        "difficulty": "easy"
+    },
+
+    {
         "name": "Pinterest",
         "url": "https://pinterest.com/settings/",
         "difficulty": "impossible",
