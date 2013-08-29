@@ -821,6 +821,13 @@
     },
 
     {
+        "name": "OkCupid",
+        "url": "https://www.okcupid.com/settings",
+        "difficulty": "easy",
+        "notes": "Visit your settings page, and select 'Delete Account'"
+    },
+
+    {
         "name": "Orkut",
         "url": "https://accounts.google.com/DeleteService?service=orkut",
         "difficulty": "easy"
