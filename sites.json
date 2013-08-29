@@ -938,6 +938,13 @@
     },
 
     {
+        "name": "Redditgifts",
+        "url": "http://redditgifts.com/privacy/",
+        "difficulty": "hard",
+        "notes": "If you decide you would like to delete your account you must email us at support@redditgifts.com. You must email us from the email address associated with your account and provide your reddit username."
+    },
+
+    {
         "name": "Remember The Milk",
         "url": "https://www.rememberthemilk.com/login/delete.rtm",
         "difficulty": "easy"
