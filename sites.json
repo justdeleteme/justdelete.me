@@ -387,6 +387,13 @@
     },
 
     {
+        "name": "Gauges",
+        "url": "http://get.gaug.es/tos/",
+        "difficulty": "impossible",
+        "notes": "If you wish to terminate your Gauges account, you may simply discontinue using Gauges."
+    },
+
+    {
         "name": "Geni",
         "url": "http://www.geni.com/account_settings",
         "difficulty": "medium",
