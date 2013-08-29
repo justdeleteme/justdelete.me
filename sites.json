@@ -875,6 +875,13 @@
     },
 
     {
+        "name" : "Paukd",
+        "url" : "https://paukd.com",
+        "difficulty" : "easy",
+        "notes" : "Login to your account, go to settings (small gear next to your username), click Delete my account. You'll receive a confirmation link via e-mail."
+    }, 
+
+    {
         "name": "PayPal",
         "url": "https://www.paypal.com/us/cgi-bin/webscr?cmd=_close-account",
         "difficulty": "easy"
