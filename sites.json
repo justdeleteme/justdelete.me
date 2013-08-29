@@ -1219,5 +1219,12 @@
         "name" : "Tweetdeck",
         "url" : "https://www.tweetdeck.com/api/account-delete/",
         "difficulty" : "easy"
+    },
+    
+    {
+    	"name" : "Paukd",
+    	"url" : "https://paukd.com",
+    	"difficulty" : "medium",
+    	"notes" : "Log In to your account. Click on the small gear next to your username to open your profile. At the bottom it says 'Mitgliedschaft beenden'. Click on that and after you confirmed your deleting request by e-mail, you're done"
     }
 ]
