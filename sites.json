@@ -175,6 +175,12 @@
     },
 
     {
+        "name" : "Codepen",
+        "url" : "http://blog.codepen.io/documentation/faq/how-do-i-delete-my-account/",
+        "difficulty" : "easy"
+    },
+
+    {
         "name": "Couchsurfing",
         "url": "https://www.couchsurfing.org/delete_profile.html?delete=1",
         "difficulty": "impossible",
@@ -221,6 +227,12 @@
         "notes": "All data is wiped immediately. Accounts can be reactivated within 30 days, after that they can no longer be recovered."
     },
 
+    {
+        "name" : "DHL (Paket.de)",
+        "url" : "https://www.paket.de/pkp/appmanager/pkp/desktop?_nfpb=true&_nfxr=false&_pageLabel=pkp_portal_page_footer_cah_faqs",
+        "difficulty" : "impossible",
+        "notes" : "No information in the FAQ about account deletion, the operator on the hotline said that deleting is not possible."
+    },
 
     {
         "name" : "Diaspora",
@@ -742,6 +754,13 @@
     },
 
     {
+        "name": "Mojang",
+        "url": "https://account.mojang.com/me/settings",
+        "difficulty": "easy",
+        "notes": "If you have registered a Mojang account and would like to delete your account, please visit your account settings page. Please be aware that if your account is deleted, you will no longer be able to log into Mojang services, and will not be able to purchase future Mojang games."
+    },
+
+    {
         "name": "Mozilla Persona",
         "url": "https://login.persona.org/",
         "difficulty": "easy",
@@ -802,6 +821,20 @@
     },
 
     {
+        "name": "OkCupid",
+        "url": "https://www.okcupid.com/settings",
+        "difficulty": "easy",
+        "notes": "Visit your settings page, and select 'Delete Account'"
+    },
+
+    {
+        "name": "OpenDNS",
+        "url": "http://forums.opendns.com/comments.php?DiscussionID=8326",
+        "difficulty": "hard",
+        "notes": "You must open a ticket to completely get your account deleted at http://www.opendns.com/support/contact/"
+    },
+
+    {
         "name": "Orkut",
         "url": "https://accounts.google.com/DeleteService?service=orkut",
         "difficulty": "easy"
@@ -837,6 +870,12 @@
     {
         "name": "PayPal",
         "url": "https://www.paypal.com/us/cgi-bin/webscr?cmd=_close-account",
+        "difficulty": "easy"
+    },
+
+    {
+        "name": "Pingdom",
+        "url": "https://my.pingdom.com/account/cancel/confirm",
         "difficulty": "easy"
     },
 
@@ -902,6 +941,13 @@
         "url": "https://ssl.reddit.com/prefs/delete/",
         "difficulty": "easy",
         "notes": "Increase your productivity by over 5 times with this one trick they don’t want you to know about!"
+    },
+
+    {
+        "name": "Redditgifts",
+        "url": "http://redditgifts.com/privacy/",
+        "difficulty": "hard",
+        "notes": "If you decide you would like to delete your account you must email us at support@redditgifts.com. You must email us from the email address associated with your account and provide your reddit username."
     },
 
     {
@@ -1085,6 +1131,12 @@
     },
 
     {
+        "name" : "Tweetdeck",
+        "url" : "https://www.tweetdeck.com/api/account-delete/",
+        "difficulty" : "easy"
+    },
+
+    {
         "name": "Twitch",
         "url": "http://www.twitch.tv/user/close_account",
         "difficulty": "easy"
@@ -1094,6 +1146,13 @@
         "name": "Twitter",
         "url": "https://twitter.com/settings/accounts/confirm_deactivation",
         "difficulty": "easy"
+    },
+
+    {
+        "name": "Ubuntu One",
+        "url": "https://one.ubuntu.com/help/faq/how-can-i-delete-my-account/",
+        "difficulty": "hard",
+        "notes": "Yes and no, it depends on which type(s) of accounts, and you will need to delete the accounts in the correct order. All accounts are tied to Ubuntu One's Single Sign-On (login.ubuntu.com), so that is the account you should close last. Everything else, such as Launchpad.net, cloud file storage, AskUbuntu, and other accounts should be closed first if possible. This is especially important if you have any paid services attached, to make sure you won't be billed for anything after closing the accounts. The last step is to delete your Single Sign-On (SSO) account. SSO accounts must be deleted manually by the Ubuntu One staff."
     },
 
     {
@@ -1141,6 +1200,13 @@
         "url": "https://support.twitter.com/forms/vine",
         "difficulty": "hard",
         "notes": "The only way to delete your Vine account without deleting your Twitter account is to contact Twitter through their contact form."
+    },
+
+    {
+        "name": "Waze",
+        "url": "http://www.waze.com/support/",
+        "difficulty": "hard",
+        "notes": "Send in a support ticket via the Quick Help form at Waze Support. Enter 'Delete Waze account' as the subject/question, then click the Email link. Complete filling out the form with your Waze username and registered email address."
     },
 
     {
@@ -1207,24 +1273,5 @@
         "name": "Zoho",
         "url": "https://accounts.zoho.com/u/h#setting/closeaccount",
         "difficulty": "easy"
-    },
-
-	{
-		"name" : "Codepen",
-		"url" : "http://blog.codepen.io/documentation/faq/how-do-i-delete-my-account/",
-		"difficulty" : "easy"
-	},
-
-	{
-		"name" : "DHL (Paket.de)",
-		"url" : "https://www.paket.de/pkp/appmanager/pkp/desktop?_nfpb=true&_nfxr=false&_pageLabel=pkp_portal_page_footer_cah_faqs",
-		"difficulty" : "impossible",
-		"notes" : "No information in the FAQ about account deletion, the operator on the hotline said that deleting is not possible."
-	},
-
-    {
-        "name" : "Tweetdeck",
-        "url" : "https://www.tweetdeck.com/api/account-delete/",
-        "difficulty" : "easy"
     }
 ]
