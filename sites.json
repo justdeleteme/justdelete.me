@@ -939,5 +939,11 @@
 		"url" : "http://pastebin.com/profile",
 		"difficulty" : "impossible",
 		"notes" : "You can remove your pastes, but there's no link to delete your account."
+	},
+	{
+		"name" : "Gravatar",
+		"url" : "http://gravatar.com",
+		"difficulty" : "impossible",
+		"notes" : "Gravatar is part of WordPress, this means you can't remove your account."
 	}
 ]
