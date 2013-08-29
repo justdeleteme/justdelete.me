@@ -175,6 +175,12 @@
     },
 
     {
+        "name" : "Codepen",
+        "url" : "http://blog.codepen.io/documentation/faq/how-do-i-delete-my-account/",
+        "difficulty" : "easy"
+    },
+
+    {
         "name": "Couchsurfing",
         "url": "https://www.couchsurfing.org/delete_profile.html?delete=1",
         "difficulty": "impossible",
@@ -1212,11 +1218,5 @@
         "name": "Zoho",
         "url": "https://accounts.zoho.com/u/h#setting/closeaccount",
         "difficulty": "easy"
-    },
-
-    {
-        "name" : "Codepen",
-        "url" : "http://blog.codepen.io/documentation/faq/how-do-i-delete-my-account/",
-        "difficulty" : "easy"
     }
 ]
