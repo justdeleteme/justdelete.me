@@ -1219,5 +1219,26 @@
         "name" : "Tweetdeck",
         "url" : "https://www.tweetdeck.com/api/account-delete/",
         "difficulty" : "easy"
+    },
+
+    {
+        "name": "WEB.DE",
+        "url": "https://kundencenter.web.de/",
+        "difficulty": "easy",
+    },
+
+    {
+        "name": "GMX",
+        "url": "http://www.gmx.net/",
+        "difficulty": "impossible",
+        "notes": "You can't delete your account, but you can deactivate it. (Start →  Mein Account →  Account stilllegen)"
+    },
+
+    {
+        "name": "Picasa",
+        "url": "http://picasaweb.google.com/",
+        "difficulty": "impossible",
+        "notes": "You can't delete your Google Account for Picasa Web Albums without deleting your entire Google Account."
     }
+
 ]
