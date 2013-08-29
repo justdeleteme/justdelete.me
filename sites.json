@@ -1197,6 +1197,12 @@
     },
 
     {
+        "name": "Zattoo",
+        "url": "https://zattoo.com/account/delete",
+        "difficulty": "easy"
+    },
+
+    {
         "name": "Zoho",
         "url": "https://accounts.zoho.com/u/h#setting/closeaccount",
         "difficulty": "easy"
