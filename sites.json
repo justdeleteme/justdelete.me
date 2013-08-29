@@ -615,9 +615,9 @@
 
     {
         "name" : "jsFiddle",
-        "url" : "https://github.com/jsfiddle/jsfiddle-issues/issues/237",
+        "url" : "http://doc.jsfiddle.net/meta/channels.html?highlight=contact",
         "difficulty" : "hard",
-        "notes" : "Please send a request to support@jsfiddle.net if you'd like your account to be deleted."
+        "notes" : "Please send a request to support@jsfiddle.net if you'd like your account to be deleted. <a href='https://github.com/jsfiddle/jsfiddle-issues/issues/237'>More here</a>"
     },
 
     {
