@@ -1183,6 +1183,13 @@
     },
 
     {
+        "name": "Waze",
+        "url": "http://www.waze.com/support/",
+        "difficulty": "hard",
+        "notes": "Send in a support ticket via the Quick Help form at Waze Support. Enter 'Delete Waze account' as the subject/question, then click the Email link. Complete filling out the form with your Waze username and registered email address."
+    },
+
+    {
         "name": "WhatsApp",
         "url": "https://whatsapp.zendesk.com/entries/21119703-How-do-I-delete-my-account-",
         "difficulty": "medium",
