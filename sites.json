@@ -918,6 +918,13 @@
     },
 
     {
+        "name": "RunKeeper",
+        "url": "http://runkeeper.com/I-Love-RunKeeper",
+        "difficulty": "medium",
+        "notes": "After clicking the button, you will have to enter your password, complete a capcha, click another button, AND a confirmation modal dialog."
+    },
+
+    {
         "name": "ScanMyServer",
         "url": "https://scanmyserver.com/?suspend=1",
         "difficulty": "easy",
