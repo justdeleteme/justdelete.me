@@ -43,9 +43,11 @@ $(function(){
 	  });
 	}
 
-	$('.banner').click(function(e) {
-		$('body').scrollTo('.banner-block');
-	})
+	// Banner scroll to bottom
+
+	// $('.banner').click(function(e) {
+	// 	$('body').scrollTo('.banner-block');
+	// })
 
 	// $('.site').hover(function () {
 	// 	$(this).find('.tooltip').fadeIn();

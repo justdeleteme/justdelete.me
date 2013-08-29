@@ -56,8 +56,8 @@ usort($sites, function($a, $b) {
 	<!-- Facebook Like Button SDK -->
 	<div id="fb-root"></div>
 
-	<a href="https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf" target="_blank" class="banner">
-		Try our new <span>Chrome Extension</span>
+	<a href="http://robblewis.me/just-delete-me-one-million-page-views" target="_blank" class="banner">
+		New Post: JustDelete.me: One Million Page Views &raquo;
 	</a>
 
 
