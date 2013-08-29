@@ -399,6 +399,13 @@
     },
 
     {
+        "name": "Gauges",
+        "url": "http://get.gaug.es/tos/",
+        "difficulty": "impossible",
+        "notes": "If you wish to terminate your Gauges account, you may simply discontinue using Gauges."
+    },
+
+    {
         "name": "Geni",
         "url": "http://www.geni.com/account_settings",
         "difficulty": "medium",
@@ -1042,6 +1049,13 @@
         "url": "https://sourceforge.net/account/remove",
         "difficulty": "medium",
         "notes": "Data created by the user such as posts and tickets will remain and be attributed to the account, even if deleted. The username will not become available."
+    },
+
+    {
+        "name": "Speaker Deck",
+        "url": "https://speakerdeck.com/tos",
+        "difficulty": "impossible",
+        "notes": "If you wish to terminate your Speaker Deck account, you may simply discontinue using Speaker Deck."
     },
 
     {
