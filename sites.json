@@ -221,6 +221,12 @@
         "notes": "All data is wiped immediately. Accounts can be reactivated within 30 days, after that they can no longer be recovered."
     },
 
+    {
+        "name" : "DHL (Paket.de)",
+        "url" : "https://www.paket.de/pkp/appmanager/pkp/desktop?_nfpb=true&_nfxr=false&_pageLabel=pkp_portal_page_footer_cah_faqs",
+        "difficulty" : "impossible",
+        "notes" : "No information in the FAQ about account deletion, the operator on the hotline said that deleting is not possible."
+    },
 
     {
         "name" : "Diaspora",
@@ -1078,6 +1084,12 @@
     },
 
     {
+        "name" : "Tweetdeck",
+        "url" : "https://www.tweetdeck.com/api/account-delete/",
+        "difficulty" : "easy"
+    },
+
+    {
         "name": "Twitch",
         "url": "http://www.twitch.tv/user/close_account",
         "difficulty": "easy"
@@ -1202,22 +1214,9 @@
         "difficulty": "easy"
     },
 
-	{
-		"name" : "Codepen",
-		"url" : "http://blog.codepen.io/documentation/faq/how-do-i-delete-my-account/",
-		"difficulty" : "easy"
-	},
-
-	{
-		"name" : "DHL (Paket.de)",
-		"url" : "https://www.paket.de/pkp/appmanager/pkp/desktop?_nfpb=true&_nfxr=false&_pageLabel=pkp_portal_page_footer_cah_faqs",
-		"difficulty" : "impossible",
-		"notes" : "No information in the FAQ about account deletion, the operator on the hotline said that deleting is not possible."
-	},
-
     {
-        "name" : "Tweetdeck",
-        "url" : "https://www.tweetdeck.com/api/account-delete/",
+        "name" : "Codepen",
+        "url" : "http://blog.codepen.io/documentation/faq/how-do-i-delete-my-account/",
         "difficulty" : "easy"
     }
 ]
