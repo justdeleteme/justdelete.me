@@ -754,6 +754,13 @@
     },
 
     {
+        "name": "Mojang",
+        "url": "https://account.mojang.com/me/settings",
+        "difficulty": "easy",
+        "notes": "If you have registered a Mojang account and would like to delete your account, please visit your account settings page. Please be aware that if your account is deleted, you will no longer be able to log into Mojang services, and will not be able to purchase future Mojang games."
+    },
+
+    {
         "name": "Mozilla Persona",
         "url": "https://login.persona.org/",
         "difficulty": "easy",
