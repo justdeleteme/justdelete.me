@@ -83,12 +83,6 @@
     },
 
     {
-        "name": "BBC iD",
-        "url": "https://ssl.bbc.co.uk/id/settings/delete",
-        "difficulty": "easy"
-    },
-
-    {
         "name": "Bambuser",
         "url": "https://bambuser.com/settings",
         "difficulty": "easy",
@@ -100,6 +94,12 @@
         "url": "https://eu.battle.net/support/en/ticket/submit",
         "difficulty": "hard",
         "notes": "Customer Support will require you to send a signed written letter confirming your wishes, your account details and a copy of legal identification (passport, drivers license) to your account region's office headquarters."
+    },
+
+    {
+        "name": "BBC iD",
+        "url": "https://ssl.bbc.co.uk/id/settings/delete",
+        "difficulty": "easy"
     },
 
     {
@@ -175,9 +175,9 @@
     },
 
     {
-        "name" : "Codepen",
-        "url" : "http://blog.codepen.io/documentation/faq/how-do-i-delete-my-account/",
-        "difficulty" : "easy"
+        "name": "Codepen",
+        "url": "http://blog.codepen.io/documentation/faq/how-do-i-delete-my-account/",
+        "difficulty": "easy"
     },
 
     {
@@ -228,17 +228,17 @@
     },
 
     {
-        "name" : "DHL (Paket.de)",
-        "url" : "https://www.paket.de/pkp/appmanager/pkp/desktop?_nfpb=true&_nfxr=false&_pageLabel=pkp_portal_page_footer_cah_faqs",
-        "difficulty" : "impossible",
-        "notes" : "No information in the FAQ about account deletion, the operator on the hotline said that deleting is not possible."
+        "name": "DHL (Paket.de)",
+        "url": "https://www.paket.de/pkp/appmanager/pkp/desktop?_nfpb=true&_nfxr=false&_pageLabel=pkp_portal_page_footer_cah_faqs",
+        "difficulty": "impossible",
+        "notes": "No information in the FAQ about account deletion, the operator on the hotline said that deleting is not possible."
     },
 
     {
-        "name" : "Diaspora",
-        "url" : "https://diasp.eu/user/edit#close_account_pane",
-        "difficulty" : "easy",
-        "notes" : "Click close my account and confirm with your password."
+        "name": "Diaspora",
+        "url": "https://diasp.eu/user/edit#close_account_pane",
+        "difficulty": "easy",
+        "notes": "Click close my account and confirm with your password."
     },
 
     {
@@ -446,17 +446,17 @@
     },
 
     {
+        "name": "GMX",
+        "url": "http://www.gmx.net/",
+        "difficulty": "impossible",
+        "notes": "You can't delete your account, but you can deactivate it. (Start →  Mein Account →  Account stilllegen)"
+    },
+
+    {
         "name": "GoDaddy",
         "url": "http://support.godaddy.com/groups/go-daddy-customers/forum/topic/how-do-i-delete-my-account-with-godaddy/",
         "difficulty": "impossible",
         "notes": "GoDaddy Accounts are apparently retained “to comply with [their] legal obligations” though you are able to clear out most of your information by editing your profile."
-    },
-
-    {
-        "name": "GoSquared",
-        "url": "https://www.gosquared.com/home/account/close",
-        "difficulty": "easy",
-        "notes": "Select a reason for closing and it'll take 2 clicks."
     },
 
     {
@@ -476,6 +476,13 @@
         "name": "Google",
         "url": "https://www.google.com/accounts/Login",
         "difficulty": "easy"
+    },
+
+    {
+        "name": "GoSquared",
+        "url": "https://www.gosquared.com/home/account/close",
+        "difficulty": "easy",
+        "notes": "Select a reason for closing and it'll take 2 clicks."
     },
 
     {
@@ -511,13 +518,6 @@
     },
 
     {
-        "name": "HOL Virtual Hogwarts",
-        "url": "http://hol.org.uk/profile.php?view=quithol",
-        "difficulty": "impossible",
-        "notes": "You can remove information and manually quit HOL, but your account stays forever."
-    },
-
-    {
         "name": "Hacker News",
         "url": "http://jacquesmattheij.com/The+Unofficial+HN+FAQ#deleteaccount",
         "difficulty": "impossible",
@@ -535,6 +535,13 @@
         "name": "Hi5",
         "url": "http://www.hi5.com/account_cancel.html",
         "difficulty": "easy"
+    },
+
+    {
+        "name": "HOL Virtual Hogwarts",
+        "url": "http://hol.org.uk/profile.php?view=quithol",
+        "difficulty": "impossible",
+        "notes": "You can remove information and manually quit HOL, but your account stays forever."
     },
 
     {
@@ -556,18 +563,6 @@
     },
 
     {
-        "name": "IFTTT",
-        "url": "https://ifttt.com/settings/deactivate",
-        "difficulty": "easy"
-    },
-
-    {
-        "name": "IMDb",
-        "url": "https://secure.imdb.com/register-imdb/delete",
-        "difficulty": "easy"
-    },
-
-    {
         "name": "Iceber.gs",
         "url": "https://iceber.gs/home",
         "difficulty": "easy",
@@ -575,8 +570,20 @@
     },
 
     {
+        "name": "IFTTT",
+        "url": "https://ifttt.com/settings/deactivate",
+        "difficulty": "easy"
+    },
+
+    {
         "name": "ImageShack",
         "url": "http://imageshack.us/prefs/",
+        "difficulty": "easy"
+    },
+
+    {
+        "name": "IMDb",
+        "url": "https://secure.imdb.com/register-imdb/delete",
         "difficulty": "easy"
     },
 
@@ -633,10 +640,10 @@
     },
 
     {
-        "name" : "jsFiddle",
-        "url" : "http://doc.jsfiddle.net/meta/channels.html?highlight=contact",
-        "difficulty" : "hard",
-        "notes" : "Please send a request to support@jsfiddle.net if you'd like your account to be deleted. <a href='https://github.com/jsfiddle/jsfiddle-issues/issues/237'>More here</a>"
+        "name": "jsFiddle",
+        "url": "http://doc.jsfiddle.net/meta/channels.html?highlight=contact",
+        "difficulty": "hard",
+        "notes": "Please send a request to support@jsfiddle.net if you'd like your account to be deleted. <a href='https://github.com/jsfiddle/jsfiddle-issues/issues/237'>More here</a>"
     },
 
     {
@@ -861,10 +868,10 @@
     },
 
     {
-        "name" : "Pastebin",
-        "url" : "http://pastebin.com/profile",
-        "difficulty" : "impossible",
-        "notes" : "You can remove your pastes, but there's no link to delete your account."
+        "name": "Pastebin",
+        "url": "http://pastebin.com/profile",
+        "difficulty": "impossible",
+        "notes": "You can remove your pastes, but there's no link to delete your account."
     },
 
     {
@@ -875,16 +882,23 @@
     },
 
     {
-        "name" : "Paukd",
-        "url" : "https://paukd.com",
-        "difficulty" : "easy",
-        "notes" : "Login to your account, go to settings (small gear next to your username), click Delete my account. You'll receive a confirmation link via e-mail."
-    }, 
+        "name": "Paukd",
+        "url": "https://paukd.com",
+        "difficulty": "easy",
+        "notes": "Login to your account, go to settings (small gear next to your username), click Delete my account. You'll receive a confirmation link via e-mail."
+    },
 
     {
         "name": "PayPal",
         "url": "https://www.paypal.com/us/cgi-bin/webscr?cmd=_close-account",
         "difficulty": "easy"
+    },
+
+    {
+        "name": "Picasa",
+        "url": "http://picasaweb.google.com/",
+        "difficulty": "impossible",
+        "notes": "You can't delete your Google Account for Picasa Web Albums without deleting your entire Google Account."
     },
 
     {
@@ -948,6 +962,13 @@
         "name": "Rdio",
         "url": "http://www.rdio.com/settings/advanced/",
         "difficulty": "easy"
+    },
+
+    {
+        "name": "Readability",
+        "url": "https://www.readability.com/account/delete",
+        "difficulty": "impossible",
+        "notes": "You can't delete your account, but you can deactivate it."
     },
 
     {
@@ -1032,10 +1053,10 @@
     },
 
     {
-        "name" : "Slideshare",
-        "url" : "http://help.slideshare.com/entries/57912-How-do-I-delete-my-SlideShare-account-",
-        "difficulty" : "easy",
-        "notes" : "A direct link is not available as it is based on your username."
+        "name": "Slideshare",
+        "url": "http://help.slideshare.com/entries/57912-How-do-I-delete-my-SlideShare-account-",
+        "difficulty": "easy",
+        "notes": "A direct link is not available as it is based on your username."
     },
 
     {
@@ -1152,9 +1173,9 @@
     },
 
     {
-        "name" : "Tweetdeck",
-        "url" : "https://www.tweetdeck.com/api/account-delete/",
-        "difficulty" : "easy"
+        "name": "Tweetdeck",
+        "url": "https://www.tweetdeck.com/api/account-delete/",
+        "difficulty": "easy"
     },
 
     {
@@ -1198,12 +1219,6 @@
     },
 
     {
-        "name": "VK/ВКонтакте",
-        "url": "http://vk.com/settings?act=deactivate",
-        "difficulty": "easy"
-    },
-
-    {
         "name": "Viadeo",
         "url": "http://www.viadeo.com/settings/account/?language=fr&ga_from=Fu:%2Fsettings%2Faccount%2F;Fb%3Amenu_box_right%3BFe%3AL1-account-settings%3B",
         "difficulty": "easy",
@@ -1224,6 +1239,12 @@
     },
 
     {
+        "name": "VK/ВКонтакте",
+        "url": "http://vk.com/settings?act=deactivate",
+        "difficulty": "easy"
+    },
+
+    {
         "name": "Waze",
         "url": "http://www.waze.com/support/",
         "difficulty": "hard",
@@ -1231,10 +1252,23 @@
     },
 
     {
+        "name": "WEB.DE",
+        "url": "https://kundencenter.web.de/",
+        "difficulty": "easy"
+    },
+
+    {
         "name": "WhatsApp",
         "url": "https://whatsapp.zendesk.com/entries/21119703-How-do-I-delete-my-account-",
         "difficulty": "medium",
         "notes": "From the app: Settings → Account → Delete your account."
+    },
+
+    {
+        "name": "whistle.im",
+        "url": "https://whistle.im/browser#vcard",
+        "difficulty": "easy",
+        "notes": "Menu →  Edit vCard →  Account management →  Delete everything (cannot be undone)"
     },
 
     {
