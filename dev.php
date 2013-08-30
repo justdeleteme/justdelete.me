@@ -56,8 +56,8 @@ usort($sites, function($a, $b) {
 	<!-- Facebook Like Button SDK -->
 	<div id="fb-root"></div>
 
-	<a href="http://robblewis.me/just-delete-me-one-million-page-views" target="_blank" class="banner">
-		New Post: JustDelete.me: One Million Page Views &raquo;
+	<a href="https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf" target="_blank" class="banner">
+		Try our new <span>Chrome Extension</span>
 	</a>
 
 
@@ -112,6 +112,7 @@ usort($sites, function($a, $b) {
 					<li><a href="http://robblewis.me/just-delete-me?utm_source=JustDeleteMe&amp;utm_medium=link&amp;utm_campaign=Just+Delete+Me" target="_blank">Read the announcement blog post &raquo;</a></li>
 					<li><a href="http://robblewis.me/24-hours-of-just-delete-me/" target="_blank">See the first-day stats &raquo;</a></li>
 					<li><a href="http://thetechtailor.com/justdeleteme" target="_blank">Listen to an interview with Robb on The Tech Tailor podcast &raquo;</a></li>
+					<li><a href="http://robblewis.me/just-delete-me-one-million-page-views/">One Million Page Views &raquo;</a></li>
 				</ul>
 				<p><a href="https://twitter.com/justdeletedotme" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @justdeletedotme</a></p>
 			</div><div class="info-block-half">

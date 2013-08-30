@@ -83,12 +83,6 @@
     },
 
     {
-        "name": "BBC iD",
-        "url": "https://ssl.bbc.co.uk/id/settings/delete",
-        "difficulty": "easy"
-    },
-
-    {
         "name": "Bambuser",
         "url": "https://bambuser.com/settings",
         "difficulty": "easy",
@@ -100,6 +94,12 @@
         "url": "https://eu.battle.net/support/en/ticket/submit",
         "difficulty": "hard",
         "notes": "Customer Support will require you to send a signed written letter confirming your wishes, your account details and a copy of legal identification (passport, drivers license) to your account region's office headquarters."
+    },
+
+    {
+        "name": "BBC iD",
+        "url": "https://ssl.bbc.co.uk/id/settings/delete",
+        "difficulty": "easy"
     },
 
     {
@@ -175,6 +175,12 @@
     },
 
     {
+        "name": "Codepen",
+        "url": "http://blog.codepen.io/documentation/faq/how-do-i-delete-my-account/",
+        "difficulty": "easy"
+    },
+
+    {
         "name": "Couchsurfing",
         "url": "https://www.couchsurfing.org/delete_profile.html?delete=1",
         "difficulty": "impossible",
@@ -221,12 +227,18 @@
         "notes": "All data is wiped immediately. Accounts can be reactivated within 30 days, after that they can no longer be recovered."
     },
 
+    {
+        "name": "DHL (Paket.de)",
+        "url": "https://www.paket.de/pkp/appmanager/pkp/desktop?_nfpb=true&_nfxr=false&_pageLabel=pkp_portal_page_footer_cah_faqs",
+        "difficulty": "impossible",
+        "notes": "No information in the FAQ about account deletion, the operator on the hotline said that deleting is not possible."
+    },
 
     {
-        "name" : "Diaspora",
-        "url" : "https://diasp.eu/user/edit#close_account_pane",
-        "difficulty" : "easy",
-        "notes" : "Click close my account and confirm with your password."
+        "name": "Diaspora",
+        "url": "https://diasp.eu/user/edit#close_account_pane",
+        "difficulty": "easy",
+        "notes": "Click close my account and confirm with your password."
     },
 
     {
@@ -387,6 +399,13 @@
     },
 
     {
+        "name": "Gauges",
+        "url": "http://get.gaug.es/tos/",
+        "difficulty": "impossible",
+        "notes": "If you wish to terminate your Gauges account, you may simply discontinue using Gauges."
+    },
+
+    {
         "name": "Geni",
         "url": "http://www.geni.com/account_settings",
         "difficulty": "medium",
@@ -427,17 +446,17 @@
     },
 
     {
+        "name": "GMX",
+        "url": "http://www.gmx.net/",
+        "difficulty": "impossible",
+        "notes": "You can't delete your account, but you can deactivate it. (Start →  Mein Account →  Account stilllegen)"
+    },
+
+    {
         "name": "GoDaddy",
         "url": "http://support.godaddy.com/groups/go-daddy-customers/forum/topic/how-do-i-delete-my-account-with-godaddy/",
         "difficulty": "impossible",
         "notes": "GoDaddy Accounts are apparently retained “to comply with [their] legal obligations” though you are able to clear out most of your information by editing your profile."
-    },
-
-    {
-        "name": "GoSquared",
-        "url": "https://www.gosquared.com/home/account/close",
-        "difficulty": "easy",
-        "notes": "Select a reason for closing and it'll take 2 clicks."
     },
 
     {
@@ -457,6 +476,13 @@
         "name": "Google",
         "url": "https://www.google.com/accounts/Login",
         "difficulty": "easy"
+    },
+
+    {
+        "name": "GoSquared",
+        "url": "https://www.gosquared.com/home/account/close",
+        "difficulty": "easy",
+        "notes": "Select a reason for closing and it'll take 2 clicks."
     },
 
     {
@@ -492,13 +518,6 @@
     },
 
     {
-        "name": "HOL Virtual Hogwarts",
-        "url": "http://hol.org.uk/profile.php?view=quithol",
-        "difficulty": "impossible",
-        "notes": "You can remove information and manually quit HOL, but your account stays forever."
-    },
-
-    {
         "name": "Hacker News",
         "url": "http://jacquesmattheij.com/The+Unofficial+HN+FAQ#deleteaccount",
         "difficulty": "impossible",
@@ -516,6 +535,13 @@
         "name": "Hi5",
         "url": "http://www.hi5.com/account_cancel.html",
         "difficulty": "easy"
+    },
+
+    {
+        "name": "HOL Virtual Hogwarts",
+        "url": "http://hol.org.uk/profile.php?view=quithol",
+        "difficulty": "impossible",
+        "notes": "You can remove information and manually quit HOL, but your account stays forever."
     },
 
     {
@@ -537,18 +563,6 @@
     },
 
     {
-        "name": "IFTTT",
-        "url": "https://ifttt.com/settings/deactivate",
-        "difficulty": "easy"
-    },
-
-    {
-        "name": "IMDb",
-        "url": "https://secure.imdb.com/register-imdb/delete",
-        "difficulty": "easy"
-    },
-
-    {
         "name": "Iceber.gs",
         "url": "https://iceber.gs/home",
         "difficulty": "easy",
@@ -556,8 +570,20 @@
     },
 
     {
+        "name": "IFTTT",
+        "url": "https://ifttt.com/settings/deactivate",
+        "difficulty": "easy"
+    },
+
+    {
         "name": "ImageShack",
         "url": "http://imageshack.us/prefs/",
+        "difficulty": "easy"
+    },
+
+    {
+        "name": "IMDb",
+        "url": "https://secure.imdb.com/register-imdb/delete",
         "difficulty": "easy"
     },
 
@@ -614,10 +640,10 @@
     },
 
     {
-        "name" : "jsFiddle",
-        "url" : "http://doc.jsfiddle.net/meta/channels.html?highlight=contact",
-        "difficulty" : "hard",
-        "notes" : "Please send a request to support@jsfiddle.net if you'd like your account to be deleted. <a href='https://github.com/jsfiddle/jsfiddle-issues/issues/237'>More here</a>"
+        "name": "jsFiddle",
+        "url": "http://doc.jsfiddle.net/meta/channels.html?highlight=contact",
+        "difficulty": "hard",
+        "notes": "Please send a request to support@jsfiddle.net if you'd like your account to be deleted. <a href='https://github.com/jsfiddle/jsfiddle-issues/issues/237'>More here</a>"
     },
 
     {
@@ -742,6 +768,13 @@
     },
 
     {
+        "name": "Mojang",
+        "url": "https://account.mojang.com/me/settings",
+        "difficulty": "easy",
+        "notes": "If you have registered a Mojang account and would like to delete your account, please visit your account settings page. Please be aware that if your account is deleted, you will no longer be able to log into Mojang services, and will not be able to purchase future Mojang games."
+    },
+
+    {
         "name": "Mozilla Persona",
         "url": "https://login.persona.org/",
         "difficulty": "easy",
@@ -802,6 +835,20 @@
     },
 
     {
+        "name": "OkCupid",
+        "url": "https://www.okcupid.com/settings",
+        "difficulty": "easy",
+        "notes": "Visit your settings page, and select 'Delete Account'"
+    },
+
+    {
+        "name": "OpenDNS",
+        "url": "http://forums.opendns.com/comments.php?DiscussionID=8326",
+        "difficulty": "hard",
+        "notes": "You must open a ticket to completely get your account deleted at http://www.opendns.com/support/contact/"
+    },
+
+    {
         "name": "Orkut",
         "url": "https://accounts.google.com/DeleteService?service=orkut",
         "difficulty": "easy"
@@ -821,10 +868,10 @@
     },
 
     {
-        "name" : "Pastebin",
-        "url" : "http://pastebin.com/profile",
-        "difficulty" : "impossible",
-        "notes" : "You can remove your pastes, but there's no link to delete your account."
+        "name": "Pastebin",
+        "url": "http://pastebin.com/profile",
+        "difficulty": "impossible",
+        "notes": "You can remove your pastes, but there's no link to delete your account."
     },
 
     {
@@ -835,8 +882,28 @@
     },
 
     {
+        "name": "Paukd",
+        "url": "https://paukd.com",
+        "difficulty": "easy",
+        "notes": "Login to your account, go to settings (small gear next to your username), click Delete my account. You'll receive a confirmation link via e-mail."
+    },
+
+    {
         "name": "PayPal",
         "url": "https://www.paypal.com/us/cgi-bin/webscr?cmd=_close-account",
+        "difficulty": "easy"
+    },
+
+    {
+        "name": "Picasa",
+        "url": "http://picasaweb.google.com/",
+        "difficulty": "impossible",
+        "notes": "You can't delete your Google Account for Picasa Web Albums without deleting your entire Google Account."
+    },
+
+    {
+        "name": "Pingdom",
+        "url": "https://my.pingdom.com/account/cancel/confirm",
         "difficulty": "easy"
     },
 
@@ -898,10 +965,24 @@
     },
 
     {
+        "name": "Readability",
+        "url": "https://www.readability.com/account/delete",
+        "difficulty": "impossible",
+        "notes": "You can't delete your account, but you can deactivate it."
+    },
+
+    {
         "name": "Reddit",
         "url": "https://ssl.reddit.com/prefs/delete/",
         "difficulty": "easy",
         "notes": "Increase your productivity by over 5 times with this one trick they don’t want you to know about!"
+    },
+
+    {
+        "name": "Redditgifts",
+        "url": "http://redditgifts.com/privacy/",
+        "difficulty": "hard",
+        "notes": "If you decide you would like to delete your account you must email us at support@redditgifts.com. You must email us from the email address associated with your account and provide your reddit username."
     },
 
     {
@@ -915,6 +996,13 @@
         "url": "http://flixster.desk.com/customer/portal/articles/169347-how-do-i-cancel-my-account-",
         "difficulty": "hard",
         "notes": "You need to contact flixster to cancel a native RT profile, while Facebook linked or Flixster.com accounts are easier to cancel."
+    },
+
+    {
+        "name": "RunKeeper",
+        "url": "http://runkeeper.com/I-Love-RunKeeper",
+        "difficulty": "medium",
+        "notes": "After clicking the button, you will have to enter your password, complete a capcha, click another button, AND a confirmation modal dialog."
     },
 
     {
@@ -965,10 +1053,10 @@
     },
 
     {
-        "name" : "Slideshare",
-        "url" : "http://help.slideshare.com/entries/57912-How-do-I-delete-my-SlideShare-account-",
-        "difficulty" : "easy",
-        "notes" : "A direct link is not available as it is based on your username."
+        "name": "Slideshare",
+        "url": "http://help.slideshare.com/entries/57912-How-do-I-delete-my-SlideShare-account-",
+        "difficulty": "easy",
+        "notes": "A direct link is not available as it is based on your username."
     },
 
     {
@@ -989,6 +1077,13 @@
         "url": "https://sourceforge.net/account/remove",
         "difficulty": "medium",
         "notes": "Data created by the user such as posts and tickets will remain and be attributed to the account, even if deleted. The username will not become available."
+    },
+
+    {
+        "name": "Speaker Deck",
+        "url": "https://speakerdeck.com/tos",
+        "difficulty": "impossible",
+        "notes": "If you wish to terminate your Speaker Deck account, you may simply discontinue using Speaker Deck."
     },
 
     {
@@ -1078,6 +1173,12 @@
     },
 
     {
+        "name": "Tweetdeck",
+        "url": "https://www.tweetdeck.com/api/account-delete/",
+        "difficulty": "easy"
+    },
+
+    {
         "name": "Twitch",
         "url": "http://www.twitch.tv/user/close_account",
         "difficulty": "easy"
@@ -1087,6 +1188,13 @@
         "name": "Twitter",
         "url": "https://twitter.com/settings/accounts/confirm_deactivation",
         "difficulty": "easy"
+    },
+
+    {
+        "name": "Ubuntu One",
+        "url": "https://one.ubuntu.com/help/faq/how-can-i-delete-my-account/",
+        "difficulty": "hard",
+        "notes": "Yes and no, it depends on which type(s) of accounts, and you will need to delete the accounts in the correct order. All accounts are tied to Ubuntu One's Single Sign-On (login.ubuntu.com), so that is the account you should close last. Everything else, such as Launchpad.net, cloud file storage, AskUbuntu, and other accounts should be closed first if possible. This is especially important if you have any paid services attached, to make sure you won't be billed for anything after closing the accounts. The last step is to delete your Single Sign-On (SSO) account. SSO accounts must be deleted manually by the Ubuntu One staff."
     },
 
     {
@@ -1111,12 +1219,6 @@
     },
 
     {
-        "name": "VK/ВКонтакте",
-        "url": "http://vk.com/settings?act=deactivate",
-        "difficulty": "easy"
-    },
-
-    {
         "name": "Viadeo",
         "url": "http://www.viadeo.com/settings/account/?language=fr&ga_from=Fu:%2Fsettings%2Faccount%2F;Fb%3Amenu_box_right%3BFe%3AL1-account-settings%3B",
         "difficulty": "easy",
@@ -1137,10 +1239,36 @@
     },
 
     {
+        "name": "VK/ВКонтакте",
+        "url": "http://vk.com/settings?act=deactivate",
+        "difficulty": "easy"
+    },
+
+    {
+        "name": "Waze",
+        "url": "http://www.waze.com/support/",
+        "difficulty": "hard",
+        "notes": "Send in a support ticket via the Quick Help form at Waze Support. Enter 'Delete Waze account' as the subject/question, then click the Email link. Complete filling out the form with your Waze username and registered email address."
+    },
+
+    {
+        "name": "WEB.DE",
+        "url": "https://kundencenter.web.de/",
+        "difficulty": "easy"
+    },
+
+    {
         "name": "WhatsApp",
         "url": "https://whatsapp.zendesk.com/entries/21119703-How-do-I-delete-my-account-",
         "difficulty": "medium",
         "notes": "From the app: Settings → Account → Delete your account."
+    },
+
+    {
+        "name": "whistle.im",
+        "url": "https://whistle.im/browser#vcard",
+        "difficulty": "easy",
+        "notes": "Menu →  Edit vCard →  Account management →  Delete everything (cannot be undone)"
     },
 
     {
@@ -1197,27 +1325,20 @@
     },
 
     {
+        "name": "Zattoo",
+        "url": "https://zattoo.com/account/delete",
+        "difficulty": "easy"
+    },
+
+    {
         "name": "Zoho",
         "url": "https://accounts.zoho.com/u/h#setting/closeaccount",
         "difficulty": "easy"
     },
-
-	{
-		"name" : "Codepen",
-		"url" : "http://blog.codepen.io/documentation/faq/how-do-i-delete-my-account/",
-		"difficulty" : "easy"
-	},
-
-	{
-		"name" : "DHL (Paket.de)",
-		"url" : "https://www.paket.de/pkp/appmanager/pkp/desktop?_nfpb=true&_nfxr=false&_pageLabel=pkp_portal_page_footer_cah_faqs",
-		"difficulty" : "impossible",
-		"notes" : "No information in the FAQ about account deletion, the operator on the hotline said that deleting is not possible."
-	},
-
+    
     {
-        "name" : "Tweetdeck",
-        "url" : "https://www.tweetdeck.com/api/account-delete/",
-        "difficulty" : "easy"
+        "name": "Zurker",
+        "url": "https://my.zurker.com/destroy",
+        "difficulty": "easy"
     }
 ]
