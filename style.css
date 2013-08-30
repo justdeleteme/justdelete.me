@@ -608,9 +608,9 @@ footer a:hover, .info-container a:hover {
 	right: 6px;
 }
 
-#LanguageSwitcher a.current:link span.trigger, #LanguageSwitcher a.current:visited span.trigger {
+/*#LanguageSwitcher a.current:link span.trigger, #LanguageSwitcher a.current:visited span.trigger {
 	background: url(../images/arrow-down.gif) no-repeat left top;	
-}
+}*/
 
 #LanguageSwitcher a.current:hover span.trigger, #LanguageSwitcher a.current:active span.trigger, #LanguageSwitcher a.active span.trigger {
 	background-position: left bottom !important;
