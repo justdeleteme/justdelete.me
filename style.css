@@ -638,21 +638,21 @@ footer a:hover, .info-container a:hover {
 /* Flags */
 
 #en { 
-	background-image: url(./inc/icons/gb.png);
+	background-image: url(./inc/icons/flags/en.png);
 }
 
 #fr { 
-	background-image: url(./inc/icons/fr.png);	
+	background-image: url(./inc/icons/flags/fr.png);	
 }
 
 #de { 
-	background-image: url(./inc/icons/de.png);	
+	background-image: url(./inc/icons/flags/de.png);	
 }
 
 #it { 
-	background-image: url(./inc/icons/it.png);	
+	background-image: url(./inc/icons/flags/it.png);	
 }
 
 #es { 
-	background-image: url(./inc/icons/es.png);	
+	background-image: url(./inc/icons/flags/es.png);	
 }

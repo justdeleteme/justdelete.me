@@ -106,7 +106,10 @@ usort($sites, function($a, $b) {
                     <form action="#">
                         <select id="language-options">
                             <option id="en" value="en" selected>English</option>                          
-                            <option id="it" value="it">Italiano</option>                           
+                            <option id="it" value="it">Italiano</option>
+                            <!-- <option id="fr" value="fr">Français</option> -->
+                            <!-- <option id="de" value="de">Deutsch</option> -->
+                            <!-- <option id="es" value="es">Español</option> -->
                         </select>
                     </form>
                 </div>
@@ -145,8 +148,7 @@ usort($sites, function($a, $b) {
                                             echo $site->notes_it;
                                             echo '</div>';
                                         }
-                                        ?>                                   
-                                       
+                                        ?>                          
                                         <div class="tooltip-content-en">
                                         <?php echo $site->notes; ?>
                                         </div>
