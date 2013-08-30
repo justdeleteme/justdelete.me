@@ -166,7 +166,7 @@ usort($sites, function($a, $b) {
 				<h2><label class="whatisthis">What is this?</label></h2>
 				<p><label class="whatisthis1">Many companies use <a href="http://darkpatterns.org/">dark pattern</a> techniques to make it difficult to find how to delete your account. JustDelete.me aims to be a directory of urls to enable you to easily delete your account from web services.</label></p>
 				<p><label class="whatisthis2">Got a site you think should be added? <a href="http://github.com/rmlewisuk/justdelete.me">Fork the project GitHub</a>.</label></p>
-				<p><label class="whatisthis3"><em><Email submission is temporarily disabled</em></label></p>
+				<p><label class="whatisthis3"><em>Email submission is temporarily disabled</em></label></p>
 				<ul>
 					<li><a href="http://robblewis.me/just-delete-me?utm_source=JustDeleteMe&amp;utm_medium=link&amp;utm_campaign=Just+Delete+Me" target="_blank">Read the announcement blog post &raquo;</a></li>
 					<li><a href="http://robblewis.me/24-hours-of-just-delete-me/" target="_blank">See the first-day stats &raquo;</a></li>
