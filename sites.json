@@ -1135,6 +1135,13 @@
     },
 
     {
+        "name": "Ticketmaster",
+        "url": "http://www.ticketmaster.com/h/help.html?tm_link=tm_i_help"
+        "difficulty": "hard",
+        "notes": "You must submit a request to close your account via the form."
+    },
+    
+    {
         "name": "Topface",
         "url": "http://topface.com/delete-profile/",
         "difficulty": "easy"
