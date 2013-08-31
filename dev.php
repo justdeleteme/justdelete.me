@@ -168,10 +168,10 @@ usort($sites, function($a, $b) {
 				<h2><?php echo $definitions["guide"][$lang]; ?></h2>
 				<p><?php echo $definitions["guideexplanations"][$lang]; ?></p>
 				<ul>
-					<li><?php echo $definitions["guide"][$lang]; ?></li>
 					<li><?php echo $definitions["guideeasy"][$lang]; ?></li>
 					<li><?php echo $definitions["guidemedium"][$lang]; ?></li>
-                                        <li><?php echo $definitions["guidehard"][$lang]; ?></li>
+					<li><?php echo $definitions["guidehard"][$lang]; ?></li>
+                                        <li><?php echo $definitions["guideimpossible"][$lang]; ?></li>
 				</ul>
 			</div>		
 		</div>
