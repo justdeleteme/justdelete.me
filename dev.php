@@ -49,46 +49,7 @@ usort($sites, function($a, $b) {
 	      w.attachEvent("onload", gs);
 	  })(window);
 	</script>
-        <script type="text/javascript">
-             $(document).ready(function() {
-                 $('#LanguageSwitcher').LanguageSwitcher({
-                    effect: 'fade',
-                    openMode: 'hover',                    
-                    onChange: function(evt){                                           
-                        setCookie("selectedlanguage", evt.selectedItem, 365);
-                        selectedlanguage = evt.selectedItem;
-                        $.ajax({
-                             url: "definitions.json",              
-                            
-                             success: function(result) {                          
-                                for (var v in result)
-                                {
-                                    var val = result[v][evt.selectedItem];
-                                    if (v == 'title')
-                                    {
-                                        document.title = val;
-                                    }
-                                    else if (v == 'description')
-                                    {
-                                         $('meta[name=description]').remove();
-                                         $('head').append( '<meta name="description" content="' + val + '">' );
-                                    }
-                                    else
-                                    {
-                                         if (v == 'showinfo')
-                                             showinfo = val;
-                                        else if (v == 'hideinfo')
-                                            hideinfo = val;
 
-                                        replaceContentInContainer(v, val);
-                                    }
-                                }
-                            }
-                        });
-                    }
-                });
-            });
-        </script>
 </head>	
 <body>
 
@@ -96,22 +57,11 @@ usort($sites, function($a, $b) {
 	<div id="fb-root"></div>
 
 	<a href="https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf" target="_blank" class="banner">
-            <label class="banner">Try our new <span>Chrome Extension</span></label>
+		Try our new <span>Chrome Extension</span>
 	</a>
 
 
 	<header>
-               <!-- begin language switcher -->
-                <div id="LanguageSwitcher">
-                    <form action="#">
-                        <select id="language-options">
-                            <option id="en" value="en" selected>English</option>                          
-                            <option id="it" value="it">Italiano</option>                           
-                        </select>
-                    </form>
-                </div>
-                <br><br>
-                <!-- end language switcher -->
 		<h1>just<span>delete</span>.me</h1>
 		<p class="tagline">A directory of direct links to delete your account from web services.</p>
 	</header>
@@ -131,31 +81,22 @@ usort($sites, function($a, $b) {
 
 			<!-- // FIRST FOR EACH -->
 
-                        <?php foreach ($sites as $site) : ?><section class="site-block <?php echo $site->difficulty; ?>">
-                                <a class="site-header" href="<?php echo $site->url; ?>">
-                                    <?php echo $site->name; ?>
-                                </a>                            
-                                <p class="site-difficulty">
-                                    <label class="difficulty">Difficulty</label>: <label class="difficulty_<?php echo $site->difficulty; ?>"><?php echo $site->difficulty; ?></label>
-                                </p>
-                                <?php if (isset($site->notes)) : ?>
-                                    <div class="tooltip-content">
-                                        <?php if (isset($site->notes_it)) {
-                                            echo '<div class="tooltip-content-it" style="display: none">';
-                                            echo $site->notes_it;
-                                            echo '</div>';
-                                        }
-                                        ?>                                   
-                                       
-                                        <div class="tooltip-content-en">
-                                        <?php echo $site->notes; ?>
-                                        </div>
-                                    </div>
-                                    <a href="#" class="tooltip-toggle contains-info"><label class="showinfo">Show Info...</label></a>
-                                <?php else : ?>
-                                    <p class="tooltip-toggle"><label class="noinfo">No Info Available</label></p>
-                                <?php endif; ?>
-                            </section><?php endforeach; ?>
+			<?php foreach ($sites as $site) : ?><section class="site-block <?php echo $site->difficulty; ?>">
+					<a class="site-header" href="<?php echo $site->url; ?>">
+						<?php echo $site->name; ?>
+					</a>
+					<p class="site-difficulty">
+						Difficulty: <?php echo $site->difficulty; ?>
+					</p>
+					<?php if (isset($site->notes)) : ?>
+						<div class="tooltip-content">
+							<?php echo $site->notes; ?>	
+						</div>
+						<a href="#" class="tooltip-toggle contains-info">Show Info...</a>
+					<?php else : ?>
+						<p class="tooltip-toggle">No Info Available</p>
+					<?php endif; ?>
+				</section><?php endforeach; ?>
 
 		</section>
 	</section>
@@ -163,10 +104,10 @@ usort($sites, function($a, $b) {
 		<div class="info-container">
 
 			<div class="info-block-half">
-				<h2><label class="whatisthis">What is this?</label></h2>
-				<p><label class="whatisthis1">Many companies use <a href="http://darkpatterns.org/">dark pattern</a> techniques to make it difficult to find how to delete your account. JustDelete.me aims to be a directory of urls to enable you to easily delete your account from web services.</label></p>
-				<p><label class="whatisthis2">Got a site you think should be added? <a href="http://github.com/rmlewisuk/justdelete.me">Fork the project GitHub</a>.</label></p>
-				<p><label class="whatisthis3"><em><Email submission is temporarily disabled</em></label></p>
+				<h2>What is this?</h2>
+				<p>Many companies use <a href="http://darkpatterns.org/">dark pattern</a> techniques to make it difficult to find how to delete your account. JustDelete.me aims to be a directory of urls to enable you to easily delete your account from web services.</p>
+				<p>Got a site you think should be added? <a href="http://github.com/rmlewisuk/justdelete.me">Fork the project GitHub</a>.</p>
+				<p><em>Email submission is temporarily disabled</em></p>
 				<ul>
 					<li><a href="http://robblewis.me/just-delete-me?utm_source=JustDeleteMe&amp;utm_medium=link&amp;utm_campaign=Just+Delete+Me" target="_blank">Read the announcement blog post &raquo;</a></li>
 					<li><a href="http://robblewis.me/24-hours-of-just-delete-me/" target="_blank">See the first-day stats &raquo;</a></li>
@@ -175,13 +116,13 @@ usort($sites, function($a, $b) {
 				</ul>
 				<p><a href="https://twitter.com/justdeletedotme" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @justdeletedotme</a></p>
 			</div><div class="info-block-half">
-				<h2><label class="guide">Guide</label></h2>
-				<p><label class="guideexplanations">The links above are colour-coded to indicate the difficulty level of account deletion:</label></p>
+				<h2>Guide</h2>
+				<p>The links above are colour-coded to indicate the difficulty level of account deletion:</p>
 				<ul>
-					<li><label class="guideeasy"><span class="green">Easy</span> - Simple process</label></li>
-					<li><label class="guidemedium"><span class="yellow">Medium</span> - Some extra steps involved</label></li>
-					<li><label class="guidehard"><span class="red">Hard</span> - Cannot be fully deleted without contacting customer services</label></li>
-					<li><label class="guideimpossible"><span class="black">Impossible</span> - Cannot be deleted</label></li>
+					<li><span class="green">Easy</span> - Simple process</li>
+					<li><span class="yellow">Medium</span> - Some extra steps involved</li>
+					<li><span class="red">Hard</span> - Cannot be fully deleted without contacting customer services</li>
+					<li><span class="black">Impossible</span> - Cannot be deleted</li>
 				</ul>
 			</div>		
 		</div>
@@ -189,17 +130,17 @@ usort($sites, function($a, $b) {
 	<div class="banner-block">
 		<div class="banner-content">
 			<div class="banner-block-half">
-				<h2><label class="extension">Google Chrome Extension</label></h2>
-				<p><label class="extensionp1">Our good friend <a target="_blank" href="http://mikerogers.io">Mike Rogers</a> has helped us to release an awesome Google Chrome Extension for JustDelete.me.</label></p>
-				<p><label class="extensionp2">When you are on a website that is listed on justdelete.me, the Chrome Extension will add a small dot to the omnibar. Clicking on this dot will take you to the relevant delete page.</label></p>
-				<p><label class="extensionp3">To install it, simply proceed to the <a target="_blank" href="https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf">Chrome Web Store</a>.</label></p>			
+				<h2>Google Chrome Extension</h2>
+				<p>Our good friend <a target="_blank" href="http://mikerogers.io">Mike Rogers</a> has helped us to release an awesome Google Chrome Extension for JustDelete.me.</p>
+				<p>When you are on a website that is listed on justdelete.me, the Chrome Extension will add a small dot to the omnibar. Clicking on this dot will take you to the relevant delete page.</p>
+				<p>To install it, simply proceed to the <a target="_blank" href="https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf">Chrome Web Store</a>.</p>			
 			</div><div class="banner-block-half">
 				<h2>Extension Dot Guide</h2>
 				<ul>
-					<li><label class="extensionl1"><span class="dot-wrapper"><span class="dot easy"></span></span> - Simple process</label></li>
-					<li><label class="extensionl2"><span class="dot-wrapper"><span class="dot medium"></span></span> - Some extra steps involved</label></li>
-					<li><label class="extensionl3"><span class="dot-wrapper"><span class="dot hard"></span></span> - Cannot be fully deleted without contacting customer-services</label></li>
-					<li><label class="extensionl4"><span class="dot-wrapper"><span class="dot impossible"></span></span> - Cannot be deleted</label></li>					
+					<li><span class="dot-wrapper"><span class="dot easy"></span></span> - Simple process</li>
+					<li><span class="dot-wrapper"><span class="dot medium"></span></span> - Some extra steps involved</li>
+					<li><span class="dot-wrapper"><span class="dot hard"></span></span> - Cannot be fully deleted without contacting customer-services</li>
+					<li><span class="dot-wrapper"><span class="dot impossible"></span></span> - Cannot be deleted</li>					
 				</ul>				
 			</div>	
 		</div>
@@ -208,7 +149,7 @@ usort($sites, function($a, $b) {
 	<section class="info-block">
 		<div class="info-container">
 			<footer>
-				<span><label class="footer">Made by <a href="http://robblewis.me">Robb Lewis</a> and <a href="http://edpoole.me">Ed Poole</a> | Fork on <a href="http://github.com/rmlewisuk/justdelete.me">GitHub</a> | Hosted by <a href="http://www.mediatemple.net/#a_aid=521a8aefe4c3b">Media Temple</a> | Analytics by <a href="https://t.co/fvPnva7p4Y">GoSquared</a></span></label>
+				<span>Made by <a href="http://robblewis.me">Robb Lewis</a> and <a href="http://edpoole.me">Ed Poole</a> | Fork on <a href="http://github.com/rmlewisuk/justdelete.me">GitHub</a> | Hosted by <a href="http://www.mediatemple.net/#a_aid=521a8aefe4c3b">Media Temple</a> | Analytics by <a href="https://t.co/fvPnva7p4Y">GoSquared</a></span>
 				<div class="share-buttons" id="share buttons">
 				<!-- Twitter -->
 					<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://justdelete.me">Tweet</a>
