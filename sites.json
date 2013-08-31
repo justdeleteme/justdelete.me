@@ -1334,5 +1334,10 @@
         "name": "Zoho",
         "url": "https://accounts.zoho.com/u/h#setting/closeaccount",
         "difficulty": "easy"
+    },
+    {
+        "name": "UPS",
+        "url": "https://www.ups.com/myups/deletereg",
+        "difficulty": "easy"
     }
 ]
