@@ -1,5 +1,9 @@
 <?php
 $sites = json_decode(file_get_contents('sites.json'));
+$definitions = json_decode(file_get_contents('definitions.json'), true);
+$lang = "en";
+if (isset($_GET['lang']))
+    $lang = $_GET['lang'];
 usort($sites, function($a, $b) {
           $a = strtolower($a->name);
           $b = strtolower($b->name);
@@ -12,13 +16,13 @@ usort($sites, function($a, $b) {
 <!DOCTYPE HTML>
 <html>
 <head>
-	<title>Just Delete Me | A directory of direct links to delete your account from web services.</title>
+	<title><?php echo $definitions["title"][$lang]; ?></title>
 	<meta charset="UTF-8">
 	<!--[if lt IE 9]>
 		<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
 	<meta name="viewport" content="width=device-width,initial-scale=1">
-	<meta name="description" content="A directory of direct links to delete your account from web services. Find out how to delete your Facebook, Twitter, LinkedIn accounts and more.">
+	<meta name="description" content="<?php echo $definitions["description"][$lang]; ?>">
 
 	<!-- Icons -->
 	<link rel="shortcut icon" href="inc/icons/favicon.ico">
@@ -48,8 +52,34 @@ usort($sites, function($a, $b) {
 	      w.addEventListener("load", gs, false) :
 	      w.attachEvent("onload", gs);
 	  })(window);
-	</script>
-
+        </script>
+        <script>
+            $(document).ready(function() {
+                $('#LanguageSwitcher').LanguageSwitcher({
+                    effect: 'fade',
+                    openMode: 'hover',                   
+                    onChange: function(evt){
+                        window.location = "?lang=" + evt.selectedItem;
+                    }
+                });
+                $('.contains-info').click(function(e) {
+                    e.preventDefault();
+                    if ($(this).prev().hasClass('toggled')) {
+                           if ($(this).hasClass('text-toggled')) {
+                                   $(this).html("<?php echo $definitions["showinfo"][$lang]; ?>").removeClass('text-toggled');
+                           } else {
+                                   $(this).html("<?php echo $definitions["showinfo"][$lang]; ?>").removeClass('text-toggled');
+                           }
+                           $(this).prev().slideToggle().removeClass('toggled');
+                    } else {
+                           $('.toggled').next().html("<?php echo $definitions["showinfo"][$lang]; ?>");
+                           $('.toggled').slideToggle().removeClass('toggled');
+                           $(this).prev().slideToggle().addClass('toggled');
+                       $(this).html("<?php echo $definitions["hideinfo"][$lang]; ?>").addClass('text-toggled');
+                    }
+                });
+            });          
+        </script>
 </head>	
 <body>
 
@@ -57,13 +87,25 @@ usort($sites, function($a, $b) {
 	<div id="fb-root"></div>
 
 	<a href="https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf" target="_blank" class="banner">
-		Try our new <span>Chrome Extension</span>
+		<?php echo $definitions["banner"][$lang]; ?>
 	</a>
 
 
-	<header>
-		<h1>just<span>delete</span>.me</h1>
-		<p class="tagline">A directory of direct links to delete your account from web services.</p>
+        <header>
+            <div id="LanguageSwitcher">
+                <form action="#">
+                    <select id="language-options">
+                        <option id="en" value="en" selected>English</option>
+                        <option id="it" value="it">Italiano</option>                        
+                        <!-- <option id="de" value="de">Deutsch</option> -->
+                        <!-- <option id="fr" value="fr">Fran&ccedil;ais</option> -->  
+                        <!-- <option id="es" value="es">Espa&ntilde;ol</option>-->
+                    </select>
+                </form>
+            </div><br><br>
+            <!-- end language switcher -->
+            <h1>just<span>delete</span>.me</h1>
+            <p class="tagline"><?php echo $definitions["tagline"][$lang]; ?></p>
 	</header>
 
 	<div id="test">
@@ -86,15 +128,22 @@ usort($sites, function($a, $b) {
 						<?php echo $site->name; ?>
 					</a>
 					<p class="site-difficulty">
-						Difficulty: <?php echo $site->difficulty; ?>
+						<?php echo $definitions["difficulty"][$lang]; ?>: <?php                                             
+                                                echo $definitions["difficulty_" . $site->difficulty][$lang] ?>
 					</p>
 					<?php if (isset($site->notes)) : ?>
 						<div class="tooltip-content">
-							<?php echo $site->notes; ?>	
+                                                <?php
+                                                if ($lang == "it") {
+                                                    if (isset($site->notes_it))
+                                                        echo $site->notes_it;
+                                                    else echo $site->notes;
+                                                } else echo $site->notes;                                              
+                                                ?>	
 						</div>
-						<a href="#" class="tooltip-toggle contains-info">Show Info...</a>
+						<a href="#" class="tooltip-toggle contains-info"><?php echo $definitions["showinfo"][$lang]; ?></a>
 					<?php else : ?>
-						<p class="tooltip-toggle">No Info Available</p>
+						<p class="tooltip-toggle"><?php echo $definitions["noinfo"][$lang]; ?></p>
 					<?php endif; ?>
 				</section><?php endforeach; ?>
 
@@ -104,10 +153,10 @@ usort($sites, function($a, $b) {
 		<div class="info-container">
 
 			<div class="info-block-half">
-				<h2>What is this?</h2>
-				<p>Many companies use <a href="http://darkpatterns.org/">dark pattern</a> techniques to make it difficult to find how to delete your account. JustDelete.me aims to be a directory of urls to enable you to easily delete your account from web services.</p>
-				<p>Got a site you think should be added? <a href="http://github.com/rmlewisuk/justdelete.me">Fork the project GitHub</a>.</p>
-				<p><em>Email submission is temporarily disabled</em></p>
+				<h2><?php echo $definitions["whatisthis"][$lang]; ?></h2>
+				<p><?php echo $definitions["whatisthis1"][$lang]; ?></p>
+				<p><?php echo $definitions["whatisthis2"][$lang]; ?></p>
+				<p><?php echo $definitions["whatisthis3"][$lang]; ?></p>
 				<ul>
 					<li><a href="http://robblewis.me/just-delete-me?utm_source=JustDeleteMe&amp;utm_medium=link&amp;utm_campaign=Just+Delete+Me" target="_blank">Read the announcement blog post &raquo;</a></li>
 					<li><a href="http://robblewis.me/24-hours-of-just-delete-me/" target="_blank">See the first-day stats &raquo;</a></li>
@@ -116,13 +165,13 @@ usort($sites, function($a, $b) {
 				</ul>
 				<p><a href="https://twitter.com/justdeletedotme" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @justdeletedotme</a></p>
 			</div><div class="info-block-half">
-				<h2>Guide</h2>
-				<p>The links above are colour-coded to indicate the difficulty level of account deletion:</p>
+				<h2><?php echo $definitions["guide"][$lang]; ?></h2>
+				<p><?php echo $definitions["guideexplanations"][$lang]; ?></p>
 				<ul>
-					<li><span class="green">Easy</span> - Simple process</li>
-					<li><span class="yellow">Medium</span> - Some extra steps involved</li>
-					<li><span class="red">Hard</span> - Cannot be fully deleted without contacting customer services</li>
-					<li><span class="black">Impossible</span> - Cannot be deleted</li>
+					<li><?php echo $definitions["guideeasy"][$lang]; ?></li>
+					<li><?php echo $definitions["guidemedium"][$lang]; ?></li>
+					<li><?php echo $definitions["guidehard"][$lang]; ?></li>
+                                        <li><?php echo $definitions["guideimpossible"][$lang]; ?></li>
 				</ul>
 			</div>		
 		</div>
@@ -130,17 +179,17 @@ usort($sites, function($a, $b) {
 	<div class="banner-block">
 		<div class="banner-content">
 			<div class="banner-block-half">
-				<h2>Google Chrome Extension</h2>
-				<p>Our good friend <a target="_blank" href="http://mikerogers.io">Mike Rogers</a> has helped us to release an awesome Google Chrome Extension for JustDelete.me.</p>
-				<p>When you are on a website that is listed on justdelete.me, the Chrome Extension will add a small dot to the omnibar. Clicking on this dot will take you to the relevant delete page.</p>
-				<p>To install it, simply proceed to the <a target="_blank" href="https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf">Chrome Web Store</a>.</p>			
+				<h2><?php echo $definitions["extension"][$lang]; ?></h2>
+				<p><?php echo $definitions["extensionp1"][$lang]; ?></p>
+				<p><?php echo $definitions["extensionp2"][$lang]; ?></p>
+				<p><?php echo $definitions["extensionp3"][$lang]; ?></p>			
 			</div><div class="banner-block-half">
 				<h2>Extension Dot Guide</h2>
 				<ul>
-					<li><span class="dot-wrapper"><span class="dot easy"></span></span> - Simple process</li>
-					<li><span class="dot-wrapper"><span class="dot medium"></span></span> - Some extra steps involved</li>
-					<li><span class="dot-wrapper"><span class="dot hard"></span></span> - Cannot be fully deleted without contacting customer-services</li>
-					<li><span class="dot-wrapper"><span class="dot impossible"></span></span> - Cannot be deleted</li>					
+					<li><?php echo $definitions["extensionl1"][$lang]; ?></li>
+					<li><?php echo $definitions["extensionl2"][$lang]; ?></li>
+					<li><?php echo $definitions["extensionl3"][$lang]; ?></li>
+					<li><?php echo $definitions["extensionl4"][$lang]; ?></li>					
 				</ul>				
 			</div>	
 		</div>
@@ -149,7 +198,7 @@ usort($sites, function($a, $b) {
 	<section class="info-block">
 		<div class="info-container">
 			<footer>
-				<span>Made by <a href="http://robblewis.me">Robb Lewis</a> and <a href="http://edpoole.me">Ed Poole</a> | Fork on <a href="http://github.com/rmlewisuk/justdelete.me">GitHub</a> | Hosted by <a href="http://www.mediatemple.net/#a_aid=521a8aefe4c3b">Media Temple</a> | Analytics by <a href="https://t.co/fvPnva7p4Y">GoSquared</a></span>
+				<span><?php echo $definitions["footer"][$lang]; ?></span>
 				<div class="share-buttons" id="share buttons">
 				<!-- Twitter -->
 					<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://justdelete.me">Tweet</a>
