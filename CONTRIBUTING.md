@@ -1,5 +1,7 @@
 #Contributing
 
+**Please do not edit any of the static pages (anything.html). These are generated when we deploy.**
+
 The sites, urls and additional notes are stored in `sites.json`. If you want to add a site to the list you'll need the following information:
 
 - `name`: The name of the service
@@ -10,6 +12,7 @@ The sites, urls and additional notes are stored in `sites.json`. If you want to 
 	- `hard`: Sites that require you to contact customer services or those that don't allow automatic or easy account deletion
 	- `impossible`: For sites where it's basically impossible to totally delete your account, even if you contact them
 - `notes`: *(optional)* Notes will be shown when someone hovers on that service. Notes may include additional information you might need to delete your account (e.g. Skype) or consequences of deleting your account (e.g. iTunes).
+- 'email': *(optional)* If you have to send an email to a company to cancel your account, add the email address here. We'll do the rest.
 
 ##Contribution checklist
 
