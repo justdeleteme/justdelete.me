@@ -1129,6 +1129,13 @@
     },
 
     {
+        "name": "Stayfirends.de",
+        "url": "http://www.stayfriends.de/j/ViewController?action=accountSettings&delEnabled=true",
+        "difficulty": "easy",
+        "notes": "Die Löschung Ihres Eintrages kann nicht rückgängig gemacht werden. Alle Ihre Profildaten, Kontakte Nachrichten und Bilder werden unwiderruflich entfernt. Ihre Mitschüler und Kontakte können nicht mehr über StayFriends Kontakt zu Ihnen aufnehmen."
+    },
+
+    {
         "name": "Strava",
         "url": "https://www.strava.com/settings/privacy",
         "difficulty": "medium",
