@@ -386,6 +386,13 @@
     },
 
     {
+        "name": "Freelancer",
+        "url": "http://www.freelancer.com/report/contact.php",
+        "difficulty": "easy",
+        "notes": "Make sure your account balance is positive, then issue a support ticket requesting to close your account"
+    },
+    
+    {
         "name": "Freenode",
         "url": "https://ezcrypt.it/ML4n#ej6rorotmsxq7jF8ViyGjTVh",
         "difficulty": "easy",
