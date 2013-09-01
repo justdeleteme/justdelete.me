@@ -127,5 +127,9 @@
     "help": {
         "en": "Help translate",
         "it": "Aiutare a tradurre"
+    },
+    "donate": {
+        "en": "Hosting costs money. If you like JustDelete.me, please consider making a donation.",
+        "it": "Possedere un sito costa soldi. Se JustDelete.me ti ha aiutato, per favore considera una donazione."
     }
 }]

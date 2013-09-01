@@ -354,6 +354,13 @@
     },
 
     {
+        "name" : "Finanzblick",
+        "url" : "https://finanzblick.de/webapp",
+        "difficulty" : "medium",
+        "notes" : "Click on your username (top left) &rarr; click on 'Profileinstellungen' &rarr; 'Account löschen'. All data is fully erased."
+    },
+
+    {
         "name": "Fitocracy",
         "url": "https://www.fitocracy.com/home/",
         "difficulty": "hard",
@@ -863,6 +870,13 @@
     },
 
     {
+        "name" : "OnlineTVRecorder.com",
+        "url" : "http://www.onlinetvrecorder.com/v2/index.php?go=account&do=cancel",
+        "difficulty" : "impossible",
+        "notes" : "You can deactivate your account with the link. But the data isn't deleted. Even if you contact the support they don't delete your data."
+    },
+
+    {
         "name": "OpenDNS",
         "url": "http://forums.opendns.com/comments.php?DiscussionID=8326",
         "difficulty": "hard",
@@ -900,6 +914,12 @@
         "url": "https://path.com",
         "difficulty": "medium",
         "notes": "You cannot delete your account from the website. Open the iOS/Android app, go to settings → about → disable account → delete account."
+    },
+
+    {
+        "name" : "Patrick-Krempf-Reminder",
+        "url" : "http://reminder.patrickkempf.de/manage.php?do=delaccount",
+        "difficulty" : "easy"
     },
 
     {
@@ -952,6 +972,13 @@
         "name": "Pocket",
         "url": "http://getpocket.com/account_deletion/",
         "difficulty": "easy"
+    },
+
+    {
+        "name": "Postcrossing",
+        "url": "http://www.postcrossing.com/removal",
+        "difficulty": "easy",
+        "notes": "Log into your account -> Click the link (data fully deleted, not possible to revert this)."
     },
 
     {
@@ -1349,8 +1376,9 @@
 
     {
         "name": "Xing",
-        "url": "https://www.xing.com/app/user?op=cancel;sid=0.bc7191",
-        "difficulty": "easy"
+        "url": "https://www.xing.com/help/help-and-faqs-2/general-stuff-55/xing-memberships-153/general-stuff-803/canceling-free-basic-membership-185",
+        "difficulty": "easy",
+        "notes": "Select 'delete my profile' at the bottom of the page."
     },
 
     {
