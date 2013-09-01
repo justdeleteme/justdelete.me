@@ -1007,6 +1007,13 @@
     },
 
     {
+        "name" : "Rovio",
+        "url" : "https://account.rovio.com/",
+        "difficulty" : "easy",
+        "notes" : "Bottom link 'Delete Account'"
+    },
+
+    {
         "name": "RunKeeper",
         "url": "http://runkeeper.com/I-Love-RunKeeper",
         "difficulty": "medium",
