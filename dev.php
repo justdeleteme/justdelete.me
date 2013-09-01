@@ -54,6 +54,7 @@
 	$footer = $definitions[0]->footer->$lang;
 	$help_translate = $definitions[0]->help->$lang;
 	$donate = $definitions[0]->donate->$lang;
+	$sendmail = $definitions[0]->sendmail->$lang;
 	if ($lang == "en")
 	{
 		$note_lang = "notes";
@@ -150,10 +151,10 @@
                                 </p>
                                 <?php if (isset($site->$note_lang)) : ?>
                                     <div class="tooltip-content">                                   
-                                        <?php echo $site->$note_lang; 
+                                        <?php echo $site->$note_lang;
                                         if (isset($site->email))
                                         {
-                                            echo '<br><a href="mailto:' . $site->email . '?Subject=Account%20Deletion%20Request&body=Please%20delete%20my%20account,%20my%20username%20is%20 XXXXXX">Send Mail &raquo;</a>';
+                                            echo '<br><a href="mailto:' . $site->email . '?Subject=Account%20Deletion%20Request&body=Please%20delete%20my%20account,%20my%20username%20is%20 XXXXXX">' . $sendmail . ' &raquo;</a>';
                                         }
                                         ?>                                          
                                     </div>
@@ -163,7 +164,7 @@
                                         <?php echo $site->notes; 
                                         if (isset($site->email))
                                         {
-                                            echo '<br><a href="mailto:' . $site->email . '?Subject=Account%20Deletion%20Request&body=Please%20delete%20my%20account,%20my%20username%20is%20 XXXXX">Send Mail &raquo;</a>';
+                                            echo '<br><a href="mailto:' . $site->email . '?Subject=Account%20Deletion%20Request&body=Please%20delete%20my%20account,%20my%20username%20is%20 XXXXX">' . $sendmail . ' &raquo;</a>';
                                         }
                                         ?> 
                                         </div>

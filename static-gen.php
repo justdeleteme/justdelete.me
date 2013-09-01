@@ -18,6 +18,9 @@
 		if ($lang == "it") {
 			$full_name = "Italiano";
 		}
+		if ($lang == "de") {
+			$full_name = "Deutsch";
+		}
 		
 		include ('dev.php');
 

@@ -165,5 +165,10 @@
         "en": "Hosting costs money. If you like JustDelete.me, please consider making a donation.",
         "it": "Possedere un sito costa soldi. Se JustDelete.me ti ha aiutato, per favore considera una donazione.",
 		"de": "Hosting kostet Geld. Wenn du JustDelete.me magst, bitte überlege über eine Spende nach."
+    },
+    "sendmail": {
+        "en": "Send email",
+        "it": "Invia e-mail",
+        "de": "E-mail senden"
     }
 }]
