@@ -1,135 +1,168 @@
 [{
     "title": {
         "en": "Just Delete Me | A directory of direct links to delete your account from web services.",
-        "it": "Just Delete Me | Una directory di link diretti per eliminare il tuo account dai siti web."
+        "it": "Just Delete Me | Una directory di link diretti per eliminare il tuo account dai siti web.",
+		"de": "Just Delete Me | Ein Verzeichnis direkter Links um deinen Account aus verschiedenen Webdiensten zu löschen."
 
     },
     "description": {
         "en": "A directory of direct links to delete your account from web services. Find out how to delete your Facebook, Twitter, LinkedIn accounts and more.",
-        "it": "Una directory di link diretti per eliminare il tuo account dai siti web. Scopri come eliminare il tuo account Facebook, Twitter, LinkedIn e molti altri."
-    },
+        "it": "Una directory di link diretti per eliminare il tuo account dai siti web. Scopri come eliminare il tuo account Facebook, Twitter, LinkedIn e molti altri.",
+		"de": "Ein Verzeichnis direkter Links um deinen Account aus verschiedenen Webdiensten zu löschen."
+	},
     "difficulty": {
         "en": "difficulty",
-        "it": "difficoltà"
+        "it": "difficoltà",
+		"de": "Schwierigkeit"
     },
     "difficulty_easy": {
         "en": "easy",
-        "it": "facile"
+        "it": "facile",
+		"de": "leicht"
     },
     "difficulty_medium": {
         "en": "medium",
-        "it": "media"
+        "it": "media",
+		"de": "mittel"
     },
     "difficulty_hard": {
         "en": "hard",
-        "it": "difficile"
+        "it": "difficile",
+		"de": "schwer"
     },
     "difficulty_impossible": {
         "en": "impossible",
-        "it": "impossibile"
+        "it": "impossibile",
+		"de": "unmöglich"
     },
     "tagline": {
         "en": "A directory of direct links to delete your account from web services.",
-        "it": "Una directory di link diretti per eliminare il tuo account dai siti web."
-    },
+        "it": "Una directory di link diretti per eliminare il tuo account dai siti web.",
+		"de": "Ein Verzeichnis direkter Links um deinen Account aus Webdiensten zu löschen"
+	},
     "noinfo": {
         "en": "No Info Available",
-        "it": "Nessuna Informazione Disponibile"
-    },
+        "it": "Nessuna Informazione Disponibile",
+		"de": "Keine Information verfügbar."
+    
+	},
     "showinfo": {
         "en": "show info...",
-        "it": "mostra informazioni..."
+        "it": "mostra informazioni...",
+		"de": "zeige Info..."
     },
     "hideinfo": {
         "en": "hide info...",
-        "it": "nascondi informazioni..."
+        "it": "nascondi informazioni...",
+		"de": "verstecke Info..."
     },
     "whatisthis": {
         "en": "What is this?",
-        "it": "Cos'è?"
+        "it": "Cos'è?",
+		"de": "Was ist das?"
     },
     "whatisthis1": {
         "en": "Many companies use <a href=\"http://darkpatterns.org/\">dark pattern</a> techniques to make it difficult to find how to delete your account. JustDelete.me aims to be a directory of urls to enable you to easily delete your account from web services.",
-        "it": "Molte compagnie usano strategie di <a href=\"http://darkpatterns.org/\">dark pattern</a> per rendere difficile la possibilità di eliminare il tuo account. JustDelete.me punta a essere una directory di urls per permetterti di eliminare facilmente il tuo account dai siti web."
-    },
+        "it": "Molte compagnie usano strategie di <a href=\"http://darkpatterns.org/\">dark pattern</a> per rendere difficile la possibilità di eliminare il tuo account. JustDelete.me punta a essere una directory di urls per permetterti di eliminare facilmente il tuo account dai siti web.",
+		"de": "Viele Firmen nutzen <a href=\"http://darkpatterns.org/\">dark pattern</a>-Techniken um es schwierig zu machen deinen Account zu löschen. Das Ziel von JustDelete.me ist ein Verzeichnis von URLs, damit Sie leicht Ihr Konto von Webdiensten löschen können."
+	},
     "whatisthis2": {
         "en": "Got a site you think should be added? <a href=\"http://github.com/rmlewisuk/justdelete.me\">Fork the project GitHub</a>.",
-        "it": "Hai trovato un sito che credi dovrebbe essere aggiunto? <a href=\"http://github.com/rmlewisuk/justdelete.me\">Fork the project GitHub</a>."
-    },
+        "it": "Hai trovato un sito che credi dovrebbe essere aggiunto? <a href=\"http://github.com/rmlewisuk/justdelete.me\">Fork the project GitHub</a>.",
+		"de": "Haben Sie eine fehlende Seite zum Hinzufügen?" <a href=\"http://github.com/rmlewisuk/justdelete.me\">Fork the project GitHub</a>."
+	},
     "whatisthis3": {
         "en": "<em>Email submission is temporarily disabled</em>",
-        "it": "<em>L'invio email è temporaneamente disabilitato</em>"
+        "it": "<em>L'invio email è temporaneamente disabilitato</em>",
+		"de": "<em>E-Mail-Vorschläge sind kurzzeitig deaktiviert</em>"
     },
     "guide": {
         "en": "Guide",
-        "it": "Guida"
+        "it": "Guida",
+		"de": "Guide"
     },
     "guideexplanations": {
         "en": "The links above are colour-coded to indicate the difficulty level of account deletion:",
-        "it": "I link qui sotto sono colorati in base al livello di difficoltà per eliminare l'account"
+        "it": "I link qui sotto sono colorati in base al livello di difficoltà per eliminare l'account",
+		"de": "Die Links oben sind farbkodiert um die Schwierigkeit des Account-Löschens anzuzeigen:"
     },
     "guideeasy": {
         "en": "<span class=\"green\">Easy</span> - Simple process",
-        "it": "<span class=\"green\">Facile</span> - Processo semplice"
+        "it": "<span class=\"green\">Facile</span> - Processo semplice",
+		"de": "<span class=\"green\">Leicht</span> - Einfacher Prozess"
     },
     "guidemedium": {
         "en": "<span class=\"yellow\">Medium</span> - Some extra steps involved",
-        "it": "<span class=\"yellow\">Media</span> - Richiede qualche azione aggiuntiva"
+        "it": "<span class=\"yellow\">Media</span> - Richiede qualche azione aggiuntiva",
+		"de": "<span class=\"yellow\">Mittel</span> - Einige Extraschritte sind nötig"
     },
     "guidehard": {
         "en": "<span class=\"red\">Hard</span> - Cannot be fully deleted without contacting customer services",
-        "it": "<span class=\"red\">Difficile</span> - Non può essere completamente cancellato senza contattare l'assistenza clienti"
+        "it": "<span class=\"red\">Difficile</span> - Non può essere completamente cancellato senza contattare l'assistenza clienti",
+		"de": "<span class=\"red\">Schwer</span> - Kann ohne den jeweiligen Support zu kontaktieren nicht gelöscht werden"
     },
     "guideimpossible": {
         "en": "<span class=\"black\">Impossible</span> - Cannot be deleted",
-        "it": "<span class=\"black\">Impossibile</span> - Non può essere cancellato"
+        "it": "<span class=\"black\">Impossibile</span> - Non può essere cancellato",
+		"de": "<span class=\"black\">Unmöglich</span> - Kann nicht gelöscht werden"
     },
     "extension": {
         "en": "Google Chrome Extension",
-        "it": "Estensione Google Chrome"
+        "it": "Estensione Google Chrome",
+		"de": "Google Chrome Erweiterung"
     },
     "extensionp1": {
         "en": "Our good friend <a target=\"_blank\" href=\"http://mikerogers.io\">Mike Rogers</a> has helped us to release an awesome Google Chrome Extension for JustDelete.me.",
-        "it": "Il nostro amico <a target=\"_blank\" href=\"http://mikerogers.io\">Mike Rogers</a> ci ha aiutato a rilasciare l'estensione di JustDelete.me per Google Chrome."
-    },
+        "it": "Il nostro amico <a target=\"_blank\" href=\"http://mikerogers.io\">Mike Rogers</a> ci ha aiutato a rilasciare l'estensione di JustDelete.me per Google Chrome.",
+		"de": "Unser Freund <a target=\"_blank\" href=\"http://mikerogers.io\">Mike Rogers</a> hat uns geholfen eine großartige Google Chrome Erweiterung für JustDelete.me zu machen."
+	},
     "extensionp2": {
         "en": "When you are on a website that is listed on justdelete.me, the Chrome Extension will add a small dot to the omnibar. Clicking on this dot will take you to the relevant delete page.",
-        "it": "Quando sei su un sito che è elencato su justdelete.me, l'estensione aggiungerà un puntino colorato sulla barra degli indirizzi. Cliccandoci verrai reindirizzato alla pagina per eliminare il tuo account."
-    },
+        "it": "Quando sei su un sito che è elencato su justdelete.me, l'estensione aggiungerà un puntino colorato sulla barra degli indirizzi. Cliccandoci verrai reindirizzato alla pagina per eliminare il tuo account.",
+		"de": "Wenn Sie auf einer Seite sind, die auf justdelete.me gelistet ist, fügt die Google Chrome Erweiterung einen kleinen Punkt zur Omnibar hinzu. Auf diesen Link zu klicken befördert Sie zu der relevanten Löschen-Seite."
+	},
     "extensionp3": {
         "en": "To install it, simply proceed to the <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome Web Store</a>.",
-        "it": "Per installare l'estensione, procedi su <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome Web Store</a>."
+        "it": "Per installare l'estensione, procedi su <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome Web Store</a>.",
+		"de": "Um die Erweiterung zu installieren, rufen sie einfach den <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome Web Store</a> auf."
     },
     "extensionl1": {
         "en": "<span class=\"dot-wrapper\"><span class=\"dot easy\"></span></span> - Simple process",
-        "it": "<span class=\"dot-wrapper\"><span class=\"dot easy\"></span></span> - Processo semplice"
+        "it": "<span class=\"dot-wrapper\"><span class=\"dot easy\"></span></span> - Processo semplice",
+		"de": "<span class=\"dot-wrapper\"><span class=\"dot easy\"></span></span> - Einfacher Prozess"
     },
     "extensionl2": {
         "en": "<span class=\"dot-wrapper\"><span class=\"dot medium\"></span></span> - Some extra steps involved",
-        "it": "<span class=\"dot-wrapper\"><span class=\"dot medium\"></span></span> -  Richiede qualche azione aggiuntiva"
-    },
-    "extensionl3": {
-        "en": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Cannot be fully deleted without contacting customer-services",
-        "it": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Non può essere completamente cancellato senza contattare l'assistenza clienti"
-    },
+        "it": "<span class=\"dot-wrapper\"><span class=\"dot medium\"></span></span> -  Richiede qualche azione aggiuntiva",
+		"de": "<span class=\"dot-wrapper\"><span class=\"dot medium\"></span></span> -  Einige zusätzliche Schritte sind nötig"
+	},
+	"extensionl3": {
+		"en": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Cannot be fully deleted without contacting customer-services",
+        "it": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Non può essere completamente cancellato senza contattare l'assistenza clienti",
+		"de": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Kann ohne den jeweiligen Support zu kontaktieren nicht gelöscht werden"
+	},
     "extensionl4": {
         "en": "<span class=\"dot-wrapper\"><span class=\"dot impossible\"></span></span> - Cannot be deleted",
-        "it": "<span class=\"dot-wrapper\"><span class=\"dot impossible\"></span></span> - Non può essere cancellato"
+        "it": "<span class=\"dot-wrapper\"><span class=\"dot impossible\"></span></span> - Non può essere cancellato",
+		"de": "<span class=\"dot-wrapper\"><span class=\"dot impossible\"></span></span> - Kann nicht gelöscht werden"
     },
     "banner": {
         "en": "Try our new <span>Chrome Extension</span>",
-        "it": "Prova la nostra nuova <span>Estensione Chrome</span>"
+        "it": "Prova la nostra nuova <span>Estensione Chrome</span>",
+		"de": "Testen Sie unsere neue <span>Chrome Erweiterung</span>"
     },
     "footer": {
         "en": "Made by <a href=\"http://robblewis.me\">Robb Lewis</a> and <a href=\"http://edpoole.me\">Ed Poole</a> | Fork on <a href=\"http://github.com/rmlewisuk/justdelete.me\">GitHub</a> | Hosted by <a href=\"http://www.mediatemple.net/#a_aid=521a8aefe4c3b\">Media Temple</a> | Analytics by <a href=\"https://t.co/fvPnva7p4Y\">GoSquared</a>",
-        "it": "Creato da <a href=\"http://robblewis.me\">Robb Lewis</a> and <a href=\"http://edpoole.me\">Ed Poole</a> | Fork on <a href=\"http://github.com/rmlewisuk/justdelete.me\">GitHub</a> | Hosted by <a href=\"http://www.mediatemple.net/#a_aid=521a8aefe4c3b\">Media Temple</a> | Analytics by <a href=\"https://t.co/fvPnva7p4Y\">GoSquared</a>"
-    },
+        "it": "Creato da <a href=\"http://robblewis.me\">Robb Lewis</a> and <a href=\"http://edpoole.me\">Ed Poole</a> | Fork on <a href=\"http://github.com/rmlewisuk/justdelete.me\">GitHub</a> | Hosted by <a href=\"http://www.mediatemple.net/#a_aid=521a8aefe4c3b\">Media Temple</a> | Analytics by <a href=\"https://t.co/fvPnva7p4Y\">GoSquared</a>",
+        "en": "Erstellt von <a href=\"http://robblewis.me\">Robb Lewis</a> und <a href=\"http://edpoole.me\">Ed Poole</a> | Fork auf <a href=\"http://github.com/rmlewisuk/justdelete.me\">GitHub</a> | Gehostet von <a href=\"http://www.mediatemple.net/#a_aid=521a8aefe4c3b\">Media Temple</a> | Analytics von <a href=\"https://t.co/fvPnva7p4Y\">GoSquared</a>",
+		},
     "help": {
         "en": "Help translate",
-        "it": "Aiutare a tradurre"
+        "it": "Aiutare a tradurre",
+		"de": "Hilf uns bei der Übersetzung"
     },
     "donate": {
         "en": "Hosting costs money. If you like JustDelete.me, please consider making a donation.",
-        "it": "Possedere un sito costa soldi. Se JustDelete.me ti ha aiutato, per favore considera una donazione."
-    }
+        "it": "Possedere un sito costa soldi. Se JustDelete.me ti ha aiutato, per favore considera una donazione.",
+		"de": "Hosting kostet Geld. Wenn du JustDelete.me magst, bitte überlege über eine Spende nach."
 }]
