@@ -1115,6 +1115,13 @@
     },
 
     {
+        "name": "Snapchat",
+        "url": "http://www.snapchat.com/a/delete_account",
+        "difficulty": "Easy",
+        "notes": "Enter username and password and click 'Delete'."
+    },
+	
+    {
         "name": "Sonico",
         "url": "http://www.sonico.com/tyc.php",
         "difficulty": "hard",
