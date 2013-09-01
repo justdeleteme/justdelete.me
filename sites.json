@@ -1609,7 +1609,7 @@
     {
         "name": "We the People",
         "url": "https://petitions.whitehouse.gov/",
-        "difficulty": "impossible"
+        "difficulty": "impossible",
 		"notes": "Site provides no user account management interface or account deletion options."
     },
 	
