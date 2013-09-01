@@ -36,7 +36,7 @@
         "url": "https://learn.adobe.com/wiki/display/wel/Delete+your+account",
         "difficulty": "hard",
         "notes": "You have to call them in order to delete your account. Alternatively, you can send them an email.",
-        "notes_it": "Per eliminare il tuo account dovrai contattarli via telefono. Alternativamente puoi spedire una mail"        
+        "notes_it": "Per eliminare il tuo account dovrai contattarli via telefono. Alternativamente puoi spedire una mail"
     },
 
     {
@@ -51,7 +51,7 @@
         "difficulty": "hard",
         "notes": "To close your account, contact Amazon by email (via this contact form) and request that your account be closed.",
         "notes_it": "Per chiudere il tuo account, contatta amazon via mail (utilizzando il form contattaci) richiedendo di chiudere il tuo account",
-    	"notes_de": "Um deinen Account zu löschen, kontaktiere den Support über den Link und beantrage die Löschung dort."
+        "notes_de": "Um deinen Account zu löschen, kontaktiere den Support über den Link und beantrage die Löschung dort."
     },
 
     {
@@ -59,15 +59,15 @@
         "url": "http://www.animalcrossingcommunity.com/help_main.asp?HelpSectionID=5#Topic201",
         "difficulty": "impossible",
         "notes": "We do not 'delete' or 'terminate' accounts on ACC. If you no longer wish to use the site, you may delete all personal information from your profile and then stop logging in.",
-        "notes_it": "Non è possibile chiudere o terminare un account su ACC. Se non desideri più utilizzare il sito, puoi comunque eliminare tutti i dati personali dal tuo profilo e non loggarci più"    
+        "notes_it": "Non è possibile chiudere o terminare un account su ACC. Se non desideri più utilizzare il sito, puoi comunque eliminare tutti i dati personali dal tuo profilo e non loggarci più"
     },
-    
+
     {
-        "name": "AOL / AOL Instant Messenger",
+        "name": "AOL / Instant Messenger",
         "url": "http://cancel.aol.com",
         "difficulty": "easy"
     },
-    
+
     {
         "name": "App.net",
         "url": "https://account.app.net/settings/delete/",
@@ -161,14 +161,14 @@
     },
 
     {
-        "name": "CloudApp",
-        "url": "http://my.cl.ly/account/delete",
-        "difficulty": "easy"
-    },
-    
-    {
         "name": "Change.org",
         "url": "https://www.change.org/account_settings",
+        "difficulty": "easy"
+    },
+
+    {
+        "name": "CloudApp",
+        "url": "http://my.cl.ly/account/delete",
         "difficulty": "easy"
     },
 
@@ -244,7 +244,7 @@
         "notes": "Edit your account and select 'Remove my account'.",
         "notes_it": "Edita il tuo account e clicca il pulsante 'Remove my account'"
     },
-    
+
     {
         "name": "Deadspin (Gawker Media)",
         "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
@@ -252,13 +252,13 @@
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
         "notes_it": "Puoi in qualsiasi momento smettere di usare il servizio. Tuttavia noi possiamo comunque accedere a qualsiasi contenuto che hai inviato attraverso il servizio."
     },
-    
+
     {
         "name": "Delicious",
         "url": "https://delicious.com/settings/deactivate",
         "difficulty": "easy"
     },
-    
+
     {
         "name": "Desktoply",
         "url": "http://desktop.ly/settings",
@@ -275,18 +275,16 @@
         "name": "DeviantArt",
         "url": "https://www.deviantart.com/settings/deactivation",
         "difficulty": "easy",
-        "notes": "All data is wiped immediately. Accounts can be reactivated within 30 days, after that they can no longer be recovered.",
-        "notes_it": "Tutti i dati saranno immediatamente cancellati. L'account potrà essere riattivato entro 30 giorni, dopodichè non sarà piu recuperabile.",
-    	"notes": "Alle Daten sind sofort gelöscht. Accounts können innerhalb von 30 Tagen reaktiviert werden. Nach dieser Zeitspanne können sie nicht mehr wiederhergestellt werden."
+        "notes": "Alle Daten sind sofort gelöscht. Accounts können innerhalb von 30 Tagen reaktiviert werden. Nach dieser Zeitspanne können sie nicht mehr wiederhergestellt werden.",
+        "notes_it": "Tutti i dati saranno immediatamente cancellati. L'account potrà essere riattivato entro 30 giorni, dopodichè non sarà piu recuperabile."
     },
 
     {
         "name": "DHL (Paket.de)",
         "url": "https://www.paket.de/pkp/appmanager/pkp/desktop?_nfpb=true&_nfxr=false&_pageLabel=pkp_portal_page_footer_cah_faqs",
         "difficulty": "impossible",
-        "notes": "No information in the FAQ about account deletion, the operator on the hotline said that deleting is not possible.",
-        "notes_it": "Nessuna informazione nelle FAQ riguardo la cancellazione dell'account, l'operatore al telefono ha confermato che la cancellazione non è possibile.",
-    	"notes": "Keine Informationen in den FAQ über Account-Löschung. Der Mitarbeiter an der Hotline bestätigte, dass die Löschung nicht möglich ist."
+        "notes": "Keine Informationen in den FAQ über Account-Löschung. Der Mitarbeiter an der Hotline bestätigte, dass die Löschung nicht möglich ist.",
+        "notes_it": "Nessuna informazione nelle FAQ riguardo la cancellazione dell'account, l'operatore al telefono ha confermato che la cancellazione non è possibile."
     },
 
     {
@@ -295,7 +293,7 @@
         "difficulty": "easy",
         "notes": "Click close my account and confirm with your password.",
         "notes_it": "Clicca chiudi il mio account e conferma inserendo la tua password.",
-    	"notes_de": "Klicke auf 'close my account' und bestätige dies mit deinem Passwort."
+        "notes_de": "Klicke auf 'close my account' und bestätige dies mit deinem Passwort."
     },
 
     {
@@ -396,7 +394,7 @@
         "difficulty": "impossible",
         "notes": "You cannot delete your Evernote account, just deactivate it temporarily. Deactivation does not remove your data so you will have to manually delete all notes and personal info, perform a sync and then deactivate the account.",
         "notes_it": "Non puoi eliminare il tuo account Evernote, solo disattivarlo temporaneamente. La disattivazione non cancella nessuno dei tuoi dati quindi dovrai cancellarli manualmente prima di effettuare la disattivazione.",
-    	"notes_de": "Du kannst deinen Evernote-Account nicht löschen, du kannst ihn nur temporär deaktivieren. Deaktivierung löscht nicht deine Daten, deshalb musst du manuell jede Notiz und persönliche Information löschen. Schließe dann eine Synchronisation ab und deaktiviere deinen Account dann."
+        "notes_de": "Du kannst deinen Evernote-Account nicht löschen, du kannst ihn nur temporär deaktivieren. Deaktivierung löscht nicht deine Daten, deshalb musst du manuell jede Notiz und persönliche Information löschen. Schließe dann eine Synchronisation ab und deaktiviere deinen Account dann."
     },
 
     {
@@ -405,7 +403,7 @@
         "difficulty": "medium",
         "notes": "While you can delete your account easily, some of the datas including chat- or group-messages are here to stay forever, just as stated in the website's Privacy.",
         "notes_it": "Mentre puoi eliminare il tuo account facilmente, qualche dato come le chat o i messaggi di gruppo rimarranno nei loro database, come scritto sul loro sito nella pagina Privacy",
-    	"notes_de": "Während du deinen Account leicht löschen kannst, bleiben einige deiner Daten dauerhaft. z.B. Chat- und Gruppennachrichten. Dies ist so in den Datenschutzbestimmungen bestimmt."
+        "notes_de": "Während du deinen Account leicht löschen kannst, bleiben einige deiner Daten dauerhaft. z.B. Chat- und Gruppennachrichten. Dies ist so in den Datenschutzbestimmungen bestimmt."
     },
 
     {
@@ -418,12 +416,12 @@
     },
 
     {
-        "name" : "Finanzblick",
-        "url" : "https://finanzblick.de/webapp",
-        "difficulty" : "medium",
-        "notes" : "Click on your username (top left) &rarr; click on 'Profileinstellungen' &rarr; 'Account löschen'. All data is fully erased.",
+        "name": "Finanzblick",
+        "url": "https://finanzblick.de/webapp",
+        "difficulty": "medium",
+        "notes": "Click on your username (top left) &rarr; click on 'Profileinstellungen' &rarr; 'Account löschen'. All data is fully erased.",
         "notes_it": "Clicca sul tuo username (in alto a sinistra) &rarr; clicca su 'Profileinstellungen' &rarr; 'Account löschen'. Tutti i dati saranno cancellati.",
-    	"notes_de": "Klicke auf deinen username (oben rechts) &rarr; klicke auf 'Profileinstellungen' &rarr; 'Account löschen'. Alle Daten sind augenblicklich gelöscht."
+        "notes_de": "Klicke auf deinen username (oben rechts) &rarr; klicke auf 'Profileinstellungen' &rarr; 'Account löschen'. Alle Daten sind augenblicklich gelöscht."
     },
 
     {
@@ -477,12 +475,12 @@
         "notes": "Make sure your account balance is positive, then issue a support ticket requesting to close your account.",
         "notes_it": "Assicurati che il saldo sia positivo, quindi apri un ticket di supporto per chiudere il tuo account."
     },
-    
+
     {
         "name": "Freenode",
         "url": "https://ezcrypt.it/ML4n#ej6rorotmsxq7jF8ViyGjTVh",
         "difficulty": "easy",
-        "notes": "/msg NickServ DROP nick password"        
+        "notes": "/msg NickServ DROP nick password"
     },
 
     {
@@ -499,14 +497,6 @@
         "notes_it": "La cancellazione account richiede di contattare il servizio clienti.",
         "notes_de": "Account-Löschung erfordert es den Kundensupport zu kontaktieren"
     },
-    
-    {
-        "name": "Gawker (Gawker Media)",
-        "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
-        "difficulty": "impossible",
-        "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
-        "notes_it": "Puoi in qualsiasi momento smettere di usare il servizio. Tuttavia noi possiamo comunque accedere a qualsiasi contenuto che hai inviato attraverso il servizio."   
-    },
 
     {
         "name": "Gauges",
@@ -514,6 +504,21 @@
         "difficulty": "impossible",
         "notes": "If you wish to terminate your Gauges account, you may simply discontinue using Gauges.",
         "notes_it": "Se desideri cancellare il tuo Gauges account, devi semplicemente non usarlo più."
+    },
+
+    {
+        "name": "Gawker (Gawker Media)",
+        "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
+        "difficulty": "impossible",
+        "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service."
+    },
+
+    {
+        "name": "Gawker (Gawker Media)",
+        "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
+        "difficulty": "impossible",
+        "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
+        "notes_it": "Puoi in qualsiasi momento smettere di usare il servizio. Tuttavia noi possiamo comunque accedere a qualsiasi contenuto che hai inviato attraverso il servizio."
     },
 
     {
@@ -530,7 +535,7 @@
         "difficulty": "medium",
         "notes": "You must email support from the registered email to remove this account. Any outstanding Premium Memberships will not be refunded",
         "notes_it": "Devi spedire una email al servizio clienti dall'email con cui ti sei registrato. Non prevedono nessun rimborso per i membri Premium",
-    	"notes_de": "Du musst den Support von der E-Mail-Adresse aus kontaktieren, die registriert ist. Dann beantreage die Löschung. Eine bestehende Premium-Mitgliedschaft wird nicht erstattet."
+        "notes_de": "Du musst den Support von der E-Mail-Adresse aus kontaktieren, die registriert ist. Dann beantreage die Löschung. Eine bestehende Premium-Mitgliedschaft wird nicht erstattet."
     },
 
     {
@@ -544,7 +549,7 @@
         "url": "https://gitorious.org",
         "difficulty": "easy"
     },
-    
+
     {
         "name": "Gizmodo (Gawker Media)",
         "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
@@ -606,18 +611,18 @@
     },
 
     {
-        "name": "GoSquared",
-        "url": "https://www.gosquared.com/home/account/close",
+        "name": "GoPetition",
+        "url": "http://www.gopetition.com/",
         "difficulty": "easy",
         "notes": "Select a reason for closing and it'll take 2 clicks.",
         "notes_it": "Seleziona un motivo perchè stai chiudendo il tuo account e fatto"
     },
-    
+
     {
-        "name": "GoPetition",
-        "url": "http://www.gopetition.com/",
+        "name": "GoSquared",
+        "url": "https://www.gosquared.com/home/account/close",
         "difficulty": "easy",
-        "notes": "Log in to your account, then click on 'My Profile'. You will see a link 'Close my account'. Click on the link and follow the instructions.",
+        "notes": "Select a reason for closing and it'll take 2 clicks.",
         "notes_it": "Logga il tuo account, quindi clicca su 'My Profile'. Vedrai un link 'Close my account'. Cliccaci e segui le istruzioni."
     },
 
@@ -712,6 +717,14 @@
     },
 
     {
+        "name": "ICQ",
+        "url": "http://www.icq.com/download/icq/knownissues/account/en",
+        "difficulty": "impossible",
+        "notes": "ICQ is now working on providing a delete feature which will be available in upcoming ICQ versions. Currently, there’s no such functionality.",
+        "notes_de": "ICQ arbeitet an einer Löschfunktion. Diese wird in künftigen Versionen von ICQ verfügbar sein. Momentan gibt es diese Funktion nicht."
+    },
+
+    {
         "name": "IFTTT",
         "url": "https://ifttt.com/settings/deactivate",
         "difficulty": "easy"
@@ -760,7 +773,7 @@
         "url": "https://www.instapaper.com/user/delete",
         "difficulty": "easy"
     },
-    
+
     {
         "name": "IO9 (Gawker Media)",
         "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
@@ -775,9 +788,9 @@
         "difficulty": "hard",
         "notes": "Contact customer services. You will lose access to any media you haven’t downloaded to your computer.",
         "notes_it": "Contatta il servizio clienti. Perderai l'accesso a qualsiasi file di cui non hai una copia sul computer.",
-    	"notes_de": "Kontaktiere den Kundenservice. Du wirst deinen Zugang zu allen Medien verlieren, die du nicht auf deinen Computer heruntergeladen hast."
+        "notes_de": "Kontaktiere den Kundenservice. Du wirst deinen Zugang zu allen Medien verlieren, die du nicht auf deinen Computer heruntergeladen hast."
     },
-    
+
     {
         "name": "Jalopnik (Gawker Media)",
         "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
@@ -786,7 +799,7 @@
         "notes_it": "Puoi in qualsiasi momento smettere di usare il servizio. Tuttavia noi possiamo comunque accedere a qualsiasi contenuto che hai inviato attraverso il servizio."
     },
 
-   {
+    {
         "name": "Jezebel (Gawker Media)",
         "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
         "difficulty": "impossible",
@@ -794,13 +807,12 @@
         "notes_it": "Puoi in qualsiasi momento smettere di usare il servizio. Tuttavia noi possiamo comunque accedere a qualsiasi contenuto che hai inviato attraverso il servizio."
     },
 
-
     {
         "name": "JoliCloud / JoliDrive",
         "url": "https://drive.jolicloud.com/#/settings/account",
         "difficulty": "easy",
         "notes": "Click 'Delete Account' at the botom of the account preference page",
-        "notes_it": "Clicca 'Delete Account' in fondo alla pagina delle preferenze."        
+        "notes_it": "Clicca 'Delete Account' in fondo alla pagina delle preferenze."
     },
 
     {
@@ -818,7 +830,7 @@
         "difficulty": "hard",
         "notes": "Please send a request to support@jsfiddle.net if you'd like your account to be deleted. <a href='https://github.com/jsfiddle/jsfiddle-issues/issues/237'>More here</a>",
         "notes_it": "Spedisci una email a support@jsfiddle.net se desideri che il tuo account sia cancellato <a href='https://github.com/jsfiddle/jsfiddle-issues/issues/237'>More here</a>",
-        "email": "support@jsfiddle.net"    
+        "email": "support@jsfiddle.net"
     },
 
     {
@@ -840,7 +852,7 @@
         "notes": "You can only deactivate your account. There appears to be no way to permanently delete your account or data.",
         "notes_it": "Puoi solo disattivare il tuo account. Non c'è modo di eliminare il tuo account o le informazioni."
     },
-    
+
     {
         "name": "Kinja (Gawker Media)",
         "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
@@ -905,7 +917,7 @@
         "notes": "Click 'Profile', then 'Edit', then 'Show advanced settings', and finally check the 'Delete my account' checkbox.",
         "notes_it": "Clicca 'Profile', quindi 'Edit', quindi 'Show advanced settings', e per ultimo fai un tick su 'Delete my account'"
     },
-    
+
     {
         "name": "Lifehacker (Gawker Media)",
         "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
@@ -991,11 +1003,17 @@
     },
 
     {
+        "name": "Monster",
+        "url": "http://my.monster.com/Account/CancelMembership",
+        "difficulty": "easy"
+    },
+
+    {
         "name": "Mozilla Persona",
         "url": "https://login.persona.org/",
         "difficulty": "easy",
         "notes": "“Cancel your account” link at the bottom of the page.",
-        "notes_it": "“Cancel your account” in fondo alla pagina."       
+        "notes_it": "“Cancel your account” in fondo alla pagina."
     },
 
     {
@@ -1065,12 +1083,12 @@
     },
 
     {
-        "name" : "OnlineTVRecorder.com",
-        "url" : "http://www.onlinetvrecorder.com/v2/index.php?go=account&do=cancel",
-        "difficulty" : "impossible",
-        "notes" : "You can deactivate your account with the link. But the data isn't deleted. Even if you contact the support they don't delete your data.",
+        "name": "OnlineTVRecorder.com",
+        "url": "http://www.onlinetvrecorder.com/v2/index.php?go=account&do=cancel",
+        "difficulty": "impossible",
+        "notes": "You can deactivate your account with the link. But the data isn't deleted. Even if you contact the support they don't delete your data.",
         "notes_it": "Puoi disattivare il tuo account. Ma i dati non saranno cancellati neanche se contatti il supporto.",
-    	"notes_de": "Du kannst deinen Account mit dem Link deaktivieren, aber deine Daten werden nicht gelöscht. Auch wenn du den Support kontaktierst, können sie deine Daten nicht löschen."
+        "notes_de": "Du kannst deinen Account mit dem Link deaktivieren, aber deine Daten werden nicht gelöscht. Auch wenn du den Support kontaktierst, können sie deine Daten nicht löschen."
     },
 
     {
@@ -1098,7 +1116,7 @@
         "url": "http://help.pandora.com/customer/portal/articles/24624-cancel-account",
         "difficulty": "hard",
         "notes": "You have to email support from the email associated with your account. If you do not have access to that, you need to provide the email address, birth year, and zip code on the account.",
-        "notes_it": "Devi spedire un email al supporto usando l'email associata al tuo account. Se non hai accesso all'email, puoi fornire l'email, l'anno di nascita e il codice postale dell'account."   
+        "notes_it": "Devi spedire un email al supporto usando l'email associata al tuo account. Se non hai accesso all'email, puoi fornire l'email, l'anno di nascita e il codice postale dell'account."
     },
 
     {
@@ -1118,9 +1136,9 @@
     },
 
     {
-        "name" : "Patrick-Krempf-Reminder",
-        "url" : "http://reminder.patrickkempf.de/manage.php?do=delaccount",
-        "difficulty" : "easy"
+        "name": "Patrick-Krempf-Reminder",
+        "url": "http://reminder.patrickkempf.de/manage.php?do=delaccount",
+        "difficulty": "easy"
     },
 
     {
@@ -1142,7 +1160,7 @@
         "url": "http://picasaweb.google.com/",
         "difficulty": "impossible",
         "notes": "You can't delete your Google Account for Picasa Web Albums without deleting your entire Google Account.",
-		"notes_it": "Non puoi eliminare il tuo account Picasa Web Albums senza eliminare l'intero Account Google."
+        "notes_it": "Non puoi eliminare il tuo account Picasa Web Albums senza eliminare l'intero Account Google."
     },
 
     {
@@ -1231,7 +1249,7 @@
         "name": "Reddit",
         "url": "https://ssl.reddit.com/prefs/delete/",
         "difficulty": "easy",
-        "notes": "Incrementa la tua produttività di oltre 5 volte con questi consigli che loro non vogliono farti sapere!"       
+        "notes": "Incrementa la tua produttività di oltre 5 volte con questi consigli che loro non vogliono farti sapere!"
     },
 
     {
@@ -1240,7 +1258,7 @@
         "difficulty": "hard",
         "notes": "If you decide you would like to delete your account you must email us at support@redditgifts.com. You must email us from the email address associated with your account and provide your reddit username.",
         "notes_it": "Per eliminare il tuo account invia un'e-mail a support@redditgifts.com. Invia l'e-mail dall'indirizzo associato al tuo account ed inserisci il tuo username reddit.",
-        "email": "support@redditgifts.com"   
+        "email": "support@redditgifts.com"
     },
 
     {
@@ -1258,10 +1276,10 @@
     },
 
     {
-        "name" : "Rovio",
-        "url" : "https://account.rovio.com/",
-        "difficulty" : "easy",
-        "notes" : "Bottom link 'Delete Account'",
+        "name": "Rovio",
+        "url": "https://account.rovio.com/",
+        "difficulty": "easy",
+        "notes": "Bottom link 'Delete Account'",
         "notes_it": "Link sul fondo 'Delete Account'."
     },
 
@@ -1329,7 +1347,7 @@
         "name": "Slideshare",
         "url": "http://help.slideshare.com/entries/57912-How-do-I-delete-my-SlideShare-account-",
         "difficulty": "easy",
-        "notes": "A direct link is not available as it is based on your username."    
+        "notes": "A direct link is not available as it is based on your username."
     },
 
     {
@@ -1382,7 +1400,7 @@
         "url": "https://www.spotify.com/se/about-us/contact/contact-spotify-support/?contact",
         "difficulty": "hard",
         "notes": "Contact Spotify’s customer services through their contact form and request for your account to be closed.",
-        "notes_it": "Contatta l'assistenza clienta di Spotify attraverso il loro modulo e richiedi la cancellazione dell'account."        
+        "notes_it": "Contatta l'assistenza clienta di Spotify attraverso il loro modulo e richiedi la cancellazione dell'account."
     },
 
     {
@@ -1402,18 +1420,25 @@
     },
 
     {
+        "name": "Stayfirends.de",
+        "url": "http://www.stayfriends.de/j/ViewController?action=accountSettings&delEnabled=true",
+        "difficulty": "easy",
+        "notes": "Die Löschung Ihres Eintrages kann nicht rückgängig gemacht werden. Alle Ihre Profildaten, Kontakte Nachrichten und Bilder werden unwiderruflich entfernt. Ihre Mitschüler und Kontakte können nicht mehr über StayFriends Kontakt zu Ihnen aufnehmen."
+    },
+
+    {
+        "name": "Steam",
+        "url": "https://support.steampowered.com/newticket.php",
+        "difficulty": "impossible",
+        "notes": "If you contact Steam support, they will most likely tell you just to not use the account. If your account has no games on it, it will be disabled after a while."
+    },
+
+    {
         "name": "Steam",
         "url": "https://support.steampowered.com/newticket.php",
         "difficulty": "impossible",
         "notes": "If you contact Steam support, they will most likely tell you just to not use the account. If your account has no games on it, it will be disabled after a while.",
         "notes_it": "Se contatti il supporto Steam, risponderanno semplicemente di non usare l'account. Se l'account non ha nessun gioco abbinato, sarà disabilitato automaticamente dopo un certo periodo di tempo"
-    },
-
-    {
-        "name": "Stayfirends.de",
-        "url": "http://www.stayfriends.de/j/ViewController?action=accountSettings&delEnabled=true",
-        "difficulty": "easy",
-        "notes": "Die Löschung Ihres Eintrages kann nicht rückgängig gemacht werden. Alle Ihre Profildaten, Kontakte Nachrichten und Bilder werden unwiderruflich entfernt. Ihre Mitschüler und Kontakte können nicht mehr über StayFriends Kontakt zu Ihnen aufnehmen."
     },
 
     {
@@ -1447,7 +1472,7 @@
         "notes": "You must submit a request to close your account via the form.",
         "notes_it": "Devi inviare una richiesta attraverso il form per chiudere il tuo account."
     },
-    
+
     {
         "name": "Topface",
         "url": "http://topface.com/delete-profile/",
@@ -1535,7 +1560,7 @@
         "url": "https://www.ups.com/myups/deletereg",
         "difficulty": "easy"
     },
-     
+
     {
         "name": "Ustream",
         "url": "http://www.ustream.tv/account/preferences",
@@ -1615,7 +1640,7 @@
         "url": "https://en.wikipedia.org/wiki/Wikipedia:FAQ#How_do_I_change_my_username.2Fdelete_my_account.3F",
         "difficulty": "impossible",
         "notes": "'A username cannot be deleted.' However, they do have some suggestions.",
-		"notes_it": "'Un username non può essere eliminato.'. In ogni caso, ci sono alcuni consigli."
+        "notes_it": "'Un username non può essere eliminato.'. In ogni caso, ci sono alcuni consigli."
     },
 
     {
@@ -1623,7 +1648,7 @@
         "url": "http://en.support.wordpress.com/deleting-accounts/",
         "difficulty": "impossible",
         "notes": "“WordPress.com accounts cannot be deleted.” The best you can do is remove any identifying data from your account.",
-		"notes_it": "'Gli account WordPress.com non possono essere eliminati.'. Il massimo che puoi fare è eliminare qualsiasi informazione dall'account."
+        "notes_it": "'Gli account WordPress.com non possono essere eliminati.'. Il massimo che puoi fare è eliminare qualsiasi informazione dall'account."
     },
 
     {
@@ -1681,7 +1706,7 @@
         "url": "https://accounts.zoho.com/u/h#setting/closeaccount",
         "difficulty": "easy"
     },
-    
+
     {
         "name": "Zurker",
         "url": "https://my.zurker.com/destroy",
