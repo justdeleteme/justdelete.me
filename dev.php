@@ -266,7 +266,7 @@
 	    <ul class="dropdown-menu">
 	    	<li class="en"><a href="/">English</a></li>
 	        <li class="it"><a href="it.html">Italiano <span class="beta">incompleto</span></a></li>
-	    	<!-- <li class="de"><a href="de.html">German <span class="beta">unvollständig</span></a></li> -->
+	    	<li class="de"><a href="de.html">Deutsch <span class="beta">unvollständig</span></a></li>
 	        <!-- <li class="fr"><a href="fr.html">French <span class="beta">incomplète</span></a></li> -->
 	        <!-- <li class="es"><a href="es.html">Spanish <span class="beta">incompleto</span></a></li> -->
 	        <li class="dropdown-divider"></li>

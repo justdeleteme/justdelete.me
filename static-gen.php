@@ -1,7 +1,7 @@
 <?php
 	
-	$langs = ['en', 'it'];
-	$langs_name = ['English', 'Italiano'];
+	$langs = ['en', 'it', 'de'];
+	$langs_name = ['English', 'Italiano', 'Deutsch'];
 
 	foreach ($langs as $language)
 	{
