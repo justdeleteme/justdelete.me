@@ -50,7 +50,8 @@
         "url": "https://www.amazon.com/gp/help/customer/contact-us/ref=cu_cf_email?ie=UTF8&mode=email#a",
         "difficulty": "hard",
         "notes": "To close your account, contact Amazon by email (via this contact form) and request that your account be closed.",
-        "notes_it": "Per chiudere il tuo account, contatta amazon via mail (utilizzando il form contattaci) richiedendo di chiudere il tuo account"
+        "notes_it": "Per chiudere il tuo account, contatta amazon via mail (utilizzando il form contattaci) richiedendo di chiudere il tuo account",
+    	"notes_de": "Um deinen Account zu löschen, kontaktiere den Support über den Link und beantrage die Löschung dort."
     },
 
     {
@@ -83,7 +84,8 @@
         "name": "Ask.fm",
         "url": "http://ask.fm/feedbacks/new",
         "difficulty": "hard",
-        "notes": "Request deletion from customer services."
+        "notes": "Request deletion from customer services.",
+        "notes_de": "Beantrage die Löschung beim Support."
     },
 
     {
@@ -148,7 +150,8 @@
         "name": "C&M News by Rеss.at",
         "url": "http://www.ress.at/profil/profil_entfernen.php",
         "difficulty": "easy",
-        "notes": "Just click 'Abschicken'"
+        "notes": "Just click 'Abschicken'",
+        "notes_de": "Einfach auf 'Abschicken' klicken"
     },
 
     {
@@ -180,7 +183,8 @@
         "name": "Code School",
         "url": "http://help.codeschool.com/kb/codeschool-faqs/account-questions",
         "difficulty": "medium",
-        "notes": "Start a private discussion with them and they will 'take care of it'."
+        "notes": "Start a private discussion with them and they will 'take care of it'.",
+        "notes_de": "Starte eine private Diskussion mit ihnen und sie 'Kümmern sich drum'."
     },
 
     {
@@ -200,14 +204,16 @@
         "name": "Couchsurfing",
         "url": "https://www.couchsurfing.org/delete_profile.html?delete=1",
         "difficulty": "impossible",
-        "notes": "Cannot be deleted fully, reactivation is always available. Fill out the form and select 'I understand. Please delete my profile.'."
+        "notes": "Cannot be deleted fully, reactivation is always available. Fill out the form and select 'I understand. Please delete my profile.'.",
+	"notes_de": "Kann nicht vollständig gelöscht werden, reaktivierung ist immer möglich. Fülle das Formular aus und wähle 'I understand. Please delete my profile.'."
     },
 
     {
         "name": "Coursera",
         "url": "https://www.coursera.org/about/contact",
         "difficulty": "hard",
-        "notes": "Contact support and request they delete your account."
+        "notes": "Contact support and request they delete your account.",
+        "notes_de": "Kontaktiere den Support und sie löschen deinen Account."
     },
 
     {
@@ -215,6 +221,7 @@
         "url": "http://www.craigslist.org/about/help/user_accounts",
         "difficulty": "hard",
         "notes": "Send an email to abuse@craigslist.org and request deletion.",
+        "notes_de": "Sende eine E-Mail an abuse@craigslist.org und beantrage die Löschung",
         "email": "abuse@craigslist.org"
     },
 
@@ -254,28 +261,32 @@
         "name": "DeviantArt",
         "url": "https://www.deviantart.com/settings/deactivation",
         "difficulty": "easy",
-        "notes": "All data is wiped immediately. Accounts can be reactivated within 30 days, after that they can no longer be recovered."
+        "notes": "All data is wiped immediately. Accounts can be reactivated within 30 days, after that they can no longer be recovered.",
+    	"notes": "Alle Daten sind sofort gelöscht. Accounts können innerhalb von 30 Tagen reaktiviert werden. Nach dieser Zeitspanne können sie nicht mehr wiederhergestellt werden."
     },
 
     {
         "name": "DHL (Paket.de)",
         "url": "https://www.paket.de/pkp/appmanager/pkp/desktop?_nfpb=true&_nfxr=false&_pageLabel=pkp_portal_page_footer_cah_faqs",
         "difficulty": "impossible",
-        "notes": "No information in the FAQ about account deletion, the operator on the hotline said that deleting is not possible."
+        "notes": "No information in the FAQ about account deletion, the operator on the hotline said that deleting is not possible.",
+    	"notes": "Keine Informationen in den FAQ über Account-Löschung. Der Mitarbeiter an der Hotline bestätigte, dass die Löschung nicht möglich ist."
     },
 
     {
         "name": "Diaspora",
         "url": "https://diasp.eu/user/edit#close_account_pane",
         "difficulty": "easy",
-        "notes": "Click close my account and confirm with your password."
+        "notes": "Click close my account and confirm with your password.",
+    	"notes_de": "Klicke auf 'close my account' und bestätige dies mit deinem Passwort."
     },
 
     {
         "name": "Digg",
         "url": "http://digg.com/contact",
         "difficulty": "hard",
-        "notes": "Contact Digg’s customer support and request for your account to be closed."
+        "notes": "Contact Digg’s customer support and request for your account to be closed.",
+        "notes_de": "Kontaktiere Digg's Kundensupport und beantrage die Löschung deines Accounts."
     },
 
     {
@@ -325,7 +336,8 @@
         "name": "EA Origin",
         "url": "https://help.ea.com/en/contact-us/ask",
         "difficulty": "hard",
-        "notes": "Contact customer services to request deletion. If you're outside the US this must be by phone."
+        "notes": "Contact customer services to request deletion. If you're outside the US this must be by phone.",
+        "notes_de": "Kontaktiere den Support um die Löschung zu beantragen. Wenn du außerhalb der USA bist, muss dies per Telefon geschehen."
     },
 
     {
@@ -359,28 +371,32 @@
         "name": "Evernote",
         "url": "https://www.evernote.com/Deactivate.action",
         "difficulty": "impossible",
-        "notes": "You cannot delete your Evernote account, just deactivate it temporarily. Deactivation does not remove your data so you will have to manually delete all notes and personal info, perform a sync and then deactivate the account."
+        "notes": "You cannot delete your Evernote account, just deactivate it temporarily. Deactivation does not remove your data so you will have to manually delete all notes and personal info, perform a sync and then deactivate the account.",
+    	"notes_de": "Du kannst deinen Evernote-Account nicht löschen, du kannst ihn nur temporär deaktivieren. Deaktivierung löscht nicht deine Daten, deshalb musst du manuell jede Notiz und persönliche Information löschen. Schließe dann eine Synchronisation ab und deaktiviere deinen Account dann."
     },
 
     {
         "name": "Facebook",
         "url": "https://www.facebook.com/help/delete_account?rdrhc",
         "difficulty": "medium",
-        "notes": "While you can delete your account easily, some of the datas including chat- or group-messages are here to stay forever, just as stated in the website's Privacy."
+        "notes": "While you can delete your account easily, some of the datas including chat- or group-messages are here to stay forever, just as stated in the website's Privacy.",
+    	"notes_de": "Während du deinen Account leicht löschen kannst, bleiben einige deiner Daten dauerhaft. z.B. Chat- und Gruppennachrichten. Dies ist so in den Datenschutzbestimmungen bestimmt."
     },
 
     {
         "name": "Feedly",
         "url": "https://getsatisfaction.com/feedly/topics/how_do_i_delete_my_feedly_account",
         "difficulty": "hard",
-        "notes": "Email customer support to request deletion."
+        "notes": "Email customer support to request deletion.",
+        "notes_de": "Schreibe eine mail an den Kundensupport um die Löschung zu beantragen"
     },
 
     {
         "name" : "Finanzblick",
         "url" : "https://finanzblick.de/webapp",
         "difficulty" : "medium",
-        "notes" : "Click on your username (top left) &rarr; click on 'Profileinstellungen' &rarr; 'Account löschen'. All data is fully erased."
+        "notes" : "Click on your username (top left) &rarr; click on 'Profileinstellungen' &rarr; 'Account löschen'. All data is fully erased.",
+    	"notes_de": "Klicke auf deinen username (oben rechts) &rarr; klicke auf 'Profileinstellungen' &rarr; 'Account löschen'. Alle Daten sind augenblicklich gelöscht."
     },
 
     {
@@ -408,7 +424,8 @@
         "name": "Forka",
         "url": "http://www.fotka.pl/ustawienia/konto_usun",
         "difficulty": "medium",
-        "notes": "To delete your account, you must not post anything for at least three days."
+        "notes": "To delete your account, you must not post anything for at least three days.",
+        "notes_de": "Um deinen Account zu löschen, schreibe nichts für mindestens drei Tage."
     },
 
     {
@@ -447,7 +464,8 @@
         "name": "Gamespot",
         "url": "https://gamespot.custhelp.com/app/ask",
         "difficulty": "hard",
-        "notes": "Account deletion requires contacting Customer Support"
+        "notes": "Account deletion requires contacting Customer Support",
+        "notes_de": "Account-Löschung erfordert es den Kundensupport zu kontaktieren"
     },
 
     {
@@ -475,7 +493,8 @@
         "name": "Geocaching",
         "url": "http://support.groundspeak.com/index.php?pg=kb.page&id=102",
         "difficulty": "medium",
-        "notes": "You must email support from the registered email to remove this account. Any outstanding Premium Memberships will not be refunded"
+        "notes": "You must email support from the registered email to remove this account. Any outstanding Premium Memberships will not be refunded",
+    	"notes_de": "Du musst den Support von der E-Mail-Adresse aus kontaktieren, die registriert ist. Dann beantreage die Löschung. Eine bestehende Premium-Mitgliedschaft wird nicht erstattet."
     },
 
     {
@@ -702,7 +721,8 @@
         "name": "iTunes / Apple ID",
         "url": "http://www.apple.com/support/itunes/contact/",
         "difficulty": "hard",
-        "notes": "Contact customer services. You will lose access to any media you haven’t downloaded to your computer."
+        "notes": "Contact customer services. You will lose access to any media you haven’t downloaded to your computer.",
+    	"notes_de": "Kontaktiere den Kundenservice. Du wirst deinen Zugang zu allen Medien verlieren, die du nicht auf deinen Computer heruntergeladen hast."
     },
 
     {
@@ -730,7 +750,8 @@
         "name": "Jottacloud",
         "url": "https://www.jottacloud.com/account/delete",
         "difficulty": "easy",
-        "notes": "Log in. Type in password. Press 'delete'."
+        "notes": "Log in. Type in password. Press 'delete'.",
+        "notes_de": "Logge dich ein, tippe dein Passwort ein. Klicke auf 'delete'."
     },
 
     {
@@ -772,7 +793,8 @@
         "name": "Klout",
         "url": "http://klout.com/#/edit-settings/optout",
         "difficulty": "medium",
-        "notes": "It can take up to 180 days for all your data to be removed from the system."
+        "notes": "It can take up to 180 days for all your data to be removed from the system.",
+        "notes_de": "Es kann bis zu 180 Tage dauern, bis all deine Daten aus dem System entfernt sind"
     },
 
     {
@@ -792,7 +814,8 @@
         "name": "Last.fm",
         "url": "http://www.last.fm/settings/account",
         "difficulty": "easy",
-        "notes": "May take up to 7 days to delete your data."
+        "notes": "May take up to 7 days to delete your data.",
+        "notes_de": "Es kann bis zu 7 Tage dauern um deine Daten zu löschen."
     },
 
     {
@@ -882,7 +905,7 @@
         "name": "Mint",
         "url": "https://mint.com",
         "difficulty": "easy",
-		"notes": "Click 'Accounts' in the upper right, then select the 'Settings' tab.  Scroll to the bottom and click 'Delete Your Mint Account and finally 'YES, delete my Mint account'."
+	"notes": "Click 'Accounts' in the upper right, then select the 'Settings' tab.  Scroll to the bottom and click 'Delete Your Mint Account and finally 'YES, delete my Mint account'."
     },
 
     {
@@ -975,7 +998,8 @@
         "name" : "OnlineTVRecorder.com",
         "url" : "http://www.onlinetvrecorder.com/v2/index.php?go=account&do=cancel",
         "difficulty" : "impossible",
-        "notes" : "You can deactivate your account with the link. But the data isn't deleted. Even if you contact the support they don't delete your data."
+        "notes" : "You can deactivate your account with the link. But the data isn't deleted. Even if you contact the support they don't delete your data.",
+    	"notes_de": "Du kannst deinen Account mit dem Link deaktivieren, aber deine Daten werden nicht gelöscht. Auch wenn du den Support kontaktierst, können sie deine Daten nicht löschen."
     },
 
     {
