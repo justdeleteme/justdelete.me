@@ -1143,6 +1143,13 @@
     },
 
     {
+        "name": "TeamViewer",
+        "url": "https://login.teamviewer.com/",
+        "difficulty": "easy",
+        "notes": "Edit profile (menu item at the top right corner of the page) →  Delete account"
+    },
+
+    {
         "name": "Topface",
         "url": "http://topface.com/delete-profile/",
         "difficulty": "easy"
