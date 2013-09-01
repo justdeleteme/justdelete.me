@@ -9,13 +9,13 @@
         "en": "A directory of direct links to delete your account from web services. Find out how to delete your Facebook, Twitter, LinkedIn accounts and more.",
         "it": "Una directory di link diretti per eliminare il tuo account dai siti web. Scopri come eliminare il tuo account Facebook, Twitter, LinkedIn e molti altri.",
 	"de": "Ein Verzeichnis direkter Links um deinen Account aus verschiedenen Webdiensten zu löschen.",
-	"fr": "Un annuaire de liens pour supprimer vos comptes de sites webs. Trouvez comment supprimer vos comptes Facebook, Twitter, LinkedIn et plus.",
+	"fr": "Un annuaire de liens pour supprimer vos comptes de sites webs. Trouvez comment supprimer vos comptes Facebook, Twitter, LinkedIn et plus."
 	},
     "difficulty": {
         "en": "difficulty",
         "it": "difficoltà",
 	"de": "Schwierigkeit",
-	"fr": "difficulté",
+	"fr": "difficulté"
     },
     "difficulty_easy": {
         "en": "easy",
@@ -33,13 +33,13 @@
         "en": "hard",
         "it": "difficile",
 	"de": "schwer",
-	"fr": "difficile",
+	"fr": "difficile"
     },
     "difficulty_impossible": {
         "en": "impossible",
         "it": "impossibile",
 	"de": "unmöglich",
-	"fr": "impossible",
+	"fr": "impossible"
     },
     "tagline": {
         "en": "A directory of direct links to delete your account from web services.",
@@ -82,7 +82,7 @@
         "en": "Got a site you think should be added? <a href=\"http://github.com/rmlewisuk/justdelete.me\">Fork the project GitHub</a>.",
         "it": "Hai trovato un sito che credi dovrebbe essere aggiunto? <a href=\"http://github.com/rmlewisuk/justdelete.me\">Fork the project GitHub</a>.",
 	"de": "Haben Sie eine fehlende Seite zum Hinzufügen? <a href=\"http://github.com/rmlewisuk/justdelete.me\">Fork the project GitHub</a>.",
-	"fr": "Vous pensez qu'un site devrait-être ajouté ? <a href=\"http://github.com/rmlewisuk/justdelete.me\">Forkez le projet sur GitHub</a>.
+	"fr": "Vous pensez qu'un site devrait-être ajouté ? <a href=\"http://github.com/rmlewisuk/justdelete.me\">Forkez le projet sur GitHub</a>."
 	},
     "whatisthis3": {
         "en": "<em>Email submission is temporarily disabled</em>",
@@ -124,13 +124,13 @@
         "en": "<span class=\"black\">Impossible</span> - Cannot be deleted",
         "it": "<span class=\"black\">Impossibile</span> - Non può essere cancellato",
 	"de": "<span class=\"black\">Unmöglich</span> - Kann nicht gelöscht werden",
-	"fr": "<span class=\"black\">Impossible</span> - Ne peut être supprimé",
+	"fr": "<span class=\"black\">Impossible</span> - Ne peut être supprimé"
     },
     "extension": {
         "en": "Google Chrome Extension",
         "it": "Estensione Google Chrome",
-	"de": "Google Chrome Erweiterung",
-	"fr": "Extension Google Chrome"
+	   "de": "Google Chrome Erweiterung",
+	   "fr": "Extension Google Chrome"
     },
     "extensionp1": {
         "en": "Our good friend <a target=\"_blank\" href=\"http://mikerogers.io\">Mike Rogers</a> has helped us to release an awesome Google Chrome Extension for JustDelete.me.",
@@ -165,8 +165,8 @@
 	"extensionl3": {
 		"en": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Cannot be fully deleted without contacting customer-services",
         "it": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Non può essere completamente cancellato senza contattare l'assistenza clienti",
-	"de": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Kann ohne den jeweiligen Support zu kontaktieren nicht gelöscht werden",
-	"fr" "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Ne peut être totalement supprimé sans contacter le support"
+	   "de": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Kann ohne den jeweiligen Support zu kontaktieren nicht gelöscht werden",
+	   "fr": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Ne peut être totalement supprimé sans contacter le support"
 	},
     "extensionl4": {
         "en": "<span class=\"dot-wrapper\"><span class=\"dot impossible\"></span></span> - Cannot be deleted",
@@ -178,7 +178,7 @@
         "en": "Try our new <span>Chrome Extension</span>",
         "it": "Prova la nostra nuova <span>Estensione Chrome</span>",
 	"de": "Testen Sie unsere neue <span>Chrome Erweiterung</span>",
-	"fr": "Essayez notre nouvelle <span>Extension Chrome</span>",
+	"fr": "Essayez notre nouvelle <span>Extension Chrome</span>"
     },
     "footer": {
         "en": "Made by <a href=\"http://robblewis.me\">Robb Lewis</a> and <a href=\"http://edpoole.me\">Ed Poole</a> | Fork on <a href=\"http://github.com/rmlewisuk/justdelete.me\">GitHub</a> | Hosted by <a href=\"http://www.mediatemple.net/#a_aid=521a8aefe4c3b\">Media Temple</a> | Analytics by <a href=\"https://t.co/fvPnva7p4Y\">GoSquared</a>",
