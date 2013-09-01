@@ -655,6 +655,12 @@
     },
 
     {
+        "name": "Justin.tv",
+        "url": "http://www.justin.tv/user/close_account",
+        "difficulty": "easy"
+    },
+
+    {
         "name": "Khan Academy",
         "url": "https://www.khanacademy.org/settings",
         "difficulty": "easy"
