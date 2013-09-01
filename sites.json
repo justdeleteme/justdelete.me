@@ -64,7 +64,7 @@
     {
         "name": "AOL / AOL Instant Messenger",
         "url": "http://cancel.aol.com",
-        "difficulty": "easy",
+        "difficulty": "easy"
     },
 	
     {
@@ -555,7 +555,7 @@
         "name": "GoPetition",
         "url": "http://www.gopetition.com/",
         "difficulty": "easy",
-        "notes": "Log in to your account, then click on "My Profile". You will see a link "Close my account". Click on the link and follow the instructions."
+        "notes": "Log in to your account, then click on 'My Profile'. You will see a link 'Close my account'. Click on the link and follow the instructions."
     },
 	
     {
@@ -881,8 +881,8 @@
     {
         "name": "Mint",
         "url": "https://mint.com",
-        "difficulty": "easy"
-		"notes": "Click "Accounts" in the upper right, then select the "Settings" tab.  Scroll to the bottom and click "Delete Your Mint Account" and finally "YES, delete my Mint account"."
+        "difficulty": "easy",
+		"notes": "Click 'Accounts' in the upper right, then select the 'Settings' tab.  Scroll to the bottom and click 'Delete Your Mint Account and finally 'YES, delete my Mint account'."
     },
 
     {
@@ -901,7 +901,7 @@
     {
         "name": "Monster",
         "url": "http://my.monster.com/Account/CancelMembership",
-        "difficulty": "easy",
+        "difficulty": "easy"
     },
 	
     {
