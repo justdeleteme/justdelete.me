@@ -567,6 +567,7 @@ footer a:hover, .info-container a:hover {
 .dropdown .fr A { background-image: url(inc/icons/flags/fr16.png); }
 .dropdown .de A { background-image: url(inc/icons/flags/de16.png); }
 .dropdown .es A { background-image: url(inc/icons/flags/es16.png); }
+.dropdown .ru A { background-image: url(inc/icons/flags/ru16.png); }
 
 #en { 
 	background-image: url(./inc/icons/flags/en24.png);
@@ -590,5 +591,10 @@ footer a:hover, .info-container a:hover {
 
 #es { 
 	background-image: url(./inc/icons/flags/es24.png);
+	background-repeat:no-repeat;	
+}
+
+#ru { 
+	background-image: url(./inc/icons/flags/ru24.png);
 	background-repeat:no-repeat;	
 }
