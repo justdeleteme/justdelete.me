@@ -1212,6 +1212,12 @@
     },
 
     {
+        "name": "UPS",
+        "url": "https://www.ups.com/myups/deletereg",
+        "difficulty": "easy"
+    },
+     
+    {
         "name": "Ustream",
         "url": "http://www.ustream.tv/account/preferences",
         "difficulty": "easy",
