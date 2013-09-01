@@ -1607,6 +1607,13 @@
     },
 
     {
+        "name": "We the People",
+        "url": "https://petitions.whitehouse.gov/",
+        "difficulty": "impossible"
+		"notes": "Site provides no user account management interface or account deletion options."
+    },
+	
+    {
         "name": "WEB.DE",
         "url": "https://kundencenter.web.de/",
         "difficulty": "easy"
