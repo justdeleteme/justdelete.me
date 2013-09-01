@@ -149,6 +149,12 @@
     },
 
     {
+        "name": "Change.org",
+        "url": "https://www.change.org/account_settings",
+        "difficulty": "easy"
+    },
+	
+    {
         "name": "CloudMagic",
         "url": "https://cloudmagic.com/a/v2/preferences",
         "difficulty": "easy"
@@ -508,6 +514,13 @@
     },
 
     {
+        "name": "GoPetition",
+        "url": "http://www.gopetition.com/",
+        "difficulty": "easy",
+        "notes": "Log in to your account, then click on "My Profile". You will see a link "Close my account". Click on the link and follow the instructions."
+    },
+	
+    {
         "name": "Grammarly",
         "url": "https://ed.grammarly.com/accounts/me",
         "difficulty": "easy"
@@ -568,7 +581,7 @@
 
     {
         "name": "Hotmail",
-        "url": "https://mail.live.com/mail/CloseAccountConfirmation.aspx",
+        "url": "https://account.live.com/CloseAccount.aspx",
         "difficulty": "easy"
     },
 
@@ -787,6 +800,7 @@
         "name": "Mint",
         "url": "https://mint.com",
         "difficulty": "easy"
+		"notes": "Click "Accounts" in the upper right, then select the "Settings" tab.  Scroll to the bottom and click "Delete Your Mint Account" and finally "YES, delete my Mint account"."
     },
 
     {
@@ -891,7 +905,7 @@
 
     {
         "name": "Outlook",
-        "url": "https://account.live.com/summarypage.aspx",
+        "url": "https://account.live.com/CloseAccount.aspx",
         "difficulty": "easy"
     },
 
