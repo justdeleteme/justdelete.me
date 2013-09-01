@@ -24,7 +24,6 @@ The sites, urls and additional notes are stored in `sites.json`. If you want to 
 6. Be sure to place your entry ALPHABETICALLY in the current list.
 7. Please test that your changes work by going to `localhost` or `localhost/index.php`
 
-
 ##Translation
 
 If you want to translate the site see #164 and #165
