@@ -41,25 +41,6 @@
 	      w.attachEvent("onload", gs);
 	  })(window);
 	</script>
-        <script type="text/javascript">
-
-             $(document).ready(function() {
-                 $('#LanguageSwitcher').LanguageSwitcher({
-                    effect: 'fade',
-                    openMode: 'hover',                    
-                    onChange: function(evt){                                           
-                        setCookie("selectedlanguage", evt.selectedItem, 365);
-                        selectedlanguage = evt.selectedItem;
-                        // if (selectedlanguage != "en") {
-                        // 	window.location.replace("/"+selectedlanguage+".html");
-                        // }
-                        // else {
-                        // 	return;
-                        // }
-                    }
-                });
-            });
-        </script>
 </head>	
 <body>
 
