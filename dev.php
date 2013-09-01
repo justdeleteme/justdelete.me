@@ -53,6 +53,7 @@
 	$banner = $definitions[0]->banner->$lang;
 	$footer = $definitions[0]->footer->$lang;
 	$help_translate = $definitions[0]->help->$lang;
+	$donate = $definitions[0]->donate->$lang;
 	if ($lang == "en")
 	{
 		$note_lang = "notes";
@@ -183,7 +184,7 @@
 					<li><a href="http://robblewis.me/just-delete-me-one-million-page-views/">One Million Page Views &raquo;</a></li>
 				</ul>
 				<p><a href="https://twitter.com/justdeletedotme" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @justdeletedotme</a></p>
-				<p>Hosting costs money. If you like JustDelete.me, please consider making a donation.</p>
+				<p><?php echo $donate; ?></p>
 				<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="E9VLGMSJ3R4Q4">
