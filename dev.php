@@ -224,7 +224,7 @@
 					<li><?php echo $extensionl2 ?></li>
 					<li><?php echo $extensionl3 ?></li>
 					<li><?php echo $extensionl4 ?></li>					
-				</ul>				
+				</ul>			
 			</div>	
 		</div>
 		<div class="banner-block-extension"></div>

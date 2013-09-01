@@ -47,12 +47,6 @@ $(function(){
 
     $('.banner').click(function(e) {
      $('body').scrollTo('.banner-block');
-    })
-
-    $('.site').hover(function () {
-     $(this).find('.tooltip').fadeIn();
-    }, function () {
-     $(this).find('.tooltip').fadeOut('fast');
     });
 
     // create the keys and konami variables
