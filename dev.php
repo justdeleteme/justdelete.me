@@ -1,24 +1,71 @@
 <?php
-$sites = json_decode(file_get_contents('sites.json'));
-usort($sites, function($a, $b) {
-          $a = strtolower($a->name);
-          $b = strtolower($b->name);
-          
-	if ($a < $b) return -1;
-	if ($a > $b) return 1;
-	return 0;
-}); 
+	$sites = json_decode(file_get_contents('sites.json'));
+	usort($sites, function($a, $b) {
+	          $a = strtolower($a->name);
+	          $b = strtolower($b->name);
+	          
+		if ($a < $b) return -1;
+		if ($a > $b) return 1;
+		return 0;
+	}); 
+
+	// $lang = "en"; $full_name = "English"; // For testing
+
+	$definitions = json_decode(file_get_contents('definitions.json'));
+
+	$title = $definitions[0]->title->$lang;
+	$description = $definitions[0]->description->$lang;
+	$difficulty = $definitions[0]->difficulty->$lang;
+	$difficulty_easy = $definitions[0]->difficulty_easy->$lang;
+	$difficulty_medium = $definitions[0]->difficulty_medium->$lang;
+	$difficulty_hard = $definitions[0]->difficulty_hard->$lang;
+	$difficulty_impossible = $definitions[0]->difficulty_impossible->$lang;
+	$tagline = $definitions[0]->tagline->$lang;
+	$noinfo = $definitions[0]->noinfo->$lang;
+	$showinfo = $definitions[0]->showinfo->$lang;
+	$hideinfo = $definitions[0]->hideinfo->$lang;
+	$whatisthis = $definitions[0]->whatisthis->$lang;
+	$whatisthis1 = $definitions[0]->whatisthis1->$lang;
+	$whatisthis2 = $definitions[0]->whatisthis2->$lang;
+	$whatisthis3 = $definitions[0]->whatisthis3->$lang;
+	$guide = $definitions[0]->guide->$lang;
+	$guideexplanations = $definitions[0]->guideexplanations->$lang;
+	$guideeasy = $definitions[0]->guideeasy->$lang;
+	$guidemedium = $definitions[0]->guidemedium->$lang;
+	$guidehard = $definitions[0]->guidehard->$lang;
+	$guideimpossible = $definitions[0]->guideimpossible->$lang;
+	$extension = $definitions[0]->extension->$lang;
+	$extensionp1 = $definitions[0]->extensionp1->$lang;
+	$extensionp2 = $definitions[0]->extensionp2->$lang;
+	$extensionp3 = $definitions[0]->extensionp3->$lang;
+	$extensionl1 = $definitions[0]->extensionl1->$lang;
+	$extensionl2 = $definitions[0]->extensionl2->$lang;
+	$extensionl3 = $definitions[0]->extensionl3->$lang;
+	$extensionl4 = $definitions[0]->extensionl4->$lang;
+	$banner = $definitions[0]->banner->$lang;
+	$footer = $definitions[0]->footer->$lang;
+	$help_translate = $definitions[0]->help->$lang;
+	if ($lang == "en")
+	{
+		$note_lang = "notes";
+	}
+	else
+	{
+		$note_lang = "notes_" . $lang;
+	}
+
+
 ?>
 <!DOCTYPE HTML>
 <html>
 <head>
-	<title>Just Delete Me | A directory of direct links to delete your account from web services.</title>
+	<title>Just Delete Me | <?php echo $title ?></title>
 	<meta charset="UTF-8">
 	<!--[if lt IE 9]>
 		<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
 	<meta name="viewport" content="width=device-width,initial-scale=1">
-	<meta name="description" content="A directory of direct links to delete your account from web services. Find out how to delete your Facebook, Twitter, LinkedIn accounts and more.">
+	<meta name="description" content="<?php echo $description ?>">
 
 	<!-- Icons -->
 	<link rel="shortcut icon" href="inc/icons/favicon.ico">
@@ -31,6 +78,8 @@ usort($sites, function($a, $b) {
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 	<script>window.jQuery || document.write('<script src="inc/jquery.js"><\/script>')</script>
 	<script src="inc/scripts.js"></script>
+	<link type="text/css" rel="stylesheet" href="inc/jquery.dropdown.css" />
+	<script type="text/javascript" src="inc/jquery.dropdown.js"></script>
 
 	<script type="text/javascript">
 	  var GoSquared = {};
@@ -50,6 +99,7 @@ usort($sites, function($a, $b) {
 	  })(window);
 	</script>
         <script type="text/javascript">
+
              $(document).ready(function() {
                  $('#LanguageSwitcher').LanguageSwitcher({
                     effect: 'fade',
@@ -57,34 +107,12 @@ usort($sites, function($a, $b) {
                     onChange: function(evt){                                           
                         setCookie("selectedlanguage", evt.selectedItem, 365);
                         selectedlanguage = evt.selectedItem;
-                        $.ajax({
-                             url: "definitions.json",              
-                            
-                             success: function(result) {                          
-                                for (var v in result)
-                                {
-                                    var val = result[v][evt.selectedItem];
-                                    if (v == 'title')
-                                    {
-                                        document.title = val;
-                                    }
-                                    else if (v == 'description')
-                                    {
-                                         $('meta[name=description]').remove();
-                                         $('head').append( '<meta name="description" content="' + val + '">' );
-                                    }
-                                    else
-                                    {
-                                         if (v == 'showinfo')
-                                             showinfo = val;
-                                        else if (v == 'hideinfo')
-                                            hideinfo = val;
-
-                                        replaceContentInContainer(v, val);
-                                    }
-                                }
-                            }
-                        });
+                        // if (selectedlanguage != "en") {
+                        // 	window.location.replace("/"+selectedlanguage+".html");
+                        // }
+                        // else {
+                        // 	return;
+                        // }
                     }
                 });
             });
@@ -96,27 +124,16 @@ usort($sites, function($a, $b) {
 	<div id="fb-root"></div>
 
 	<a href="https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf" target="_blank" class="banner">
-            <label class="banner">Try our new <span>Chrome Extension</span></label>
+            <?php echo $banner ?>
 	</a>
 
-
 	<header>
-               <!-- begin language switcher -->
-                <div id="LanguageSwitcher">
-                    <form action="#">
-                        <select id="language-options">
-                            <option id="en" value="en" selected>English</option>                          
-                            <option id="it" value="it">Italiano</option>
-                            <!-- <option id="fr" value="fr">Français</option> -->
-                            <!-- <option id="de" value="de">Deutsch</option> -->
-                            <!-- <option id="es" value="es">Español</option> -->
-                        </select>
-                    </form>
-                </div>
-                <br><br>
-                <!-- end language switcher -->
 		<h1>just<span>delete</span>.me</h1>
-		<p class="tagline">A directory of direct links to delete your account from web services.</p>
+		<p class="tagline"><?php echo $tagline ?></p>
+
+		<!-- begin language switcher -->
+		<span class="language-switch" href="#" data-dropdown="#dropdown-1" id="<?php echo $lang; ?>"><?php echo $full_name; ?></span>
+		<!-- end language switcher -->
 	</header>
 
 	<div id="test">
@@ -139,23 +156,24 @@ usort($sites, function($a, $b) {
                                     <?php echo $site->name; ?>
                                 </a>                            
                                 <p class="site-difficulty">
-                                    <label class="difficulty">Difficulty</label>: <label class="difficulty_<?php echo $site->difficulty; ?>"><?php echo $site->difficulty; ?></label>
+                                    <label class="difficulty"><?php echo $definitions[0]->difficulty->$lang; ?></label>: <label class="difficulty_<?php echo $site->difficulty; ?>"><?php echo $site->difficulty; ?></label>
                                 </p>
-                                <?php if (isset($site->notes)) : ?>
-                                    <div class="tooltip-content">
-                                        <?php if (isset($site->notes_it)) {
-                                            echo '<div class="tooltip-content-it" style="display: none">';
-                                            echo $site->notes_it;
-                                            echo '</div>';
-                                        }
-                                        ?>                          
+                                <?php if (isset($site->$note_lang)) : ?>
+                                    <div class="tooltip-content">                        
+                                        <div class="tooltip-content-en">
+                                        <?php echo $site->$note_lang; ?>
+                                        </div>
+                                    </div>
+                                    <a href="#" class="tooltip-toggle contains-info"><?php echo $showinfo ?></a>
+                                <?php elseif (isset($site->notes)) : ?>
+                                	<div class="tooltip-content">                        
                                         <div class="tooltip-content-en">
                                         <?php echo $site->notes; ?>
                                         </div>
                                     </div>
-                                    <a href="#" class="tooltip-toggle contains-info"><label class="showinfo">Show Info...</label></a>
+                                    <a href="#" class="tooltip-toggle contains-info"><?php echo $showinfo ?></a>
                                 <?php else : ?>
-                                    <p class="tooltip-toggle"><label class="noinfo">No Info Available</label></p>
+                                    <p class="tooltip-toggle"><?php echo $noinfo ?></p>
                                 <?php endif; ?>
                             </section><?php endforeach; ?>
 
@@ -165,10 +183,10 @@ usort($sites, function($a, $b) {
 		<div class="info-container">
 
 			<div class="info-block-half">
-				<h2><label class="whatisthis">What is this?</label></h2>
-				<p><label class="whatisthis1">Many companies use <a href="http://darkpatterns.org/">dark pattern</a> techniques to make it difficult to find how to delete your account. JustDelete.me aims to be a directory of urls to enable you to easily delete your account from web services.</label></p>
-				<p><label class="whatisthis2">Got a site you think should be added? <a href="http://github.com/rmlewisuk/justdelete.me">Fork the project GitHub</a>.</label></p>
-				<p><label class="whatisthis3"><em>Email submission is temporarily disabled</em></label></p>
+				<h2><?php echo $whatisthis ?></h2>
+				<p><?php echo $whatisthis1 ?></p>
+				<p><?php echo $whatisthis2 ?></p>
+				<p><?php echo $whatisthis3 ?></p>
 				<ul>
 					<li><a href="http://robblewis.me/just-delete-me?utm_source=JustDeleteMe&amp;utm_medium=link&amp;utm_campaign=Just+Delete+Me" target="_blank">Read the announcement blog post &raquo;</a></li>
 					<li><a href="http://robblewis.me/24-hours-of-just-delete-me/" target="_blank">See the first-day stats &raquo;</a></li>
@@ -177,13 +195,13 @@ usort($sites, function($a, $b) {
 				</ul>
 				<p><a href="https://twitter.com/justdeletedotme" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @justdeletedotme</a></p>
 			</div><div class="info-block-half">
-				<h2><label class="guide">Guide</label></h2>
-				<p><label class="guideexplanations">The links above are colour-coded to indicate the difficulty level of account deletion:</label></p>
+				<h2><?php echo $guide ?></h2>
+				<p><?php echo $guideexplanations ?></p>
 				<ul>
-					<li><label class="guideeasy"><span class="green">Easy</span> - Simple process</label></li>
-					<li><label class="guidemedium"><span class="yellow">Medium</span> - Some extra steps involved</label></li>
-					<li><label class="guidehard"><span class="red">Hard</span> - Cannot be fully deleted without contacting customer services</label></li>
-					<li><label class="guideimpossible"><span class="black">Impossible</span> - Cannot be deleted</label></li>
+					<li><?php echo $guideeasy ?></li>
+					<li><?php echo $guidemedium ?></li>
+					<li><?php echo $guidehard ?></li>
+					<li><?php echo $guideimpossible ?></li>
 				</ul>
 			</div>		
 		</div>
@@ -191,17 +209,17 @@ usort($sites, function($a, $b) {
 	<div class="banner-block">
 		<div class="banner-content">
 			<div class="banner-block-half">
-				<h2><label class="extension">Google Chrome Extension</label></h2>
-				<p><label class="extensionp1">Our good friend <a target="_blank" href="http://mikerogers.io">Mike Rogers</a> has helped us to release an awesome Google Chrome Extension for JustDelete.me.</label></p>
-				<p><label class="extensionp2">When you are on a website that is listed on justdelete.me, the Chrome Extension will add a small dot to the omnibar. Clicking on this dot will take you to the relevant delete page.</label></p>
-				<p><label class="extensionp3">To install it, simply proceed to the <a target="_blank" href="https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf">Chrome Web Store</a>.</label></p>			
+				<h2><?php echo $extension ?></h2>
+				<p><?php echo $extensionp1 ?></p>
+				<p><?php echo $extensionp2 ?></p>
+				<p><?php echo $extensionp3 ?></p>			
 			</div><div class="banner-block-half">
 				<h2>Extension Dot Guide</h2>
 				<ul>
-					<li><label class="extensionl1"><span class="dot-wrapper"><span class="dot easy"></span></span> - Simple process</label></li>
-					<li><label class="extensionl2"><span class="dot-wrapper"><span class="dot medium"></span></span> - Some extra steps involved</label></li>
-					<li><label class="extensionl3"><span class="dot-wrapper"><span class="dot hard"></span></span> - Cannot be fully deleted without contacting customer-services</label></li>
-					<li><label class="extensionl4"><span class="dot-wrapper"><span class="dot impossible"></span></span> - Cannot be deleted</label></li>					
+					<li><?php echo $extensionl1 ?></li>
+					<li><?php echo $extensionl2 ?></li>
+					<li><?php echo $extensionl3 ?></li>
+					<li><?php echo $extensionl4 ?></li>					
 				</ul>				
 			</div>	
 		</div>
@@ -210,7 +228,7 @@ usort($sites, function($a, $b) {
 	<section class="info-block">
 		<div class="info-container">
 			<footer>
-				<span><label class="footer">Made by <a href="http://robblewis.me">Robb Lewis</a> and <a href="http://edpoole.me">Ed Poole</a> | Fork on <a href="http://github.com/rmlewisuk/justdelete.me">GitHub</a> | Hosted by <a href="http://www.mediatemple.net/#a_aid=521a8aefe4c3b">Media Temple</a> | Analytics by <a href="https://t.co/fvPnva7p4Y">GoSquared</a></span></label>
+				<span><?php echo $footer ?></label>
 				<div class="share-buttons" id="share buttons">
 				<!-- Twitter -->
 					<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://justdelete.me">Tweet</a>
@@ -222,5 +240,35 @@ usort($sites, function($a, $b) {
 			</footer>
 		</div>		
 	</section>
+	<script type="text/javascript">
+		$('.contains-info').click(function(e) {
+            e.preventDefault();
+            if ($(this).prev().hasClass('toggled')) {
+                if ($(this).hasClass('text-toggled')) {
+                    $(this).html("<?php echo $showinfo ?>").removeClass('text-toggled');
+                } else {
+                    $(this).html("<?php echo $showinfo ?>").removeClass('text-toggled');
+                }
+                $(this).prev().slideToggle().removeClass('toggled');
+            } else {
+                $('.toggled').next().html("<?php echo $showinfo ?>");
+                $('.toggled').slideToggle().removeClass('toggled');
+                $(this).prev().slideToggle().addClass('toggled');
+                $(this).html("<?php echo $hideinfo ?>").addClass('text-toggled');
+            }       
+        });
+	</script>
+
+	<div id="dropdown-1" class="dropdown dropdown-tip has-icons">
+	    <ul class="dropdown-menu">
+	    	<li class="en"><a href="/">English</a></li>
+	        <li class="it"><a href="it.html">Italiano <span class="beta">incompleto</span></a></li>
+	    	<!-- <li class="de"><a href="de.html">German <span class="beta">unvollständig</span></a></li> -->
+	        <!-- <li class="fr"><a href="fr.html">French <span class="beta">incomplète</span></a></li> -->
+	        <!-- <li class="es"><a href="es.html">Spanish <span class="beta">incompleto</span></a></li> -->
+	        <li class="dropdown-divider"></li>
+	        <li class="help"><a target="_blank" href="https://github.com/rmlewisuk/justdelete.me/issues/164"><?php echo $help_translate; ?></a></li>
+	    </ul>
+	</div>
 </body>
 </html>

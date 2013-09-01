@@ -1,4 +1,4 @@
-{
+[{
     "title": {
         "en": "Just Delete Me | A directory of direct links to delete your account from web services.",
         "it": "Just Delete Me | Una directory di link diretti per eliminare il tuo account dai siti web."
@@ -123,5 +123,9 @@
     "footer": {
         "en": "Made by <a href=\"http://robblewis.me\">Robb Lewis</a> and <a href=\"http://edpoole.me\">Ed Poole</a> | Fork on <a href=\"http://github.com/rmlewisuk/justdelete.me\">GitHub</a> | Hosted by <a href=\"http://www.mediatemple.net/#a_aid=521a8aefe4c3b\">Media Temple</a> | Analytics by <a href=\"https://t.co/fvPnva7p4Y\">GoSquared</a>",
         "it": "Creato da <a href=\"http://robblewis.me\">Robb Lewis</a> and <a href=\"http://edpoole.me\">Ed Poole</a> | Fork on <a href=\"http://github.com/rmlewisuk/justdelete.me\">GitHub</a> | Hosted by <a href=\"http://www.mediatemple.net/#a_aid=521a8aefe4c3b\">Media Temple</a> | Analytics by <a href=\"https://t.co/fvPnva7p4Y\">GoSquared</a>"
+    },
+    "help": {
+        "en": "Help translate",
+        "it": "Aiutare a tradurre"
     }
-}
+}]

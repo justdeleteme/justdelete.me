@@ -11,12 +11,12 @@ body {
 	background-color:#D4D8DC;
 }
 
-header {	
+header {
+	position: relative;
 	background-color: #293840;
 	color: #E8E8E8;	
 	text-align: center;
-	padding-top: 10px;
-        padding-bottom: 40px;
+	padding: 40px 0;
 	border-bottom: 5px solid #cf5a5a;
 }
 
@@ -539,120 +539,56 @@ footer a:hover, .info-container a:hover {
 	color: #CF5A5A;
 }
 
-#LanguageSwitcher, #LanguageSwitcher * {
-	margin: 0;
-	padding: 0; 
-	outline: none;
-}
+/* Language switch */
 
-#LanguageSwitcher ul {
-	list-style: none;	
-}
-
-#LanguageSwitcher {
-	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 12px;
-	color: #444;
-	line-height: normal;
-	position: relative; /* sets the initial position for the drop-down menu */	
-	z-index: 100;
-        float: right;
-        margin-right: 10px;
-}
-
-#LanguageSwitcher form {
-	display: none;	
-}
-
-/* ---------------------------------------------------------------------- */
-/* JS-created Code
-/* ---------------------------------------------------------------------- */
-#LanguageSwitcher a {
-	text-decoration: none;
-	display: block;	
-	padding: 0.5em 6px 0.5em 28px; /* 6px 6px 6px 28px */
-	color: #444;
-	width: 7em; /* 84px; total width: 120px */
-	background-repeat: no-repeat;
-	background-position: 6px center; 
-}
-
-#LanguageSwitcher a:hover {
-	color: #000;	
-}
-
-#LanguageSwitcher a.current:link, #LanguageSwitcher a.current:visited, #LanguageSwitcher a.current:active {
-	position: relative; /* sets the initial position for the trigger arrow */
-	background-color: #FFF;
-	border: 1px solid #E5E5E5;
-	border-radius: 3px;
-}
-
-#LanguageSwitcher a.current:hover, 
-#LanguageSwitcher ul.dropdown li:hover {
-	background-color: #F7F7F7;
-}
-
-#LanguageSwitcher a.active { /* This style is applied as long as the drop-down menu is visible. */
-	border-bottom: none !important;
-	border-radius: 3px 3px 0 0 !important;
-}
-
-#LanguageSwitcher span.trigger {
-	display: block;
+.language-switch {
 	position: absolute;
-	width: 9px;
-	height: 5px;
-	text-indent: -10000em;
-	top: 0.5em; /* 6px */
-	right: 6px;
+	top: 5px;
+	left: 10px;
+	padding-left: 29px;
+	padding-top: 3px;
+	padding-bottom: 5px;
+	padding-right: 10px;
 }
 
-/*#LanguageSwitcher a.current:link span.trigger, #LanguageSwitcher a.current:visited span.trigger {
-	background: url(../images/arrow-down.gif) no-repeat left top;	
-}*/
+	.language-switch:hover {
+		background-color: #414f56;
+		border-radius: 3px;
+	}
 
-#LanguageSwitcher a.current:hover span.trigger, #LanguageSwitcher a.current:active span.trigger, #LanguageSwitcher a.active span.trigger {
-	background-position: left bottom !important;
+.beta {
+	font-size: 50%;
+	color: #cf5a5a;
 }
 
-/* Drop-Down Menu */
-
-#LanguageSwitcher ul.dropdown { 
-	display: none;
-	position: absolute;
-	top: 2.333em; /* 28px */
-	left: 0;
-	background-color: #FFF;	
-	border-radius: 0 0 3px 3px;
-}
-
-#LanguageSwitcher ul.dropdown li { 
-	border-top: 1px dotted #D4D4D4;
-}
-
-#LanguageSwitcher ul.dropdown li:last-child { 
-	border-radius: 0 0 3px 3px;
-}
-
-/* Flags */
+.dropdown .help A { background-image: url(inc/icons/github16.png); }
+.dropdown .it A { background-image: url(inc/icons/flags/it16.png); }
+.dropdown .en A { background-image: url(inc/icons/flags/en16.png); }
+.dropdown .fr A { background-image: url(inc/icons/flags/fr16.png); }
+.dropdown .de A { background-image: url(inc/icons/flags/de16.png); }
+.dropdown .es A { background-image: url(inc/icons/flags/es16.png); }
 
 #en { 
-	background-image: url(./inc/icons/flags/en.png);
+	background-image: url(./inc/icons/flags/en24.png);
+	background-repeat:no-repeat;
 }
 
 #fr { 
-	background-image: url(./inc/icons/flags/fr.png);	
+	background-image: url(./inc/icons/flags/fr24.png);
+	background-repeat:no-repeat;	
 }
 
 #de { 
-	background-image: url(./inc/icons/flags/de.png);	
+	background-image: url(./inc/icons/flags/de24.png);
+	background-repeat:no-repeat;	
 }
 
 #it { 
-	background-image: url(./inc/icons/flags/it.png);	
+	background-image: url(./inc/icons/flags/it24.png);	
+	background-repeat:no-repeat;
 }
 
 #es { 
-	background-image: url(./inc/icons/flags/es.png);	
+	background-image: url(./inc/icons/flags/es24.png);
+	background-repeat:no-repeat;	
 }
