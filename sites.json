@@ -336,7 +336,8 @@
     {
         "name": "Facebook",
         "url": "https://www.facebook.com/help/delete_account?rdrhc",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "notes": "While you can delete your account easily, some of the datas including chat- or group-messages are here to stay forever, just as stated in the website's Privacy."
     },
 
     {
@@ -1297,7 +1298,7 @@
         "name": "Wunderlist",
         "url": "https://www.wunderlist.com/#/preferences/account",
         "difficulty": "easy",
-        "notes": "Click 'Delete Account' at the bottom of the account preferences pane"
+        "notes": "Click 'Delete Account' at the bottom of the account preferences panel."
     },
 
     {
