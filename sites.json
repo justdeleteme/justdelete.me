@@ -36,7 +36,7 @@
         "url": "https://learn.adobe.com/wiki/display/wel/Delete+your+account",
         "difficulty": "hard",
         "notes": "You have to call them in order to delete your account. Alternatively, you can send them an email.",
-        "notes_it": "Per eliminare il tuo account dovrai contattarli via telefono. Alternativamente puoi spedire una mail"        
+        "notes_it": "Per eliminare il tuo account dovrai contattarli via telefono. Alternativamente puoi spedire una mail"
     },
 
     {
@@ -58,7 +58,7 @@
         "url": "http://www.animalcrossingcommunity.com/help_main.asp?HelpSectionID=5#Topic201",
         "difficulty": "impossible",
         "notes": "We do not 'delete' or 'terminate' accounts on ACC. If you no longer wish to use the site, you may delete all personal information from your profile and then stop logging in.",
-        "notes_it": "Non è possibile chiudere o terminare un account su ACC. Se non desideri più utilizzare il sito, puoi comunque eliminare tutti i dati personali dal tuo profilo e non loggarci più"    
+        "notes_it": "Non è possibile chiudere o terminare un account su ACC. Se non desideri più utilizzare il sito, puoi comunque eliminare tutti i dati personali dal tuo profilo e non loggarci più"
     },
 
     {
@@ -66,7 +66,7 @@
         "url": "http://cancel.aol.com",
         "difficulty": "easy"
     },
-	
+
     {
         "name": "App.net",
         "url": "https://account.app.net/settings/delete/",
@@ -152,17 +152,17 @@
     },
 
     {
+        "name": "Change.org",
+        "url": "https://www.change.org/account_settings",
+        "difficulty": "easy"
+    },
+
+    {
         "name": "CloudApp",
         "url": "http://my.cl.ly/account/delete",
         "difficulty": "easy"
     },
 
-    {
-        "name": "Change.org",
-        "url": "https://www.change.org/account_settings",
-        "difficulty": "easy"
-    },
-	
     {
         "name": "CloudMagic",
         "url": "https://cloudmagic.com/a/v2/preferences",
@@ -225,19 +225,19 @@
         "notes": "Edit your account and select \"remove my account\"."
     },
 
-	{
+    {
         "name": "Deadspin (Gawker Media)",
         "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
         "difficulty": "impossible",
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service."
     },
-	
+
     {
         "name": "Delicious",
         "url": "https://delicious.com/settings/deactivate",
         "difficulty": "easy"
     },
-   
+
     {
         "name": "Desktoply",
         "url": "http://desktop.ly/settings",
@@ -377,10 +377,10 @@
     },
 
     {
-        "name" : "Finanzblick",
-        "url" : "https://finanzblick.de/webapp",
-        "difficulty" : "medium",
-        "notes" : "Click on your username (top left) &rarr; click on 'Profileinstellungen' &rarr; 'Account löschen'. All data is fully erased."
+        "name": "Finanzblick",
+        "url": "https://finanzblick.de/webapp",
+        "difficulty": "medium",
+        "notes": "Click on your username (top left) &rarr; click on 'Profileinstellungen' &rarr; 'Account löschen'. All data is fully erased."
     },
 
     {
@@ -429,7 +429,7 @@
         "difficulty": "hard",
         "notes": "Make sure your account balance is positive, then issue a support ticket requesting to close your account"
     },
-    
+
     {
         "name": "Freenode",
         "url": "https://ezcrypt.it/ML4n#ej6rorotmsxq7jF8ViyGjTVh",
@@ -442,7 +442,7 @@
         "url": "https://friendfeed.com/account/delete",
         "difficulty": "easy"
     },
-	
+
     {
         "name": "Gamespot",
         "url": "https://gamespot.custhelp.com/app/ask",
@@ -451,17 +451,17 @@
     },
 
     {
-        "name": "Gawker (Gawker Media)",
-        "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
-        "difficulty": "impossible",
-        "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service."
-    },
-	
-    {
         "name": "Gauges",
         "url": "http://get.gaug.es/tos/",
         "difficulty": "impossible",
         "notes": "If you wish to terminate your Gauges account, you may simply discontinue using Gauges."
+    },
+
+    {
+        "name": "Gawker (Gawker Media)",
+        "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
+        "difficulty": "impossible",
+        "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service."
     },
 
     {
@@ -496,7 +496,7 @@
         "difficulty": "impossible",
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service."
     },
-	
+
     {
         "name": "Glassboard",
         "url": "http://glassboard.com/support/",
@@ -545,19 +545,19 @@
     },
 
     {
+        "name": "GoPetition",
+        "url": "http://www.gopetition.com/",
+        "difficulty": "easy",
+        "notes": "Log in to your account, then click on 'My Profile'. You will see a link 'Close my account'. Click on the link and follow the instructions."
+    },
+
+    {
         "name": "GoSquared",
         "url": "https://www.gosquared.com/home/account/close",
         "difficulty": "easy",
         "notes": "Select a reason for closing and it'll take 2 clicks."
     },
 
-    {
-        "name": "GoPetition",
-        "url": "http://www.gopetition.com/",
-        "difficulty": "easy",
-        "notes": "Log in to your account, then click on 'My Profile'. You will see a link 'Close my account'. Click on the link and follow the instructions."
-    },
-	
     {
         "name": "Grammarly",
         "url": "https://ed.grammarly.com/accounts/me",
@@ -643,6 +643,14 @@
     },
 
     {
+        "name": "ICQ",
+        "url": "http://www.icq.com/download/icq/knownissues/account/en",
+        "difficulty": "impossible",
+        "notes": "ICQ is now working on providing a delete feature which will be available in upcoming ICQ versions. Currently, there’s no such functionality.",
+        "notes_de": "ICQ arbeitet an einer Löschfunktion. Diese wird in künftigen Versionen von ICQ verfügbar sein. Momentan gibt es diese Funktion nicht."
+    },
+
+    {
         "name": "IFTTT",
         "url": "https://ifttt.com/settings/deactivate",
         "difficulty": "easy"
@@ -697,7 +705,7 @@
         "difficulty": "impossible",
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service."
     },
-	
+
     {
         "name": "iTunes / Apple ID",
         "url": "http://www.apple.com/support/itunes/contact/",
@@ -712,13 +720,13 @@
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service."
     },
 
-	{
+    {
         "name": "Jezebel (Gawker Media)",
         "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
         "difficulty": "impossible",
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service."
     },
-	
+
     {
         "name": "JoliCloud / JoliDrive",
         "url": "https://drive.jolicloud.com/#/settings/account",
@@ -739,7 +747,6 @@
         "difficulty": "hard",
         "notes": "Please send a request to support@jsfiddle.net if you'd like your account to be deleted. <a href='https://github.com/jsfiddle/jsfiddle-issues/issues/237'>More here</a>",
         "email": "support@jsfiddle.net"
-    
     },
 
     {
@@ -767,7 +774,7 @@
         "difficulty": "impossible",
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service."
     },
-	
+
     {
         "name": "Klout",
         "url": "http://klout.com/#/edit-settings/optout",
@@ -781,7 +788,7 @@
         "difficulty": "impossible",
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service."
     },
-	
+
     {
         "name": "Krrb",
         "url": "http://krrb.com/settings/disable-account",
@@ -826,7 +833,7 @@
         "difficulty": "impossible",
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service."
     },
-	
+
     {
         "name": "LinkedIn",
         "url": "http://help.linkedin.com/app/answers/detail/a_id/63/kw/delete%20account",
@@ -882,7 +889,7 @@
         "name": "Mint",
         "url": "https://mint.com",
         "difficulty": "easy",
-		"notes": "Click 'Accounts' in the upper right, then select the 'Settings' tab.  Scroll to the bottom and click 'Delete Your Mint Account and finally 'YES, delete my Mint account'."
+        "notes": "Click 'Accounts' in the upper right, then select the 'Settings' tab.  Scroll to the bottom and click 'Delete Your Mint Account and finally 'YES, delete my Mint account'."
     },
 
     {
@@ -903,7 +910,7 @@
         "url": "http://my.monster.com/Account/CancelMembership",
         "difficulty": "easy"
     },
-	
+
     {
         "name": "Mozilla Persona",
         "url": "https://login.persona.org/",
@@ -972,10 +979,10 @@
     },
 
     {
-        "name" : "OnlineTVRecorder.com",
-        "url" : "http://www.onlinetvrecorder.com/v2/index.php?go=account&do=cancel",
-        "difficulty" : "impossible",
-        "notes" : "You can deactivate your account with the link. But the data isn't deleted. Even if you contact the support they don't delete your data."
+        "name": "OnlineTVRecorder.com",
+        "url": "http://www.onlinetvrecorder.com/v2/index.php?go=account&do=cancel",
+        "difficulty": "impossible",
+        "notes": "You can deactivate your account with the link. But the data isn't deleted. Even if you contact the support they don't delete your data."
     },
 
     {
@@ -1019,9 +1026,9 @@
     },
 
     {
-        "name" : "Patrick-Krempf-Reminder",
-        "url" : "http://reminder.patrickkempf.de/manage.php?do=delaccount",
-        "difficulty" : "easy"
+        "name": "Patrick-Krempf-Reminder",
+        "url": "http://reminder.patrickkempf.de/manage.php?do=delaccount",
+        "difficulty": "easy"
     },
 
     {
@@ -1133,7 +1140,7 @@
         "url": "http://redditgifts.com/privacy/",
         "difficulty": "hard",
         "notes": "If you decide you would like to delete your account you must email us at support@redditgifts.com. You must email us from the email address associated with your account and provide your reddit username.",
-        "email": "support@redditgifts.com"   
+        "email": "support@redditgifts.com"
     },
 
     {
@@ -1150,10 +1157,10 @@
     },
 
     {
-        "name" : "Rovio",
-        "url" : "https://account.rovio.com/",
-        "difficulty" : "easy",
-        "notes" : "Bottom link 'Delete Account'"
+        "name": "Rovio",
+        "url": "https://account.rovio.com/",
+        "difficulty": "easy",
+        "notes": "Bottom link 'Delete Account'"
     },
 
     {
@@ -1223,7 +1230,7 @@
         "difficulty": "Easy",
         "notes": "Enter username and password and click 'Delete'."
     },
-	
+
     {
         "name": "Sonico",
         "url": "http://www.sonico.com/tyc.php",
@@ -1280,17 +1287,17 @@
     },
 
     {
-        "name": "Steam",
-        "url": "https://support.steampowered.com/newticket.php",
-        "difficulty": "impossible",
-        "notes": "If you contact Steam support, they will most likely tell you just to not use the account. If your account has no games on it, it will be disabled after a while."
-    },
-
-    {
         "name": "Stayfirends.de",
         "url": "http://www.stayfriends.de/j/ViewController?action=accountSettings&delEnabled=true",
         "difficulty": "easy",
         "notes": "Die Löschung Ihres Eintrages kann nicht rückgängig gemacht werden. Alle Ihre Profildaten, Kontakte Nachrichten und Bilder werden unwiderruflich entfernt. Ihre Mitschüler und Kontakte können nicht mehr über StayFriends Kontakt zu Ihnen aufnehmen."
+    },
+
+    {
+        "name": "Steam",
+        "url": "https://support.steampowered.com/newticket.php",
+        "difficulty": "impossible",
+        "notes": "If you contact Steam support, they will most likely tell you just to not use the account. If your account has no games on it, it will be disabled after a while."
     },
 
     {
@@ -1320,7 +1327,7 @@
         "difficulty": "hard",
         "notes": "You must submit a request to close your account via the form."
     },
-    
+
     {
         "name": "Topface",
         "url": "http://topface.com/delete-profile/",
@@ -1403,7 +1410,7 @@
         "url": "https://www.ups.com/myups/deletereg",
         "difficulty": "easy"
     },
-     
+
     {
         "name": "Ustream",
         "url": "http://www.ustream.tv/account/preferences",
@@ -1417,7 +1424,7 @@
         "difficulty": "impossible",
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service."
     },
-	
+
     {
         "name": "Viadeo",
         "url": "http://www.viadeo.com/settings/account/?language=fr&ga_from=Fu:%2Fsettings%2Faccount%2F;Fb%3Amenu_box_right%3BFe%3AL1-account-settings%3B",
@@ -1536,7 +1543,7 @@
         "url": "https://accounts.zoho.com/u/h#setting/closeaccount",
         "difficulty": "easy"
     },
-    
+
     {
         "name": "Zurker",
         "url": "https://my.zurker.com/destroy",
