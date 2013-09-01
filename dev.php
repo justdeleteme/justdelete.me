@@ -12,7 +12,7 @@
 	// For testing
 	if ( !isset($lang))
 	{
-		$lang = "en";
+		$lang = "de";
 	}
 	if ( !isset($full_name))
 	{
