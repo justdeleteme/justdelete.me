@@ -1,7 +1,7 @@
 <?php
 	
-	$langs = ['en', 'it', 'de'];
-	$langs_name = ['English', 'Italiano', 'Deutsch'];
+	$langs = ['en', 'it', 'de', 'fr'];
+	$langs_name = ['English', 'Italiano', 'Deutsch', 'Français'];
 
 	foreach ($langs as $language)
 	{
@@ -20,6 +20,9 @@
 		}
 		if ($lang == "de") {
 			$full_name = "Deutsch";
+		}
+		if ($lang == "fr") {
+			$full_name = "Français";
 		}
 		
 		include ('dev.php');
