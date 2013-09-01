@@ -149,18 +149,24 @@
                                     <?php echo $definitions[0]->difficulty->$lang; ?>: <?php echo eval('return $difficulty_' . $site->difficulty . ';'); ?>
                                 </p>
                                 <?php if (isset($site->$note_lang)) : ?>
-                                    <div class="tooltip-content">                        
-                                        <div class="tooltip-content-en">
-                                        <?php echo $site->$note_lang; ?>
-                                        </div>
+                                    <div class="tooltip-content">                                   
+                                        <?php echo $site->$note_lang; 
+                                        if (isset($site->email))
+                                        {
+                                            echo '<br><a href="mailto:' . $site->email . '?Subject=Account%20Deletion%20Request&body=Please%20delete%20my%20account,%20my%20username%20is%20 XXXXXX">Send Mail &raquo;</a>';
+                                        }
+                                        ?>                                          
                                     </div>
                                     <a href="#" class="tooltip-toggle contains-info"><?php echo $showinfo ?></a>
                                 <?php elseif (isset($site->notes)) : ?>
-                                	<div class="tooltip-content">                        
-                                        <div class="tooltip-content-en">
-                                        <?php echo $site->notes; ?>
+                                	<div class="tooltip-content">                                   
+                                        <?php echo $site->notes; 
+                                        if (isset($site->email))
+                                        {
+                                            echo '<br><a href="mailto:' . $site->email . '?Subject=Account%20Deletion%20Request&body=Please%20delete%20my%20account,%20my%20username%20is%20 XXXXX">Send Mail &raquo;</a>';
+                                        }
+                                        ?> 
                                         </div>
-                                    </div>
                                     <a href="#" class="tooltip-toggle contains-info"><?php echo $showinfo ?></a>
                                 <?php else : ?>
                                     <p class="tooltip-toggle"><?php echo $noinfo ?></p>

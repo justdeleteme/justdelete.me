@@ -35,7 +35,8 @@
         "name": "Adobe",
         "url": "https://learn.adobe.com/wiki/display/wel/Delete+your+account",
         "difficulty": "hard",
-        "notes": "You have to call them in order to delete your account. Alternatively, you can send them an email."
+        "notes": "You have to call them in order to delete your account. Alternatively, you can send them an email.",
+        "notes_it": "Per eliminare il tuo account dovrai contattarli via telefono. Alternativamente puoi spedire una mail"        
     },
 
     {
@@ -48,14 +49,16 @@
         "name": "Amazon",
         "url": "https://www.amazon.com/gp/help/customer/contact-us/ref=cu_cf_email?ie=UTF8&mode=email#a",
         "difficulty": "hard",
-        "notes": "To close your account, contact Amazon by email (via this contact form) and request that your account be closed."
+        "notes": "To close your account, contact Amazon by email (via this contact form) and request that your account be closed.",
+        "notes_it": "Per chiudere il tuo account, contatta amazon via mail (utilizzando il form contattaci) richiedendo di chiudere il tuo account"
     },
 
     {
         "name": "Animal Crossing Community",
         "url": "http://www.animalcrossingcommunity.com/help_main.asp?HelpSectionID=5#Topic201",
         "difficulty": "impossible",
-        "notes": "We do not 'delete' or 'terminate' accounts on ACC. If you no longer wish to use the site, you may delete all personal information from your profile and then stop logging in."
+        "notes": "We do not 'delete' or 'terminate' accounts on ACC. If you no longer wish to use the site, you may delete all personal information from your profile and then stop logging in.",
+        "notes_it": "Non è possibile chiudere o terminare un account su ACC. Se non desideri più utilizzare il sito, puoi comunque eliminare tutti i dati personali dal tuo profilo e non loggarci più"    
     },
 
     {
@@ -199,7 +202,8 @@
         "name": "Craigslist",
         "url": "http://www.craigslist.org/about/help/user_accounts",
         "difficulty": "hard",
-        "notes": "Send an email to abuse@craigslist.org and request deletion."
+        "notes": "Send an email to abuse@craigslist.org and request deletion.",
+        "email": "abuse@craigslist.org"
     },
 
     {
@@ -364,7 +368,8 @@
         "name": "Fitocracy",
         "url": "https://www.fitocracy.com/home/",
         "difficulty": "hard",
-        "notes": "Send support a request to requests@fitocracy.com and they'll mark your account for deletion"
+        "notes": "Send support a request to requests@fitocracy.com and they'll mark your account for deletion",
+        "email": "requests@fitocracy.com"
     },
 
     {
@@ -665,7 +670,9 @@
         "name": "jsFiddle",
         "url": "http://doc.jsfiddle.net/meta/channels.html?highlight=contact",
         "difficulty": "hard",
-        "notes": "Please send a request to support@jsfiddle.net if you'd like your account to be deleted. <a href='https://github.com/jsfiddle/jsfiddle-issues/issues/237'>More here</a>"
+        "notes": "Please send a request to support@jsfiddle.net if you'd like your account to be deleted. <a href='https://github.com/jsfiddle/jsfiddle-issues/issues/237'>More here</a>",
+        "email": "support@jsfiddle.net"
+    
     },
 
     {
@@ -1030,7 +1037,8 @@
         "name": "Redditgifts",
         "url": "http://redditgifts.com/privacy/",
         "difficulty": "hard",
-        "notes": "If you decide you would like to delete your account you must email us at support@redditgifts.com. You must email us from the email address associated with your account and provide your reddit username."
+        "notes": "If you decide you would like to delete your account you must email us at support@redditgifts.com. You must email us from the email address associated with your account and provide your reddit username.",
+        "email": "support@redditgifts.com"   
     },
 
     {
@@ -1118,7 +1126,8 @@
         "name": "Sonico",
         "url": "http://www.sonico.com/tyc.php",
         "difficulty": "hard",
-        "notes": "Send a request to legal@sonico.com and request deletion."
+        "notes": "Send a request to legal@sonico.com and request deletion.",
+        "email": "legal@sonico.com"
     },
 
     {
