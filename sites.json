@@ -62,6 +62,12 @@
     },
 
     {
+        "name": "AOL / AOL Instant Messenger",
+        "url": "http://cancel.aol.com",
+        "difficulty": "easy",
+    },
+	
+    {
         "name": "App.net",
         "url": "https://account.app.net/settings/delete/",
         "difficulty": "easy"
@@ -152,6 +158,12 @@
     },
 
     {
+        "name": "Change.org",
+        "url": "https://www.change.org/account_settings",
+        "difficulty": "easy"
+    },
+	
+    {
         "name": "CloudMagic",
         "url": "https://cloudmagic.com/a/v2/preferences",
         "difficulty": "easy"
@@ -213,12 +225,19 @@
         "notes": "Edit your account and select \"remove my account\"."
     },
 
+	{
+        "name": "Deadspin (Gawker Media)",
+        "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
+        "difficulty": "impossible",
+        "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service."
+    },
+	
     {
         "name": "Delicious",
         "url": "https://delicious.com/settings/deactivate",
         "difficulty": "easy"
     },
-    
+   
     {
         "name": "Desktoply",
         "url": "http://desktop.ly/settings",
@@ -419,12 +438,25 @@
     },
 
     {
+        "name": "FriendFeed",
+        "url": "https://friendfeed.com/account/delete",
+        "difficulty": "easy"
+    },
+	
+    {
         "name": "Gamespot",
         "url": "https://gamespot.custhelp.com/app/ask",
         "difficulty": "hard",
         "notes": "Account deletion requires contacting Customer Support"
     },
 
+    {
+        "name": "Gawker (Gawker Media)",
+        "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
+        "difficulty": "impossible",
+        "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service."
+    },
+	
     {
         "name": "Gauges",
         "url": "http://get.gaug.es/tos/",
@@ -458,6 +490,13 @@
         "difficulty": "easy"
     },
 
+    {
+        "name": "Gizmodo (Gawker Media)",
+        "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
+        "difficulty": "impossible",
+        "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service."
+    },
+	
     {
         "name": "Glassboard",
         "url": "http://glassboard.com/support/",
@@ -512,6 +551,13 @@
         "notes": "Select a reason for closing and it'll take 2 clicks."
     },
 
+    {
+        "name": "GoPetition",
+        "url": "http://www.gopetition.com/",
+        "difficulty": "easy",
+        "notes": "Log in to your account, then click on "My Profile". You will see a link "Close my account". Click on the link and follow the instructions."
+    },
+	
     {
         "name": "Grammarly",
         "url": "https://ed.grammarly.com/accounts/me",
@@ -573,7 +619,7 @@
 
     {
         "name": "Hotmail",
-        "url": "https://mail.live.com/mail/CloseAccountConfirmation.aspx",
+        "url": "https://account.live.com/CloseAccount.aspx",
         "difficulty": "easy"
     },
 
@@ -646,12 +692,33 @@
     },
 
     {
+        "name": "IO9 (Gawker Media)",
+        "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
+        "difficulty": "impossible",
+        "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service."
+    },
+	
+    {
         "name": "iTunes / Apple ID",
         "url": "http://www.apple.com/support/itunes/contact/",
         "difficulty": "hard",
         "notes": "Contact customer services. You will lose access to any media you haven’t downloaded to your computer."
     },
 
+    {
+        "name": "Jalopnik (Gawker Media)",
+        "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
+        "difficulty": "impossible",
+        "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service."
+    },
+
+	{
+        "name": "Jezebel (Gawker Media)",
+        "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
+        "difficulty": "impossible",
+        "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service."
+    },
+	
     {
         "name": "JoliCloud / JoliDrive",
         "url": "https://drive.jolicloud.com/#/settings/account",
@@ -695,12 +762,26 @@
     },
 
     {
+        "name": "Kinja (Gawker Media)",
+        "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
+        "difficulty": "impossible",
+        "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service."
+    },
+	
+    {
         "name": "Klout",
         "url": "http://klout.com/#/edit-settings/optout",
         "difficulty": "medium",
         "notes": "It can take up to 180 days for all your data to be removed from the system."
     },
 
+    {
+        "name": "Kotaku (Gawker Media)",
+        "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
+        "difficulty": "impossible",
+        "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service."
+    },
+	
     {
         "name": "Krrb",
         "url": "http://krrb.com/settings/disable-account",
@@ -739,6 +820,13 @@
         "notes": "Click 'Profile', then 'Edit', then 'Show advanced settings', and finally check the 'Delete my account' checkbox."
     },
 
+    {
+        "name": "Lifehacker (Gawker Media)",
+        "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
+        "difficulty": "impossible",
+        "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service."
+    },
+	
     {
         "name": "LinkedIn",
         "url": "http://help.linkedin.com/app/answers/detail/a_id/63/kw/delete%20account",
@@ -794,6 +882,7 @@
         "name": "Mint",
         "url": "https://mint.com",
         "difficulty": "easy"
+		"notes": "Click "Accounts" in the upper right, then select the "Settings" tab.  Scroll to the bottom and click "Delete Your Mint Account" and finally "YES, delete my Mint account"."
     },
 
     {
@@ -809,6 +898,12 @@
         "notes": "If you have registered a Mojang account and would like to delete your account, please visit your account settings page. Please be aware that if your account is deleted, you will no longer be able to log into Mojang services, and will not be able to purchase future Mojang games."
     },
 
+    {
+        "name": "Monster",
+        "url": "http://my.monster.com/Account/CancelMembership",
+        "difficulty": "easy",
+    },
+	
     {
         "name": "Mozilla Persona",
         "url": "https://login.persona.org/",
@@ -898,7 +993,7 @@
 
     {
         "name": "Outlook",
-        "url": "https://account.live.com/summarypage.aspx",
+        "url": "https://account.live.com/CloseAccount.aspx",
         "difficulty": "easy"
     },
 
@@ -1123,6 +1218,13 @@
     },
 
     {
+        "name": "Snapchat",
+        "url": "http://www.snapchat.com/a/delete_account",
+        "difficulty": "Easy",
+        "notes": "Enter username and password and click 'Delete'."
+    },
+	
+    {
         "name": "Sonico",
         "url": "http://www.sonico.com/tyc.php",
         "difficulty": "hard",
@@ -1309,6 +1411,13 @@
         "notes": "Scroll down to the bottom of the 'Account Settings' page and click 'Delete Account'"
     },
 
+    {
+        "name": "Valleywag (Gawker Media)",
+        "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
+        "difficulty": "impossible",
+        "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service."
+    },
+	
     {
         "name": "Viadeo",
         "url": "http://www.viadeo.com/settings/account/?language=fr&ga_from=Fu:%2Fsettings%2Faccount%2F;Fb%3Amenu_box_right%3BFe%3AL1-account-settings%3B",
