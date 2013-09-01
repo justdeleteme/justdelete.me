@@ -145,7 +145,7 @@
                                     <?php echo $site->name; ?>
                                 </a>                            
                                 <p class="site-difficulty">
-                                    <label class="difficulty"><?php echo $definitions[0]->difficulty->$lang; ?></label>: <label class="difficulty_<?php echo $site->difficulty; ?>"><?php echo $site->difficulty; ?></label>
+                                    <?php echo $definitions[0]->difficulty->$lang; ?>: <?php echo eval('return $difficulty_' . $site->difficulty . ';'); ?>
                                 </p>
                                 <?php if (isset($site->$note_lang)) : ?>
                                     <div class="tooltip-content">                        
