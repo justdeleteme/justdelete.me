@@ -9,7 +9,15 @@
 		return 0;
 	}); 
 
-	// $lang = "en"; $full_name = "English"; // For testing
+	// For testing
+	if ( !isset($lang))
+	{
+		$lang = "en";
+	}
+	if ( !isset($full_name))
+	{
+		$full_name = "English";
+	}
 
 	$definitions = json_decode(file_get_contents('definitions.json'));
 
