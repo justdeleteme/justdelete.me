@@ -136,7 +136,8 @@
     {
         "name": "bitly",
         "url": "http://support.bitly.com/knowledgebase/articles/105373-how-do-i-delete-my-account-",
-        "difficulty": "impossible"
+        "difficulty": "impossible",
+        "notes": "The best you can do is archive all of your links. Go to the link you want to archive and click the 'x' in the upper right of the shortlink to archive the link. You can also make all of your shortlinks private."
     },
 
     {
