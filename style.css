@@ -124,7 +124,14 @@ header h1 span {
 	right: 0;
 	border: 0;
 	z-index: 1;
+	width: 15%;
+	max-width: 149px;
 }
+
+	.ribbon img {
+		float: right;
+		width: 100%;
+	}
 
 .banner {
 	display: block;

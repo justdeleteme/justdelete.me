@@ -113,7 +113,7 @@
 
 	<!-- Facebook Like Button SDK -->
 	<div id="fb-root"></div>
-	<a target="_blank" href="http://github.com/rmlewisuk/justdelete.me"><img class="ribbon" src="inc/icons/gh-ribbon.png"></a>
+	<div class="ribbon"><a target="_blank" href="http://github.com/rmlewisuk/justdelete.me"><img src="inc/icons/gh-ribbon.png"></a></div>
 	<a href="https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf" target="_blank" class="banner">
             <?php echo $banner ?>
 	</a>
@@ -191,13 +191,6 @@
 					<li><a href="http://robblewis.me/just-delete-me-one-million-page-views/">One Million Page Views &raquo;</a></li>
 				</ul>
 				<p><a href="https://twitter.com/justdeletedotme" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @justdeletedotme</a></p>
-				<p><?php echo $donate; ?></p>
-				<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="E9VLGMSJ3R4Q4">
-<input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
-</form>
 			</div><div class="info-block-half">
 				<h2><?php echo $guide ?></h2>
 				<p><?php echo $guideexplanations ?></p>
@@ -207,6 +200,14 @@
 					<li><?php echo $guidehard ?></li>
 					<li><?php echo $guideimpossible ?></li>
 				</ul>
+
+				<p><?php echo $donate; ?></p>
+				<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+					<input type="hidden" name="cmd" value="_s-xclick">
+					<input type="hidden" name="hosted_button_id" value="E9VLGMSJ3R4Q4">
+					<input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
+					<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+				</form>
 			</div>		
 		</div>
 	</section>
