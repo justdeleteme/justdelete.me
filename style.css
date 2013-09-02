@@ -118,6 +118,13 @@ header h1 span {
 
    ######################################################### */
 
+.ribbon {
+	position: absolute;
+	top: 0;
+	right: 0;
+	border: 0;
+	z-index: 1;
+}
 
 .banner {
 	display: block;

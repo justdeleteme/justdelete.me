@@ -113,7 +113,7 @@
 
 	<!-- Facebook Like Button SDK -->
 	<div id="fb-root"></div>
-
+	<a target="_blank" href="http://github.com/rmlewisuk/justdelete.me"><img class="ribbon" src="inc/icons/gh-ribbon.png"></a>
 	<a href="https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf" target="_blank" class="banner">
             <?php echo $banner ?>
 	</a>
