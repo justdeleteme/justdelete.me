@@ -549,6 +549,7 @@ footer a:hover, .info-container a:hover {
 	padding-top: 3px;
 	padding-bottom: 5px;
 	padding-right: 10px;
+	cursor: pointer;
 }
 
 	.language-switch:hover {
