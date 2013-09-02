@@ -36,7 +36,7 @@
             "it": "media",
             "de": "mittel",
             "fr": "moyen",
-            "ru": "средне",
+            "ru": "средний",
             "pt_br": "média"
         },
         "difficulty_hard": {
@@ -44,7 +44,7 @@
             "it": "difficile",
             "de": "schwer",
             "fr": "difficile",
-            "ru": "сложно",
+            "ru": "трудно",
             "pt_br": "difícil"
         },
         "difficulty_impossible": {
@@ -149,7 +149,7 @@
             "it": "<span class=\"yellow\">Media</span> - Richiede qualche azione aggiuntiva",
             "de": "<span class=\"yellow\">Mittel</span> - Einige Extraschritte sind nötig",
             "fr": "<span class=\"yellow\">Moyen</span> - Étapes supplémentaires requises",
-            "ru": "<span class=\"yellow\">Средне</span> - Необходимы дополнительные действия",
+            "ru": "<span class=\"yellow\">Средний</span> - Необходимы дополнительные действия",
             "pt_br": "<span class=\"yellow\">Média</span> - Alguns passos extras necessários"
         },
         "guidehard": {
@@ -157,7 +157,7 @@
             "it": "<span class=\"red\">Difficile</span> - Non può essere completamente cancellato senza contattare l'assistenza clienti",
             "de": "<span class=\"red\">Schwer</span> - Kann ohne den jeweiligen Support zu kontaktieren nicht gelöscht werden",
             "fr": "<span class=\"red\">Difficile</span> - Ne peut être totalement supprimé sans contacter le support",
-            "ru": "<span class=\"red\">Сложно</span> - Нельзя полностью удалить без обращения в службу поддержки",
+            "ru": "<span class=\"red\">Трудно</span> - Нельзя полностью удалить без обращения в службу поддержки",
             "pt_br": "<span class=\"red\">Difícil</span> - Não pode ser totalmente deletada sem contatar a assistência ao cliente"
         },
         "guideimpossible": {
@@ -197,7 +197,7 @@
             "it": "Per installare l'estensione, procedi su <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome Web Store</a>.",
             "de": "Um die Erweiterung zu installieren, rufen sie einfach den <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome Web Store</a> auf.",
             "fr": "Pour l'installer, rendez-vous simplement sur le <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome Web Store</a>.",
-            "ru": "Для того чтобы установить, просто передите в <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome Web Store</a>.",
+            "ru": "Для того чтобы установить расширение, просто перейдите в <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome Web Store</a>.",
             "pt_br": "Para instalá-la, acesse a <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome Web Store</a>."
         },
         "extensionl1": {
@@ -253,7 +253,7 @@
             "it": "Creato da <a href=\"http://robblewis.me\">Robb Lewis</a> and <a href=\"http://edpoole.me\">Ed Poole</a> | Fork on <a href=\"http://github.com/rmlewisuk/justdelete.me\">GitHub</a> | Hosted by <a href=\"http://www.mediatemple.net/#a_aid=521a8aefe4c3b\">Media Temple</a> | Analytics by <a href=\"https://t.co/fvPnva7p4Y\">GoSquared</a>",
             "de": "Erstellt von <a href=\"http://robblewis.me\">Robb Lewis</a> und <a href=\"http://edpoole.me\">Ed Poole</a> | Fork auf <a href=\"http://github.com/rmlewisuk/justdelete.me\">GitHub</a> | Gehostet von <a href=\"http://www.mediatemple.net/#a_aid=521a8aefe4c3b\">Media Temple</a> | Analytics von <a href=\"https://t.co/fvPnva7p4Y\">GoSquared</a>",
             "fr": "Créé par <a href=\"http://robblewis.me\">Robb Lewis</a> et <a href=\"http://edpoole.me\">Ed Poole</a> | Forkez sur <a href=\"http://github.com/rmlewisuk/justdelete.me\">GitHub</a> | Hébergé par <a href=\"http://www.mediatemple.net/#a_aid=521a8aefe4c3b\">Media Temple</a> | Analytics par <a href=\"https://t.co/fvPnva7p4Y\">GoSquared</a>",
-            "ru": "Сделано <a href=\"http://robblewis.me\">Robb Lewis</a> и <a href=\"http://edpoole.me\">Ed Poole</a> | Fork on <a href=\"http://github.com/rmlewisuk/justdelete.me\">GitHub</a> | Хостинг <a href=\"http://www.mediatemple.net/#a_aid=521a8aefe4c3b\">Media Temple</a> | Статистика <a href=\"https://t.co/fvPnva7p4Y\">GoSquared</a>",
+            "ru": "Сделали <a href=\"http://robblewis.me\">Robb Lewis</a> и <a href=\"http://edpoole.me\">Ed Poole</a> | Fork on <a href=\"http://github.com/rmlewisuk/justdelete.me\">GitHub</a> | Хостинг <a href=\"http://www.mediatemple.net/#a_aid=521a8aefe4c3b\">Media Temple</a> | Статистика <a href=\"https://t.co/fvPnva7p4Y\">GoSquared</a>",
             "pt_br": "Criado por <a href=\"http://robblewis.me\">Robb Lewis</a> e <a href=\"http://edpoole.me\">Ed Poole</a> | Fork em <a href=\"http://github.com/rmlewisuk/justdelete.me\">GitHub</a> | Hospedado por <a href=\"http://www.mediatemple.net/#a_aid=521a8aefe4c3b\">Media Temple</a> | Analytics por <a href=\"https://t.co/fvPnva7p4Y\">GoSquared</a>"
         },
         "help": {
@@ -261,7 +261,7 @@
             "it": "Aiuta a tradurre",
             "de": "Hilf uns bei der Übersetzung",
             "fr": "Aidez à traduire",
-            "ru": "Помогите с переводом",
+            "ru": "Помогайте переводить",
             "pt_br": "Ajude a traduzir"
         },
         "donate": {
@@ -281,4 +281,3 @@
             "pt_br": "Enviar e-mail"
         }
     }]
-
