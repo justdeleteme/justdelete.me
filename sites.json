@@ -265,6 +265,7 @@
         "url": "http://www.dailymile.com/account/settings/edit",
         "difficulty": "easy",
         "notes": "Edit your account and select 'Remove my account'.",
+        "notes_de": "Editiere deinen Account und wähle 'Remove my account'",
         "notes_it": "Edita il tuo account e clicca il pulsante 'Remove my account'",
         "notes_pt_br": "Edite sua conta e seleciona 'Remove my account'."
     },
@@ -300,7 +301,8 @@
         "name": "DeviantArt",
         "url": "https://www.deviantart.com/settings/deactivation",
         "difficulty": "easy",
-        "notes": "Alle Daten sind sofort gelöscht. Accounts können innerhalb von 30 Tagen reaktiviert werden. Nach dieser Zeitspanne können sie nicht mehr wiederhergestellt werden.",
+        "notes": "All your data is ereased immediately. Accounts can be reactivated within 30 days. After that, Accounts can't be reactivated.",
+        "notes_de": "Alle Daten sind sofort gelöscht. Accounts können innerhalb von 30 Tagen reaktiviert werden. Nach dieser Zeitspanne können sie nicht mehr wiederhergestellt werden.",
         "notes_it": "Tutti i dati saranno immediatamente cancellati. L'account potrà essere riattivato entro 30 giorni, dopodichè non sarà piu recuperabile.",
         "notes_pt_br": "Todos os dados são apagados imediatamente. Contas podem ser reativadas em até 30 dias, após este prazo não poderão mais ser recuperadas."
     },
@@ -309,7 +311,8 @@
         "name": "DHL (Paket.de)",
         "url": "https://www.paket.de/pkp/appmanager/pkp/desktop?_nfpb=true&_nfxr=false&_pageLabel=pkp_portal_page_footer_cah_faqs",
         "difficulty": "impossible",
-        "notes": "Keine Informationen in den FAQ über Account-Löschung. Der Mitarbeiter an der Hotline bestätigte, dass die Löschung nicht möglich ist.",
+        "note": "There's no information about account-deletion in their FAQ. The hotline also says that account-deletion isn't possible.",
+        "notes_de": "Keine Informationen in den FAQ über Account-Löschung. Der Mitarbeiter an der Hotline bestätigte, dass die Löschung nicht möglich ist.",
         "notes_it": "Nessuna informazione nelle FAQ riguardo la cancellazione dell'account, l'operatore al telefono ha confermato che la cancellazione non è possibile.",
         "notes_pt_br": "Nenhuma informação no FAQ sobre remoção de contas, o operador no telefone disse que deletar não é possível."
     },
@@ -375,6 +378,7 @@
         "url": "http://help.dwolla.com/customer/portal/articles/269223-how-can-i-delete-my-dwolla-account-",
         "difficulty": "hard",
         "notes": "All accounts stay in their system for at least 3 years. Remove any banking information before you delete.",
+        "notes": "Alle Accounts bleiben 3 Tage lang in ihrem System. Lösche alle Bank-Informationen bevor du deinen Account löschst.",
         "notes_it": "Tutti gli account rimangono nei loro sistemi per almeno 3 anni. Rimuovi qualsiasi credenziale bancaria prima di cancellarti.",
         "notes_pt_br": "Todas as contas permanecem no sistema por pelo menos 3 anos. Remova qualquer informação de bancos antes de deletar."
     },
@@ -467,6 +471,7 @@
         "url": "https://www.fitocracy.com/home/",
         "difficulty": "hard",
         "notes": "Send support a request to requests@fitocracy.com and they'll mark your account for deletion",
+        "notes_de": "Sende dem Support eine E-Mail an requests@fitoracy.com und sie werden deinen Account für die Löschung markieren.",
         "notes_it": "Spedisci una email a requests@fitocracy.com e il tuo account verrà messo in coda per la cancellazione",
         "notes_pt_br": "Envie ao suporte um pedido para requests@fitocracy.com e eles irão marcar sua conta para remoção",
         "email": "requests@fitocracy.com"
@@ -483,6 +488,7 @@
         "url": "https://flipboard.com/support/",
         "difficulty": "easy",
         "notes": "Go to account management within the app",
+        "notes_de": "Gehe auf 'Account Management' innerhalb der App.",
         "notes_it": "Vai su gestione account da dentro l'app",
         "notes_pt_br": "Vá em account managemente no aplicativo"
     },
@@ -514,6 +520,7 @@
         "url": "http://www.freelancer.com/report/contact.php",
         "difficulty": "hard",
         "notes": "Make sure your account balance is positive, then issue a support ticket requesting to close your account.",
+        "notes_de": "Stelle sicher, dass der Kontostand positiv ist, dann erstelle ein Support-Ticket um deinen Account zur Löschung zu beantragen.",
         "notes_it": "Assicurati che il saldo sia positivo, quindi apri un ticket di supporto per chiudere il tuo account.",
         "notes_pt_br": "Certifique-se de que seu balanço é positivo, então crie um ticket no suporte pedindo que sua conta seja fechada"
     },
@@ -547,6 +554,7 @@
         "url": "http://get.gaug.es/tos/",
         "difficulty": "impossible",
         "notes": "If you wish to terminate your Gauges account, you may simply discontinue using Gauges.",
+        "notes_de": "Wenn du deinen Gauges-Account löschen willst, solltest du aufhören Gauges zu nutzen.",
         "notes_it": "Se desideri cancellare il tuo Gauges account, devi semplicemente non usarlo più.",
         "notes_pt_br": "Se você deseja fechar sua conta em Gauges, apenas pare de usar Gauges."
     },
@@ -614,6 +622,7 @@
         "url": "http://www.glassdoor.com/about/contact_input.htm?opt=cc",
         "difficulty": "hard",
         "notes": "Contact customer services and request deletion.",
+        "notes_de": "Kontaktiere den Kundensupport und beantrage die Löschung",
         "notes_it": "Contatta il servizio clienti e richiedi la cancellazione.",
         "notes_pt_br": "Contate a assistência ao cliente e peça a remoção."
     },
@@ -623,6 +632,7 @@
         "url": "http://www.gmx.net/",
         "difficulty": "impossible",
         "notes": "You can't delete your account, but you can deactivate it. (Start →  Mein Account →  Account stilllegen)",
+        "notes_de": "Du kannst deinen Account nicht löschen, aber du kannst ihn deaktivieren (Start →  Mein Account →  Account stilllegen)",
         "notes_it": "Non puoi cancellare il tuo account, ma puoi disattivarlo. (Start →  Mein Account →  Account stilllegen)",
         "notes_pt_br": "Você não pode deletar sua conta, mas você pode desativá-la. (Start →  Mein Account →  Account stilllegen)"
     },
@@ -662,6 +672,7 @@
         "url": "http://www.gopetition.com/",
         "difficulty": "easy",
         "notes": "Select a reason for closing and it'll take 2 clicks.",
+        "notes_de": "Wähle einen Grund für die Löschung und es wird nur 2 Klicks benötigen.",
         "notes_it": "Seleziona un motivo perchè stai chiudendo il tuo account e fatto",
         "notes_pt_br": "Selecione um motivo para fechar a conta e irá levar dois cliques."
     },
