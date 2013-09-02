@@ -576,14 +576,23 @@ footer a:hover, .info-container a:hover {
 	color: #cf5a5a;
 }
 
+.contributors {
+	list-style-type: none;
+}
+.contributors LI > A {
+	padding-left: 30px;
+	background-position: 8px center;
+	background-repeat: no-repeat;
+}
+
 .dropdown .help A { background-image: url(inc/icons/github16.png); }
-.dropdown .it A { background-image: url(inc/icons/flags/it16.png); }
-.dropdown .en A { background-image: url(inc/icons/flags/en16.png); }
-.dropdown .fr A { background-image: url(inc/icons/flags/fr16.png); }
-.dropdown .de A { background-image: url(inc/icons/flags/de16.png); }
-.dropdown .es A { background-image: url(inc/icons/flags/es16.png); }
-.dropdown .ru A { background-image: url(inc/icons/flags/ru16.png); }
-.dropdown .pt_br A { background-image: url(inc/icons/flags/pt_br16.png); }
+.dropdown .it A, .it A { background-image: url(inc/icons/flags/it16.png); }
+.dropdown .en A, .en A { background-image: url(inc/icons/flags/en16.png); }
+.dropdown .fr A, .fr A { background-image: url(inc/icons/flags/fr16.png); }
+.dropdown .de A, .de A { background-image: url(inc/icons/flags/de16.png); }
+.dropdown .es A, .es A { background-image: url(inc/icons/flags/es16.png); }
+.dropdown .ru A, .ru A { background-image: url(inc/icons/flags/ru16.png); }
+.dropdown .pt_br A, .pt_br A { background-image: url(inc/icons/flags/pt_br16.png); }
 
 #en { 
 	background-image: url(./inc/icons/flags/en24.png);
