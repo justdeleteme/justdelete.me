@@ -134,6 +134,12 @@
     },
 
     {
+        "name": "bitly",
+        "url": "http://support.bitly.com/knowledgebase/articles/105373-how-do-i-delete-my-account-",
+        "difficulty": "impossible"
+    },
+
+    {
         "name": "Blue Apron",
         "url": "www.blueapron.com/cancel_subscription",
         "difficulty": "easy"
