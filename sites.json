@@ -15,13 +15,10 @@
         "name": "9GAG",
         "url": "https://9gag.com/member/delete",
         "difficulty": "easy",
-<<<<<<< HEAD
-        "notes": "Login to your account, go to parameters, click Delete my account. Confirm by clicking I want to delete my account. And again by clicking Delete my 9GAG account."
-=======
         "notes": "Login to your account, go to parameters, click Delete my account. Confirm by clicking I want to delete my account. And again by clicking Delete my 9GAG account.",
+        "notes_fr": "Connectez vous, allez dans les parametres, cilquez sur supprimer mon compte. Confirmez en cliquant sur je supprimer mon compte. Et confirmez encore avec supprimer mon compte.",
         "notes_it": "Logga il tuo account, vai su parameters, clicca Delete my account. Conferma cliccando I want to delete my account. E ancora cliccando Delete my 9GAG account.",
         "notes_pt_br": "Faça login em sua conta, vá em parâmetros, clique em Delete my account. Confirme clicando em I want to delete my account. E novamente em Delete my 9GAG account."
->>>>>>> upstream/master
     },
 
     {
@@ -40,13 +37,9 @@
         "name": "Adobe",
         "url": "https://learn.adobe.com/wiki/display/wel/Delete+your+account",
         "difficulty": "hard",
-<<<<<<< HEAD
-        "notes": "You have to call them in order to delete your account. Alternatively, you can send them an email."
-=======
         "notes": "You have to call them in order to delete your account. Alternatively, you can send them an email.",
         "notes_it": "Per eliminare il tuo account dovrai contattarli via telefono. Alternativamente puoi spedire una mail",
         "notes_pt_br": "Você deve ligar para eles para deletar sua conta. De maneira alternativa, você pode enviá-los um e-mail."
->>>>>>> upstream/master
     },
 
     {
@@ -59,23 +52,16 @@
         "name": "Amazon",
         "url": "https://www.amazon.com/gp/help/customer/contact-us/ref=cu_cf_email?ie=UTF8&mode=email#a",
         "difficulty": "hard",
-<<<<<<< HEAD
-        "notes": "To close your account, contact Amazon by email (via this contact form) and request that your account be closed."
-=======
         "notes": "To close your account, contact Amazon by email (via this contact form) and request that your account be closed.",
         "notes_it": "Per chiudere il tuo account, contatta amazon via mail (utilizzando il form contattaci) richiedendo di chiudere il tuo account",
         "notes_de": "Um deinen Account zu löschen, kontaktiere den Support über den Link und beantrage die Löschung dort.",
         "notes_pt_br": "Para fechar sua conta, contate Amazon por e-mail (usando este modelo de contato) e requira que sua conta seja fechada."
->>>>>>> upstream/master
     },
 
     {
         "name": "Animal Crossing Community",
         "url": "http://www.animalcrossingcommunity.com/help_main.asp?HelpSectionID=5#Topic201",
         "difficulty": "impossible",
-<<<<<<< HEAD
-        "notes": "We do not 'delete' or 'terminate' accounts on ACC. If you no longer wish to use the site, you may delete all personal information from your profile and then stop logging in."
-=======
         "notes": "We do not 'delete' or 'terminate' accounts on ACC. If you no longer wish to use the site, you may delete all personal information from your profile and then stop logging in.",
         "notes_it": "Non è possibile chiudere o terminare un account su ACC. Se non desideri più utilizzare il sito, puoi comunque eliminare tutti i dati personali dal tuo profilo e non loggarci più",
         "notes_pt_br": "Nós não 'deletamos' ou 'terminamos' contas na ACC. Caso você não queira mais utilizar o site, você pode deletar todas as suas informações pessoas em seu perfil e então parar de logar-se."
@@ -85,7 +71,6 @@
         "name": "AOL / Instant Messenger",
         "url": "http://cancel.aol.com",
         "difficulty": "easy"
->>>>>>> upstream/master
     },
 
     {
@@ -104,14 +89,10 @@
         "name": "Ask.fm",
         "url": "http://ask.fm/feedbacks/new",
         "difficulty": "hard",
-<<<<<<< HEAD
-        "notes": "Request deletion from customer services."
-=======
         "notes": "Request deletion from customer services.",
         "notes_it": "Richiedi la cancellazione al servizio clienti",
         "notes_de": "Beantrage die Löschung beim Support.",
         "notes_pt_br": "Peça para que seja deletada pela assistência ao cliente."
->>>>>>> upstream/master
     },
 
     {
@@ -121,34 +102,18 @@
     },
 
     {
-<<<<<<< HEAD
-        "name": "BBC iD",
-        "url": "https://ssl.bbc.co.uk/id/settings/delete",
-        "difficulty": "easy"
-    },
-
-    {
-        "name": "Bambuser",
-        "url": "https://bambuser.com/settings",
-        "difficulty": "easy",
-        "notes": "Go to your Settings page and scroll down to find 'Deactivate' account. Click on 'Close Account' button, and confirm the account deletion."
-=======
         "name": "Bambuser",
         "url": "https://bambuser.com/settings",
         "difficulty": "easy",
         "notes": "Go to your Settings page and scroll down to find 'Deactivate' account. Click on 'Close Account' button, and confirm the account deletion.",
         "notes_it": "Vai sulla pagina delle impostazioni e scorri giù fino a trovare 'Deactivate account'. Clicca su il pulsante 'Close Account', e conferma la cancellazione dell'account",
         "notes_pt_br": "Vá para a página Settings e desça até o final da página e ache 'Deactivate account'. Clique no botão 'Close Account', e confirme."
->>>>>>> upstream/master
     },
 
     {
         "name": "Battle.net",
         "url": "https://eu.battle.net/support/en/ticket/submit",
         "difficulty": "hard",
-<<<<<<< HEAD
-        "notes": "Customer Support will require you to send a signed written letter confirming your wishes, your account details and a copy of legal identification (passport, drivers license) to your account region's office headquarters."
-=======
         "notes": "Customer Support will require you to send a signed written letter confirming your wishes, your account details and a copy of legal identification (passport, drivers license) to your account region's office headquarters.",
         "notes_it": "Il servizio clienti richiede di spedire una lettera firmata al quartier generale della tua nazione confermando le tue intenzioni, allegando i dettagli del tuo account e una copia di un documento (passaporto, patente)",
         "notes_pt_br": "A Assistência ao Cliente irá pedir que você envie uma carta assinada confirmando os seus desejos, os detalhes de sua conta e uma cópia autenticada de identificação (passaporte, carteira de motorista) para o escritório da região de sua conta."
@@ -158,16 +123,12 @@
         "name": "BBC iD",
         "url": "https://ssl.bbc.co.uk/id/settings/delete",
         "difficulty": "easy"
->>>>>>> upstream/master
     },
 
     {
         "name": "Bitbucket",
         "url": "https://bitbucket.org/account/",
         "difficulty": "easy",
-<<<<<<< HEAD
-        "notes": "On the side menu, click on 'Delete Account' and on the confirmation page click 'Delete Account', all repositories and the account is immediately wiped."
-=======
         "notes": "On the side menu, click on 'Delete Account' and on the confirmation page click 'Delete Account', all repositories and the account is immediately wiped.",
         "notes_it": "Nel menu al lato, clicca su 'Delete Account' e fai lo stesso sulla pagina di conferma, l'account e i repositories saranno cancellati",
         "notes_pt_br": "No menu lateral, clique em 'Delete Account' e na página de confirmação clique em 'Delete Account', todos os repositórios e contas serão imediatamente excluídos."
@@ -178,7 +139,6 @@
         "url": "http://support.bitly.com/knowledgebase/articles/105373-how-do-i-delete-my-account-",
         "difficulty": "impossible",
         "notes": "The best you can do is archive all of your links. Go to the link you want to archive and click the 'x' in the upper right of the shortlink to archive the link. You can also make all of your shortlinks private."
->>>>>>> upstream/master
     },
 
     {
@@ -191,13 +151,9 @@
         "name": "BodyBuilding",
         "url": "http://www.bodybuilding.com/store/help/delete-bodyspace-account.htm",
         "difficulty": "impossible",
-<<<<<<< HEAD
-        "notes": "You can only deactivate your account by contacting support as they state on the help page. There is no way to permanently delete your account or data, and an inactive public profile will always be visible to public."
-=======
         "notes": "You can only deactivate your account by contacting support as they state on the help page. There is no way to permanently delete your account or data, and an inactive public profile will always be visible to public.",
         "notes_it": "Puoi solo disattivare l'account contattando il supporto. Non esiste modo di eliminare permanentemente il tuo account o i dati, e un account inattivo resterà comunque visibile al pubblico",
         "notes_pt_br": "Você pode apenas desativar sua conta contatando a assistência ao cliente como explicitado na página de ajuda. Não há como remover permanentemente sua conta ou seus dados, e um perfil publico inativo sempre estará visível ao público."
->>>>>>> upstream/master
     },
 
     {
@@ -216,9 +172,6 @@
         "name": "C&M News by Rеss.at",
         "url": "http://www.ress.at/profil/profil_entfernen.php",
         "difficulty": "easy",
-<<<<<<< HEAD
-        "notes": "Just click 'Abschicken'"
-=======
         "notes": "Just click 'Abschicken'",
         "notes_it": "Clicca semplicemente 'Abschicken'",
         "notes_de": "Einfach auf 'Abschicken' klicken",
@@ -235,7 +188,6 @@
         "name": "Channel 4",
         "url": "https://4id.channel4.com/account/remove",
         "difficulty": "easy"
->>>>>>> upstream/master
     },
 
     {
@@ -254,42 +206,25 @@
         "name": "Code Red",
         "url": "https://cne.coderedweb.com",
         "difficulty": "impossible",
-<<<<<<< HEAD
-        "notes": "You can't delete yourself. You can only change your phone nr. to a bogus number."
-=======
         "notes": "You can't delete yourself. You can only change your phone nr. to a bogus number.",
         "notes_it": "Non puoi eliminarti. Puoi solamente cambiare il tuo numero di telefono con uno inventato",
         "notes_pt_br": "Você não pode deletar sua conta. Você pode mudar o número de telefone para um número qualquer."
->>>>>>> upstream/master
     },
 
     {
         "name": "Code School",
         "url": "http://help.codeschool.com/kb/codeschool-faqs/account-questions",
         "difficulty": "medium",
-<<<<<<< HEAD
-        "notes": "Start a private discussion with them and they will 'take care of it'."
-=======
         "notes": "Start a private discussion with them and they will 'take care of it'.",
         "notes_it": "Inizia una discussione privata con loro e se ne occuperanno loro",
         "notes_de": "Starte eine private Diskussion mit ihnen und sie 'Kümmern sich drum'.",
         "notes_pt_br": "Inicie uma discussão privada com eles e eles irão 'cuidar disso'."
->>>>>>> upstream/master
     },
 
     {
         "name": "Codecademy",
         "url": "http://help.codecademy.com/customer/portal/articles/416872",
         "difficulty": "hard",
-<<<<<<< HEAD
-        "notes": "For security reasons, we will need to verify that these requests have come from the email address that's on your Codecademy account."
-    },
-
-    {
-        "name" : "Codepen",
-        "url" : "http://blog.codepen.io/documentation/faq/how-do-i-delete-my-account/",
-        "difficulty" : "easy"
-=======
         "notes": "For security reasons, we will need to verify that these requests have come from the email address that's on your Codecademy account.",
         "notes_it": "Per ragioni di sicurezza, dobbiamo verificare che queste richieste ci arrivino dall'email che è registrata sul tuo account Codacademy",
         "notes_pt_br": "Por razões de segurança, nós precisaremos verificar se estes pedidos vêm do endereço de e-mail que está na sua conta no Codecademy."
@@ -299,59 +234,43 @@
         "name": "Codepen",
         "url": "http://blog.codepen.io/documentation/faq/how-do-i-delete-my-account/",
         "difficulty": "easy"
->>>>>>> upstream/master
     },
 
     {
         "name": "Couchsurfing",
         "url": "https://www.couchsurfing.org/delete_profile.html?delete=1",
         "difficulty": "impossible",
-<<<<<<< HEAD
-        "notes": "Cannot be deleted fully, reactivation is always available. Fill out the form and select 'I understand. Please delete my profile.'."
-=======
         "notes": "Cannot be deleted fully, reactivation is always available. Fill out the form and select 'I understand. Please delete my profile.'.",
         "notes_it": "Non può essere eliminato completamente, una riattivazione è sempre effettuabile. Riempi il modulo e scegli 'I understand. Please delete my profile.'.",
         "notes_de": "Kann nicht vollständig gelöscht werden, reaktivierung ist immer möglich. Fülle das Formular aus und wähle 'I understand. Please delete my profile.'.",
         "notes_pt_br": "Não pode ser totalmente deletada, reativação é sempre possível. Preencha o formulário e selecione 'I understand. Please delete my profile.'."
->>>>>>> upstream/master
     },
 
     {
         "name": "Coursera",
         "url": "https://www.coursera.org/about/contact",
         "difficulty": "hard",
-<<<<<<< HEAD
-        "notes": "Contact support and request they delete your account."
-=======
         "notes": "Contact support and request they delete your account.",
         "notes_it": "Contatta il supporto e richiedi la cancellazione del tuo account.",
         "notes_de": "Kontaktiere den Support und sie löschen deinen Account.",
         "notes_pt_br": "Contate o suporte e peça que eles deletem sua conta."
->>>>>>> upstream/master
     },
 
     {
         "name": "Craigslist",
         "url": "http://www.craigslist.org/about/help/user_accounts",
         "difficulty": "hard",
-<<<<<<< HEAD
-        "notes": "Send an email to abuse@craigslist.org and request deletion."
-=======
         "notes": "Send an email to abuse@craigslist.org and request deletion.",
         "notes_it": "Spedisci un email a abuse@craigslist.org e richiedi la cancellazione",
         "notes_de": "Sende eine E-Mail an abuse@craigslist.org und beantrage die Löschung",
         "notes_pt_br": "Envie um e-mail para abuse@craigslist.org e peça a remoção.",
         "email": "abuse@craigslist.org"
->>>>>>> upstream/master
     },
 
     {
         "name": "Daily Mile",
         "url": "http://www.dailymile.com/account/settings/edit",
         "difficulty": "easy",
-<<<<<<< HEAD
-        "notes": "Edit your account and select \"remove my account\"."
-=======
         "notes": "Edit your account and select 'Remove my account'.",
         "notes_de": "Editiere deinen Account und wähle 'Remove my account'",
         "notes_it": "Edita il tuo account e clicca il pulsante 'Remove my account'",
@@ -365,7 +284,6 @@
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
         "notes_it": "Puoi in qualsiasi momento smettere di usare il servizio. Tuttavia noi possiamo comunque accedere a qualsiasi contenuto che hai inviato attraverso il servizio.",
         "notes_pt_br": "Você pode parar de usar o serviço a qualquer momento. Nós, no entando, iremos manter e usar qualquer conteúdo enviado por você através do serviço."
->>>>>>> upstream/master
     },
 
     {
@@ -375,15 +293,12 @@
     },
 
     {
-<<<<<<< HEAD
-=======
         "name": "Desktoply",
         "url": "http://desktop.ly/settings",
         "difficulty": "easy"
     },
 
     {
->>>>>>> upstream/master
         "name": "Desktoppr",
         "url": "https://www.desktoppr.co/settings",
         "difficulty": "easy"
@@ -393,23 +308,6 @@
         "name": "DeviantArt",
         "url": "https://www.deviantart.com/settings/deactivation",
         "difficulty": "easy",
-<<<<<<< HEAD
-        "notes": "All data is wiped immediately. Accounts can be reactivated within 30 days, after that they can no longer be recovered."
-    },
-
-    {
-        "name" : "DHL (Paket.de)",
-        "url" : "https://www.paket.de/pkp/appmanager/pkp/desktop?_nfpb=true&_nfxr=false&_pageLabel=pkp_portal_page_footer_cah_faqs",
-        "difficulty" : "impossible",
-        "notes" : "No information in the FAQ about account deletion, the operator on the hotline said that deleting is not possible."
-    },
-
-    {
-        "name" : "Diaspora",
-        "url" : "https://diasp.eu/user/edit#close_account_pane",
-        "difficulty" : "easy",
-        "notes" : "Click close my account and confirm with your password."
-=======
         "notes": "All your data is ereased immediately. Accounts can be reactivated within 30 days. After that, Accounts can't be reactivated.",
         "notes_de": "Alle Daten sind sofort gelöscht. Accounts können innerhalb von 30 Tagen reaktiviert werden. Nach dieser Zeitspanne können sie nicht mehr wiederhergestellt werden.",
         "notes_it": "Tutti i dati saranno immediatamente cancellati. L'account potrà essere riattivato entro 30 giorni, dopodichè non sarà piu recuperabile.",
@@ -431,24 +329,20 @@
         "url": "https://diasp.eu/user/edit#close_account_pane",
         "difficulty": "easy",
         "notes": "Click close my account and confirm with your password.",
+        "notes_fr":"Cliquez sur fermez mon compte et confirmer avec votre mot de passe.",
         "notes_it": "Clicca chiudi il mio account e conferma inserendo la tua password.",
         "notes_de": "Klicke auf 'close my account' und bestätige dies mit deinem Passwort.",
         "notes_pt_br": "Clique em 'close my account' e confirme com sua senha."
->>>>>>> upstream/master
     },
 
     {
         "name": "Digg",
         "url": "http://digg.com/contact",
         "difficulty": "hard",
-<<<<<<< HEAD
-        "notes": "Contact Digg’s customer support and request for your account to be closed."
-=======
         "notes": "Contact Digg’s customer support and request for your account to be closed.",
         "notes_it": "Contatta il servizio clienti e richiedi che il tuo account sia chiuso.",
         "notes_de": "Kontaktiere Digg's Kundensupport und beantrage die Löschung deines Accounts.",
         "notes_pt_br": "Contate a assistência ao cliente da Digg e peça que sua conta seja fechada."
->>>>>>> upstream/master
     },
 
     {
@@ -491,67 +385,47 @@
         "name": "Dwolla",
         "url": "http://help.dwolla.com/customer/portal/articles/269223-how-can-i-delete-my-dwolla-account-",
         "difficulty": "hard",
-<<<<<<< HEAD
-        "notes": "All accounts stay in their system for at least 3 years. Remove any banking information before you delete."
-=======
         "notes": "All accounts stay in their system for at least 3 years. Remove any banking information before you delete.",
         "notes": "Alle Accounts bleiben 3 Tage lang in ihrem System. Lösche alle Bank-Informationen bevor du deinen Account löschst.",
         "notes_it": "Tutti gli account rimangono nei loro sistemi per almeno 3 anni. Rimuovi qualsiasi credenziale bancaria prima di cancellarti.",
         "notes_pt_br": "Todas as contas permanecem no sistema por pelo menos 3 anos. Remova qualquer informação de bancos antes de deletar."
->>>>>>> upstream/master
     },
 
     {
         "name": "EA Origin",
         "url": "https://help.ea.com/en/contact-us/ask",
         "difficulty": "hard",
-<<<<<<< HEAD
-        "notes": "Contact customer services to request deletion. If you're outside the US this must be by phone."
-=======
         "notes": "Contact customer services to request deletion. If you're outside the US this must be by phone.",
         "notes_it": "Contatta il sistema clienti per cancellarti. Se sei fuori dagli Stati Uniti questa azione va effettuata via telefono.",
         "notes_de": "Kontaktiere den Support um die Löschung zu beantragen. Wenn du außerhalb der USA bist, muss dies per Telefon geschehen.",
         "notes_pt_br": "Contate a assistência ao cliente e peça que sua conta seja deletada. Se você estiver fora dos EUA você deve fazer isso pelo telefone."
->>>>>>> upstream/master
     },
 
     {
         "name": "eBay",
         "url": "http://cgi1.ebay.com/ws/eBayISAPI.dll?CloseAccount",
         "difficulty": "easy",
-<<<<<<< HEAD
-        "notes": "A few survey questions will be asked prior to account deletion."
-=======
         "notes": "A few survey questions will be asked prior to account deletion.",
         "notes_it": "Ti sarà chiesto di compilare qualche questionario prima che l'account sia eliminato",
         "notes_pt_br": "Algumas perguntas serão feitas antes de deletar sua conta."
->>>>>>> upstream/master
     },
 
     {
         "name": "EdX",
         "url": "https://www.edx.org/student-faq",
         "difficulty": "impossible",
-<<<<<<< HEAD
-        "notes": "There's no need to delete your account. An old, unused edX account with no course completions associated with it will disappear."
-=======
         "notes": "There's no need to delete your account. An old, unused edX account with no course completions associated with it will disappear.",
         "notes_it": "Non è necessario cancellare il tuo account. Un vecchio, inusato edX account scomparirà da solo",
         "notes_pt_br": "Não há porque deletar sua conta. Uma conta antiga, e não usada sem cursos completos irá desaparecer."
->>>>>>> upstream/master
     },
 
     {
         "name": "Etsy",
         "url": "http://www.etsy.com/help/article/53",
         "difficulty": "hard",
-<<<<<<< HEAD
-        "notes": "You can't have any unpaid Etsy bills or an open non-delivery reports. Your email address will remain on file."
-=======
         "notes": "You can't have any unpaid Etsy bills or an open non-delivery reports. Your email address will remain on file.",
         "notes_it": "Non puoi avere nessuna bolletta Etsy non pagata o un aperta segnalazione. La tua email rimarrà nei file",
         "notes_pt_br": "Você não pode ter dívidas com a Etsy ou uma denúncia de entrega aberta. Seu endereço de e-mail permanecerá armazenado."
->>>>>>> upstream/master
     },
 
     {
@@ -564,37 +438,26 @@
         "name": "Evernote",
         "url": "https://www.evernote.com/Deactivate.action",
         "difficulty": "impossible",
-<<<<<<< HEAD
-        "notes": "You cannot delete your Evernote account, just deactivate it temporarily. Deactivation does not remove your data so you will have to manually delete all notes and personal info, perform a sync and then deactivate the account."
-=======
         "notes": "You cannot delete your Evernote account, just deactivate it temporarily. Deactivation does not remove your data so you will have to manually delete all notes and personal info, perform a sync and then deactivate the account.",
         "notes_it": "Non puoi eliminare il tuo account Evernote, solo disattivarlo temporaneamente. La disattivazione non cancella nessuno dei tuoi dati quindi dovrai cancellarli manualmente prima di effettuare la disattivazione.",
         "notes_de": "Du kannst deinen Evernote-Account nicht löschen, du kannst ihn nur temporär deaktivieren. Deaktivierung löscht nicht deine Daten, deshalb musst du manuell jede Notiz und persönliche Information löschen. Schließe dann eine Synchronisation ab und deaktiviere deinen Account dann.",
         "notes_pt_br": "Você não pode deletar sua conta Evernote, apenas desativá-la temporariamente. Desativação não remove seus dados então você terá que remover manualmente todas suas informações, realizar uma sincronização e então desativar sua conta."
->>>>>>> upstream/master
     },
 
     {
         "name": "Facebook",
         "url": "https://www.facebook.com/help/delete_account?rdrhc",
-<<<<<<< HEAD
-        "difficulty": "easy"
-=======
         "difficulty": "medium",
         "notes": "While you can delete your account easily, some of the datas including chat- or group-messages are here to stay forever, just as stated in the website's Privacy.",
         "notes_it": "Mentre puoi eliminare il tuo account facilmente, qualche dato come le chat o i messaggi di gruppo rimarranno nei loro database, come scritto sul loro sito nella pagina Privacy",
         "notes_de": "Während du deinen Account leicht löschen kannst, bleiben einige deiner Daten dauerhaft. z.B. Chat- und Gruppennachrichten. Dies ist so in den Datenschutzbestimmungen bestimmt.",
         "notes_pt_br": "Você pode deletar sua conta facilmente, porém dados de conversas ficarão armazenados para sempre, como explicitado na Privacidade do site."
->>>>>>> upstream/master
     },
 
     {
         "name": "Feedly",
         "url": "https://getsatisfaction.com/feedly/topics/how_do_i_delete_my_feedly_account",
         "difficulty": "hard",
-<<<<<<< HEAD
-        "notes": "Email customer support to request deletion."
-=======
         "notes": "Email customer support to request deletion.",
         "notes_it": "Contatta il servizio clienti via email per richiedere la cancellazione.",
         "notes_de": "Schreibe eine mail an den Kundensupport um die Löschung zu beantragen",
@@ -609,22 +472,17 @@
         "notes_it": "Clicca sul tuo username (in alto a sinistra) &rarr; clicca su 'Profileinstellungen' &rarr; 'Account löschen'. Tutti i dati saranno cancellati.",
         "notes_de": "Klicke auf deinen username (oben rechts) &rarr; klicke auf 'Profileinstellungen' &rarr; 'Account löschen'. Alle Daten sind augenblicklich gelöscht.",
         "notes_pt_br": "Clique em seu usuário (topo esquerdo) &rarr; clique em 'Profileinstellungen' &rarr; 'Account löschen'. Todos os seus dados serão completamente apagados."
->>>>>>> upstream/master
     },
 
     {
         "name": "Fitocracy",
         "url": "https://www.fitocracy.com/home/",
         "difficulty": "hard",
-<<<<<<< HEAD
-        "notes": "Send support a request to requests@fitocracy.com and they'll mark your account for deletion"
-=======
         "notes": "Send support a request to requests@fitocracy.com and they'll mark your account for deletion",
         "notes_de": "Sende dem Support eine E-Mail an requests@fitoracy.com und sie werden deinen Account für die Löschung markieren.",
         "notes_it": "Spedisci una email a requests@fitocracy.com e il tuo account verrà messo in coda per la cancellazione",
         "notes_pt_br": "Envie ao suporte um pedido para requests@fitocracy.com e eles irão marcar sua conta para remoção",
         "email": "requests@fitocracy.com"
->>>>>>> upstream/master
     },
 
     {
@@ -637,28 +495,20 @@
         "name": "Flipboard",
         "url": "https://flipboard.com/support/",
         "difficulty": "easy",
-<<<<<<< HEAD
-        "notes": "Go to account management within the app"
-=======
         "notes": "Go to account management within the app",
         "notes_de": "Gehe auf 'Account Management' innerhalb der App.",
         "notes_it": "Vai su gestione account da dentro l'app",
         "notes_pt_br": "Vá em account managemente no aplicativo"
->>>>>>> upstream/master
     },
 
     {
         "name": "Forka",
         "url": "http://www.fotka.pl/ustawienia/konto_usun",
         "difficulty": "medium",
-<<<<<<< HEAD
-        "notes": "To delete your account, you must not post anything for at least three days."
-=======
         "notes": "To delete your account, you must not post anything for at least three days.",
         "notes_it": "Per eliminare il tuo account, non devi pubblicare niente per almeno tre giorni.",
         "notes_de": "Um deinen Account zu löschen, schreibe nichts für mindestens drei Tage.",
         "notes_pt_br": "Para deletar sua conta, você deve postar nada por pelo menos três dias."
->>>>>>> upstream/master
     },
 
     {
@@ -674,12 +524,6 @@
     },
 
     {
-<<<<<<< HEAD
-        "name": "Freenode",
-        "url": "https://ezcrypt.it/ML4n#ej6rorotmsxq7jF8ViyGjTVh",
-        "difficulty": "easy",
-        "notes": "/msg NickServ DROP nick password"
-=======
         "name": "Freelancer",
         "url": "http://www.freelancer.com/report/contact.php",
         "difficulty": "hard",
@@ -701,30 +545,22 @@
         "name": "FriendFeed",
         "url": "https://friendfeed.com/account/delete",
         "difficulty": "easy"
->>>>>>> upstream/master
     },
 
     {
         "name": "Gamespot",
         "url": "https://gamespot.custhelp.com/app/ask",
         "difficulty": "hard",
-<<<<<<< HEAD
-        "notes": "Account deletion requires contacting Customer Support"
-=======
         "notes": "Account deletion requires contacting Customer Support.",
         "notes_it": "La cancellazione account richiede di contattare il servizio clienti.",
         "notes_de": "Account-Löschung erfordert es den Kundensupport zu kontaktieren",
         "notes_pt_br": "Para deletar a sua conta contate a assistência ao cliente"
->>>>>>> upstream/master
     },
 
     {
         "name": "Gauges",
         "url": "http://get.gaug.es/tos/",
         "difficulty": "impossible",
-<<<<<<< HEAD
-        "notes": "If you wish to terminate your Gauges account, you may simply discontinue using Gauges."
-=======
         "notes": "If you wish to terminate your Gauges account, you may simply discontinue using Gauges.",
         "notes_de": "Wenn du deinen Gauges-Account löschen willst, solltest du aufhören Gauges zu nutzen.",
         "notes_it": "Se desideri cancellare il tuo Gauges account, devi semplicemente non usarlo più.",
@@ -738,34 +574,25 @@
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
         "notes_it": "Puoi in qualsiasi momento smettere di usare il servizio. Tuttavia noi possiamo comunque accedere a qualsiasi contenuto che hai inviato attraverso il servizio.",
         "notes_pt_br": "Você pode parar de usar o serviço a qualquer momento. Nós, no entando, iremos manter e usar qualquer conteúdo enviado por você através do serviço."
->>>>>>> upstream/master
     },
 
     {
         "name": "Geni",
         "url": "http://www.geni.com/account_settings",
         "difficulty": "medium",
-<<<<<<< HEAD
-        "notes": "Delete any of the information you would like removed from the site. Then select 'Account Settings' and 'Close Account'"
-=======
         "notes": "Delete any of the information you would like removed from the site. Then select 'Account Settings' and 'Close Account'",
         "notes_it": "Elimina qualsiasi informazione che desideri sia rimossa. Quindi seleziona 'Account Settings' e 'Close Account'",
         "notes_pt_br": "Delete qualquer informação que você deseja ser removida do site. Então selecione 'Account Settings' e 'Close Account'"
->>>>>>> upstream/master
     },
 
     {
         "name": "Geocaching",
         "url": "http://support.groundspeak.com/index.php?pg=kb.page&id=102",
         "difficulty": "medium",
-<<<<<<< HEAD
-        "notes": "You must email support from the registered email to remove this account. Any outstanding Premium Memberships will not be refunded"
-=======
         "notes": "You must email support from the registered email to remove this account. Any outstanding Premium Memberships will not be refunded",
         "notes_it": "Devi spedire una email al servizio clienti dall'email con cui ti sei registrato. Non prevedono nessun rimborso per i membri Premium",
         "notes_de": "Du musst den Support von der E-Mail-Adresse aus kontaktieren, die registriert ist. Dann beantreage die Löschung. Eine bestehende Premium-Mitgliedschaft wird nicht erstattet.",
         "notes_pt_br": "Você deve enviar um e-mail ao suporte do seu e-mail registrado para remover a conta. Qualquer tipo de Premium Membership não será ressarcida"
->>>>>>> upstream/master
     },
 
     {
@@ -781,12 +608,6 @@
     },
 
     {
-<<<<<<< HEAD
-        "name": "Glassboard",
-        "url": "http://glassboard.com/support/",
-        "difficulty": "hard",
-        "notes": "Use the support email address to ask them to close your account."
-=======
         "name": "Gizmodo (Gawker Media)",
         "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
         "difficulty": "impossible",
@@ -802,30 +623,12 @@
         "notes": "Use the support email address to ask them to close your account.",
         "notes_it": "Usa l'email del supporto per richiedere la cancellazione del tuo account.",
         "notes_pt_br": "Use o e-mail de suporte para pedir que encerrem sua conta."
->>>>>>> upstream/master
     },
 
     {
         "name": "Glassdoor",
         "url": "http://www.glassdoor.com/about/contact_input.htm?opt=cc",
         "difficulty": "hard",
-<<<<<<< HEAD
-        "notes": "Contact customer services and request deletion."
-    },
-
-    {
-        "name": "GoDaddy",
-        "url": "http://support.godaddy.com/groups/go-daddy-customers/forum/topic/how-do-i-delete-my-account-with-godaddy/",
-        "difficulty": "impossible",
-        "notes": "GoDaddy Accounts are apparently retained “to comply with [their] legal obligations” though you are able to clear out most of your information by editing your profile."
-    },
-
-    {
-        "name": "GoSquared",
-        "url": "https://www.gosquared.com/home/account/close",
-        "difficulty": "easy",
-        "notes": "Select a reason for closing and it'll take 2 clicks."
-=======
         "notes": "Contact customer services and request deletion.",
         "notes_de": "Kontaktiere den Kundensupport und beantrage die Löschung",
         "notes_it": "Contatta il servizio clienti e richiedi la cancellazione.",
@@ -849,20 +652,15 @@
         "notes": "GoDaddy Accounts are apparently retained “to comply with [their] legal obligations” though you are able to clear out most of your information by editing your profile.",
         "notes_it": "Gli account GoDaddy sono apparentemente mantenuti per “per rispettare i [loro] obblighi di legge.” ma puoi comunque eliminare la maggior parte delle tue informazioni editando il tuo profilo.",
         "notes_pt_br": "Contas do GoDaddy são aparentemente retidas “para comparecer com as obrigações legais [deles]” porém você pode remover grande parte de suas informações editando seu perfil."
->>>>>>> upstream/master
     },
 
     {
         "name": "Good Noows",
         "url": "http://goodnoows.com",
         "difficulty": "easy",
-<<<<<<< HEAD
-        "notes": "On the top bar, click on 'Your name', then click on the 'Delete Account' button at the bottom of the dialog."
-=======
         "notes": "On the top bar, click on 'Your name', then click on the 'Delete Account' button at the bottom of the dialog.",
         "notes_it": "Sul menu in alto, clicca sul tuo nome, quindi clicca sul pulsante 'Delete Account' che è posizionato in fondo.",
         "notes_pt_br": "Na barra superior, clique em 'seu nome', então clique no botão 'Delete Account' no final do diálogo."
->>>>>>> upstream/master
     },
 
     {
@@ -878,8 +676,6 @@
     },
 
     {
-<<<<<<< HEAD
-=======
         "name": "GoPetition",
         "url": "http://www.gopetition.com/",
         "difficulty": "easy",
@@ -899,23 +695,28 @@
     },
 
     {
->>>>>>> upstream/master
         "name": "Grammarly",
         "url": "https://ed.grammarly.com/accounts/me",
         "difficulty": "easy"
     },
 
     {
+        "name" : "Pastebin",
+        "url" : "http://pastebin.com/profile",
+        "name" : "Gravatar",
+        "url" : "http://gravatar.com",
+        "difficulty" : "impossible",
+        "notes" : "Gravatar is part of WordPress, this means you can't remove your account.",
+        "notes_fr": "Gravatar appartient à Wordpress, ce qui veut dire que vous ne pouvez pas supprimer votre compte."
+    }, 
+
+    {
         "name": "Grindr",
         "url": "http://help.grindr.com/entries/21377499-All-Devices-Clear-Your-Grindr-Profile",
         "difficulty": "medium",
-<<<<<<< HEAD
-        "notes": "You can remove your profile and chat history from within the app or you can email support with your UDID."
-=======
         "notes": "You can remove your profile and chat history from within the app or you can email support with your UDID.",
         "notes_it": "Puoi cancellare il tuo profilo e la cronologia chat dall'app o puoi inviare un email al supporto col tuo UDID.",
         "notes_pt_br": "Você pode remover seu perfil e o histórico de conversa através do aplicativo ou você pode enviar um e-mail ao suporte com seu UDID."
->>>>>>> upstream/master
     },
 
     {
@@ -928,13 +729,9 @@
         "name": "Gumroad",
         "url": "https://gumroad.com/",
         "difficulty": "hard",
-<<<<<<< HEAD
-        "notes": "No page explaining how to delete your account. You have to contact support directly (link at the bottom of the page) and they'll do it for you."
-=======
         "notes": "No page explaining how to delete your account. You have to contact support directly (link at the bottom of the page) and they'll do it for you.",
         "notes_it": "Nessuna pagina spiega come eliminare l'account. Devi contattare il supporto direttamente (il link si trova in fondo alla pagina) e lo faranno al posto tuo.",
         "notes_pt_br": "Não há uma página explicando como deletar sua conta. Você terá de contatar o suporte diretamente (link no final da página) e eles irão deletá-la para você."
->>>>>>> upstream/master
     },
 
     {
@@ -944,39 +741,21 @@
     },
 
     {
-<<<<<<< HEAD
-        "name": "HOL Virtual Hogwarts",
-        "url": "http://hol.org.uk/profile.php?view=quithol",
-        "difficulty": "impossible",
-        "notes": "You can remove information and manually quit HOL, but your account stays forever."
-    },
-
-    {
-        "name": "Hacker News",
-        "url": "http://jacquesmattheij.com/The+Unofficial+HN+FAQ#deleteaccount",
-        "difficulty": "impossible",
-        "notes": "Your contributions are there to stay, but you can at least clear out your profile -- even your email address."
-=======
         "name": "Hacker News",
         "url": "http://jacquesmattheij.com/The+Unofficial+HN+FAQ#deleteaccount",
         "difficulty": "impossible",
         "notes": "Your contributions are there to stay, but you can at least clear out your profile -- even your email address.",
         "notes_it": "Le tue donazioni resteranno, ma puoi almeno pulire il tuo profilo -- anche il tuo indirizzo email",
         "notes_pt_br": "Suas contribuições serão mantidas, mas você pode limpar o seu perfil -- inclusive seu endereço de e-mail."
->>>>>>> upstream/master
     },
 
     {
         "name": "Heroku",
         "url": "https://dashboard.heroku.com/account",
         "difficulty": "easy",
-<<<<<<< HEAD
-        "notes": "“Close your account...” link at the bottom of the page."
-=======
         "notes": "“Close your account...” link at the bottom of the page.",
         "notes_it": "“Close your account...” link in fondo alla pagina",
         "notes_pt_br": "Link “Close your account...” no final da página."
->>>>>>> upstream/master
     },
 
     {
@@ -986,10 +765,6 @@
     },
 
     {
-<<<<<<< HEAD
-        "name": "Hotmail",
-        "url": "https://mail.live.com/mail/CloseAccountConfirmation.aspx",
-=======
         "name": "HOL Virtual Hogwarts",
         "url": "http://hol.org.uk/profile.php?view=quithol",
         "difficulty": "impossible",
@@ -1001,7 +776,6 @@
     {
         "name": "Hotmail",
         "url": "https://account.live.com/CloseAccount.aspx",
->>>>>>> upstream/master
         "difficulty": "easy"
     },
 
@@ -1018,24 +792,6 @@
     },
 
     {
-<<<<<<< HEAD
-        "name": "IFTTT",
-        "url": "https://ifttt.com/settings/deactivate",
-        "difficulty": "easy"
-    },
-
-    {
-        "name": "IMDb",
-        "url": "https://secure.imdb.com/register-imdb/delete",
-        "difficulty": "easy"
-    },
-
-    {
-        "name": "Iceber.gs",
-        "url": "https://iceber.gs/home",
-        "difficulty": "easy",
-        "notes": "On top bar: 'Your name', 'My Account' and just click on 'Delete Account' link at bottom."
-=======
         "name": "Iceber.gs",
         "url": "https://iceber.gs/home",
         "difficulty": "easy",
@@ -1058,7 +814,6 @@
         "name": "IFTTT",
         "url": "https://ifttt.com/settings/deactivate",
         "difficulty": "easy"
->>>>>>> upstream/master
     },
 
     {
@@ -1068,15 +823,12 @@
     },
 
     {
-<<<<<<< HEAD
-=======
         "name": "IMDb",
         "url": "https://secure.imdb.com/register-imdb/delete",
         "difficulty": "easy"
     },
 
     {
->>>>>>> upstream/master
         "name": "Imgur",
         "url": "http://imgur.com/account/settings",
         "difficulty": "easy"
@@ -1092,13 +844,9 @@
         "name": "Instacanvas",
         "url": "http://feedback.instacanv.as/knowledgebase/articles/117760-how-do-i-cancel-my-gallery-",
         "difficulty": "hard",
-<<<<<<< HEAD
-        "notes": "Email your username and email to customer services and they will delete your account."
-=======
         "notes": "Email your username and email to customer services and they will delete your account.",
         "notes_it": "Spedisci un email al servizio clienti contenente l'username e elimineranno il tuo account.",
         "notes_pt_br": "Envie um e-mail com seu usuário e e-mail para a assistência ao cliente e eles deletarão sua conta."
->>>>>>> upstream/master
     },
 
     {
@@ -1114,12 +862,6 @@
     },
 
     {
-<<<<<<< HEAD
-        "name": "iTunes / Apple ID",
-        "url": "http://www.apple.com/support/itunes/contact/",
-        "difficulty": "hard",
-        "notes": "Contact customer services. You will lose access to any media you haven’t downloaded to your computer."
-=======
         "name": "IO9 (Gawker Media)",
         "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
         "difficulty": "impossible",
@@ -1153,36 +895,21 @@
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
         "notes_it": "Puoi in qualsiasi momento smettere di usare il servizio. Tuttavia noi possiamo comunque accedere a qualsiasi contenuto che hai inviato attraverso il servizio.",
         "notes_pt_br": "Você pode parar de usar o serviço a qualquer momento. Nós, no entando, iremos manter e usar qualquer conteúdo enviado por você através do serviço."
->>>>>>> upstream/master
     },
 
     {
         "name": "JoliCloud / JoliDrive",
         "url": "https://drive.jolicloud.com/#/settings/account",
         "difficulty": "easy",
-<<<<<<< HEAD
-        "notes": "Click 'Delete Account' at the botom of the account preference page"
-=======
         "notes": "Click 'Delete Account' at the botom of the account preference page",
         "notes_it": "Clicca 'Delete Account' in fondo alla pagina delle preferenze.",
         "notes_pt_br": "Clique em 'Delete Accout' no final da página de preferências da conta"
->>>>>>> upstream/master
     },
 
     {
         "name": "Jottacloud",
         "url": "https://www.jottacloud.com/account/delete",
         "difficulty": "easy",
-<<<<<<< HEAD
-        "notes": "Log in. Type in password. Press 'delete'."
-    },
-
-    {
-        "name" : "jsFiddle",
-        "url" : "http://doc.jsfiddle.net/meta/channels.html?highlight=contact",
-        "difficulty" : "hard",
-        "notes" : "Please send a request to support@jsfiddle.net if you'd like your account to be deleted. <a href='https://github.com/jsfiddle/jsfiddle-issues/issues/237'>More here</a>"
-=======
         "notes": "Log in. Type in password. Press 'delete'.",
         "notes_it": "Log in. Digita la password. Premi 'delete'.",
         "notes_de": "Logge dich ein, tippe dein Passwort ein. Klicke auf 'delete'.",
@@ -1203,7 +930,6 @@
         "name": "Justin.tv",
         "url": "http://www.justin.tv/user/close_account",
         "difficulty": "easy"
->>>>>>> upstream/master
     },
 
     {
@@ -1216,9 +942,6 @@
         "name": "Kik",
         "url": "https://kikinteractive.zendesk.com/entries/23593116-How-do-I-deactivate-my-account-",
         "difficulty": "impossible",
-<<<<<<< HEAD
-        "notes": "You can only deactivate your account. There appears to be no way to permanently delete your account or data."
-=======
         "notes": "You can only deactivate your account. There appears to be no way to permanently delete your account or data.",
         "notes_it": "Puoi solo disattivare il tuo account. Non c'è modo di eliminare il tuo account o le informazioni.",
         "notes_pt_br": "Você apenas pode desativar sua conta. Aparentemente não há como deletar sua conta ou dados."
@@ -1231,16 +954,12 @@
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
         "notes_it": "Puoi in qualsiasi momento smettere di usare il servizio. Tuttavia noi possiamo comunque accedere a qualsiasi contenuto che hai inviato attraverso il servizio.",
         "notes_pt_br": "Você pode parar de usar o serviço a qualquer momento. Nós, no entando, iremos manter e usar qualquer conteúdo enviado por você através do serviço."
->>>>>>> upstream/master
     },
 
     {
         "name": "Klout",
         "url": "http://klout.com/#/edit-settings/optout",
         "difficulty": "medium",
-<<<<<<< HEAD
-        "notes": "It can take up to 180 days for all your data to be removed from the system."
-=======
         "notes": "It can take up to 180 days for all your data to be removed from the system.",
         "notes_it": "La cancellazione dei dati dal sistema può richiedere fino a 180 giorni.",
         "notes_de": "Es kann bis zu 180 Tage dauern, bis all deine Daten aus dem System entfernt sind",
@@ -1254,7 +973,6 @@
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
         "notes_it": "Puoi in qualsiasi momento smettere di usare il servizio. Tuttavia noi possiamo comunque accedere a qualsiasi contenuto che hai inviato attraverso il servizio.",
         "notes_pt_br": "Você pode parar de usar o serviço a qualquer momento. Nós, no entando, iremos manter e usar qualquer conteúdo enviado por você através do serviço."
->>>>>>> upstream/master
     },
 
     {
@@ -1267,14 +985,10 @@
         "name": "Last.fm",
         "url": "http://www.last.fm/settings/account",
         "difficulty": "easy",
-<<<<<<< HEAD
-        "notes": "May take up to 7 days to delete your data."
-=======
         "notes": "May take up to 7 days to delete your data.",
         "notes_it": "La cancellazione dei dati dal sistema può richiedere fino a 7 giorni.",
         "notes_de": "Es kann bis zu 7 Tage dauern um deine Daten zu löschen.",
         "notes_pt_br": "Pode levar até 7 dias para deletar seus dados."
->>>>>>> upstream/master
     },
 
     {
@@ -1299,9 +1013,6 @@
         "name": "Libre.fm",
         "url": "http://libre.fm/user-edit.php#",
         "difficulty": "easy",
-<<<<<<< HEAD
-        "notes": "Click 'Profile', then 'Edit', then 'Show advanced settings', and finally check the 'Delete my account' checkbox."
-=======
         "notes": "Click 'Profile', then 'Edit', then 'Show advanced settings', and finally check the 'Delete my account' checkbox.",
         "notes_it": "Clicca 'Profile', quindi 'Edit', quindi 'Show advanced settings', e per ultimo fai un tick su 'Delete my account'",
         "notes_pt_br": "Clique em 'Profile', então 'Edit', então 'Show advanced settings', e finalmente marque a caixa 'Delete my account'."
@@ -1314,7 +1025,6 @@
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
         "notes_it": "Puoi in qualsiasi momento smettere di usare il servizio. Tuttavia noi possiamo comunque accedere a qualsiasi contenuto che hai inviato attraverso il servizio.",
         "notes_pt_br": "Você pode parar de usar o serviço a qualquer momento. Nós, no entando, iremos manter e usar qualquer conteúdo enviado por você através do serviço."
->>>>>>> upstream/master
     },
 
     {
@@ -1327,39 +1037,27 @@
         "name": "LiveJournal",
         "url": "http://www.livejournal.com/accountstatus.bml",
         "difficulty": "medium",
-<<<<<<< HEAD
-        "notes": "Once you delete your journal you have 30 days to undelete it, in case you change your mind. After 30 days, the journal will be permanently deleted and there will be no way to recover it."
-=======
         "notes": "Once you delete your journal you have 30 days to undelete it, in case you change your mind. After 30 days, the journal will be permanently deleted and there will be no way to recover it.",
         "notes_it": "Una volta eliminato il tuo Journal hai 30 giorni per recuperarlo, nel caso cambiassi idea. Dopo 30 giorni, il tuo Journal sarà permanentemente cancellato e non ci sarà modo di recuperarlo.",
         "notes_pt_br": "Uma vez que você tenha deletado seu jornal você tem 30 dias para desfazer a remoção, caso você mude de ideia. Após 30 dias, o seu jornal permanecerá deletado e não haverá como recuperá-lo."
->>>>>>> upstream/master
     },
 
     {
         "name": "Lovefilm",
         "url": "https://www.lovefilm.com/account/cancel",
         "difficulty": "medium",
-<<<<<<< HEAD
-        "notes": "Requires any physical discs to be returned—account will be “cancellation pending” until received."
-=======
         "notes": "Requires any physical discs to be returned—account will be “cancellation pending” until received.",
         "notes_it": "Richiede che ogni disco fisico sia restituito-L'account verrà classificato come “In attesa di cancellazione” fino all'arrivo dei dischi.",
         "notes_pt_br": "Você precisa devolver todos os discos físico, sua conta estará em “cancelamento pendente” até que eles recebam os discos."
->>>>>>> upstream/master
     },
 
     {
         "name": "MailChimp",
         "url": "http://kb.mailchimp.com/article/how-do-i-close-my-account",
         "difficulty": "medium",
-<<<<<<< HEAD
-        "notes": "Account Settings → Account Settings Drop-down → Close my account → Type DELETE and press Delete Account button."
-=======
         "notes": "Account Settings → Account Settings Drop-down → Close my account → Type DELETE and press Delete Account button.",
         "notes_it": "Account Settings → Account Settings Drop-down → Close my account → Digita DELETE e premi il pulsante Delete Account.",
         "notes_pt_br": "Account Settings → Account Settings Drop-down → Close my account → Digite DELETE e pressione o botão Delete Account."
->>>>>>> upstream/master
     },
 
     {
@@ -1389,14 +1087,10 @@
     {
         "name": "Mint",
         "url": "https://mint.com",
-<<<<<<< HEAD
-        "difficulty": "easy"
-=======
         "difficulty": "easy",
         "notes": "Click 'Accounts' in the upper right, then select the 'Settings' tab.  Scroll to the bottom and click 'Delete Your Mint Account' and finally 'YES, delete my Mint account'.",
         "notes_it": "Clicca 'Accounts' nell'angolo in alto a destra, quindi seleziona 'Settings'.  Scorri in basso e clicca 'Delete Your Mint Account' e infine 'YES, delete my Mint account'.",
         "notes_pt_br": "Clique em 'Accounts' no topo à direita, então selecione a aba 'Settings'. Va até o final da página e clique em 'Delete Your Mint Account' e finalmente 'YES, delete my Mint account'."
->>>>>>> upstream/master
     },
 
     {
@@ -1409,9 +1103,6 @@
         "name": "Mojang",
         "url": "https://account.mojang.com/me/settings",
         "difficulty": "easy",
-<<<<<<< HEAD
-        "notes": "If you have registered a Mojang account and would like to delete your account, please visit your account settings page. Please be aware that if your account is deleted, you will no longer be able to log into Mojang services, and will not be able to purchase future Mojang games."
-=======
         "notes": "If you have registered a Mojang account and would like to delete your account, please visit your account settings page. Please be aware that if your account is deleted, you will no longer be able to log into Mojang services, and will not be able to purchase future Mojang games.",
         "notes_it": "Se desideri cancellare il tuo account, visita la pagina impostazioni. Se elimini il tuo account, non potrai piu loggare nei servizi Mojang, e non potrai piu acquistare dei giochi Mojang in futuro.",
         "notes_pt_br": "Se você registrou uma conta Mojango e gostaria de deletá-la, visite a página de configurações da conta. Lembre-se de que se sua conta for deletada, você não poderá mais fazer login nos serviços Mojang, e não poderá adquirir futuros jogos da Mojang."
@@ -1421,20 +1112,15 @@
         "name": "Monster",
         "url": "http://my.monster.com/Account/CancelMembership",
         "difficulty": "easy"
->>>>>>> upstream/master
     },
 
     {
         "name": "Mozilla Persona",
         "url": "https://login.persona.org/",
         "difficulty": "easy",
-<<<<<<< HEAD
-        "notes": "“Cancel your account” link at the bottom of the page."
-=======
         "notes": "“Cancel your account” link at the bottom of the page.",
         "notes_it": "“Cancel your account” in fondo alla pagina.",
         "notes_pt_br": "Link “Cancel your account” no final da página."
->>>>>>> upstream/master
     },
 
     {
@@ -1447,13 +1133,9 @@
         "name": "MyOpenID",
         "url": "https://www.myopenid.com/delete",
         "difficulty": "impossible",
-<<<<<<< HEAD
-        "notes": "Although it seems the account is deleted, you can reactivate so likely the data has not been deleted at all."
-=======
         "notes": "Although it seems the account is deleted, you can reactivate so likely the data has not been deleted at all.",
         "notes_it": "Anche se pare che l'account sia cancellato, puoi riattivarlo quindi i dati non sono stati cancellati.",
         "notes_pt_br": "Apesar de parecer que sua conta foi deletada, você pode reativá-la então provavelmente os dados não foram removidos."
->>>>>>> upstream/master
     },
 
     {
@@ -1466,39 +1148,27 @@
         "name": "Netflix",
         "url": "https://support.netflix.com/en/node/407",
         "difficulty": "impossible",
-<<<<<<< HEAD
-        "notes": "Contact customer services. Even then they may not delete your account under the premise that you might want to rejoin and keep your history and recommendations."
-=======
         "notes": "Contact customer services. Even then they may not delete your account under the premise that you might want to rejoin and keep your history and recommendations.",
         "notes_it": "Contatta il servizio clienti.",
         "notes_pt_br": "Contate a assistência ao cliente. Mesmo assim eles não deletarão sua conta sobre a premissa que talvez você queira retornar em manter seu histórico e recomendações."
->>>>>>> upstream/master
     },
 
     {
         "name": "Netlog",
         "url": "http://en.netlog.com/go/login",
         "difficulty": "easy",
-<<<<<<< HEAD
-        "notes": "Select 'settings', then 'account', then 'delete'."
-=======
         "notes": "Select 'settings', then 'account', then 'delete'.",
         "notes_it": "Seleziona 'settings', quindi 'account' e infine 'delete'.",
         "notes_pt_br": "Selecione 'settings', então 'account', e 'delete'."
->>>>>>> upstream/master
     },
 
     {
         "name": "New York Times",
         "url": "https://myaccount.nytimes.com/membercenter/help.html",
         "difficulty": "hard",
-<<<<<<< HEAD
-        "notes": "Use the form to write to customer services and ask them to close your account."
-=======
         "notes": "Use the form to write to customer services and ask them to close your account.",
         "notes_it": "Usa il modulo per scrivere all'assistenza clienti e chiedere la chiusura del tuo account.",
         "notes_pt_br": "Use o formulário para escrever à assistência ao cliente e peça-os para fechar sua conta."
->>>>>>> upstream/master
     },
 
     {
@@ -1511,22 +1181,15 @@
         "name": "Odnoklassniki",
         "url": "http://www.odnoklassniki.ru/regulations",
         "difficulty": "easy",
-<<<<<<< HEAD
-        "notes": "Login to your account, scroll License Agreement down, click Delete profile, check any boxes you want, enter password and press Remove button."
-=======
         "notes": "Login to your account, scroll License Agreement down, click Delete profile, check any boxes you want, enter password and press Remove button.",
         "notes_it": "Fai il login, scorri il contratto, premi Delete profile, fai il tick sulle caselle che vuoi, inserisci la password e premi il pulsante Remove.",
         "notes_pt_br": "Faça login em sua conta, vá até o License Agreement, clique em Delete profile, marque as caixas que você quiser, digite sua senha e pressione o botão Remove."
->>>>>>> upstream/master
     },
 
     {
         "name": "OkCupid",
         "url": "https://www.okcupid.com/settings",
         "difficulty": "easy",
-<<<<<<< HEAD
-        "notes": "Visit your settings page, and select 'Delete Account'"
-=======
         "notes": "Visit your settings page, and select 'Delete Account'",
         "notes_it": "Visita la pagina impostazioni, quindi seleziona 'Delete Account'",
         "notes_pt_br": "Visite a sua página de configurações, e selecione 'Delete Account'"
@@ -1540,20 +1203,15 @@
         "notes_it": "Puoi disattivare il tuo account. Ma i dati non saranno cancellati neanche se contatti il supporto.",
         "notes_de": "Du kannst deinen Account mit dem Link deaktivieren, aber deine Daten werden nicht gelöscht. Auch wenn du den Support kontaktierst, können sie deine Daten nicht löschen.",
         "notes_pt_br": "Você pode desativar sua conta neste link. Mas os dados não são deletados. Mesmo se você contatar o suporte eles não irão apagar seus dados."
->>>>>>> upstream/master
     },
 
     {
         "name": "OpenDNS",
         "url": "http://forums.opendns.com/comments.php?DiscussionID=8326",
         "difficulty": "hard",
-<<<<<<< HEAD
-        "notes": "You must open a ticket to completely get your account deleted at http://www.opendns.com/support/contact/"
-=======
         "notes": "You must open a ticket to completely get your account deleted at http://www.opendns.com/support/contact/",
         "notes_it": "Devi aprire un ticket alla pagina http://www.opendns.com/support/contact/ per eliminare completamente il tuo account",
         "notes_pt_br": "Você deve abrir um ticket para ter sua conta completamente apagada em http://www.opendns.com/support/contact/"
->>>>>>> upstream/master
     },
 
     {
@@ -1564,11 +1222,7 @@
 
     {
         "name": "Outlook",
-<<<<<<< HEAD
-        "url": "https://account.live.com/summarypage.aspx",
-=======
         "url": "https://account.live.com/CloseAccount.aspx",
->>>>>>> upstream/master
         "difficulty": "easy"
     },
 
@@ -1576,16 +1230,6 @@
         "name": "Pandora",
         "url": "http://help.pandora.com/customer/portal/articles/24624-cancel-account",
         "difficulty": "hard",
-<<<<<<< HEAD
-        "notes": "You have to email support from the email associated with your account. If you do not have access to that, you need to provide the email address, birth year, and zip code on the account."
-    },
-
-    {
-        "name" : "Pastebin",
-        "url" : "http://pastebin.com/profile",
-        "difficulty" : "impossible",
-        "notes" : "You can remove your pastes, but there's no link to delete your account."
-=======
         "notes": "You have to email support from the email associated with your account. If you do not have access to that, you need to provide the email address, birth year, and zip code on the account.",
         "notes_it": "Devi spedire un email al supporto usando l'email associata al tuo account. Se non hai accesso all'email, puoi fornire l'email, l'anno di nascita e il codice postale dell'account.",
         "notes_pt_br": "Você terá de enviar um e-mail para o suporte com o e-mail associado a sua conta. Se você não tiver acesso a isto, você precisa especificar seu e-mail, ano de nascimento e código postal da conta."
@@ -1596,26 +1240,15 @@
         "url": "http://pastebin.com/profile",
         "difficulty": "impossible",
         "notes": "You can remove your pastes, but there's no link to delete your account.",
+        "notes_fr":"Vous pouvez supprimer vos pastes, mais il n'y aucun lien permettant de supprimer votre compte.",
         "notes_it": "Puoi cancellare completamente i tuoi paste, ma non esiste il modo di cancellare l'account.",
         "notes_pt_br": "Você pode remover seus pastes, mas não há um link para remover sua conta."
->>>>>>> upstream/master
     },
 
     {
         "name": "Path",
         "url": "https://path.com",
         "difficulty": "medium",
-<<<<<<< HEAD
-        "notes": "You cannot delete your account from the website. Open the iOS/Android app, go to settings → about → disable account → delete account."
-    },
-
-    {
-        "name" : "Paukd",
-        "url" : "https://paukd.com",
-        "difficulty" : "easy",
-        "notes" : "Login to your account, go to settings (small gear next to your username), click Delete my account. You'll receive a confirmation link via e-mail."
-    }, 
-=======
         "notes": "You cannot delete your account from the website. Open the iOS/Android app, go to settings → about → disable account → delete account.",
         "notes_it": "Non puoi cancellare il tuou account. Apri l'app iOS/Android, vai su go to settings → about → disable account → delete account.",
         "notes_pt_br": "Você não pode deletar sua conta do site. Abra o aplicativo iOS/Android, vá em settings → about → disable account → delete account."
@@ -1635,7 +1268,6 @@
         "notes_it": "Entra nel tuo account, vai in impostazioni (piccolo ingranaggio affianco al tuo username9, clicca Elimina il mio account. Riceverai un link di conferma via e-mail.",
         "notes_pt_br": "Faça login em sua conta, vá em configurações (pequena engrenagem próximo ao seu usuário), clique Delete my acccount. Você receberá um link de confirmação por e-mail."
     },
->>>>>>> upstream/master
 
     {
         "name": "PayPal",
@@ -1644,8 +1276,6 @@
     },
 
     {
-<<<<<<< HEAD
-=======
         "name": "Picasa",
         "url": "http://picasaweb.google.com/",
         "difficulty": "impossible",
@@ -1655,7 +1285,6 @@
     },
 
     {
->>>>>>> upstream/master
         "name": "Pingdom",
         "url": "https://my.pingdom.com/account/cancel/confirm",
         "difficulty": "easy"
@@ -1665,13 +1294,9 @@
         "name": "Pinterest",
         "url": "https://pinterest.com/settings/",
         "difficulty": "impossible",
-<<<<<<< HEAD
-        "notes": "Accounts can be deactivated, which means that your pins and profile are hidden but not deleted."
-=======
         "notes": "Accounts can be deactivated, which means that your pins and profile are hidden but not deleted.",
         "notes_it": "Gli account possono essere disattivati, il che significa che i tuoi pin ed il tuoi profilo saranno nascosti ma non eliminati.",
         "notes_pt_br": "Contas podem ser desativadas, o que significa que seus pins e perfil são ocultados mas não deletados."
->>>>>>> upstream/master
     },
 
     {
@@ -1684,13 +1309,9 @@
         "name": "Plenty of Fish",
         "url": "http://www.pof.com/deleteaccount.aspx",
         "difficulty": "easy",
-<<<<<<< HEAD
-        "notes": "Fill out the deletion form"
-=======
         "notes": "Fill out the deletion form",
         "notes_it": "Completa il form per l'eliminazione.",
         "notes_pt_br": "Preencha o formulário de remoção"
->>>>>>> upstream/master
     },
 
     {
@@ -1700,8 +1321,6 @@
     },
 
     {
-<<<<<<< HEAD
-=======
         "name": "Postcrossing",
         "url": "http://www.postcrossing.com/removal",
         "difficulty": "easy",
@@ -1711,7 +1330,6 @@
     },
 
     {
->>>>>>> upstream/master
         "name": "Pushover",
         "url": "https://pushover.net/settings/delete_account",
         "difficulty": "easy"
@@ -1727,13 +1345,9 @@
         "name": "Rainforest QA",
         "url": "https://app.rainforestqa.com/settings",
         "difficulty": "easy",
-<<<<<<< HEAD
-        "notes": "Login, go to the settings page and click 'I want to delete my account'."
-=======
         "notes": "Login, go to the settings page and click 'I want to delete my account'.",
         "notes_it": "Entra, recati nella pagina impostazioni e clicca 'Voglio eliminare il mio account'.",
         "notes_pt_br": "Faça login, vá na página de configurações e clique 'I want to delete my account'."
->>>>>>> upstream/master
     },
 
     {
@@ -1749,12 +1363,6 @@
     },
 
     {
-<<<<<<< HEAD
-        "name": "Reddit",
-        "url": "https://ssl.reddit.com/prefs/delete/",
-        "difficulty": "easy",
-        "notes": "Increase your productivity by over 5 times with this one trick they don’t want you to know about!"
-=======
         "name": "Readability",
         "url": "https://www.readability.com/account/delete",
         "difficulty": "impossible",
@@ -1770,21 +1378,16 @@
         "notes": "Increase your productivity by over 5 times with this one trick they don't want you to know about!",
         "notes_it": "Incrementa la tua produttività di oltre 5 volte con questi consigli che loro non vogliono farti sapere!",
         "notes_pt_br": "Aumente sua produtividade em 5 vezes com este truque que eles não querem que você saiba!"
->>>>>>> upstream/master
     },
 
     {
         "name": "Redditgifts",
         "url": "http://redditgifts.com/privacy/",
         "difficulty": "hard",
-<<<<<<< HEAD
-        "notes": "If you decide you would like to delete your account you must email us at support@redditgifts.com. You must email us from the email address associated with your account and provide your reddit username."
-=======
         "notes": "If you decide you would like to delete your account you must email us at support@redditgifts.com. You must email us from the email address associated with your account and provide your reddit username.",
         "notes_it": "Per eliminare il tuo account invia un'e-mail a support@redditgifts.com. Invia l'e-mail dall'indirizzo associato al tuo account ed inserisci il tuo username reddit.",
         "notes_pt_br": "Caso você decida apagar sua conta você deve enviar um e-mail para support@redditgifts.com. O e-mail deve ser enviado pelo e-mail associado a sua conta e você deve especificar seu usuário reddit.",
         "email": "support@redditgifts.com"
->>>>>>> upstream/master
     },
 
     {
@@ -1797,9 +1400,6 @@
         "name": "Rotten Tomatoes",
         "url": "http://flixster.desk.com/customer/portal/articles/169347-how-do-i-cancel-my-account-",
         "difficulty": "hard",
-<<<<<<< HEAD
-        "notes": "You need to contact flixster to cancel a native RT profile, while Facebook linked or Flixster.com accounts are easier to cancel."
-=======
         "notes": "You need to contact flixster to cancel a native RT profile, while Facebook linked or Flixster.com accounts are easier to cancel.",
         "notes_it": "Devi contattare flixster per eliminare il tuo profilo RT nativo, mentre il collegamento a Facebook o Flixter.com sono più facili da eliminare.",
         "notes_pt_br": "Você precisará contatar flixster para cancelar o perfile nativo RT, enquanto contas ligadas ao Facebook ou Flixter.com são mais facilmente canceladas."
@@ -1812,33 +1412,24 @@
         "notes": "Bottom link 'Delete Account'",
         "notes_it": "Link sul fondo 'Delete Account'.",
         "notes_pt_br": "Link no final 'Delete Account'"
->>>>>>> upstream/master
     },
 
     {
         "name": "RunKeeper",
         "url": "http://runkeeper.com/I-Love-RunKeeper",
         "difficulty": "medium",
-<<<<<<< HEAD
-        "notes": "After clicking the button, you will have to enter your password, complete a capcha, click another button, AND a confirmation modal dialog."
-=======
         "notes": "After clicking the button, you will have to enter your password, complete a capcha, click another button, AND a confirmation modal dialog.",
         "notes_it": "Dopo aver cliccato il bottone dovrai: inserire la tua password, completare un capcha, clicare un altro bottone E un dialogo di conferma.",
         "notes_pt_br": "Após clicar no botão, você terá que digitar sua senha, completar o captcha, clicar em outro botão, E a confirmar."
->>>>>>> upstream/master
     },
 
     {
         "name": "ScanMyServer",
         "url": "https://scanmyserver.com/?suspend=1",
         "difficulty": "easy",
-<<<<<<< HEAD
-        "notes": "Login to your account and follow 'Account Suspension' instructions."
-=======
         "notes": "Login to your account and follow 'Account Suspension' instructions.",
         "notes_it": "Entra nel tuo account e segui le istruzioni 'Account Suspension'.",
         "notes_pt_br": "Faça login e siga as instruções de 'Account Suspension'."
->>>>>>> upstream/master
     },
 
     {
@@ -1851,52 +1442,36 @@
         "name": "Scriptogr.am",
         "url": "http://scriptogr.am/dashboard/#settings",
         "difficulty": "easy",
-<<<<<<< HEAD
-        "notes": "Click the link 'Delete your account' at the bottom. Note: On your dropbox, the content of this site will not be removed. If needed, you can delete the folder 'Apps/scriptogram' manually."
-=======
         "notes": "Click the link 'Delete your account' at the bottom. Note: On your dropbox, the content of this site will not be removed. If needed, you can delete the folder 'Apps/scriptogram' manually.",
         "notes_it": "Clicca il link 'Delete your account' sul fondo. Nota: Su dropbox il contenuto di questo sito non verrà eliminato. Se necessario, devi eliminare la cartella 'Apps/scriptogram' manualmente",
         "notes_pt_br": "Clique no link 'Delete your account' no final da página. Nota: No seu dropbox, o conteúdo deste site não será removido. Caso necessário, você pode remover a pastas 'Apps/scriptogram' manualmente."
->>>>>>> upstream/master
     },
 
     {
         "name": "Shopify",
         "url": "http://shopify.com/admin/settings/account",
         "difficulty": "easy",
-<<<<<<< HEAD
-        "notes": "Select 'Please cancel my account'. Choose a reason then select 'close my shopify store'."
-=======
         "notes": "Select 'Please cancel my account'. Choose a reason then select 'close my shopify store'.",
         "notes_it": "Seleziona 'Please cancel my account'. Seleziona un motivo e seleziona 'close my shopify store'.",
         "notes_pt_br": "Selecione 'Please cancel my account'. Escolha um motivo e selecione 'close my shopify store'."
->>>>>>> upstream/master
     },
 
     {
         "name": "Shutterfly",
         "url": "http://www.shutterfly.com/about/contact_details.jsp",
         "difficulty": "hard",
-<<<<<<< HEAD
-        "notes": "Contact customers services by email or live chat and request deletion."
-=======
         "notes": "Contact customers services by email or live chat and request deletion.",
         "notes_it": "Contatta il servizio clienti via email o via chat e richiedi la cancellazione.",
         "notes_pt_br": "Contate a assistência ao cliente por e-mail ou chat ao vivo e peça a remoção."
->>>>>>> upstream/master
     },
 
     {
         "name": "Skype",
         "url": "https://support.skype.com/en/faq/FA142/can-i-delete-my-skype-account",
         "difficulty": "hard",
-<<<<<<< HEAD
-        "notes": "Contact customer services. You’ll need to know 5 contacts from your contacts list, the month you created your account, and your signup email address."
-=======
         "notes": "Contact customer services. You’ll need to know 5 contacts from your contacts list, the month you created your account, and your signup email address.",
         "notes_it": "Contatta il servizio clienti. Devi conoscere 5 contatti dalla tua lista contatti, il mese di creazione dell'account e la email con cui ti sei registrato.",
         "notes_pt_br": "Contate a assistência ao cliente. Você precisará saber 5 contatos da sua lista de contatos, o mês em que sua conta foi criada, e seu e-mail de cadastro."
->>>>>>> upstream/master
     },
 
     {
@@ -1906,12 +1481,6 @@
     },
 
     {
-<<<<<<< HEAD
-        "name" : "Slideshare",
-        "url" : "http://help.slideshare.com/entries/57912-How-do-I-delete-my-SlideShare-account-",
-        "difficulty" : "easy",
-        "notes" : "A direct link is not available as it is based on your username."
-=======
         "name": "Slideshare",
         "url": "http://help.slideshare.com/entries/57912-How-do-I-delete-my-SlideShare-account-",
         "difficulty": "easy",
@@ -1926,21 +1495,16 @@
         "notes": "Enter username and password and click 'Delete'.",
         "notes_it": "Inserisci username e password e clicca 'Delete'.",
         "notes_pt_br": "Digite seu usuário e senha e clique em 'Delete'."
->>>>>>> upstream/master
     },
 
     {
         "name": "Sonico",
         "url": "http://www.sonico.com/tyc.php",
         "difficulty": "hard",
-<<<<<<< HEAD
-        "notes": "Send a request to legal@sonico.com and request deletion."
-=======
         "notes": "Send a request to legal@sonico.com and request deletion.",
         "notes_it": "Invia la richiesta a legal@sonico.com",
         "notes_pt_br": "Envie um pedido para legal@sonico.com e peça a remoção.",
         "email": "legal@sonico.com"
->>>>>>> upstream/master
     },
 
     {
@@ -1953,26 +1517,18 @@
         "name": "SourceForge",
         "url": "https://sourceforge.net/account/remove",
         "difficulty": "medium",
-<<<<<<< HEAD
-        "notes": "Data created by the user such as posts and tickets will remain and be attributed to the account, even if deleted. The username will not become available."
-=======
         "notes": "Data created by the user such as posts and tickets will remain and be attributed to the account, even if deleted. The username will not become available.",
         "notes_it": "I dati creati dall'utente come post e ticket rimarranno attribuiti all'account, anche se cancellato. L'username non sarà più disponibile.",
         "notes_pt_br": "Dados criads pelo usuário como posts e tickets se manterão atribuídos à conta, mesmo que deletada. O usuário não se tornará disponível."
->>>>>>> upstream/master
     },
 
     {
         "name": "Speaker Deck",
         "url": "https://speakerdeck.com/tos",
         "difficulty": "impossible",
-<<<<<<< HEAD
-        "notes": "If you wish to terminate your Speaker Deck account, you may simply discontinue using Speaker Deck."
-=======
         "notes": "If you wish to terminate your Speaker Deck account, you may simply discontinue using Speaker Deck.",
         "notes_it": "Se desideri terminare il tuo Speaker Deck account, devi semplicemente non usarlo più.",
         "notes_pt_br": "Se você deseja terminar sua conta Speaker Deck, você pode apenas parar de usar Speaker Deck."
->>>>>>> upstream/master
     },
 
     {
@@ -1985,35 +1541,24 @@
         "name": "Spotify",
         "url": "https://www.spotify.com/se/about-us/contact/contact-spotify-support/?contact",
         "difficulty": "hard",
-<<<<<<< HEAD
-        "notes": "Contact Spotify’s customer services through their contact form and request for your account to be closed."
-=======
         "notes": "Contact Spotify’s customer services through their contact form and request for your account to be closed.",
         "notes_it": "Contatta l'assistenza clienta di Spotify attraverso il loro modulo e richiedi la cancellazione dell'account.",
         "notes_pt_br": "Contate a assistência ao cliente da Spotify através do formulário de contato e peça o fechamento da sua conta."
->>>>>>> upstream/master
     },
 
     {
         "name": "StackOverflow",
         "url": "http://meta.stackoverflow.com/help/deleting-account",
         "difficulty": "hard",
-<<<<<<< HEAD
-        "notes": "If you haven't posted on the site, it's just one click. Otherwise, edit your 'About Me' bio to say 'please delete me' then contact support."
-=======
         "notes": "If you haven't posted on the site, it's just one click. Otherwise, edit your 'About Me' bio to say 'please delete me' then contact support.",
         "notes_it": "Se non hai effettuato alcuna azione sul sito, basta un click. Altrimenti, edita il tuo 'About me' biografia in 'please delete me' quindi contatta il servizio clienti.",
         "notes_pt_br": "Se você não postou no site, apenas um clique é necessário. Caso contrário, edite a sua 'About Me' biografia e escreva 'please delete me' e então contate o suporte."
->>>>>>> upstream/master
     },
 
     {
         "name": "Starbucks",
         "url": "http://customerservice.starbucks.com/app/contact/ask_starbucks_website/",
         "difficulty": "impossible",
-<<<<<<< HEAD
-        "notes": "They will not delete your account but upon request they can “scramble all of your information so that you don’t receive emails and none of your information is available to [them] for potential fraud”."
-=======
         "notes": "They will not delete your account but upon request they can “scramble all of your information so that you don’t receive emails and none of your information is available to [them] for potential fraud”.",
         "notes_it": "Non elimineranno il tuo account ma su richiesta potranno cancellare tutte le tue informazioni.",
         "notes_pt_br": "Eles não irão deletar sua conta mas mediante pedido eles podem “bagunçar todas suas informações para que você não receba e-mails e nenhuma informação sua esteja disponível a [eles] potenciais fraudes”."
@@ -2026,42 +1571,30 @@
         "notes": "The deletion of your entry can not be undone. All your profile data, contacts, messages and pictures will be permanently removed. Your classmates and contacts can no longer StayFriends contact you.",
         "notes_it": "La cancellazione non può essere annullata. Tutti i tuoi dati, contatti messaggi e foto verrano eliminati permanentemente.",
         "notes_de": "Die Löschung Ihres Eintrages kann nicht rückgängig gemacht werden. Alle Ihre Profildaten, Kontakte Nachrichten und Bilder werden unwiderruflich entfernt. Ihre Mitschüler und Kontakte können nicht mehr über StayFriends Kontakt zu Ihnen aufnehmen."
->>>>>>> upstream/master
     },
 
     {
         "name": "Steam",
         "url": "https://support.steampowered.com/newticket.php",
         "difficulty": "impossible",
-<<<<<<< HEAD
-        "notes": "If you contact Steam support, they will most likely tell you just to not use the account. If your account has no games on it, it will be disabled after a while."
-=======
         "notes": "If you contact Steam support, they will most likely tell you just to not use the account. If your account has no games on it, it will be disabled after a while.",
         "notes_it": "Se contatti il supporto Steam, risponderanno semplicemente di non usare l'account. Se l'account non ha nessun gioco abbinato, sarà disabilitato automaticamente dopo un certo periodo di tempo",
         "notes_pt_br": "Se você contatar o suporte Steam, eles irão te dizer para apenas não usar a conta. Se você não tiver jogos na sua conta, ela será desabilitada após um tempo."
->>>>>>> upstream/master
     },
 
     {
         "name": "Strava",
         "url": "https://www.strava.com/settings/privacy",
         "difficulty": "medium",
-<<<<<<< HEAD
-        "notes": "Upon deactivation, all of your activities will be deleted and you will be removed from all leaderboards. Strava will keep an archive of your raw GPS data as uploaded to Strava, but the archive cannot be used to restore your account."
-=======
         "notes": "Upon deactivation, all of your activities will be deleted and you will be removed from all leaderboards. Strava will keep an archive of your raw GPS data as uploaded to Strava, but the archive cannot be used to restore your account.",
         "notes_it": "Disattivando l'account, tutte le attività verrano cancellate e verrai rimosso da tutte le leaderboars. Strava manterrà un'archivio dei tuoi dati GPS, ma non può essere usato per recuperare il tuo account.",
         "notes_pt_br": "Mediante desativação, todas suas atividades serão deletadas e você será removido de todas as leaderboards. Strava manterá um arquivo de seus dados GPS como enviados a Strava, mas o arquivo não poderá ser usado para restaurar sua conta."
->>>>>>> upstream/master
     },
 
     {
         "name": "StumbleUpon",
         "url": "https://www.stumbleupon.com/settings/delete-account",
         "difficulty": "easy",
-<<<<<<< HEAD
-        "notes": "You can reactivate within 14 days. After that the account is deleted."
-=======
         "notes": "You can reactivate within 14 days. After that the account is deleted.",
         "notes_it": "Puoi riattivare il tuo account entro 14 giorni. Dopodichè sarà cancellato.",
         "notes_pt_br": "Você pode reativar em até 14 dias. Após este prazo sua conta é deletada."
@@ -2083,7 +1616,6 @@
         "notes": "You must submit a request to close your account via the form.",
         "notes_it": "Devi inviare una richiesta attraverso il form per chiudere il tuo account.",
         "notes_pt_br": "Você deve enviar um pedido para fechar sua conta pelo formulário."
->>>>>>> upstream/master
     },
 
     {
@@ -2102,26 +1634,18 @@
         "name": "Transifex",
         "url": "http://support.transifex.com/customer/portal/articles/1052765-how-can-i-delete-my-account-",
         "difficulty": "impossible",
-<<<<<<< HEAD
-        "notes": "You can't delete your account, but you can contact them via email to deactivate it."
-=======
         "notes": "You can't delete your account, but you can contact them via email to deactivate it.",
         "notes_it": "Non puoi eliminare il tuo account, ma puoi contattarli tramite email per disattivarlo.",
         "notes_pt_br": "Você não pode deletar sua conta, mas você pode contatá-los via e-mail para desativá-la."
->>>>>>> upstream/master
     },
 
     {
         "name": "Trello",
         "url": "https://trello.com/your/account",
         "difficulty": "easy",
-<<<<<<< HEAD
-        "notes": "Select 'Delete your account?' option to delete your account"
-=======
         "notes": "Select 'Delete your account?' option to delete your account",
         "notes_it": "Seleziona 'Eliminare il tuo account?' per eliminare il tuo account.",
         "notes_pt_br": "Selecione a opção 'Delete your account?' para deletar sua conta"
->>>>>>> upstream/master
     },
 
     {
@@ -2137,15 +1661,9 @@
     },
 
     {
-<<<<<<< HEAD
-        "name" : "Tweetdeck",
-        "url" : "https://www.tweetdeck.com/api/account-delete/",
-        "difficulty" : "easy"
-=======
         "name": "Tweetdeck",
         "url": "https://www.tweetdeck.com/api/account-delete/",
         "difficulty": "easy"
->>>>>>> upstream/master
     },
 
     {
@@ -2164,35 +1682,24 @@
         "name": "Ubuntu One",
         "url": "https://one.ubuntu.com/help/faq/how-can-i-delete-my-account/",
         "difficulty": "hard",
-<<<<<<< HEAD
-        "notes": "Yes and no, it depends on which type(s) of accounts, and you will need to delete the accounts in the correct order. All accounts are tied to Ubuntu One's Single Sign-On (login.ubuntu.com), so that is the account you should close last. Everything else, such as Launchpad.net, cloud file storage, AskUbuntu, and other accounts should be closed first if possible. This is especially important if you have any paid services attached, to make sure you won't be billed for anything after closing the accounts. The last step is to delete your Single Sign-On (SSO) account. SSO accounts must be deleted manually by the Ubuntu One staff."
-=======
         "notes": "Yes and no, it depends on which type(s) of accounts, and you will need to delete the accounts in the correct order. All accounts are tied to Ubuntu One's Single Sign-On (login.ubuntu.com), so that is the account you should close last. Everything else, such as Launchpad.net, cloud file storage, AskUbuntu, and other accounts should be closed first if possible. This is especially important if you have any paid services attached, to make sure you won't be billed for anything after closing the accounts. The last step is to delete your Single Sign-On (SSO) account. SSO accounts must be deleted manually by the Ubuntu One staff.",
         "notes_it": "Si e no, dipende dal tipo/i di account, e dovrai eliminare gli account nel giusto order. Tutti gli account sono collegati a Ubuntu One's Single Sign-On (login.ubuntu.com), quindi questo sarà l'ultimo account da chiudere. Tutto il resto, come Launchpad.net, cloud file storage, AskUbuntu e gli altri account devono essere chiusi prima, se possibile. Questo è importante soprattutto se hai qualche servizio a pagamento collegato, per essere sicuro di non ricevere richieste di pagamento dopo la chiusura degli account. L'ultimo passo è eliminare il tuo Single Sign-On (SSO) account. Questo deve essere eliminato manualmente dallo staff di Ubuntu One.",
         "notes_pt_br": "Sim e não, depende do(s) tipo(s) de conta(s), e você precisará deletar a(s) conta(s) na ordem correta. Todas as contas estão ligadas ao Single Sign-on (login.ubuntu.com) do Ubuntu One, então esta é a conta que você deve fechar por último. De resto, como Launchpad.net, armazenamento de arquivos na nuvem, AskUbuntu, e outras contas devem ser fechadas primeiro se possível. Isto é muito importante se você tem algum serviço pago ligado, para ter certeza que você não será cobrado por qualquer coisa após fechar suas contas. O último passo é fechar sua conta Single Sign-On (SSO). Contas SSO devem ser deletadas manualmente pela equipe do Ubuntu One."
->>>>>>> upstream/master
     },
 
     {
         "name": "Udacity",
         "url": "http://forums.udacity.com/answer_link/100044663/",
         "difficulty": "impossible",
-<<<<<<< HEAD
-        "notes": "A Udacity employee recommends that you stop using the account, which means there's currently no way of deleting the account."
-=======
         "notes": "A Udacity employee recommends that you stop using the account, which means there's currently no way of deleting the account.",
         "notes_it": "Un impiegato di Udacity consiglia di smettere di usare l'account, il che significa che non ci sono modi differenti per eliminare l'account.",
         "notes_pt_br": "Um empregado Udacity recomenda que você pare de usar a conta, o que significa que não há como deletar sua conta atualmente."
->>>>>>> upstream/master
     },
 
     {
         "name": "Udemy",
         "url": "https://www.udemy.com/user/edit-danger-zone/",
         "difficulty": "medium",
-<<<<<<< HEAD
-        "notes": "In order to delete your account, you need to first unsubscribe from all of your courses."
-=======
         "notes": "In order to delete your account, you need to first unsubscribe from all of your courses.",
         "notes_it": "Per eliminare il tuo account devi prima dis-iscriverti da tutti i tuoi corsi.",
         "notes_pt_br": "Para deletar sua conta, você precisa se desinscrever de todos os seus cursos."
@@ -2202,22 +1709,12 @@
         "name": "UPS",
         "url": "https://www.ups.com/myups/deletereg",
         "difficulty": "easy"
->>>>>>> upstream/master
     },
 
     {
         "name": "Ustream",
         "url": "http://www.ustream.tv/account/preferences",
         "difficulty": "easy",
-<<<<<<< HEAD
-        "notes": "Scroll down to the bottom of the 'Account Settings' page and click 'Delete Account'"
-    },
-
-    {
-        "name": "VK/ВКонтакте",
-        "url": "http://vk.com/settings?act=deactivate",
-        "difficulty": "easy"
-=======
         "notes": "Scroll down to the bottom of the 'Account Settings' page and click 'Delete Account'",
         "notes_it": "Scrolla fino al fondo della pagina 'Impostazioni Accountì e clicca 'Elimina Account'",
         "notes_pt_br": "Vá até o final da página 'Account Settings' e clique em 'Delete Account'"
@@ -2230,20 +1727,15 @@
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
         "notes_it": "Puoi in qualsiasi momento smettere di usare il servizio. Tuttavia noi possiamo comunque accedere a qualsiasi contenuto che hai inviato attraverso il servizio.",
         "notes_pt_br": "Você pode parar de usar o serviço a qualquer momento. Nós, no entando, iremos manter e usar qualquer conteúdo enviado por você através do serviço."
->>>>>>> upstream/master
     },
 
     {
         "name": "Viadeo",
         "url": "http://www.viadeo.com/settings/account/?language=fr&ga_from=Fu:%2Fsettings%2Faccount%2F;Fb%3Amenu_box_right%3BFe%3AL1-account-settings%3B",
         "difficulty": "easy",
-<<<<<<< HEAD
-        "notes": "There's a button on the right, just under the menu."
-=======
         "notes": "There's a button on the right, just under the menu.",
         "notes_it": "C'è un bottone sulla destra, proprio sotto il menu.",
         "notes_pt_br": "Existe um botão à direita, logo abaixo do menu."
->>>>>>> upstream/master
     },
 
     {
@@ -2256,9 +1748,6 @@
         "name": "Vine",
         "url": "https://support.twitter.com/forms/vine",
         "difficulty": "hard",
-<<<<<<< HEAD
-        "notes": "The only way to delete your Vine account without deleting your Twitter account is to contact Twitter through their contact form."
-=======
         "notes": "The only way to delete your Vine account without deleting your Twitter account is to contact Twitter through their contact form.",
         "notes_it": "L'unico modo per eliminare il tuo account Vine senza eliminare il tuo account Twitter è contattare Twitter attraverso il loro form contatti.",
         "notes_pt_br": "A única maneira de deletar sua conta Vine sem deletar sua conta no Twitter é contatar o Twitter por meio do formulário de contato."
@@ -2268,16 +1757,12 @@
         "name": "VK/ВКонтакте",
         "url": "http://vk.com/settings?act=deactivate",
         "difficulty": "easy"
->>>>>>> upstream/master
     },
 
     {
         "name": "Waze",
         "url": "http://www.waze.com/support/",
         "difficulty": "hard",
-<<<<<<< HEAD
-        "notes": "Send in a support ticket via the Quick Help form at Waze Support. Enter 'Delete Waze account' as the subject/question, then click the Email link. Complete filling out the form with your Waze username and registered email address."
-=======
         "notes": "Send in a support ticket via the Quick Help form at Waze Support. Enter 'Delete Waze account' as the subject/question, then click the Email link. Complete filling out the form with your Waze username and registered email address.",
         "notes_it": "Invia un ticket di supporto a Waze attraverso Quick Help form. Inserisci 'Delete Waze account' come oggetto/domanda, successivamente clicca il link Email. Completa il resto del form con i tuoi dati Waze.",
         "notes_pt_br": "Envie um ticket de suporte via o Quick Help no Waze Support. Coloque 'Delete Waze account' como assunto/pergunta, então clique no link do e-mail. Complete preenchendo com seu usuário Waze e e-mail da conta."
@@ -2296,16 +1781,12 @@
         "name": "WEB.DE",
         "url": "https://kundencenter.web.de/",
         "difficulty": "easy"
->>>>>>> upstream/master
     },
 
     {
         "name": "WhatsApp",
         "url": "https://whatsapp.zendesk.com/entries/21119703-How-do-I-delete-my-account-",
         "difficulty": "medium",
-<<<<<<< HEAD
-        "notes": "From the app: Settings → Account → Delete your account."
-=======
         "notes": "From the app: Settings → Account → Delete your account.",
         "notes_it": "Dall'applicazione: Impostazioni → Account → Elimina il tuo account.",
         "notes_pt_br": "No aplicativo: Settings → Account → Delete your account."
@@ -2317,73 +1798,51 @@
         "difficulty": "easy",
         "notes": "Menu →  Edit vCard →  Account management →  Delete everything (cannot be undone)",
         "notes_it": "Menu →  Modifica vCard →  Gestione Account →  Elimina tutto (non può essere annullato)"    
->>>>>>> upstream/master
     },
 
     {
         "name": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Wikipedia:FAQ#How_do_I_change_my_username.2Fdelete_my_account.3F",
         "difficulty": "impossible",
-<<<<<<< HEAD
-        "notes": "'A username cannot be deleted.' However, they do have some suggestions."
-=======
         "notes": "'A username cannot be deleted.' However, they do have some suggestions.",
         "notes_it": "'Un username non può essere eliminato.'. In ogni caso, ci sono alcuni consigli.",
         "notes_pt_br": "'Um usuário não pode ser deletado.' Entretanto, eles possuem algumas sugestões."
->>>>>>> upstream/master
     },
 
     {
         "name": "WordPress.com",
         "url": "http://en.support.wordpress.com/deleting-accounts/",
         "difficulty": "impossible",
-<<<<<<< HEAD
-        "notes": "“WordPress.com accounts cannot be deleted.” The best you can do is remove any identifying data from your account."
-=======
         "notes": "“WordPress.com accounts cannot be deleted.” The best you can do is remove any identifying data from your account.",
         "notes_it": "'Gli account WordPress.com non possono essere eliminati.'. Il massimo che puoi fare è eliminare qualsiasi informazione dall'account.",
         "notes_pt_br": "“Contas no WordPress.com não podem ser deletadas.” O melhor que você pode fazer é remover qualquer dado pessoal de sua conta."
->>>>>>> upstream/master
     },
 
     {
         "name": "Wunderlist",
         "url": "https://www.wunderlist.com/#/preferences/account",
         "difficulty": "easy",
-<<<<<<< HEAD
-        "notes": "Click 'Delete Account' at the bottom of the account preferences pane"
-=======
         "notes": "Click 'Delete Account' at the bottom of the account preferences panel.",
         "notes_it": "Clicca 'Elimina Account' sul fondo della pagina delle impostazioni account.",
         "notes_pt_br": "Clique em 'Delete Account' no final do painel de preferências da conta."
->>>>>>> upstream/master
     },
 
     {
         "name": "Xing",
-<<<<<<< HEAD
-        "url": "https://www.xing.com/app/user?op=cancel;sid=0.bc7191",
-        "difficulty": "easy"
-=======
         "url": "https://www.xing.com/help/help-and-faqs-2/general-stuff-55/xing-memberships-153/general-stuff-803/canceling-free-basic-membership-185",
         "difficulty": "easy",
         "notes": "Select 'delete my profile' at the bottom of the page.",
         "notes_it": "Seleziona 'elimina il mio profilo' sul fondo della pagina.",
         "notes_pt_br": "Selecione 'delete my profile' no final da página."
->>>>>>> upstream/master
     },
 
     {
         "name": "Xobni",
         "url": "https://www.xobni.com/account/settings",
         "difficulty": "easy",
-<<<<<<< HEAD
-        "notes": "“Delete account” link at the bottom of the page."
-=======
         "notes": "“Delete account” link at the bottom of the page.",
         "notes_it": "Il link 'Elimina Account' si trova sul fondo della pagina.",
         "notes_pt_br": "Link “Delete account” no final da página."
->>>>>>> upstream/master
     },
 
     {
@@ -2396,13 +1855,9 @@
         "name": "Yatado",
         "url": "http://about.yatedo.com/manage-your-digital-id/",
         "difficulty": "medium",
-<<<<<<< HEAD
-        "notes": "You must request deletion of your Yatado data before deleting the related social account."
-=======
         "notes": "You must request deletion of your Yatado data before deleting the related social account.",
         "notes_it": "Devi richiedere l'eliminazione dei tuoi dati Yatado prima di eliminare il relativo account social.",
         "notes_pt_br": "Você deve pedir a remoção de seus dados antes de deletar sua conta social."
->>>>>>> upstream/master
     },
 
     {
@@ -2422,13 +1877,10 @@
         "url": "https://accounts.zoho.com/u/h#setting/closeaccount",
         "difficulty": "easy"
     },
-<<<<<<< HEAD
-=======
 
     {
         "name": "Zurker",
         "url": "https://my.zurker.com/destroy",
         "difficulty": "easy"
     }
->>>>>>> upstream/master
 ]
