@@ -229,7 +229,7 @@
 				<h2>Random contributors</h2>
 			
 				<ul>
-					<?php include 'getcontributors.php'; ?>
+					<?php include 'contrib.php'; ?>
 				</ul>
 			</div>
 		</div>
