@@ -184,6 +184,12 @@
     },
 
     {
+        "name": "Channel 4",
+        "url": "https://4id.channel4.com/account/remove",
+        "difficulty": "easy"
+    },
+
+    {
         "name": "CloudApp",
         "url": "http://my.cl.ly/account/delete",
         "difficulty": "easy"
