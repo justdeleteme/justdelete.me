@@ -38,6 +38,7 @@
         "url": "https://learn.adobe.com/wiki/display/wel/Delete+your+account",
         "difficulty": "hard",
         "notes": "You have to call them in order to delete your account. Alternatively, you can send them an email.",
+        "notes_fr": "Vous devez les appeler pour supprimer votre compte. Vous pouvez aussi envoyer un email.",
         "notes_it": "Per eliminare il tuo account dovrai contattarli via telefono. Alternativamente puoi spedire una mail",
         "notes_pt_br": "Você deve ligar para eles para deletar sua conta. De maneira alternativa, você pode enviá-los um e-mail."
     },
@@ -53,6 +54,7 @@
         "url": "https://www.amazon.com/gp/help/customer/contact-us/ref=cu_cf_email?ie=UTF8&mode=email#a",
         "difficulty": "hard",
         "notes": "To close your account, contact Amazon by email (via this contact form) and request that your account be closed.",
+        "notes_fr": "Pour fermer votre compte, contactez Amazon par mail (par le formulaire de contact) et demandez la fermeture de votre compte.",
         "notes_it": "Per chiudere il tuo account, contatta amazon via mail (utilizzando il form contattaci) richiedendo di chiudere il tuo account",
         "notes_de": "Um deinen Account zu löschen, kontaktiere den Support über den Link und beantrage die Löschung dort.",
         "notes_pt_br": "Para fechar sua conta, contate Amazon por e-mail (usando este modelo de contato) e requira que sua conta seja fechada."
@@ -90,6 +92,7 @@
         "url": "http://ask.fm/feedbacks/new",
         "difficulty": "hard",
         "notes": "Request deletion from customer services.",
+        "notes_fr": "Demandez la suppresion du compte par le service consommateur.",
         "notes_it": "Richiedi la cancellazione al servizio clienti",
         "notes_de": "Beantrage die Löschung beim Support.",
         "notes_pt_br": "Peça para que seja deletada pela assistência ao cliente."
@@ -106,6 +109,7 @@
         "url": "https://bambuser.com/settings",
         "difficulty": "easy",
         "notes": "Go to your Settings page and scroll down to find 'Deactivate' account. Click on 'Close Account' button, and confirm the account deletion.",
+        "notes_fr": "Allez dans vos Parametres et allez jusqu'à Désactiver mon compte. Cliquez Fermer mon compte, et confirmez.",
         "notes_it": "Vai sulla pagina delle impostazioni e scorri giù fino a trovare 'Deactivate account'. Clicca su il pulsante 'Close Account', e conferma la cancellazione dell'account",
         "notes_pt_br": "Vá para a página Settings e desça até o final da página e ache 'Deactivate account'. Clique no botão 'Close Account', e confirme."
     },
@@ -145,7 +149,8 @@
         "name": "Blogger",
         "url": "https://support.google.com/blogger/answer/41932",
         "difficulty": "impossible",
-        "notes": "You can't delete your Blogger Account without deleting your entire Google Account. But you can delete your blog."
+        "notes": "You can't delete your Blogger Account without deleting your entire Google Account. But you can delete your blog.",
+        "notes_fr": "Vous ne pouvez pas supprimer votre compte Blogger sans supprimer votre compte Google, mais vous pouvez supprimer votre blog."
     },
 
     {
@@ -355,6 +360,7 @@
         "url": "http://digg.com/contact",
         "difficulty": "hard",
         "notes": "Contact Digg’s customer support and request for your account to be closed.",
+        "notes_fr": "Contactez le support Digg et demandez la suppresion du compte.",
         "notes_it": "Contatta il servizio clienti e richiedi che il tuo account sia chiuso.",
         "notes_de": "Kontaktiere Digg's Kundensupport und beantrage die Löschung deines Accounts.",
         "notes_pt_br": "Contate a assistência ao cliente da Digg e peça que sua conta seja fechada."
@@ -476,6 +482,7 @@
         "url": "https://getsatisfaction.com/feedly/topics/how_do_i_delete_my_feedly_account",
         "difficulty": "hard",
         "notes": "Email customer support to request deletion.",
+        "notes_fr": "Contactez le support pour supprimer votre compte.",
         "notes_it": "Contatta il servizio clienti via email per richiedere la cancellazione.",
         "notes_de": "Schreibe eine mail an den Kundensupport um die Löschung zu beantragen",
         "notes_pt_br": "Envie um e-mail para a assistência ao cliente para pedir a remoção."
@@ -513,6 +520,7 @@
         "url": "https://flipboard.com/support/",
         "difficulty": "easy",
         "notes": "Go to account management within the app",
+        "notes_fr": "Allez dans les parametres du compte.",
         "notes_de": "Gehe auf 'Account Management' innerhalb der App.",
         "notes_it": "Vai su gestione account da dentro l'app",
         "notes_pt_br": "Vá em account managemente no aplicativo"
@@ -570,6 +578,7 @@
         "url": "https://gamespot.custhelp.com/app/ask",
         "difficulty": "hard",
         "notes": "Account deletion requires contacting Customer Support.",
+        "notes_fr": "Pour supprimer votre compte contactez le support.",
         "notes_it": "La cancellazione account richiede di contattare il servizio clienti.",
         "notes_de": "Account-Löschung erfordert es den Kundensupport zu kontaktieren",
         "notes_pt_br": "Para deletar a sua conta contate a assistência ao cliente"
@@ -653,6 +662,7 @@
         "url": "http://www.glassdoor.com/about/contact_input.htm?opt=cc",
         "difficulty": "hard",
         "notes": "Contact customer services and request deletion.",
+        "notes_fr": "Contactez le support pour supprimer votre compte.",
         "notes_de": "Kontaktiere den Kundensupport und beantrage die Löschung",
         "notes_it": "Contatta il servizio clienti e richiedi la cancellazione.",
         "notes_pt_br": "Contate a assistência ao cliente e peça a remoção."
