@@ -1,0 +1,315 @@
+[{
+        "title": {
+            "en": "Just Delete Me | A directory of direct links to delete your account from web services.",
+            "it": "Just Delete Me | Una directory di link diretti per eliminare il tuo account dai siti web.",
+            "de": "Just Delete Me | Ein Verzeichnis direkter Links um deinen Account aus verschiedenen Webdiensten zu löschen.",
+            "fr": "Just Delete Me | Un annuaire de liens pour supprimer vos comptes de sites webs.",
+            "ru": "Just Delete Me | Каталог прямых ссылок для удаления вашего аккаунта с различных веб-сайтов",
+            "pt_br": "Just Delete Me | Um diretório de links diretos para deletar sua conta em serviços da web."
+        },
+        "description": {
+            "en": "A directory of direct links to delete your account from web services. Find out how to delete your Facebook, Twitter, LinkedIn accounts and more.",
+            "it": "Una directory di link diretti per eliminare il tuo account dai siti web. Scopri come eliminare il tuo account Facebook, Twitter, LinkedIn e molti altri.",
+            "de": "Ein Verzeichnis direkter Links um deinen Account aus verschiedenen Webdiensten zu löschen.",
+            "fr": "Un annuaire de liens pour supprimer vos comptes de sites webs. Trouvez comment supprimer vos comptes Facebook, Twitter, LinkedIn et plus.",
+            "ru": "Каталог прямых ссылок для удаления вашего аккаунта с различных веб-сайтов",
+            "pt_br": "Um diretório de links diretos para deletar sua conta em serviços da web. Descubra como deletar a sua conta no Facebook, Twitter, LinkedIn e outros."
+        },
+        "difficulty": {
+            "en": "difficulty",
+            "it": "difficoltà",
+            "de": "Schwierigkeit",
+            "fr": "difficulté",
+            "ru": "Сложность",
+            "pt_br": "difficuldade"
+        },
+        "difficulty_easy": {
+            "en": "easy",
+            "it": "facile",
+            "de": "leicht",
+            "fr": "facile",
+            "ru": "легко",
+            "pt_br": "fácil"
+        },
+        "difficulty_medium": {
+            "en": "medium",
+            "it": "media",
+            "de": "mittel",
+            "fr": "moyen",
+            "ru": "средний",
+            "pt_br": "média"
+        },
+        "difficulty_hard": {
+            "en": "hard",
+            "it": "difficile",
+            "de": "schwer",
+            "fr": "difficile",
+            "ru": "трудно",
+            "pt_br": "difícil"
+        },
+        "difficulty_impossible": {
+            "en": "impossible",
+            "it": "impossibile",
+            "de": "unmöglich",
+            "fr": "impossible",
+            "ru": "невозможно",
+            "pt_br": "impossível"
+        },
+        "tagline": {
+            "en": "A directory of direct links to delete your account from web services.",
+            "it": "Una directory di link diretti per eliminare il tuo account dai siti web.",
+            "de": "Ein Verzeichnis direkter Links um deinen Account aus Webdiensten zu löschen",
+            "fr": "Un annuaire de liens pour supprimer vos comptes de sites webs.",
+            "ru": "Каталог прямых ссылок для удаления аккаунта с веб-сайтов",
+            "pt_br": "Um diretório de links diretos para deletar sua conta em serviços da web."
+        },
+        "noinfo": {
+            "en": "No Info Available",
+            "it": "Nessuna Informazione Disponibile",
+            "de": "Keine Information verfügbar.",
+            "fr": "Informations non disponibles",
+            "ru": "Информация недоступна",
+            "pt_br": "Nenhuma Informação Disponível"
+
+        },
+        "showinfo": {
+            "en": "show info...",
+            "it": "mostra informazioni...",
+            "de": "zeige Info...",
+            "fr": "voir les infos...",
+            "ru": "показать информацию...",
+            "pt_br": "exibir informações..."
+        },
+        "hideinfo": {
+            "en": "hide info...",
+            "it": "nascondi informazioni...",
+            "de": "verstecke Info...",
+            "fr": "cacher les infos...",
+            "ru": "скрыть информацию...",
+            "pt_br": "esconder informações..."
+        },
+        "whatisthis": {
+            "en": "What is this?",
+            "it": "Cos'è?",
+            "de": "Was ist das?",
+            "fr": "Qu'est-ce que c'est ?",
+            "ru": "Что это?",
+            "pt_br": "O que é isto?"
+        },
+        "whatisthis1": {
+            "en": "Many companies use <a href=\"http://darkpatterns.org/\">dark pattern</a> techniques to make it difficult to find how to delete your account. JustDelete.me aims to be a directory of urls to enable you to easily delete your account from web services.",
+            "it": "Molte compagnie usano strategie di <a href=\"http://darkpatterns.org/\">dark pattern</a> per rendere difficile la possibilità di eliminare il tuo account. JustDelete.me punta a essere una directory di urls per permetterti di eliminare facilmente il tuo account dai siti web.",
+            "de": "Viele Firmen nutzen <a href=\"http://darkpatterns.org/\">dark pattern</a>-Techniken um es schwierig zu machen deinen Account zu löschen. Das Ziel von JustDelete.me ist ein Verzeichnis von URLs, damit Sie leicht Ihr Konto von Webdiensten löschen können.",
+            "fr": "De nombreuses companies utilisent des techniques appelées <a href=\"http://darkpatterns.org/\">dark patterns (lien en anglais)</a> pour qu'il soit difficile de trouver comment supprimer votre compte. JustDelete.me veut devenir un annuaire de liens qui vous permette de supprimer facilement vos comptes de différents sites webs.",
+            "ru": "Многие компании используют технологию <a href=\"http://darkpatterns.org/\">dark pattern</a> для того, чтобы усложнить процесс удаления аккаунта. Каталог ссылок JustDelete.me призван помочь вам с легкостью удалить аккаунт с веб-сайта",
+            "pt_br": "Diversas companhias usam técnicas <a href=\"http://darkpatterns.org/\">dark pattern</a> para tornar difícil encontrar como deletar sua conta. JustDelete.me tem por objetivo ser um diretório de urls que tornem fácil a remoção de sua conta em serviços da web."
+        },
+        "whatisthis2": {
+            "en": "Got a site you think should be added? <a href=\"http://github.com/rmlewisuk/justdelete.me\">Fork the project GitHub</a>.",
+            "it": "Hai trovato un sito che credi dovrebbe essere aggiunto? <a href=\"http://github.com/rmlewisuk/justdelete.me\">Fork the project GitHub</a>.",
+            "de": "Haben Sie eine fehlende Seite zum Hinzufügen? <a href=\"http://github.com/rmlewisuk/justdelete.me\">Fork the project GitHub</a>.",
+            "fr": "Vous pensez qu'un site devrait-être ajouté ? <a href=\"http://github.com/rmlewisuk/justdelete.me\">Forkez le projet sur GitHub</a>.",
+            "ru": "Есть сайт, который неободимо добавить? <a href=\"http://github.com/rmlewisuk/justdelete.me\">Fork the project GitHub</a>.",
+            "pt_br": "Sabe de um site que você acha que deve ser adicionado? <a href=\"http://github.com/rmlewisuk/justdelete.me\">Faça um Fork do projeto no GitHub</a>."
+        },
+        "whatisthis3": {
+            "en": "<em>Email submission is temporarily disabled</em>",
+            "it": "<em>L'invio email è temporaneamente disabilitato</em>",
+            "de": "<em>E-Mail-Vorschläge sind kurzzeitig deaktiviert</em>",
+            "fr": "<em>L'ajout par e-mail est temporairement désactivé</em>",
+            "ru": "<em>Прием сообщений по электронной почте временно приостановлен</em>",
+            "pt_br": "<em>Envio por e-mails está temporariamente desabilitado</em>"
+        },
+        "guide": {
+            "en": "Guide",
+            "it": "Guida",
+            "de": "Guide",
+            "fr": "Guide",
+            "ru": "Руководство",
+            "pt_br": "Guia"
+        },
+        "guideexplanations": {
+            "en": "The links above are colour-coded to indicate the difficulty level of account deletion:",
+            "it": "I link qui sotto sono colorati in base al livello di difficoltà per eliminare l'account",
+            "de": "Die Links oben sind farbkodiert um die Schwierigkeit des Account-Löschens anzuzeigen:",
+            "fr": "Les liens ci-dessus utilisent un code-couleur pour indiquer le niveau de difficulté de la suppression de compte :",
+            "ru": "Сслыки выше выделены цветом, для обозначения уровня сложности удаления аккаунта:",
+            "pt_br": "Os links acima possuem cores baseados no nível de dificuldade para deletar a conta:"
+        },
+        "guideeasy": {
+            "en": "<span class=\"green\">Easy</span> - Simple process",
+            "it": "<span class=\"green\">Facile</span> - Processo semplice",
+            "de": "<span class=\"green\">Leicht</span> - Einfacher Prozess",
+            "fr": "<span class=\"green\">Facile</span> - Processus simple",
+            "ru": "<span class=\"green\">Легко</span> - Простой процесс",
+            "pt_br": "<span class=\"green\">Fácil</span> - Processo simples"
+        },
+        "guidemedium": {
+            "en": "<span class=\"yellow\">Medium</span> - Some extra steps involved",
+            "it": "<span class=\"yellow\">Media</span> - Richiede qualche azione aggiuntiva",
+            "de": "<span class=\"yellow\">Mittel</span> - Einige Extraschritte sind nötig",
+            "fr": "<span class=\"yellow\">Moyen</span> - Étapes supplémentaires requises",
+            "ru": "<span class=\"yellow\">Средний</span> - Необходимы дополнительные действия",
+            "pt_br": "<span class=\"yellow\">Média</span> - Alguns passos extras necessários"
+        },
+        "guidehard": {
+            "en": "<span class=\"red\">Hard</span> - Cannot be fully deleted without contacting customer services",
+            "it": "<span class=\"red\">Difficile</span> - Non può essere completamente cancellato senza contattare l'assistenza clienti",
+            "de": "<span class=\"red\">Schwer</span> - Kann ohne den jeweiligen Support zu kontaktieren nicht gelöscht werden",
+            "fr": "<span class=\"red\">Difficile</span> - Ne peut être totalement supprimé sans contacter le support",
+            "ru": "<span class=\"red\">Трудно</span> - Нельзя полностью удалить без обращения в службу поддержки",
+            "pt_br": "<span class=\"red\">Difícil</span> - Não pode ser totalmente deletada sem contatar a assistência ao cliente"
+        },
+        "guideimpossible": {
+            "en": "<span class=\"black\">Impossible</span> - Cannot be deleted",
+            "it": "<span class=\"black\">Impossibile</span> - Non può essere cancellato",
+            "de": "<span class=\"black\">Unmöglich</span> - Kann nicht gelöscht werden",
+            "fr": "<span class=\"black\">Impossible</span> - Ne peut être supprimé",
+            "ru": "<span class=\"black\">Невозможно</span> - Невозможно удалить",
+            "pt_br": "<span class=\"black\">Impossível</span> - Não pode ser deletada"
+        },
+        "translationcontrib": {
+            "en": "Translation contributors",
+            "it": "Translation contributors",
+            "de": "Translation contributors",
+            "fr": "Translation contributors",
+            "ru": "Translation contributors",
+            "pt_br": "Translation contributors"
+        },
+        "morecontrib": {
+            "en": "More contributors",
+            "it": "More contributors",
+            "de": "More contributors",
+            "fr": "More contributors",
+            "ru": "More contributors",
+            "pt_br": "More contributors"
+        },
+        "viewcontrib": {
+            "en": "View all contributors",
+            "it": "View all contributors",
+            "de": "View all contributors",
+            "fr": "View all contributors",
+            "ru": "View all contributors",
+            "pt_br": "View all contributors"
+        },
+        "extension": {
+            "en": "Google Chrome Extension",
+            "it": "Estensione Google Chrome",
+            "de": "Google Chrome Erweiterung",
+            "fr": "Extension Google Chrome",
+            "ru": "Расширение для Google Chrome",
+            "pt_br": "Extensão do Google Chrome"
+        },
+        "extensionguide": {
+            "en": "Extension Dot Guide",
+            "it": "Extension Dot Guide",
+            "de": "Extension Dot Guide",
+            "fr": "Extension Dot Guide",
+            "ru": "Extension Dot Guide",
+            "pt_br": "Extension Dot Guide"
+        },
+        "extensionp1": {
+            "en": "Our good friend <a target=\"_blank\" href=\"http://mikerogers.io\">Mike Rogers</a> has helped us to release an awesome Google Chrome Extension for JustDelete.me.",
+            "it": "Il nostro amico <a target=\"_blank\" href=\"http://mikerogers.io\">Mike Rogers</a> ci ha aiutato a rilasciare l'estensione di JustDelete.me per Google Chrome.",
+            "de": "Unser Freund <a target=\"_blank\" href=\"http://mikerogers.io\">Mike Rogers</a> hat uns geholfen eine großartige Google Chrome Erweiterung für JustDelete.me zu machen.",
+            "fr": "Notre ami <a target=\"_blank\" href=\"http://mikerogers.io\">Mike Rogers</a> nous a aidé à créer une superbe extension Google Chrome pour JustDelete.me",
+            "ru": "Наш хороший друг <a target=\"_blank\" href=\"http://mikerogers.io\">Mike Rogers</a> помог нам выпустить прекрасное расширение JustDelete.me для Google Chrome.",
+            "pt_br": "Nosso bom amigo <a target=\"_blank\" href=\"http://mikerogers.io\">Mike Rogers</a> nos ajudou a lançar uma incrível Extensão do Google Chrome para o JustDelete.me."
+        },
+        "extensionp2": {
+            "en": "When you are on a website that is listed on justdelete.me, the Chrome Extension will add a small dot to the omnibar. Clicking on this dot will take you to the relevant delete page.",
+            "it": "Quando sei su un sito che è elencato su justdelete.me, l'estensione aggiungerà un puntino colorato sulla barra degli indirizzi. Cliccandoci verrai reindirizzato alla pagina per eliminare il tuo account.",
+            "de": "Wenn Sie auf einer Seite sind, die auf justdelete.me gelistet ist, fügt die Google Chrome Erweiterung einen kleinen Punkt zur Omnibar hinzu. Auf diesen Link zu klicken befördert Sie zu der relevanten Löschen-Seite.",
+            "fr": "Quand vous êtes sur un site web listé sur justdelete.me, l'extension ajoutera un petit point dans l'omnibar. CLiquer dessus vous dirigera vers la page qui contient la manoeuvre de suppression de compte.",
+            "ru": "Когда вы находитесь на сайте, который есть в списке justdelete.me, расширения для Chrome добавить маленькую точку в оминбар. Кликнув на эту точку, вы попадете на подходящую страницу для удаления.",
+            "pt_br": "Quando você estiver em um site que está listado no justdelete.me, a Extensão do Chrome irá adicionar um pequeno ponto na omnibar. Clicando neste ponto irá levar você até a página para deletar sua conta."
+        },
+        "extensionp3": {
+            "en": "To install it, simply proceed to the <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome Web Store</a>.",
+            "it": "Per installare l'estensione, procedi su <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome Web Store</a>.",
+            "de": "Um die Erweiterung zu installieren, rufen sie einfach den <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome Web Store</a> auf.",
+            "fr": "Pour l'installer, rendez-vous simplement sur le <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome Web Store</a>.",
+            "ru": "Для того чтобы установить расширение, просто перейдите в <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome Web Store</a>.",
+            "pt_br": "Para instalá-la, acesse a <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome Web Store</a>."
+        },
+        "extensionl1": {
+            "en": "<span class=\"dot-wrapper\"><span class=\"dot easy\"></span></span> - Simple process",
+            "it": "<span class=\"dot-wrapper\"><span class=\"dot easy\"></span></span> - Processo semplice",
+            "de": "<span class=\"dot-wrapper\"><span class=\"dot easy\"></span></span> - Einfacher Prozess",
+            "fr": "<span class=\"dot-wrapper\"><span class=\"dot easy\"></span></span> - Processus simple",
+            "ru": "<span class=\"dot-wrapper\"><span class=\"dot easy\"></span></span> - Простой процесс",
+            "pt_br": "<span class=\"dot-wrapper\"><span class=\"dot easy\"></span></span> - Processo simples"
+        },
+        "extensionl2": {
+            "en": "<span class=\"dot-wrapper\"><span class=\"dot medium\"></span></span> - Some extra steps involved",
+            "it": "<span class=\"dot-wrapper\"><span class=\"dot medium\"></span></span> -  Richiede qualche azione aggiuntiva",
+            "de": "<span class=\"dot-wrapper\"><span class=\"dot medium\"></span></span> -  Einige zusätzliche Schritte sind nötig",
+            "fr": "<span class=\"dot-wrapper\"><span class=\"dot medium\"></span></span> - Étapes supplémentaires requises",
+            "ru": "<span class=\"dot-wrapper\"><span class=\"dot medium\"></span></span> -  Нужны дополнительные действия",
+            "pt_br": "<span class=\"dot-wrapper\"><span class=\"dot medium\"></span></span> - Alguns passos extras necessários"
+        },
+        "extensionl3": {
+            "en": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Cannot be fully deleted without contacting customer-services",
+            "it": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Non può essere completamente cancellato senza contattare l'assistenza clienti",
+            "de": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Kann ohne den jeweiligen Support zu kontaktieren nicht gelöscht werden",
+            "fr": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Ne peut être totalement supprimé sans contacter le support",
+            "ru": "<span class=\"dot-wrapper\"><span class=\"dot medium\"></span></span> -  Нужны дополнительные действия",
+            "pt_br": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Não pode ser totalmente deletada sem contatar a assistência ao cliente"
+        },
+        "extensionl3": {
+            "en": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Cannot be fully deleted without contacting customer-services",
+            "it": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Non può essere completamente cancellato senza contattare l'assistenza clienti",
+            "de": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Kann ohne den jeweiligen Support zu kontaktieren nicht gelöscht werden",
+            "fr": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Ne peut être totalement supprimé sans contacter le support",
+            "ru": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Невозможно полностью удалить без обращения в службу поддержки",
+            "pt_br": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Não pode ser totalmente deletada sem contatar a assistência ao cliente"
+        },
+        "extensionl4": {
+            "en": "<span class=\"dot-wrapper\"><span class=\"dot impossible\"></span></span> - Cannot be deleted",
+            "it": "<span class=\"dot-wrapper\"><span class=\"dot impossible\"></span></span> - Non può essere cancellato",
+            "de": "<span class=\"dot-wrapper\"><span class=\"dot impossible\"></span></span> - Kann nicht gelöscht werden",
+            "fr": "<span class=\"dot-wrapper\"><span class=\"dot impossible\"></span></span> - Ne peut être supprimé",
+            "ru": "<span class=\"dot-wrapper\"><span class=\"dot impossible\"></span></span> - Невозможно удалить",
+            "pt_br": "<span class=\"dot-wrapper\"><span class=\"dot impossible\"></span></span> - Não pode ser deletada"
+        },
+        "banner": {
+            "en": "Try our new <span>Chrome Extension</span>",
+            "it": "Prova la nostra nuova <span>Estensione Chrome</span>",
+            "de": "Testen Sie unsere neue <span>Chrome Erweiterung</span>",
+            "fr": "Essayez notre nouvelle <span>Extension Chrome</span>",
+            "ru": "Попробуйте наше новое <span>расширение для Chrome</span>",
+            "pt_br": "Experimente a nossa nova <span>Extensão do Chrome</span>"
+        },
+        "footer": {
+            "en": "Made by <a href=\"http://robblewis.me\">Robb Lewis</a> and <a href=\"http://edpoole.me\">Ed Poole</a> | Fork on <a href=\"http://github.com/rmlewisuk/justdelete.me\">GitHub</a> | Hosted by <a href=\"http://www.mediatemple.net/#a_aid=521a8aefe4c3b\">Media Temple</a> | Analytics by <a href=\"https://t.co/fvPnva7p4Y\">GoSquared</a>",
+            "it": "Creato da <a href=\"http://robblewis.me\">Robb Lewis</a> and <a href=\"http://edpoole.me\">Ed Poole</a> | Fork on <a href=\"http://github.com/rmlewisuk/justdelete.me\">GitHub</a> | Hosted by <a href=\"http://www.mediatemple.net/#a_aid=521a8aefe4c3b\">Media Temple</a> | Analytics by <a href=\"https://t.co/fvPnva7p4Y\">GoSquared</a>",
+            "de": "Erstellt von <a href=\"http://robblewis.me\">Robb Lewis</a> und <a href=\"http://edpoole.me\">Ed Poole</a> | Fork auf <a href=\"http://github.com/rmlewisuk/justdelete.me\">GitHub</a> | Gehostet von <a href=\"http://www.mediatemple.net/#a_aid=521a8aefe4c3b\">Media Temple</a> | Analytics von <a href=\"https://t.co/fvPnva7p4Y\">GoSquared</a>",
+            "fr": "Créé par <a href=\"http://robblewis.me\">Robb Lewis</a> et <a href=\"http://edpoole.me\">Ed Poole</a> | Forkez sur <a href=\"http://github.com/rmlewisuk/justdelete.me\">GitHub</a> | Hébergé par <a href=\"http://www.mediatemple.net/#a_aid=521a8aefe4c3b\">Media Temple</a> | Analytics par <a href=\"https://t.co/fvPnva7p4Y\">GoSquared</a>",
+            "ru": "Сделали <a href=\"http://robblewis.me\">Robb Lewis</a> и <a href=\"http://edpoole.me\">Ed Poole</a> | Fork on <a href=\"http://github.com/rmlewisuk/justdelete.me\">GitHub</a> | Хостинг <a href=\"http://www.mediatemple.net/#a_aid=521a8aefe4c3b\">Media Temple</a> | Статистика <a href=\"https://t.co/fvPnva7p4Y\">GoSquared</a>",
+            "pt_br": "Criado por <a href=\"http://robblewis.me\">Robb Lewis</a> e <a href=\"http://edpoole.me\">Ed Poole</a> | Fork em <a href=\"http://github.com/rmlewisuk/justdelete.me\">GitHub</a> | Hospedado por <a href=\"http://www.mediatemple.net/#a_aid=521a8aefe4c3b\">Media Temple</a> | Analytics por <a href=\"https://t.co/fvPnva7p4Y\">GoSquared</a>"
+        },
+        "help": {
+            "en": "Help translate",
+            "it": "Aiuta a tradurre",
+            "de": "Hilf uns bei der Übersetzung",
+            "fr": "Aidez à traduire",
+            "ru": "Помогайте переводить",
+            "pt_br": "Ajude a traduzir"
+        },
+        "donate": {
+            "en": "Hosting costs money. If you like JustDelete.me, please consider making a donation.",
+            "it": "Possedere un sito costa soldi. Se JustDelete.me ti ha aiutato, per favore considera una donazione.",
+            "de": "Hosting kostet Geld. Wenn du JustDelete.me magst, bitte überlege über eine Spende nach.",
+            "fr": "L'hébergement n'est pas gratuit ; si vous aimez JustDelete.me, faites éventuellement un don.",
+            "ru": "Хостинг стоит денег. Если вам понравился JustDelete.me, пожалуйста, сделайте пожертвование.",
+            "pt_br": "Hospedagem custa dinheiro. Se você gosta do JustDelete.me, por favor considere fazer uma doação."
+        },
+        "sendmail": {
+            "en": "Send email",
+            "it": "Invia e-mail",
+            "de": "E-mail senden",
+            "fr": "Envoyez un mail",
+            "ru": "E-mail отправлен",
+            "pt_br": "Enviar e-mail"
+        }
+    }]

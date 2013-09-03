@@ -11,7 +11,8 @@ body {
 	background-color:#D4D8DC;
 }
 
-header {	
+header {
+	position: relative;
 	background-color: #293840;
 	color: #E8E8E8;	
 	text-align: center;
@@ -117,6 +118,20 @@ header h1 span {
 
    ######################################################### */
 
+.ribbon {
+	position: absolute;
+	top: 0;
+	right: 0;
+	border: 0;
+	z-index: 1;
+	width: 15%;
+	max-width: 149px;
+}
+
+	.ribbon img {
+		float: right;
+		width: 100%;
+	}
 
 .banner {
 	display: block;
@@ -538,3 +553,86 @@ footer a:hover, .info-container a:hover {
 	color: #CF5A5A;
 }
 
+/* Language switch */
+
+.language-switch {
+	position: absolute;
+	top: 5px;
+	left: 10px;
+	padding-left: 29px;
+	padding-top: 3px;
+	padding-bottom: 5px;
+	padding-right: 10px;
+	cursor: pointer;
+}
+
+	.language-switch:hover {
+		background-color: #414f56;
+		border-radius: 3px;
+	}
+
+.beta {
+	font-size: 50%;
+	color: #cf5a5a;
+}
+
+.clearfix {
+	clear: both;
+}
+
+.info-block.contributors {
+	border-top: none;
+}
+
+.contributors.translate {
+	list-style-type: none;
+}
+.contributors.translate LI > A {
+	padding-left: 30px;
+	background-position: 8px center;
+	background-repeat: no-repeat;
+}
+
+.dropdown .help A { background-image: url(inc/icons/github16.png); }
+.dropdown .it A, .it A { background-image: url(inc/icons/flags/it16.png); }
+.dropdown .en A, .en A { background-image: url(inc/icons/flags/en16.png); }
+.dropdown .fr A, .fr A { background-image: url(inc/icons/flags/fr16.png); }
+.dropdown .de A, .de A { background-image: url(inc/icons/flags/de16.png); }
+.dropdown .es A, .es A { background-image: url(inc/icons/flags/es16.png); }
+.dropdown .ru A, .ru A { background-image: url(inc/icons/flags/ru16.png); }
+.dropdown .pt_br A, .pt_br A { background-image: url(inc/icons/flags/pt_br16.png); }
+
+#en { 
+	background-image: url(./inc/icons/flags/en24.png);
+	background-repeat:no-repeat;
+}
+
+#fr { 
+	background-image: url(./inc/icons/flags/fr24.png);
+	background-repeat:no-repeat;	
+}
+
+#de { 
+	background-image: url(./inc/icons/flags/de24.png);
+	background-repeat:no-repeat;	
+}
+
+#it { 
+	background-image: url(./inc/icons/flags/it24.png);	
+	background-repeat:no-repeat;
+}
+
+#es { 
+	background-image: url(./inc/icons/flags/es24.png);
+	background-repeat:no-repeat;	
+}
+
+#ru { 
+	background-image: url(./inc/icons/flags/ru24.png);
+	background-repeat:no-repeat;	
+}
+
+#pt_br {
+	background-image: url(./inc/icons/flags/pt_br24.png);
+	background-repeat:no-repeat;
+}
