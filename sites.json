@@ -141,6 +141,13 @@
     },
 
     {
+        "name": "Blogger",
+        "url": "https://support.google.com/blogger/answer/41932",
+        "difficulty": "impossible",
+        "notes": "You can't delete your Blogger Account without deleting your entire Google Account. But you can delete your blog."
+    },
+
+    {
         "name": "Blue Apron",
         "url": "www.blueapron.com/cancel_subscription",
         "difficulty": "easy"
@@ -392,7 +399,7 @@
         "url": "http://help.dwolla.com/customer/portal/articles/269223-how-can-i-delete-my-dwolla-account-",
         "difficulty": "hard",
         "notes": "All accounts stay in their system for at least 3 years. Remove any banking information before you delete.",
-        "notes": "Alle Accounts bleiben 3 Tage lang in ihrem System. Lösche alle Bank-Informationen bevor du deinen Account löschst.",
+        "notes_de": "Alle Accounts bleiben 3 Tage lang in ihrem System. Lösche alle Bank-Informationen bevor du deinen Account löschst.",
         "notes_it": "Tutti gli account rimangono nei loro sistemi per almeno 3 anni. Rimuovi qualsiasi credenziale bancaria prima di cancellarti.",
         "notes_pt_br": "Todas as contas permanecem no sistema por pelo menos 3 anos. Remova qualquer informação de bancos antes de deletar."
     },
@@ -704,6 +711,13 @@
         "name": "Grammarly",
         "url": "https://ed.grammarly.com/accounts/me",
         "difficulty": "easy"
+    },
+
+    {
+        "name": "Gravatar",
+        "url": "http://gravatar.com",
+        "difficulty": "impossible",
+        "notes": "You can't delete your Gravatar Account without deleting your entire WordPress Account."
     },
 
     {
@@ -1479,7 +1493,7 @@
         "name": "Slideshare",
         "url": "http://help.slideshare.com/entries/57912-How-do-I-delete-my-SlideShare-account-",
         "difficulty": "easy",
-        "notes": "A direct link is not available as it is based on your username.",       
+        "notes": "A direct link is not available as it is based on your username.",
         "notes_pt_br": "Um link direto não está disponível e é baseado no seu usuário."
     },
 
@@ -1792,7 +1806,7 @@
         "url": "https://whistle.im/browser#vcard",
         "difficulty": "easy",
         "notes": "Menu →  Edit vCard →  Account management →  Delete everything (cannot be undone)",
-        "notes_it": "Menu →  Modifica vCard →  Gestione Account →  Elimina tutto (non può essere annullato)"    
+        "notes_it": "Menu →  Modifica vCard →  Gestione Account →  Elimina tutto (non può essere annullato)"
     },
 
     {
@@ -1859,6 +1873,13 @@
         "name": "Yelp",
         "url": "http://www.yelp.co.uk/contact?topic=support&subtopic=close",
         "difficulty": "easy"
+    },
+
+    {
+        "name": "YouTube",
+        "url": "https://support.google.com/youtube/answer/55759",
+        "difficulty": "impossible",
+        "notes": "You can't delete your Blogger Account without deleting your entire Google Account. But you can delete your channel."
     },
 
     {
