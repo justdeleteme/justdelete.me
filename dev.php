@@ -226,7 +226,7 @@
 		        	<li class="pt_br"><a href="https://github.com/mkbu95">Matheus Macabu</a></li>
 				</ul>
 			</div><div class="info-block-half">
-				<h2>Random contributors</h2>
+				<h2>More contributors</h2>
 			
 				<ul>
 					<?php include 'contrib.php'; ?>
