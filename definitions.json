@@ -168,6 +168,30 @@
             "ru": "<span class=\"black\">Невозможно</span> - Невозможно удалить",
             "pt_br": "<span class=\"black\">Impossível</span> - Não pode ser deletada"
         },
+        "translationcontrib": {
+            "en": "Translation contributors",
+            "it": "Translation contributors",
+            "de": "Translation contributors",
+            "fr": "Translation contributors",
+            "ru": "Translation contributors",
+            "pt_br": "Translation contributors"
+        },
+        "morecontrib": {
+            "en": "More contributors",
+            "it": "More contributors",
+            "de": "More contributors",
+            "fr": "More contributors",
+            "ru": "More contributors",
+            "pt_br": "More contributors"
+        },
+        "viewcontrib": {
+            "en": "View all contributors",
+            "it": "View all contributors",
+            "de": "View all contributors",
+            "fr": "View all contributors",
+            "ru": "View all contributors",
+            "pt_br": "View all contributors"
+        },
         "extension": {
             "en": "Google Chrome Extension",
             "it": "Estensione Google Chrome",
@@ -175,6 +199,14 @@
             "fr": "Extension Google Chrome",
             "ru": "Расширение для Google Chrome",
             "pt_br": "Extensão do Google Chrome"
+        },
+        "extensionguide": {
+            "en": "Extension Dot Guide",
+            "it": "Extension Dot Guide",
+            "de": "Extension Dot Guide",
+            "fr": "Extension Dot Guide",
+            "ru": "Extension Dot Guide",
+            "pt_br": "Extension Dot Guide"
         },
         "extensionp1": {
             "en": "Our good friend <a target=\"_blank\" href=\"http://mikerogers.io\">Mike Rogers</a> has helped us to release an awesome Google Chrome Extension for JustDelete.me.",

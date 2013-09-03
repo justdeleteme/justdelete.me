@@ -16,5 +16,4 @@
   		echo "<li><a href='http://github.com/" . $data[$random]->login . "'>" . $data[$random]->login . "</a></li>";
   		$x++;
   	}
-  	echo "<li><a href='http://github.com/rmlewisuk/justdelete.me/contributors'>See all " . count($data) . " contributors &raquo;</a></li>";
 ?>

@@ -42,6 +42,10 @@
 	$guidemedium = $definitions[0]->guidemedium->$lang;
 	$guidehard = $definitions[0]->guidehard->$lang;
 	$guideimpossible = $definitions[0]->guideimpossible->$lang;
+	$translationcontrib = $definitions[0]->translationcontrib->$lang;
+	$morecontrib = $definitions[0]->morecontrib->$lang;
+	$viewcontrib = $definitions[0]->viewcontrib->$lang;
+	$extensionguide = $definitions[0]->extensionguide->$lang;
 	$extension = $definitions[0]->extension->$lang;
 	$extensionp1 = $definitions[0]->extensionp1->$lang;
 	$extensionp2 = $definitions[0]->extensionp2->$lang;
@@ -216,7 +220,7 @@
 		<div class="info-container">
 
 			<div class="info-block-half">
-				<h2>Translation contributors</h2>
+				<h2><?php echo $translationcontrib; ?></h2>
 			
 				<ul class="contributors translate">
 		        	<li class="it"><a href="https://github.com/LorenzoRogai">Lorenzo Rogai</a></li>
@@ -226,10 +230,11 @@
 		        	<li class="pt_br"><a href="https://github.com/mkbu95">Matheus Macabu</a></li>
 				</ul>
 			</div><div class="info-block-half">
-				<h2>More contributors</h2>
+				<h2><?php echo $morecontrib; ?></h2>
 			
 				<ul>
 					<?php include 'contrib.php'; ?>
+					<li><a href='http://github.com/rmlewisuk/justdelete.me/contributors'><?php echo $viewcontrib; ?> &raquo;</a></li>
 				</ul>
 			</div>
 		</div>
@@ -243,7 +248,7 @@
 				<p><?php echo $extensionp2 ?></p>
 				<p><?php echo $extensionp3 ?></p>			
 			</div><div class="banner-block-half">
-				<h2>Extension Dot Guide</h2>
+				<h2><?php echo $extensionguide; ?></h2>
 				<ul>
 					<li><?php echo $extensionl1 ?></li>
 					<li><?php echo $extensionl2 ?></li>
