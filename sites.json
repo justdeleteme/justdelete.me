@@ -16,6 +16,7 @@
         "url": "https://9gag.com/member/delete",
         "difficulty": "easy",
         "notes": "Login to your account, go to parameters, click Delete my account. Confirm by clicking I want to delete my account. And again by clicking Delete my 9GAG account.",
+        "notes_fr": "Connectez vous, allez dans les parametres, cilquez sur supprimer mon compte. Confirmez en cliquant sur je supprimer mon compte. Et confirmez encore avec supprimer mon compte.",
         "notes_it": "Logga il tuo account, vai su parameters, clicca Delete my account. Conferma cliccando I want to delete my account. E ancora cliccando Delete my 9GAG account.",
         "notes_pt_br": "Faça login em sua conta, vá em parâmetros, clique em Delete my account. Confirme clicando em I want to delete my account. E novamente em Delete my 9GAG account."
     },
@@ -328,6 +329,7 @@
         "url": "https://diasp.eu/user/edit#close_account_pane",
         "difficulty": "easy",
         "notes": "Click close my account and confirm with your password.",
+        "notes_fr":"Cliquez sur fermez mon compte et confirmer avec votre mot de passe.",
         "notes_it": "Clicca chiudi il mio account e conferma inserendo la tua password.",
         "notes_de": "Klicke auf 'close my account' und bestätige dies mit deinem Passwort.",
         "notes_pt_br": "Clique em 'close my account' e confirme com sua senha."
@@ -697,6 +699,16 @@
         "url": "https://ed.grammarly.com/accounts/me",
         "difficulty": "easy"
     },
+
+    {
+        "name" : "Pastebin",
+        "url" : "http://pastebin.com/profile",
+        "name" : "Gravatar",
+        "url" : "http://gravatar.com",
+        "difficulty" : "impossible",
+        "notes" : "Gravatar is part of WordPress, this means you can't remove your account.",
+        "notes_fr": "Gravatar appartient à Wordpress, ce qui veut dire que vous ne pouvez pas supprimer votre compte."
+    }, 
 
     {
         "name": "Grindr",
@@ -1228,6 +1240,7 @@
         "url": "http://pastebin.com/profile",
         "difficulty": "impossible",
         "notes": "You can remove your pastes, but there's no link to delete your account.",
+        "notes_fr":"Vous pouvez supprimer vos pastes, mais il n'y aucun lien permettant de supprimer votre compte.",
         "notes_it": "Puoi cancellare completamente i tuoi paste, ma non esiste il modo di cancellare l'account.",
         "notes_pt_br": "Você pode remover seus pastes, mas não há um link para remover sua conta."
     },
