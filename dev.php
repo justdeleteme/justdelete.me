@@ -191,14 +191,6 @@
 					<li><a href="http://robblewis.me/just-delete-me-one-million-page-views/">One Million Page Views &raquo;</a></li>
 				</ul>
 				<p><a href="https://twitter.com/justdeletedotme" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @justdeletedotme</a></p>
-				<h2>Translation contributors</h2>
-				<ul class="contributors">
-	        		<li class="it"><a href="https://github.com/LorenzoRogai">Lorenzo Rogai</a></li>
-	    			<li class="de"><a href="http://www.erbloggt.de/">Konstantin Hinrichs</a></li>
-	        		<li class="fr"><a href="https://github.com/buzzb0x">Ethan Ohayon</a></li>
-	        		<li class="ru"><a href="https://github.com/morozd">morozd</a></li>
-	        		<li class="pt_br"><a href="https://github.com/mkbu95">Matheus Macabu</li>
-				</ul>
 			</div><div class="info-block-half">
 				<h2><?php echo $guide ?></h2>
 				<p><?php echo $guideexplanations ?></p>
@@ -216,14 +208,33 @@
 					<input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
 					<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
 				</form>
-				<br/>
-				<h2>Recent contributors</h2>
+			</div>
+		</div>
+	</section>
+
+	<section class="info-block contributors">
+		<div class="info-container">
+
+			<div class="info-block-half">
+				<h2>Translation contributors</h2>
+			
+				<ul class="contributors translate">
+		        	<li class="it"><a href="https://github.com/LorenzoRogai">Lorenzo Rogai</a></li>
+		    		<li class="de"><a href="http://www.erbloggt.de/">Konstantin Hinrichs</a></li>
+		        	<li class="fr"><a href="https://github.com/buzzb0x">Ethan Ohayon</a></li>
+		        	<li class="ru"><a href="https://github.com/morozd">morozd</a></li>
+		        	<li class="pt_br"><a href="https://github.com/mkbu95">Matheus Macabu</a></li>
+				</ul>
+			</div><div class="info-block-half">
+				<h2>Random contributors</h2>
+			
 				<ul>
 					<?php include 'getcontributors.php'; ?>
 				</ul>
-			</div>		
+			</div>
 		</div>
 	</section>
+
 	<div class="banner-block">
 		<div class="banner-content">
 			<div class="banner-block-half">

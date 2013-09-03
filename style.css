@@ -576,10 +576,18 @@ footer a:hover, .info-container a:hover {
 	color: #cf5a5a;
 }
 
-.contributors {
+.clearfix {
+	clear: both;
+}
+
+.info-block.contributors {
+	border-top: none;
+}
+
+.contributors.translate {
 	list-style-type: none;
 }
-.contributors LI > A {
+.contributors.translate LI > A {
 	padding-left: 30px;
 	background-position: 8px center;
 	background-repeat: no-repeat;
