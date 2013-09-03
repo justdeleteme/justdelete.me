@@ -333,7 +333,7 @@
         "name": "DHL (Paket.de)",
         "url": "https://www.paket.de/pkp/appmanager/pkp/desktop?_nfpb=true&_nfxr=false&_pageLabel=pkp_portal_page_footer_cah_faqs",
         "difficulty": "impossible",
-        "note": "There's no information about account-deletion in their FAQ. The hotline also says that account-deletion isn't possible.",
+        "notes": "There's no information about account-deletion in their FAQ. The hotline also says that account-deletion isn't possible.",
         "notes_de": "Keine Informationen in den FAQ über Account-Löschung. Der Mitarbeiter an der Hotline bestätigte, dass die Löschung nicht möglich ist.",
         "notes_it": "Nessuna informazione nelle FAQ riguardo la cancellazione dell'account, l'operatore al telefono ha confermato che la cancellazione non è possibile.",
         "notes_pt_br": "Nenhuma informação no FAQ sobre remoção de contas, o operador no telefone disse que deletar não é possível."
@@ -421,6 +421,7 @@
         "url": "http://cgi1.ebay.com/ws/eBayISAPI.dll?CloseAccount",
         "difficulty": "easy",
         "notes": "A few survey questions will be asked prior to account deletion.",
+        "notes_de": "Ein paar Fragen werden dir vor dem Löschen gestellt.",
         "notes_it": "Ti sarà chiesto di compilare qualche questionario prima che l'account sia eliminato",
         "notes_pt_br": "Algumas perguntas serão feitas antes de deletar sua conta."
     },
@@ -430,6 +431,7 @@
         "url": "https://www.edx.org/student-faq",
         "difficulty": "impossible",
         "notes": "There's no need to delete your account. An old, unused edX account with no course completions associated with it will disappear.",
+        "notes_de": "Es gibt keine Notwendigkeit deinen Account zu löschen. Ein alter, unbenutzter edX Account ohne fertiggestellte Kurse wird automatisch gelöscht.",
         "notes_it": "Non è necessario cancellare il tuo account. Un vecchio, inusato edX account scomparirà da solo",
         "notes_pt_br": "Não há porque deletar sua conta. Uma conta antiga, e não usada sem cursos completos irá desaparecer."
     },
@@ -553,6 +555,7 @@
         "url": "https://ezcrypt.it/ML4n#ej6rorotmsxq7jF8ViyGjTVh",
         "difficulty": "easy",
         "notes": "/msg NickServ DROP nick password",
+        "notes_de":"/msg NickServ DROP Nutzername Passwort",
         "notes_pt_br": "/msg NickServ DROP apelido senha"
     },
 
@@ -587,6 +590,7 @@
         "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
         "difficulty": "impossible",
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
+        "notes_de": "Du solltest aufhören den Service zu nutzen, ohne uns zu informieren. Wir behalten uns vor, dein Inhalt und deine Daten, die du durch unseren Service hochgeladen hast weiterhin zu nutzen.", 
         "notes_it": "Puoi in qualsiasi momento smettere di usare il servizio. Tuttavia noi possiamo comunque accedere a qualsiasi contenuto che hai inviato attraverso il servizio.",
         "notes_pt_br": "Você pode parar de usar o serviço a qualquer momento. Nós, no entando, iremos manter e usar qualquer conteúdo enviado por você através do serviço."
     },
@@ -596,6 +600,7 @@
         "url": "http://www.geni.com/account_settings",
         "difficulty": "medium",
         "notes": "Delete any of the information you would like removed from the site. Then select 'Account Settings' and 'Close Account'",
+        "notes_de": "Lösche die Informationen, die du entfernt haben möchtest, von der Seite. Dann wähle 'Account Settings' und 'Close Account'",
         "notes_it": "Elimina qualsiasi informazione che desideri sia rimossa. Quindi seleziona 'Account Settings' e 'Close Account'",
         "notes_pt_br": "Delete qualquer informação que você deseja ser removida do site. Então selecione 'Account Settings' e 'Close Account'"
     },
@@ -627,6 +632,7 @@
         "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
         "difficulty": "impossible",
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
+        "notes_de": "Du solltest aufhören den Service zu nutzen, ohne uns zu informieren. Wir behalten uns vor, dein Inhalt und deine Daten, die du durch unseren Service hochgeladen hast weiterhin zu nutzen.", 
         "notes_it": "Puoi in qualsiasi momento smettere di usare il servizio. Tuttavia noi possiamo comunque accedere a qualsiasi contenuto che hai inviato attraverso il servizio.",
         "notes_pt_br": "Você pode parar de usar o serviço a qualquer momento. Nós, no entando, iremos manter e usar qualquer conteúdo enviado por você através do serviço."
     },
@@ -636,8 +642,10 @@
         "url": "http://glassboard.com/support/",
         "difficulty": "hard",
         "notes": "Use the support email address to ask them to close your account.",
+        "notes_de": "Nutze die Support-Mail-Adresse und beantrage die Löschung dort.",
         "notes_it": "Usa l'email del supporto per richiedere la cancellazione del tuo account.",
-        "notes_pt_br": "Use o e-mail de suporte para pedir que encerrem sua conta."
+        "notes_pt_br": "Use o e-mail de suporte para pedir que encerrem sua conta.",
+        "email": "support@sepialabs.com"
     },
 
     {
@@ -705,6 +713,7 @@
         "url": "https://www.gosquared.com/home/account/close",
         "difficulty": "easy",
         "notes": "Select a reason for closing and it'll take 2 clicks.",
+        "notes_de": "Wähle einen Grund für die Löschung. Es braucht nur 2 clicks.",
         "notes_it": "Logga il tuo account, quindi clicca su 'My Profile'. Vedrai un link 'Close my account'. Cliccaci e segui le istruzioni.",
         "notes_pt_br": "Selecione um motivo para fechar a conta e irá levar dois cliques."
     },
@@ -728,6 +737,7 @@
         "url": "http://help.grindr.com/entries/21377499-All-Devices-Clear-Your-Grindr-Profile",
         "difficulty": "medium",
         "notes": "You can remove your profile and chat history from within the app or you can email support with your UDID.",
+        "notes_de": "Du kannst dein Profil und dein Chat-Verlauf innerhalb der App löschen oder du kanns den Support per mail mit deiner UDID kontaktieren.",
         "notes_it": "Puoi cancellare il tuo profilo e la cronologia chat dall'app o puoi inviare un email al supporto col tuo UDID.",
         "notes_pt_br": "Você pode remover seu perfil e o histórico de conversa através do aplicativo ou você pode enviar um e-mail ao suporte com seu UDID."
     },
