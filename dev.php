@@ -9,6 +9,10 @@
 		return 0;
 	}); 
 
+	if (isset($_GET['lang']))
+	{
+		$lang = $_GET['lang'];
+	}
 	// For testing
 	if ( !isset($lang))
 	{
