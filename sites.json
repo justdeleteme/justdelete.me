@@ -234,6 +234,13 @@
         "url": "http://blog.codepen.io/documentation/faq/how-do-i-delete-my-account/",
         "difficulty": "easy"
     },
+    
+    {
+        "name" : "Coderwall",
+        "url" : "https://twitter.com/coderwall/status/250670074741022720",
+        "difficulty": "hard",
+        "notes" : "E-mail support@coderwall.com with username and ask for account deletion."
+    },
 
     {
         "name": "Couchsurfing",
