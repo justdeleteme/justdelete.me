@@ -17,7 +17,7 @@
             "ru": "Каталог прямых ссылок для удаления вашего аккаунта с различных веб-сайтов",
             "pt_br": "Um diretório de links diretos para deletar sua conta em serviços da web. Descubra como deletar a sua conta no Facebook, Twitter, LinkedIn e outros.",
             "cat": "Un directori d'enllaços per eliminar els teus comptes dels diferents serveis d'internet. Descobreix com eliminar els comptes de Facebook, Twitter i altres.",
-            "es": "Un directorio de enllaces para eliminar sus cuentas de los diferentes servicios de internet. Descubra como eliminar sus cuentas de Facebook, Twitter y otros.",
+            "es": "Un directorio de enllaces para eliminar sus cuentas de los diferentes servicios de internet. Descubra como eliminar sus cuentas de Facebook, Twitter y otros."
         },
         "difficulty": {
             "en": "difficulty",
@@ -36,7 +36,7 @@
             "fr": "facile",
             "ru": "легко",
             "pt_br": "fácil",
-            "cat": "fàcil"
+            "cat": "fàcil",
             "es": "fácil"
         },
         "difficulty_medium": {
@@ -246,7 +246,7 @@
             "de": "Google Chrome Erweiterung",
             "fr": "Extension Google Chrome",
             "ru": "Расширение для Google Chrome",
-            "pt_br": "Extensão do Google Chrome"
+            "pt_br": "Extensão do Google Chrome",
             "cat": "Extensió per a Google Chrome",
             "es": "Extensión para Google Chrome"
         },
@@ -257,7 +257,7 @@
             "fr": "Extension Dot Guide",
             "ru": "Что означают точки",
             "pt_br": "Extension Dot Guide",
-            "cat": "Guia del Punt de l'extensió"
+            "cat": "Guia del Punt de l'extensió",
             "es": "Guia del Punto de la extensión"
         },
         "extensionp1": {
@@ -378,7 +378,7 @@
             "ru": "Хостинг стоит денег. Если вам понравился JustDelete.me, пожалуйста, сделайте пожертвование.",
             "pt_br": "Hospedagem custa dinheiro. Se você gosta do JustDelete.me, por favor considere fazer uma doação.",
             "cat": "El servei d'allotjament d'aquesta web d'ajuda costa diners, si t'agrada JustDelete.me, considera fer una donació, si us plau.",
-            "es": "El servicio de alojamiento de esta web de ayuda cuesta dinero, si te gusta JustDelete.me, considera hacer una donación, porfavor. 
+            "es": "El servicio de alojamiento de esta web de ayuda cuesta dinero, si te gusta JustDelete.me, considera hacer una donación, porfavor."
         },
         "sendmail": {
             "en": "Send email",
@@ -386,8 +386,18 @@
             "de": "E-mail senden",
             "fr": "Envoyez un mail",
             "ru": "E-mail отправлен",
-            "pt_br": "Enviar e-mail"
-            "cat": "Envia un e-mail"
+            "pt_br": "Enviar e-mail",
+            "cat": "Envia un e-mail",
             "es": "Enviar e-mail"
+        },
+        "submit": {
+            "en": "Submit a site",
+            "it": "Submit a site",
+            "de": "Submit a site",
+            "fr": "Submit a site",
+            "ru": "Submit a site",
+            "pt_br": "Submit a site",
+            "cat": "Submit a site",
+            "es": "Submit a site"
         }
     }]
