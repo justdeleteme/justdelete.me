@@ -173,7 +173,7 @@
             "it": "Translation contributors",
             "de": "Translation contributors",
             "fr": "Translation contributors",
-            "ru": "Translation contributors",
+            "ru": "Участники перевода",
             "pt_br": "Translation contributors"
         },
         "morecontrib": {
@@ -181,7 +181,7 @@
             "it": "More contributors",
             "de": "More contributors",
             "fr": "More contributors",
-            "ru": "More contributors",
+            "ru": "Другие участники проекта",
             "pt_br": "More contributors"
         },
         "viewcontrib": {
@@ -189,7 +189,7 @@
             "it": "View all contributors",
             "de": "View all contributors",
             "fr": "View all contributors",
-            "ru": "View all contributors",
+            "ru": "Просмотреть список все участников проекта",
             "pt_br": "View all contributors"
         },
         "extension": {
@@ -205,7 +205,7 @@
             "it": "Extension Dot Guide",
             "de": "Extension Dot Guide",
             "fr": "Extension Dot Guide",
-            "ru": "Extension Dot Guide",
+            "ru": "Что означают точки",
             "pt_br": "Extension Dot Guide"
         },
         "extensionp1": {
