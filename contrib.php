@@ -6,7 +6,7 @@
 	$contribs = []; 
 	while($x<=4)
   	{	
-  		$length = sizeof($data);
+  		$length = sizeof($data) - 1;
   		$random = rand(0, $length);
   		while (in_array($random, $contribs)) {
   			$random = rand(0, $length);
