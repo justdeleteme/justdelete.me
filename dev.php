@@ -73,7 +73,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-	<title>Just Delete Me | <?php echo $title ?></title>
+	<title><?php echo $title ?></title>
 	<meta charset="UTF-8">
 	<!--[if lt IE 9]>
 		<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
