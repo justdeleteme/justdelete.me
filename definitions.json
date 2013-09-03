@@ -311,5 +311,13 @@
             "fr": "Envoyez un mail",
             "ru": "E-mail отправлен",
             "pt_br": "Enviar e-mail"
+        },
+        "submit": {
+            "en": "Submit a site",
+            "it": "Submit a site",
+            "de": "Submit a site",
+            "fr": "Submit a site",
+            "ru": "Submit a site",
+            "pt_br": "Submit a site"
         }
     }]
