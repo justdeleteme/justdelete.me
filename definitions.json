@@ -170,7 +170,7 @@
         },
         "translationcontrib": {
             "en": "Translation contributors",
-            "it": "Translation contributors",
+            "it": "Traduttori",
             "de": "Translation contributors",
             "fr": "Translation contributors",
             "ru": "Translation contributors",
@@ -178,7 +178,7 @@
         },
         "morecontrib": {
             "en": "More contributors",
-            "it": "More contributors",
+            "it": "Altri contributori",
             "de": "More contributors",
             "fr": "More contributors",
             "ru": "More contributors",
@@ -186,7 +186,7 @@
         },
         "viewcontrib": {
             "en": "View all contributors",
-            "it": "View all contributors",
+            "it": "Vedi tutti i contributori",
             "de": "View all contributors",
             "fr": "View all contributors",
             "ru": "View all contributors",
@@ -202,7 +202,7 @@
         },
         "extensionguide": {
             "en": "Extension Dot Guide",
-            "it": "Extension Dot Guide",
+            "it": "Guida Puntini Estensione",
             "de": "Extension Dot Guide",
             "fr": "Extension Dot Guide",
             "ru": "Extension Dot Guide",
@@ -312,4 +312,8 @@
             "ru": "E-mail отправлен",
             "pt_br": "Enviar e-mail"
         }
-    }]
+    },
+    {
+        "langs": "en,it,de,fr,ru,pt_br"
+    }
+]
