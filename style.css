@@ -601,6 +601,7 @@ footer a:hover, .info-container a:hover {
 .dropdown .es A, .es A { background-image: url(inc/icons/flags/es16.png); }
 .dropdown .ru A, .ru A { background-image: url(inc/icons/flags/ru16.png); }
 .dropdown .pt_br A, .pt_br A { background-image: url(inc/icons/flags/pt_br16.png); }
+.dropdown .cat A, .cat A { background-image: url(inc/icons/flags/cat16.png); }
 
 #en { 
 	background-image: url(./inc/icons/flags/en24.png);
@@ -634,5 +635,10 @@ footer a:hover, .info-container a:hover {
 
 #pt_br {
 	background-image: url(./inc/icons/flags/pt_br24.png);
+	background-repeat:no-repeat;
+}
+
+#cat {
+	background-image: url(./inc/icons/flags/cat24.png);
 	background-repeat:no-repeat;
 }

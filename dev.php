@@ -234,6 +234,7 @@
 		        	<li class="fr"><a href="https://github.com/buzzb0x">Ethan Ohayon</a></li>
 		        	<li class="ru"><a href="https://github.com/morozd">morozd</a></li>
 		        	<li class="pt_br"><a href="https://github.com/mkbu95">Matheus Macabu</a></li>
+		        	<li class="es"><a href="https://github.com/rockbdn">JP Queralt</a> (+ Català)</li>
 				</ul>
 			</div><div class="info-block-half">
 				<h2><?php echo $morecontrib; ?></h2>
@@ -304,11 +305,12 @@
 	    <ul class="dropdown-menu">
 	    	<li class="en"><a href="/">English</a></li>
 	        <li class="it"><a href="it.html">Italiano</a></li>
-	    	<li class="de"><a href="de.html">Deutsch <span class="beta">unvollständig</span></a></li>
-	        <li class="fr"><a href="fr.html">Français <span class="beta">incomplète</span></a></li>
-	        <li class="ru"><a href="ru.html">Pусский <span class="beta">неполный</span></a></li>
+	    	<li class="de"><a href="de.html">Deutsch</a></li>
+	        <li class="fr"><a href="fr.html">Français</a></li>
+	        <li class="ru"><a href="ru.html">Pусский</a></li>
 	        <li class="pt_br"><a href="pt_br.html">Português</a></li>
-	        <!-- <li class="es"><a href="es.html">Spanish <span class="beta">incompleto</span></a></li> -->
+	        <li class="es"><a href="es.html">Español</a></li>
+	        <li class="cat"><a href="cat.html">Català</a></li>
 	        <li class="dropdown-divider"></li>
 	        <li class="help"><a target="_blank" href="https://github.com/rmlewisuk/justdelete.me/issues/164"><?php echo $help_translate; ?></a></li>
 	    </ul>

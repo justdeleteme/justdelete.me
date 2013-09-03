@@ -3,7 +3,7 @@
 	$data = json_decode(file_get_contents('https://api.github.com/repos/rmlewisuk/justdelete.me/contributors'));
 
 	$x=0;
-	$contribs = []; 
+	$contribs = [];
 	while($x<=4)
   	{	
   		$length = sizeof($data) - 1;
