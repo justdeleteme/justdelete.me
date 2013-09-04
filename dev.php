@@ -234,7 +234,7 @@
 		        	<li class="fr"><a href="https://github.com/buzzb0x">Ethan Ohayon</a></li>
 		        	<li class="ru"><a href="https://github.com/morozd">morozd</a></li>
 		        	<li class="pt_br"><a href="https://github.com/mkbu95">Matheus Macabu</a></li>
-		        	<li class="es"><a href="https://github.com/rockbdn">JP Queralt</a> (+ Català)</li>
+		        	<li class="cat"><a href="https://github.com/rockbdn">JP Queralt</a></li>
 				</ul>
 			</div><div class="info-block-half">
 				<h2><?php echo $morecontrib; ?></h2>
