@@ -181,7 +181,7 @@
         "notes_fr": "Vous pouvez seulement désactiver votre compte en contactant le support.",
         "notes_it": "Puoi solo disattivare l'account contattando il supporto. Non esiste modo di eliminare permanentemente il tuo account o i dati, e un account inattivo resterà comunque visibile al pubblico",
         "notes_pt_br": "Você pode apenas desativar sua conta contatando a assistência ao cliente como explicitado na página de ajuda. Não há como remover permanentemente sua conta ou seus dados, e um perfil publico inativo sempre estará visível ao público.",
-        "notes_cat": "Només pots desactivar el compte contactant amb l'Assistencia al client. No podrás eliminar mai la conta, només desactivarla, les contes desactivades son visibles al públic."
+        "notes_cat": "Només pots desactivar el compte contactant amb l'Assistència al client. No podràs eliminar mai el compte, només desactivar-la, les contes desactivades son visibles al públic."
     },
 
     {
@@ -240,7 +240,7 @@
         "notes_fr": "Vous ne pouvez pas supprimer votre compte. Vous pouvez seulement donner un faux numéro.",
         "notes_it": "Non puoi eliminarti. Puoi solamente cambiare il tuo numero di telefono con uno inventato",
         "notes_pt_br": "Você não pode deletar sua conta. Você pode mudar o número de telefone para um número qualquer.",
-        "notes_cat": "No podrá eliminar el compte. Només pots canviarte el número de telèfon."
+        "notes_cat": "No podrà eliminar el compte. Només pots canviarte el número de telèfon."
     },
 
     {
@@ -252,7 +252,7 @@
         "notes_it": "Inizia una discussione privata con loro e se ne occuperanno loro",
         "notes_de": "Starte eine private Diskussion mit ihnen und sie 'Kümmern sich drum'.",
         "notes_pt_br": "Inicie uma discussão privada com eles e eles irão 'cuidar disso'.",
-        "notes_cat": "Comenci una discusió privada amb ells i 'procurarán fer-ho'."
+        "notes_cat": "Comenci una discusió privada amb ells i 'procuraran fer-ho'."
     },
 
     {
@@ -262,7 +262,7 @@
         "notes": "For security reasons, we will need to verify that these requests have come from the email address that's on your Codecademy account.",
         "notes_it": "Per ragioni di sicurezza, dobbiamo verificare che queste richieste ci arrivino dall'email che è registrata sul tuo account Codacademy",
         "notes_pt_br": "Por razões de segurança, nós precisaremos verificar se estes pedidos vêm do endereço de e-mail que está na sua conta no Codecademy.",
-        "notes_cat": "Per raons de seguretat, necessitem verificar si aquestes peticions provenen des del e-mail lligat al seu compte de Codacademy."
+        "notes_cat": "Per raons de seguretat, necessitem verificar si aquestes peticions provenen des de l'e-mail lligat al seu compte de Codecademy."
     },
 
     {
@@ -290,7 +290,7 @@
         "notes_it": "Non può essere eliminato completamente, una riattivazione è sempre effettuabile. Riempi il modulo e scegli 'I understand. Please delete my profile.'.",
         "notes_de": "Kann nicht vollständig gelöscht werden, reaktivierung ist immer möglich. Fülle das Formular aus und wähle 'I understand. Please delete my profile.'.",
         "notes_pt_br": "Não pode ser totalmente deletada, reativação é sempre possível. Preencha o formulário e selecione 'I understand. Please delete my profile.'.",
-        "notes_cat": "No pot ser completament eliminada, la reactivació será possible sempre. Ompli el formulari i seleccioni 'I understand. Please delete my profile.'."
+        "notes_cat": "No pot ser completament eliminat, la reactivació serà possible sempre. Ompli el formulari i seleccioni 'I understand. Please delete my profile.'."
     },
 
     {
@@ -302,7 +302,7 @@
         "notes_it": "Contatta il supporto e richiedi la cancellazione del tuo account.",
         "notes_de": "Kontaktiere den Support und sie löschen deinen Account.",
         "notes_pt_br": "Contate o suporte e peça que eles deletem sua conta.",
-        "notes_cat": "Contacti amb l'assistencia al client i demana que li esborrrin el compte."
+        "notes_cat": "Contacti amb l'assistència al client i demani que li esborrrin el compte."
     },
 
     {
@@ -314,7 +314,7 @@
         "notes_it": "Spedisci un email a abuse@craigslist.org e richiedi la cancellazione",
         "notes_de": "Sende eine E-Mail an abuse@craigslist.org und beantrage die Löschung",
         "notes_pt_br": "Envie um e-mail para abuse@craigslist.org e peça a remoção.",
-        "notes_cat": "Enviï un e-mail a abuse@craigslist.org i demana la supresió del compte.",
+        "notes_cat": "Enviï un e-mail a abuse@craigslist.org i demani la supressió del compte.",
         "email": "abuse@craigslist.org"
     },
 
@@ -366,7 +366,7 @@
         "notes_de": "Alle Daten sind sofort gelöscht. Accounts können innerhalb von 30 Tagen reaktiviert werden. Nach dieser Zeitspanne können sie nicht mehr wiederhergestellt werden.",
         "notes_it": "Tutti i dati saranno immediatamente cancellati. L'account potrà essere riattivato entro 30 giorni, dopodichè non sarà piu recuperabile.",
         "notes_pt_br": "Todos os dados são apagados imediatamente. Contas podem ser reativadas em até 30 dias, após este prazo não poderão mais ser recuperadas.",
-        "notes_cat": "Totes les seves dades son borrades inmediatament. Els comptes poden ser reactivats abans de 30 dies, després d'aquest termini no podrà ser reactivada."
+        "notes_cat": "Totes les seves dades son esborrades inmediatament. Els comptes poden ser reactivats abans de 30 dies, després d'aquest termini no podrà ser reactivat."
     },
 
     {
@@ -377,7 +377,7 @@
         "notes_de": "Keine Informationen in den FAQ über Account-Löschung. Der Mitarbeiter an der Hotline bestätigte, dass die Löschung nicht möglich ist.",
         "notes_it": "Nessuna informazione nelle FAQ riguardo la cancellazione dell'account, l'operatore al telefono ha confermato che la cancellazione non è possibile.",
         "notes_pt_br": "Nenhuma informação no FAQ sobre remoção de contas, o operador no telefone disse que deletar não é possível.",
-        "notes_cat": "No hi ha cap informació al FAQ sobre la cancel·lació de comptes, l'operador telefonic diu que no es poden borrar els comptes."
+        "notes_cat": "No hi ha cap informació al FAQ sobre la cancel·lació de comptes, l'operador telefonic diu que no es poden esborrar els comptes."
     },
 
     {
@@ -448,7 +448,7 @@
         "notes_de": "Alle Accounts bleiben 3 Tage lang in ihrem System. Lösche alle Bank-Informationen bevor du deinen Account löschst.",
         "notes_it": "Tutti gli account rimangono nei loro sistemi per almeno 3 anni. Rimuovi qualsiasi credenziale bancaria prima di cancellarti.",
         "notes_pt_br": "Todas as contas permanecem no sistema por pelo menos 3 anos. Remova qualquer informação de bancos antes de deletar.",
-        "notes_cat": "Tots els comptes romandràn al sistema durant 3 anys. Esborri qualsevol informació relativa a les seves contes bancaries."
+        "notes_cat": "Tots els comptes romandran al sistema durant 3 anys. Esborri qualsevol informació bancaria abans d'esborrar."
     },
 
     {
@@ -471,7 +471,7 @@
         "notes_de": "Ein paar Fragen werden dir vor dem Löschen gestellt.",
         "notes_it": "Ti sarà chiesto di compilare qualche questionario prima che l'account sia eliminato",
         "notes_pt_br": "Algumas perguntas serão feitas antes de deletar sua conta.",
-        "notes_cat": "Se li farà un petit qüestionari abans de borrar el compte."
+        "notes_cat": "Se li farà un petit qüestionari abans desborrar el compte."
     },
 
     {
@@ -482,7 +482,7 @@
         "notes_de": "Es gibt keine Notwendigkeit deinen Account zu löschen. Ein alter, unbenutzter edX Account ohne fertiggestellte Kurse wird automatisch gelöscht.",
         "notes_it": "Non è necessario cancellare il tuo account. Un vecchio, inusato edX account scomparirà da solo",
         "notes_pt_br": "Não há porque deletar sua conta. Uma conta antiga, e não usada sem cursos completos irá desaparecer.",
-        "notes_cat": "No té perqué borrar el seu compte. Un compte antic no usada i sense cursos completats serà eliminada."
+        "notes_cat": "No té perqué esborrar el seu compte. Un compte antic no usat i sense cursos completats serà eliminat."
     },
 
     {
@@ -491,7 +491,8 @@
         "difficulty": "hard",
         "notes": "You can't have any unpaid Etsy bills or an open non-delivery reports. Your email address will remain on file.",
         "notes_it": "Non puoi avere nessuna bolletta Etsy non pagata o un aperta segnalazione. La tua email rimarrà nei file",
-        "notes_pt_br": "Você não pode ter dívidas com a Etsy ou uma denúncia de entrega aberta. Seu endereço de e-mail permanecerá armazenado."
+        "notes_pt_br": "Você não pode ter dívidas com a Etsy ou uma denúncia de entrega aberta. Seu endereço de e-mail permanecerá armazenado.",
+        "notes_pt_br": "No pot tindre pagaments pendents amb Etsy o una entrega pendent. El seu e-mail continuarà als seus fitxers."
     },
 
     {
@@ -519,7 +520,7 @@
         "notes_it": "Mentre puoi eliminare il tuo account facilmente, qualche dato come le chat o i messaggi di gruppo rimarranno nei loro database, come scritto sul loro sito nella pagina Privacy",
         "notes_de": "Während du deinen Account leicht löschen kannst, bleiben einige deiner Daten dauerhaft. z.B. Chat- und Gruppennachrichten. Dies ist so in den Datenschutzbestimmungen bestimmt.",
         "notes_pt_br": "Você pode deletar sua conta facilmente, porém dados de conversas ficarão armazenados para sempre, como explicitado na Privacidade do site.",
-        "notes_cat": "Pot borrar el compte facilment, algunes dades com el chat o missatges en grup son guardades per sempre, com s'explica als termes de privacitat del lloc."
+        "notes_cat": "Pot esborrar el compte facilment, algunes dades com el chat o missatges en grup son guardades per sempre, com s'explica als termes de privacitat del lloc."
     },
 
     {
@@ -553,7 +554,7 @@
         "notes_de": "Sende dem Support eine E-Mail an requests@fitoracy.com und sie werden deinen Account für die Löschung markieren.",
         "notes_it": "Spedisci una email a requests@fitocracy.com e il tuo account verrà messo in coda per la cancellazione",
         "notes_pt_br": "Envie ao suporte um pedido para requests@fitocracy.com e eles irão marcar sua conta para remoção",
-        "notes_cat": "Enviï a requests@fitocracy.com una petició per borrar el seu compte, ells marcaran la compte per ser borrada",
+        "notes_cat": "Enviï a requests@fitocracy.com una petició per esborrar el seu compte, ells marcaran el compte per ser esborrat",
         "email": "requests@fitocracy.com"
     },
 
@@ -584,7 +585,7 @@
         "notes_it": "Per eliminare il tuo account, non devi pubblicare niente per almeno tre giorni.",
         "notes_de": "Um deinen Account zu löschen, schreibe nichts für mindestens drei Tage.",
         "notes_pt_br": "Para deletar sua conta, você deve postar nada por pelo menos três dias.",
-        "notes_cat": "Per borrar el seu compte no ha de pujar res en 3 dies."
+        "notes_cat": "Per esborrar el seu compte no ha de pujar res en 3 dies."
     },
 
     {
@@ -636,7 +637,7 @@
         "notes_it": "La cancellazione account richiede di contattare il servizio clienti.",
         "notes_de": "Account-Löschung erfordert es den Kundensupport zu kontaktieren",
         "notes_pt_br": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_cat": "Per a borrar el seu compte contacti amb l'assistència al client"
+        "notes_cat": "Per esborrar el seu compte contacti amb l'assistència al client"
     },
 
     {
@@ -680,7 +681,7 @@
         "notes_it": "Devi spedire una email al servizio clienti dall'email con cui ti sei registrato. Non prevedono nessun rimborso per i membri Premium",
         "notes_de": "Du musst den Support von der E-Mail-Adresse aus kontaktieren, die registriert ist. Dann beantreage die Löschung. Eine bestehende Premium-Mitgliedschaft wird nicht erstattet.",
         "notes_pt_br": "Você deve enviar um e-mail ao suporte do seu e-mail registrado para remover a conta. Qualquer tipo de Premium Membership não será ressarcida",
-        "notes_cat": "Ha d'enviar un e-mail a l'assistencia al client. Si es disposava de compte Premium no es tornaràn els diners."
+        "notes_cat": "Ha d'enviar un e-mail a l'assistencia al client. Si es disposava de compte Premium no es tornaran els diners."
     },
 
     {
@@ -737,7 +738,7 @@
         "notes_de": "Du kannst deinen Account nicht löschen, aber du kannst ihn deaktivieren (Start →  Mein Account →  Account stilllegen)",
         "notes_it": "Non puoi cancellare il tuo account, ma puoi disattivarlo. (Start →  Mein Account →  Account stilllegen)",
         "notes_pt_br": "Você não pode deletar sua conta, mas você pode desativá-la. (Start →  Mein Account →  Account stilllegen)",
-        "notes_cat": "Vosté no pot borrar el seu compte, però pot desactivarla. (Start →  Mein Account →  Account stilllegen)"
+        "notes_cat": "Vosté no pot esborrar el seu compte, però pot desactivar-lo. (Start →  Mein Account →  Account stilllegen)"
     },
 
     {
@@ -747,7 +748,7 @@
         "notes": "GoDaddy Accounts are apparently retained “to comply with [their] legal obligations” though you are able to clear out most of your information by editing your profile.",
         "notes_it": "Gli account GoDaddy sono apparentemente mantenuti per “per rispettare i [loro] obblighi di legge.” ma puoi comunque eliminare la maggior parte delle tue informazioni editando il tuo profilo.",
         "notes_pt_br": "Contas do GoDaddy são aparentemente retidas “para comparecer com as obrigações legais [deles]” porém você pode remover grande parte de suas informações editando seu perfil.",
-        "notes_cat": "Els comptes de GoDaddy son aparentment retingudes “per complir amb les [seves] obligacions legals ” pots borrar molta informació editant el teu perfil."
+        "notes_cat": "Els comptes de GoDaddy son aparentment retinguts “per complir amb les [seves] obligacions legals ” pots esborrar molta informació editant el teu perfil."
     },
 
     {
@@ -808,7 +809,7 @@
         "difficulty": "impossible",
         "notes": "You can't delete your Gravatar Account without deleting your entire WordPress Account.",
         "notes_fr": "Gravatar appartient à Wordpress, ce qui veut dire que vous ne pouvez pas supprimer votre compte.",
-        "notes_cat": "No es pot borrar el seu compte de Gravatar sense borrar tot el compte de WordPress."
+        "notes_cat": "No es pot esborrar el seu compte de Gravatar sense borrar tot el compte de WordPress."
     },
 
     {
@@ -819,7 +820,7 @@
         "notes_de": "Du kannst dein Profil und dein Chat-Verlauf innerhalb der App löschen oder du kanns den Support per mail mit deiner UDID kontaktieren.",
         "notes_it": "Puoi cancellare il tuo profilo e la cronologia chat dall'app o puoi inviare un email al supporto col tuo UDID.",
         "notes_pt_br": "Você pode remover seu perfil e o histórico de conversa através do aplicativo ou você pode enviar um e-mail ao suporte com seu UDID.",
-        "notes_cat": "Pot borrar el seu perfil i historial de xat desde la mateixa aplicació o pot enviar un e-mail amb el seu UDID."
+        "notes_cat": "Pot esborrar el seu perfil i historial de xat desde la mateixa aplicació o pot enviar un e-mail amb el seu UDID."
     },
 
     {
@@ -878,7 +879,7 @@
         "notes": "You can remove information and manually quit HOL, but your account stays forever.",
         "notes_it": "Puoi rimuovere le tue informazioni e effettuare il logout, ma il tuo account resterà li.",
         "notest_pt_br": "Você pode remover as informações e manualmente sair do HOL, mas sua conta é permanente.",
-        "notest_cat": "Pot borrar la seva informaciò i manualment sortir d'HOL, però el seu compte es permanent."
+        "notest_cat": "Pot esborrar la seva informaciò i manualment sortir d'HOL, però el seu compte es permanent."
     },
 
     {
@@ -957,7 +958,7 @@
         "notes": "Email your username and email to customer services and they will delete your account.",
         "notes_it": "Spedisci un email al servizio clienti contenente l'username e elimineranno il tuo account.",
         "notes_pt_br": "Envie um e-mail com seu usuário e e-mail para a assistência ao cliente e eles deletarão sua conta.",
-        "notes_cat": "Enviï un e-mail amb el seu nom d'usuari i e-mail a l'assistència al client i ells borraran el seu compte."
+        "notes_cat": "Enviï un e-mail amb el seu nom d'usuari i e-mail a l'assistència al client i ells esborraran el seu compte."
     },
 
     {
@@ -1187,7 +1188,7 @@
         "notes": "Account Settings → Account Settings Drop-down → Close my account → Type DELETE and press Delete Account button.",
         "notes_it": "Account Settings → Account Settings Drop-down → Close my account → Digita DELETE e premi il pulsante Delete Account.",
         "notes_pt_br": "Account Settings → Account Settings Drop-down → Close my account → Digite DELETE e pressione o botão Delete Account.",
-        "notes_cat": "Account Settings → Account Settings Drop-down → Close my account → Marca DELETE i presioni e botò 'Delete Account'."
+        "notes_cat": "Account Settings → Account Settings Drop-down → Close my account → Marca DELETE i presioni el botó 'Delete Account'."
     },
 
     {
@@ -1269,7 +1270,7 @@
         "notes": "Although it seems the account is deleted, you can reactivate so likely the data has not been deleted at all.",
         "notes_it": "Anche se pare che l'account sia cancellato, puoi riattivarlo quindi i dati non sono stati cancellati.",
         "notes_pt_br": "Apesar de parecer que sua conta foi deletada, você pode reativá-la então provavelmente os dados não foram removidos.",
-        "notes_cat": "Malgrat que sembla que el seu compte hagi estat eliminat, podrà reactivar-lo, així que les seves dades no s'han borrat del tot"
+        "notes_cat": "Malgrat que sembla que el seu compte hagi estat eliminat, podrà reactivar-lo, així que les seves dades no s'han esborrat del tot"
     },
 
     {
@@ -1284,7 +1285,8 @@
         "difficulty": "impossible",
         "notes": "Contact customer services. Even then they may not delete your account under the premise that you might want to rejoin and keep your history and recommendations.",
         "notes_it": "Contatta il servizio clienti.",
-        "notes_pt_br": "Contate a assistência ao cliente. Mesmo assim eles não deletarão sua conta sobre a premissa que talvez você queira retornar em manter seu histórico e recomendações."
+        "notes_pt_br": "Contate a assistência ao cliente. Mesmo assim eles não deletarão sua conta sobre a premissa que talvez você queira retornar em manter seu histórico e recomendações.",
+        "notes_cat": "Contacti amb el servei d'assistència al client. No s'eliminarà completament, sota la premisa de que potser voldràs reobrir el compte i mantindre l'historial i les notificacions."
     },
 
     {
@@ -1293,7 +1295,8 @@
         "difficulty": "easy",
         "notes": "Select 'settings', then 'account', then 'delete'.",
         "notes_it": "Seleziona 'settings', quindi 'account' e infine 'delete'.",
-        "notes_pt_br": "Selecione 'settings', então 'account', e 'delete'."
+        "notes_pt_br": "Selecione 'settings', então 'account', e 'delete'.",
+        "notes_cat": "Seleccioni 'settings', a continuació 'account' i 'delete'."
     },
 
     {
@@ -1302,7 +1305,8 @@
         "difficulty": "hard",
         "notes": "Use the form to write to customer services and ask them to close your account.",
         "notes_it": "Usa il modulo per scrivere all'assistenza clienti e chiedere la chiusura del tuo account.",
-        "notes_pt_br": "Use o formulário para escrever à assistência ao cliente e peça-os para fechar sua conta."
+        "notes_pt_br": "Use o formulário para escrever à assistência ao cliente e peça-os para fechar sua conta.",
+        "notes_cat": "Usa el formulari per escriure a l'assistència al client i demar-lis la clausura del compte."
     },
 
     {
@@ -1317,7 +1321,8 @@
         "difficulty": "easy",
         "notes": "Login to your account, scroll License Agreement down, click Delete profile, check any boxes you want, enter password and press Remove button.",
         "notes_it": "Fai il login, scorri il contratto, premi Delete profile, fai il tick sulle caselle che vuoi, inserisci la password e premi il pulsante Remove.",
-        "notes_pt_br": "Faça login em sua conta, vá até o License Agreement, clique em Delete profile, marque as caixas que você quiser, digite sua senha e pressione o botão Remove."
+        "notes_pt_br": "Faça login em sua conta, vá até o License Agreement, clique em Delete profile, marque as caixas que você quiser, digite sua senha e pressione o botão Remove.",
+        "notes_cat": "Entri al seu compte, baixi fins a 'License Agreement', cliqui a 'Delete profile', marqui les caselles que desitgi, entri la seva clau i faci clic a 'Remove'."
     },
 
     {
@@ -1326,7 +1331,8 @@
         "difficulty": "easy",
         "notes": "Visit your settings page, and select 'Delete Account'",
         "notes_it": "Visita la pagina impostazioni, quindi seleziona 'Delete Account'",
-        "notes_pt_br": "Visite a sua página de configurações, e selecione 'Delete Account'"
+        "notes_pt_br": "Visite a sua página de configurações, e selecione 'Delete Account'",
+        "notes_cat": "Visiti la pàgina de paràmetres, i seleccioni 'Delete Account'"
     },
 
     {
@@ -1336,7 +1342,8 @@
         "notes": "You can deactivate your account with the link. But the data isn't deleted. Even if you contact the support they don't delete your data.",
         "notes_it": "Puoi disattivare il tuo account. Ma i dati non saranno cancellati neanche se contatti il supporto.",
         "notes_de": "Du kannst deinen Account mit dem Link deaktivieren, aber deine Daten werden nicht gelöscht. Auch wenn du den Support kontaktierst, können sie deine Daten nicht löschen.",
-        "notes_pt_br": "Você pode desativar sua conta neste link. Mas os dados não são deletados. Mesmo se você contatar o suporte eles não irão apagar seus dados."
+        "notes_pt_br": "Você pode desativar sua conta neste link. Mas os dados não são deletados. Mesmo se você contatar o suporte eles não irão apagar seus dados.",
+        "notes_cat": "Pot desactivar el seu compte amb l'enllaç. Per les dades no poden ser esborrades. Encara que contacti amb Atenció al client no esborraran les seves dades."
     },
 
     {
@@ -1367,7 +1374,8 @@
         "difficulty": "hard",
         "notes": "You have to email support from the email associated with your account. If you do not have access to that, you need to provide the email address, birth year, and zip code on the account.",
         "notes_it": "Devi spedire un email al supporto usando l'email associata al tuo account. Se non hai accesso all'email, puoi fornire l'email, l'anno di nascita e il codice postale dell'account.",
-        "notes_pt_br": "Você terá de enviar um e-mail para o suporte com o e-mail associado a sua conta. Se você não tiver acesso a isto, você precisa especificar seu e-mail, ano de nascimento e código postal da conta."
+        "notes_pt_br": "Você terá de enviar um e-mail para o suporte com o e-mail associado a sua conta. Se você não tiver acesso a isto, você precisa especificar seu e-mail, ano de nascimento e código postal da conta.",
+        "notes_cat": "Has d'enviar un e-mail a l'assistència al client amb el compte d'email associat al compte de Pandora. Si no té accès al e-mail, haurà d'informar de l'email amb el que s'ha registrat, l'any de neixement i Codi Postal associat al compte."
     },
 
     {
@@ -1387,7 +1395,8 @@
         "difficulty": "medium",
         "notes": "You cannot delete your account from the website. Open the iOS/Android app, go to settings → about → disable account → delete account.",
         "notes_it": "Non puoi cancellare il tuou account. Apri l'app iOS/Android, vai su go to settings → about → disable account → delete account.",
-        "notes_pt_br": "Você não pode deletar sua conta do site. Abra o aplicativo iOS/Android, vá em settings → about → disable account → delete account."
+        "notes_pt_br": "Você não pode deletar sua conta do site. Abra o aplicativo iOS/Android, vá em settings → about → disable account → delete account.",
+        "notes_cat": "No podrà esborrar el seu compte de la web. Obri l'aplicació d'iOS/Android, vagi a settings → about → disable account → delete account."
     },
 
     {
@@ -1402,7 +1411,8 @@
         "difficulty": "easy",
         "notes": "Login to your account, go to settings (small gear next to your username), click Delete my account. You'll receive a confirmation link via e-mail.",
         "notes_it": "Entra nel tuo account, vai in impostazioni (piccolo ingranaggio affianco al tuo username9, clicca Elimina il mio account. Riceverai un link di conferma via e-mail.",
-        "notes_pt_br": "Faça login em sua conta, vá em configurações (pequena engrenagem próximo ao seu usuário), clique Delete my acccount. Você receberá um link de confirmação por e-mail."
+        "notes_pt_br": "Faça login em sua conta, vá em configurações (pequena engrenagem próximo ao seu usuário), clique Delete my acccount. Você receberá um link de confirmação por e-mail.",
+        "notes_cat": "S'ha d'entrar al compte, anar als paràmetres (el petit engranatge al costat del teu nom d'usuari), cliqui a 'Delete my account'. Rebrà un e-mail confirmant l'acció."
     },
 
     {
@@ -1434,7 +1444,7 @@
         "notes": "Accounts can be deactivated, which means that your pins and profile are hidden but not deleted.",
         "notes_it": "Gli account possono essere disattivati, il che significa che i tuoi pin ed il tuoi profilo saranno nascosti ma non eliminati.",
         "notes_pt_br": "Contas podem ser desativadas, o que significa que seus pins e perfil são ocultados mas não deletados.",
-        "notes_cat": "Comptes poden ser desactivat, el que significa que els seus pins i perfil seràn ocultats, però no esborrats."
+        "notes_cat": "Els comptes poden ser desactivats, però els seus pins i perfil seràn ocultats, no esborrats."
     },
 
     {
@@ -1449,7 +1459,8 @@
         "difficulty": "easy",
         "notes": "Fill out the deletion form",
         "notes_it": "Completa il form per l'eliminazione.",
-        "notes_pt_br": "Preencha o formulário de remoção"
+        "notes_pt_br": "Preencha o formulário de remoção",
+        "notes_cat": "Completi el formulari d'eliminació del compte"
     },
 
     {
@@ -1464,7 +1475,8 @@
         "difficulty": "easy",
         "notes": "Log into your account -> Click the link (data fully deleted, not possible to revert this).",
         "notes_it": "Entra nel tuo account -> Clicca il link (informazioni completamente eliminate, operazione non reversibile).",
-        "notes_pt_br": "Faça login em sua conta -> Clique no link (dados totalmente apagados, não é possível reverter)."
+        "notes_pt_br": "Faça login em sua conta -> Clique no link (dados totalmente apagados, não é possível reverter).",
+        "notes_pcat": "Entri al seu compte -> Cliqui a l'enllaç (les dades s'eliminen permanentment, no es pot revertir)."
     },
 
     {
@@ -1485,7 +1497,8 @@
         "difficulty": "easy",
         "notes": "Login, go to the settings page and click 'I want to delete my account'.",
         "notes_it": "Entra, recati nella pagina impostazioni e clicca 'Voglio eliminare il mio account'.",
-        "notes_pt_br": "Faça login, vá na página de configurações e clique 'I want to delete my account'."
+        "notes_pt_br": "Faça login, vá na página de configurações e clique 'I want to delete my account'.",
+        "notes_cat": "Entri al seu compte, vagi a la pàgina de configuració i cliqui a 'I want to delete my account'."
     },
 
     {
@@ -1506,7 +1519,8 @@
         "difficulty": "impossible",
         "notes": "You can't delete your account, but you can deactivate it.",
         "notes_it": "Non puoi eliminare il tuo account ma puoi disattivarlo.",
-        "notes_pt_br": "Você não pode deletar sua conta, mas você pode desativá-la."
+        "notes_pt_br": "Você não pode deletar sua conta, mas você pode desativá-la.",
+        "notes_cat": "No podrà esborrar el seu compte, pero no es podrà desactivar."
     },
 
     {
@@ -1526,6 +1540,7 @@
         "notes": "If you decide you would like to delete your account you must email us at support@redditgifts.com. You must email us from the email address associated with your account and provide your reddit username.",
         "notes_it": "Per eliminare il tuo account invia un'e-mail a support@redditgifts.com. Invia l'e-mail dall'indirizzo associato al tuo account ed inserisci il tuo username reddit.",
         "notes_pt_br": "Caso você decida apagar sua conta você deve enviar um e-mail para support@redditgifts.com. O e-mail deve ser enviado pelo e-mail associado a sua conta e você deve especificar seu usuário reddit.",
+        "notes_cat": "Si decideix desactivar el seu compte haurà d'enviar un e-mail a support@redditgifts.com. Haurà d'enviar l'e-mail i nom de l'usuari de Reddit associat al compte de la web.",
         "email": "support@redditgifts.com"
     },
 
@@ -1541,7 +1556,8 @@
         "difficulty": "hard",
         "notes": "You need to contact flixster to cancel a native RT profile, while Facebook linked or Flixster.com accounts are easier to cancel.",
         "notes_it": "Devi contattare flixster per eliminare il tuo profilo RT nativo, mentre il collegamento a Facebook o Flixter.com sono più facili da eliminare.",
-        "notes_pt_br": "Você precisará contatar flixster para cancelar o perfile nativo RT, enquanto contas ligadas ao Facebook ou Flixter.com são mais facilmente canceladas."
+        "notes_pt_br": "Você precisará contatar flixster para cancelar o perfile nativo RT, enquanto contas ligadas ao Facebook ou Flixter.com são mais facilmente canceladas.",
+        "notes_cat": "Haurà de contactar amb flixter per cancel·lar el perfil natiu d'RT, mentres que un compte associat amb Facebook o Flixster.com són més fàcils d'esborrar."
     },
 
     {
@@ -1550,7 +1566,8 @@
         "difficulty": "easy",
         "notes": "Bottom link 'Delete Account'",
         "notes_it": "Link sul fondo 'Delete Account'.",
-        "notes_pt_br": "Link no final 'Delete Account'"
+        "notes_pt_br": "Link no final 'Delete Account'",
+        "notes_cat": "Enllaç al final: 'Delete Account'"
     },
 
     {
@@ -1559,7 +1576,8 @@
         "difficulty": "medium",
         "notes": "After clicking the button, you will have to enter your password, complete a capcha, click another button, AND a confirmation modal dialog.",
         "notes_it": "Dopo aver cliccato il bottone dovrai: inserire la tua password, completare un capcha, clicare un altro bottone E un dialogo di conferma.",
-        "notes_pt_br": "Após clicar no botão, você terá que digitar sua senha, completar o captcha, clicar em outro botão, E a confirmar."
+        "notes_pt_br": "Após clicar no botão, você terá que digitar sua senha, completar o captcha, clicar em outro botão, E a confirmar.",
+        "notes_cat": "Després de clicar al botó, haurà d'entrar la contrasenya i completar el 'captcha', clicar un altre botó i confirmar a la finestra de diàleg."
     },
 
     {
@@ -1568,7 +1586,8 @@
         "difficulty": "easy",
         "notes": "Login to your account and follow 'Account Suspension' instructions.",
         "notes_it": "Entra nel tuo account e segui le istruzioni 'Account Suspension'.",
-        "notes_pt_br": "Faça login e siga as instruções de 'Account Suspension'."
+        "notes_pt_br": "Faça login e siga as instruções de 'Account Suspension'.",
+        "notes_cat": "Entri al seu compte i segueixi les instruccions a 'Account Suspension'."
     },
 
     {
@@ -1583,7 +1602,8 @@
         "difficulty": "easy",
         "notes": "Click the link 'Delete your account' at the bottom. Note: On your dropbox, the content of this site will not be removed. If needed, you can delete the folder 'Apps/scriptogram' manually.",
         "notes_it": "Clicca il link 'Delete your account' sul fondo. Nota: Su dropbox il contenuto di questo sito non verrà eliminato. Se necessario, devi eliminare la cartella 'Apps/scriptogram' manualmente",
-        "notes_pt_br": "Clique no link 'Delete your account' no final da página. Nota: No seu dropbox, o conteúdo deste site não será removido. Caso necessário, você pode remover a pastas 'Apps/scriptogram' manualmente."
+        "notes_pt_br": "Clique no link 'Delete your account' no final da página. Nota: No seu dropbox, o conteúdo deste site não será removido. Caso necessário, você pode remover a pastas 'Apps/scriptogram' manualmente.",
+        "notes_cat": "Cliqui a l'enllaç 'Delete your account' al final de la pàgina. Nota: Al teu Dropbox, el contingut d'aquest servei a Dropbox no serà esborrat. Si ho necessita, pot borrar la carpeta 'Apps/scriptogram' de forma manual."
     },
 
     {
@@ -1592,7 +1612,8 @@
         "difficulty": "easy",
         "notes": "Select 'Please cancel my account'. Choose a reason then select 'close my shopify store'.",
         "notes_it": "Seleziona 'Please cancel my account'. Seleziona un motivo e seleziona 'close my shopify store'.",
-        "notes_pt_br": "Selecione 'Please cancel my account'. Escolha um motivo e selecione 'close my shopify store'."
+        "notes_pt_br": "Selecione 'Please cancel my account'. Escolha um motivo e selecione 'close my shopify store'.",
+        "notes_cat": "Seleccioni 'Please cancel my account'. Esculli un motiu i seleccioni 'close my shopify store'."
     },
 
     {
@@ -1601,7 +1622,8 @@
         "difficulty": "hard",
         "notes": "Contact customers services by email or live chat and request deletion.",
         "notes_it": "Contatta il servizio clienti via email o via chat e richiedi la cancellazione.",
-        "notes_pt_br": "Contate a assistência ao cliente por e-mail ou chat ao vivo e peça a remoção."
+        "notes_pt_br": "Contate a assistência ao cliente por e-mail ou chat ao vivo e peça a remoção.",
+        "notes_cat": "Contacti amb l'assistència al client per e-mail o chat i demani la supressió del compte."
     },
 
     {
@@ -1625,7 +1647,8 @@
         "url": "http://help.slideshare.com/entries/57912-How-do-I-delete-my-SlideShare-account-",
         "difficulty": "easy",
         "notes": "A direct link is not available as it is based on your username.",
-        "notes_pt_br": "Um link direto não está disponível e é baseado no seu usuário."
+        "notes_pt_br": "Um link direto não está disponível e é baseado no seu usuário.",
+        "notes_cat": "No hi ha un enllaç directe ja que aquest està basat en el seu nom d'usuari."
     },
 
     {
@@ -1634,7 +1657,8 @@
         "difficulty": "easy",
         "notes": "Enter username and password and click 'Delete'.",
         "notes_it": "Inserisci username e password e clicca 'Delete'.",
-        "notes_pt_br": "Digite seu usuário e senha e clique em 'Delete'."
+        "notes_pt_br": "Digite seu usuário e senha e clique em 'Delete'.",
+        "notes_cat": "Entri el seu nom d'usuari i contrasenya i faci clic a 'Delete'."
     },
 
     {
@@ -1644,6 +1668,7 @@
         "notes": "Send a request to legal@sonico.com and request deletion.",
         "notes_it": "Invia la richiesta a legal@sonico.com",
         "notes_pt_br": "Envie um pedido para legal@sonico.com e peça a remoção.",
+        "notes_cat": "Enviï una petició per esborrar el seu compte a legal@sonico.com.",
         "email": "legal@sonico.com"
     },
 
@@ -1669,7 +1694,8 @@
         "difficulty": "impossible",
         "notes": "If you wish to terminate your Speaker Deck account, you may simply discontinue using Speaker Deck.",
         "notes_it": "Se desideri terminare il tuo Speaker Deck account, devi semplicemente non usarlo più.",
-        "notes_pt_br": "Se você deseja terminar sua conta Speaker Deck, você pode apenas parar de usar Speaker Deck."
+        "notes_pt_br": "Se você deseja terminar sua conta Speaker Deck, você pode apenas parar de usar Speaker Deck.",
+        "notes_cat": "Si vol acabar amb el seu compte d'Speaker Deck, simplement deixi de fer servir Speaker Deck."
     },
 
     {
@@ -1694,7 +1720,8 @@
         "difficulty": "hard",
         "notes": "If you haven't posted on the site, it's just one click. Otherwise, edit your 'About Me' bio to say 'please delete me' then contact support.",
         "notes_it": "Se non hai effettuato alcuna azione sul sito, basta un click. Altrimenti, edita il tuo 'About me' biografia in 'please delete me' quindi contatta il servizio clienti.",
-        "notes_pt_br": "Se você não postou no site, apenas um clique é necessário. Caso contrário, edite a sua 'About Me' biografia e escreva 'please delete me' e então contate o suporte."
+        "notes_pt_br": "Se você não postou no site, apenas um clique é necessário. Caso contrário, edite a sua 'About Me' biografia e escreva 'please delete me' e então contate o suporte.",
+        "notes_cat": "Si mai ha publicat al lloc només és un clic. En cas contrari, editi la seva biografia a 'About Me' i escrigui 'please delete me' a continuació contacti amb atenció al client."
     },
 
     {
@@ -1703,7 +1730,8 @@
         "difficulty": "impossible",
         "notes": "They will not delete your account but upon request they can “scramble all of your information so that you don’t receive emails and none of your information is available to [them] for potential fraud”.",
         "notes_it": "Non elimineranno il tuo account ma su richiesta potranno cancellare tutte le tue informazioni.",
-        "notes_pt_br": "Eles não irão deletar sua conta mas mediante pedido eles podem “bagunçar todas suas informações para que você não receba e-mails e nenhuma informação sua esteja disponível a [eles] potenciais fraudes”."
+        "notes_pt_br": "Eles não irão deletar sua conta mas mediante pedido eles podem “bagunçar todas suas informações para que você não receba e-mails e nenhuma informação sua esteja disponível a [eles] potenciais fraudes”.",
+        "notes_cat": "No poden esborrar el compte, pero si ho demanes poden “esborrar tota la seva informació per tal de no rebre e-mails i cap de les teves informacions estigui disponibl a [ells] per potencials accions fraudulentes.”."
     },
 
     {
@@ -1712,7 +1740,8 @@
         "difficulty": "easy",
         "notes": "The deletion of your entry can not be undone. All your profile data, contacts, messages and pictures will be permanently removed. Your classmates and contacts can no longer StayFriends contact you.",
         "notes_it": "La cancellazione non può essere annullata. Tutti i tuoi dati, contatti messaggi e foto verrano eliminati permanentemente.",
-        "notes_de": "Die Löschung Ihres Eintrages kann nicht rückgängig gemacht werden. Alle Ihre Profildaten, Kontakte Nachrichten und Bilder werden unwiderruflich entfernt. Ihre Mitschüler und Kontakte können nicht mehr über StayFriends Kontakt zu Ihnen aufnehmen."
+        "notes_de": "Die Löschung Ihres Eintrages kann nicht rückgängig gemacht werden. Alle Ihre Profildaten, Kontakte Nachrichten und Bilder werden unwiderruflich entfernt. Ihre Mitschüler und Kontakte können nicht mehr über StayFriends Kontakt zu Ihnen aufnehmen.",
+        "notes_cat": "L'eliminació no pot ser anulada. Totes les dades del teu perfil, contactes, missatges i imatges seran eliminades permanentment. Ningú es podrà posar en contacte amb tu."
     },
 
     {
@@ -1721,7 +1750,8 @@
         "difficulty": "impossible",
         "notes": "If you contact Steam support, they will most likely tell you just to not use the account. If your account has no games on it, it will be disabled after a while.",
         "notes_it": "Se contatti il supporto Steam, risponderanno semplicemente di non usare l'account. Se l'account non ha nessun gioco abbinato, sarà disabilitato automaticamente dopo un certo periodo di tempo",
-        "notes_pt_br": "Se você contatar o suporte Steam, eles irão te dizer para apenas não usar a conta. Se você não tiver jogos na sua conta, ela será desabilitada após um tempo."
+        "notes_pt_br": "Se você contatar o suporte Steam, eles irão te dizer para apenas não usar a conta. Se você não tiver jogos na sua conta, ela será desabilitada após um tempo.",
+        "notes_cat": "Si contacta amb l'assistència al client d'Steam, li respondran que deixi d'utilitzar el seu compte. Si no ha comprat jocs el compte serà deshabilitat al cap d'un temps."
     },
 
     {
@@ -1739,7 +1769,8 @@
         "difficulty": "easy",
         "notes": "You can reactivate within 14 days. After that the account is deleted.",
         "notes_it": "Puoi riattivare il tuo account entro 14 giorni. Dopodichè sarà cancellato.",
-        "notes_pt_br": "Você pode reativar em até 14 dias. Após este prazo sua conta é deletada."
+        "notes_pt_br": "Você pode reativar em até 14 dias. Após este prazo sua conta é deletada.",
+        "notes_cat": "Pot reactivar-la en un termini de 14 dies. Desprès d'aquest temps el compte serà esborrat."
     },
 
     {
@@ -1748,7 +1779,8 @@
         "difficulty": "easy",
         "notes": "Edit profile (menu item at the top right corner of the page) →  Delete account",
         "notes_it": "Modifica profilo (menu nell'angolo superiore destro della pagina) →  Delete account",
-        "notes_pt_br": "Edit profile (menu no canto do topo à direita da página) →  Delete account"
+        "notes_pt_br": "Edit profile (menu no canto do topo à direita da página) →  Delete account",
+        "notes_cat": "Edit profile (menú situat a la cantonada superior esquerra) →  Delete account"
     },
 
     {
@@ -1757,7 +1789,8 @@
         "difficulty": "hard",
         "notes": "You must submit a request to close your account via the form.",
         "notes_it": "Devi inviare una richiesta attraverso il form per chiudere il tuo account.",
-        "notes_pt_br": "Você deve enviar um pedido para fechar sua conta pelo formulário."
+        "notes_pt_br": "Você deve enviar um pedido para fechar sua conta pelo formulário.",
+        "notes_cat": "Haurà de sol·licitar que esborrin el seu compte via formulari.",
     },
 
     {
@@ -1778,7 +1811,8 @@
         "difficulty": "impossible",
         "notes": "You can't delete your account, but you can contact them via email to deactivate it.",
         "notes_it": "Non puoi eliminare il tuo account, ma puoi contattarli tramite email per disattivarlo.",
-        "notes_pt_br": "Você não pode deletar sua conta, mas você pode contatá-los via e-mail para desativá-la."
+        "notes_pt_br": "Você não pode deletar sua conta, mas você pode contatá-los via e-mail para desativá-la.",
+        "notes_cat": "Vostè no podrà esborrar el compte, però podrà contactar via e-mail per desactivar-la."
     },
 
     {
@@ -1787,7 +1821,8 @@
         "difficulty": "easy",
         "notes": "Select 'Delete your account?' option to delete your account",
         "notes_it": "Seleziona 'Eliminare il tuo account?' per eliminare il tuo account.",
-        "notes_pt_br": "Selecione a opção 'Delete your account?' para deletar sua conta"
+        "notes_pt_br": "Selecione a opção 'Delete your account?' para deletar sua conta",
+        "notes_cat": "Seleccioni l'opció 'Delete your account?' per esborrar el seu compte"
     },
 
     {
@@ -1836,7 +1871,8 @@
         "difficulty": "impossible",
         "notes": "A Udacity employee recommends that you stop using the account, which means there's currently no way of deleting the account.",
         "notes_it": "Un impiegato di Udacity consiglia di smettere di usare l'account, il che significa che non ci sono modi differenti per eliminare l'account.",
-        "notes_pt_br": "Um empregado Udacity recomenda que você pare de usar a conta, o que significa que não há como deletar sua conta atualmente."
+        "notes_pt_br": "Um empregado Udacity recomenda que você pare de usar a conta, o que significa que não há como deletar sua conta atualmente.",
+        "notes_cat": "Un treballador d'Udacity recomana que pari d'utilitzar el compte, això vol dir que no hi ha cap manera d'esborrar el compte de moment."
     },
 
     {
@@ -1845,7 +1881,8 @@
         "difficulty": "medium",
         "notes": "In order to delete your account, you need to first unsubscribe from all of your courses.",
         "notes_it": "Per eliminare il tuo account devi prima dis-iscriverti da tutti i tuoi corsi.",
-        "notes_pt_br": "Para deletar sua conta, você precisa se desinscrever de todos os seus cursos."
+        "notes_pt_br": "Para deletar sua conta, você precisa se desinscrever de todos os seus cursos.",
+        "notes_cat": "Per esborrar el seu compte, haurà de deixar d'estar subscrit a tots els cursos."
     },
 
     {
@@ -1860,7 +1897,8 @@
         "difficulty": "easy",
         "notes": "Scroll down to the bottom of the 'Account Settings' page and click 'Delete Account'",
         "notes_it": "Scrolla fino al fondo della pagina 'Impostazioni Accountì e clicca 'Elimina Account'",
-        "notes_pt_br": "Vá até o final da página 'Account Settings' e clique em 'Delete Account'"
+        "notes_pt_br": "Vá até o final da página 'Account Settings' e clique em 'Delete Account'",
+        "notes_cat": "Baixi fins al peu de la pàgina a 'Account Settings' i cliqui a 'Delete Account'"
     },
 
     {
@@ -1879,7 +1917,8 @@
         "difficulty": "easy",
         "notes": "There's a button on the right, just under the menu.",
         "notes_it": "C'è un bottone sulla destra, proprio sotto il menu.",
-        "notes_pt_br": "Existe um botão à direita, logo abaixo do menu."
+        "notes_pt_br": "Existe um botão à direita, logo abaixo do menu.",
+        "notes_cat": "Hi ha un botò a la dreta, just a sota del menu."
     },
 
     {
@@ -1894,7 +1933,8 @@
         "difficulty": "hard",
         "notes": "The only way to delete your Vine account without deleting your Twitter account is to contact Twitter through their contact form.",
         "notes_it": "L'unico modo per eliminare il tuo account Vine senza eliminare il tuo account Twitter è contattare Twitter attraverso il loro form contatti.",
-        "notes_pt_br": "A única maneira de deletar sua conta Vine sem deletar sua conta no Twitter é contatar o Twitter por meio do formulário de contato."
+        "notes_pt_br": "A única maneira de deletar sua conta Vine sem deletar sua conta no Twitter é contatar o Twitter por meio do formulário de contato.",
+        "notes_cat": "L'unica manera d'esborrar el seu compte de Vine sense esborrar el compte de Twitter es contactar amb Twitter via el seu formulari de contacte."
     },
 
     {
@@ -1909,7 +1949,8 @@
         "difficulty": "hard",
         "notes": "Send in a support ticket via the Quick Help form at Waze Support. Enter 'Delete Waze account' as the subject/question, then click the Email link. Complete filling out the form with your Waze username and registered email address.",
         "notes_it": "Invia un ticket di supporto a Waze attraverso Quick Help form. Inserisci 'Delete Waze account' come oggetto/domanda, successivamente clicca il link Email. Completa il resto del form con i tuoi dati Waze.",
-        "notes_pt_br": "Envie um ticket de suporte via o Quick Help no Waze Support. Coloque 'Delete Waze account' como assunto/pergunta, então clique no link do e-mail. Complete preenchendo com seu usuário Waze e e-mail da conta."
+        "notes_pt_br": "Envie um ticket de suporte via o Quick Help no Waze Support. Coloque 'Delete Waze account' como assunto/pergunta, então clique no link do e-mail. Complete preenchendo com seu usuário Waze e e-mail da conta.",
+        "notes_cat": "Enviï un 'ticket de suport' mitjançant el formular 'Quick Help' que es troba a 'Waze Support'. Posi 'Delete Waze account' com assumpte/pergunta, a continuació cliqui a l'enllaç d' e-mail. Completi el procediment omplint el formulari amb el seu usuari de Waze i l'e-mail del compte."
     },
 
     {
@@ -1918,7 +1959,8 @@
         "difficulty": "impossible",
         "notes": "Site provides no user account management interface or account deletion options.",
         "notes_it": "Il sito non possiede nessuna interfaccia di gestione utente o possibilità di eliminare l'account",
-        "notes_pt_br": "O site não possui interface de gerenciamento da conta ou opções para remoção da conta."
+        "notes_pt_br": "O site não possui interface de gerenciamento da conta ou opções para remoção da conta.",
+        "notes_cat": "La web no té opcions d'usuari o per esborrar el compte."
     },
 
     {
@@ -1942,7 +1984,8 @@
         "url": "https://whistle.im/browser#vcard",
         "difficulty": "easy",
         "notes": "Menu →  Edit vCard →  Account management →  Delete everything (cannot be undone)",
-        "notes_it": "Menu →  Modifica vCard →  Gestione Account →  Elimina tutto (non può essere annullato)"
+        "notes_it": "Menu →  Modifica vCard →  Gestione Account →  Elimina tutto (non può essere annullato)",
+        "notes_cat": "Menu →  Edit vCard →  Account management →  Delete everything (no es pot tornar endarrera)"
     },
 
     {
@@ -1952,7 +1995,7 @@
         "notes": "'A username cannot be deleted.' However, they do have some suggestions.",
         "notes_it": "'Un username non può essere eliminato.'. In ogni caso, ci sono alcuni consigli.",
         "notes_pt_br": "'Um usuário não pode ser deletado.' Entretanto, eles possuem algumas sugestões.",
-        "notes_cat": "'Un usuari no pot ser esborrat.' Però fan algunes suggerencies."
+        "notes_cat": "'No es poden esborrar els usuaris.' Però fan algunes suggerencies."
     },
 
     {
@@ -1961,7 +2004,8 @@
         "difficulty": "impossible",
         "notes": "“WordPress.com accounts cannot be deleted.” The best you can do is remove any identifying data from your account.",
         "notes_it": "'Gli account WordPress.com non possono essere eliminati.'. Il massimo che puoi fare è eliminare qualsiasi informazione dall'account.",
-        "notes_pt_br": "“Contas no WordPress.com não podem ser deletadas.” O melhor que você pode fazer é remover qualquer dado pessoal de sua conta."
+        "notes_pt_br": "“Contas no WordPress.com não podem ser deletadas.” O melhor que você pode fazer é remover qualquer dado pessoal de sua conta.",
+        "notes_cat": "“Els comptes de WordPress.com no poden ser esborrats.” La  millor millor opció és esborrar qualsevol dada personal del compte."
     },
 
     {
@@ -1970,7 +2014,8 @@
         "difficulty": "easy",
         "notes": "Click 'Delete Account' at the bottom of the account preferences panel.",
         "notes_it": "Clicca 'Elimina Account' sul fondo della pagina delle impostazioni account.",
-        "notes_pt_br": "Clique em 'Delete Account' no final do painel de preferências da conta."
+        "notes_pt_br": "Clique em 'Delete Account' no final do painel de preferências da conta.",
+        "notes_cat": "Cliqui a 'Delete Account' al final del panell d'opcions del compte."
     },
 
     {
@@ -1979,7 +2024,8 @@
         "difficulty": "easy",
         "notes": "Select 'delete my profile' at the bottom of the page.",
         "notes_it": "Seleziona 'elimina il mio profilo' sul fondo della pagina.",
-        "notes_pt_br": "Selecione 'delete my profile' no final da página."
+        "notes_pt_br": "Selecione 'delete my profile' no final da página.",
+        "notes_cat": "Seleccioni 'delete my profile' al final de la pàgina."
     },
 
     {
@@ -1988,7 +2034,8 @@
         "difficulty": "easy",
         "notes": "“Delete account” link at the bottom of the page.",
         "notes_it": "Il link 'Elimina Account' si trova sul fondo della pagina.",
-        "notes_pt_br": "Link “Delete account” no final da página."
+        "notes_pt_br": "Link “Delete account” no final da página.",
+        "notes_cat": "Fes clic a l'enllaç “Delete account” al final de la pàgina."
     },
 
     {
@@ -2003,7 +2050,8 @@
         "difficulty": "medium",
         "notes": "You must request deletion of your Yatado data before deleting the related social account.",
         "notes_it": "Devi richiedere l'eliminazione dei tuoi dati Yatado prima di eliminare il relativo account social.",
-        "notes_pt_br": "Você deve pedir a remoção de seus dados antes de deletar sua conta social."
+        "notes_pt_br": "Você deve pedir a remoção de seus dados antes de deletar sua conta social.",
+        "notes_cat": "Haurà de demanar l'eliminació de les dades de Yatado abans d'esborrar el compte."
     },
 
     {
