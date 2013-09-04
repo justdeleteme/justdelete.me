@@ -10,6 +10,15 @@
         "url": "https://500px.com/settings",
         "difficulty": "easy"
     },
+    
+    
+    {
+        "name": "InfiBot",
+        "url": "https://infibot.com/",
+        "difficulty": "hard",
+        "notes": "Email customer support. Requests are handled within 48 hours.",
+        "email": "customersupport@infibot.com"
+    }
 
     {
         "name": "9GAG",
