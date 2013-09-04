@@ -193,7 +193,7 @@
 				<h2><?php echo $whatisthis ?></h2>
 				<p><?php echo $whatisthis1 ?></p>
 				<p><?php echo $whatisthis2 ?></p>
-				<p><a target="_blank" href="https://docs.google.com/a/therobb.com/forms/d/1YjzfeLkwfMTiY-1oR3PM_i6sOWS47HAtFLUrW20dUv8/viewform"><?php echo $submit ?> &raquo;</a></p>
+				<p><a target="_blank" href="https://docs.google.com/a/therobb.com/forms/d/1mhr3vaTni5U8PvOdp_NvQ6vKBxNTmJTeKP3VWRuioCE/viewform"><?php echo $submit ?> &raquo;</a></p>
 				<ul>
 					<li><a href="http://robblewis.me/just-delete-me?utm_source=JustDeleteMe&amp;utm_medium=link&amp;utm_campaign=Just+Delete+Me" target="_blank">Read the announcement blog post &raquo;</a></li>
 					<li><a href="http://robblewis.me/24-hours-of-just-delete-me/" target="_blank">See the first-day stats &raquo;</a></li>
