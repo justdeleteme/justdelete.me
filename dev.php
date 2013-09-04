@@ -232,6 +232,7 @@
 		        	<li class="it"><a href="https://github.com/LorenzoRogai">Lorenzo Rogai</a></li>
 		    		<li class="de"><a href="http://www.erbloggt.de/">Konstantin Hinrichs</a></li>
 		        	<li class="fr"><a href="https://github.com/buzzb0x">Ethan Ohayon</a></li>
+		        	<li class="fr"><a href="https://github.com/p1rox">Armand Vignat</a></li>
 		        	<li class="ru"><a href="https://github.com/morozd">morozd</a></li>
 		        	<li class="pt_br"><a href="https://github.com/mkbu95">Matheus Macabu</a></li>
 		        	<li class="cat"><a href="https://github.com/rockbdn">JP Queralt</a></li>
