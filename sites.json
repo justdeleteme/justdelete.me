@@ -10,15 +10,6 @@
         "url": "https://500px.com/settings",
         "difficulty": "easy"
     },
-    
-    
-    {
-        "name": "InfiBot",
-        "url": "https://infibot.com/",
-        "difficulty": "hard",
-        "notes": "Email customer support. Requests are handled within 48 hours.",
-        "email": "customersupport@infibot.com"
-    },
 
     {
         "name": "9GAG",
@@ -173,7 +164,6 @@
         "notes": "You can't delete your Blogger Account without deleting your entire Google Account. But you can delete your blog.",
         "notes_fr": "Vous ne pouvez pas supprimer votre compte Blogger sans supprimer votre compte Google, mais vous pouvez supprimer votre blog.",
         "notes_cat": "Hauries d'esborrar tot el compte de Google sencer, però si que pots eliminar el teu blog."
-        
     },
 
     {
@@ -257,7 +247,7 @@
         "url": "http://help.codeschool.com/kb/codeschool-faqs/account-questions",
         "difficulty": "medium",
         "notes": "Start a private discussion with them and they will 'take care of it'.",
-        "notes_fr":"Posez leur la question pour qu'ils vous prennent en charge.",
+        "notes_fr": "Posez leur la question pour qu'ils vous prennent en charge.",
         "notes_it": "Inizia una discussione privata con loro e se ne occuperanno loro",
         "notes_de": "Starte eine private Diskussion mit ihnen und sie 'Kümmern sich drum'.",
         "notes_pt_br": "Inicie uma discussão privada com eles e eles irão 'cuidar disso'.",
@@ -279,14 +269,14 @@
         "url": "http://blog.codepen.io/documentation/faq/how-do-i-delete-my-account/",
         "difficulty": "easy"
     },
-    
+
     {
-        "name" : "Coderwall",
-        "url" : "https://twitter.com/coderwall/status/250670074741022720",
+        "name": "Coderwall",
+        "url": "https://twitter.com/coderwall/status/250670074741022720",
         "difficulty": "hard",
-        "notes" : "E-mail support@coderwall.com with username and ask for account deletion.",
-        "notes_fr":" Envoyez un mail à support@coderwall.com en donnant votre identifiant et en demandant la suppresion du compte.",
-        "notes_cat" : "Envia un e-mail a support@coderwall.com amb el nom d'usuari i una petició per esborrar el compte.",
+        "notes": "E-mail support@coderwall.com with username and ask for account deletion.",
+        "notes_fr": " Envoyez un mail à support@coderwall.com en donnant votre identifiant et en demandant la suppresion du compte.",
+        "notes_cat": "Envia un e-mail a support@coderwall.com amb el nom d'usuari i una petició per esborrar el compte.",
         "email": "support@coderwall.com"
     },
 
@@ -295,7 +285,7 @@
         "url": "https://www.couchsurfing.org/delete_profile.html?delete=1",
         "difficulty": "impossible",
         "notes": "Cannot be deleted fully, reactivation is always available. Fill out the form and select 'I understand. Please delete my profile.'.",
-        "notes_fr":"Ne sera pas completement supprimé, reactivation toujours possible. Remplissez le formulaire et selectionnez 'I understand. Please delete my profile.",
+        "notes_fr": "Ne sera pas completement supprimé, reactivation toujours possible. Remplissez le formulaire et selectionnez 'I understand. Please delete my profile.",
         "notes_it": "Non può essere eliminato completamente, una riattivazione è sempre effettuabile. Riempi il modulo e scegli 'I understand. Please delete my profile.'.",
         "notes_de": "Kann nicht vollständig gelöscht werden, reaktivierung ist immer möglich. Fülle das Formular aus und wähle 'I understand. Please delete my profile.'.",
         "notes_pt_br": "Não pode ser totalmente deletada, reativação é sempre possível. Preencha o formulário e selecione 'I understand. Please delete my profile.'.",
@@ -307,7 +297,7 @@
         "url": "https://www.coursera.org/about/contact",
         "difficulty": "hard",
         "notes": "Contact support and request they delete your account.",
-        "notes_fr":"Contactez le support et demandez la suppression de vore compte.",
+        "notes_fr": "Contactez le support et demandez la suppression de vore compte.",
         "notes_it": "Contatta il supporto e richiedi la cancellazione del tuo account.",
         "notes_de": "Kontaktiere den Support und sie löschen deinen Account.",
         "notes_pt_br": "Contate o suporte e peça que eles deletem sua conta.",
@@ -319,7 +309,7 @@
         "url": "http://www.craigslist.org/about/help/user_accounts",
         "difficulty": "hard",
         "notes": "Send an email to abuse@craigslist.org and request deletion.",
-        "notes_fr":"Envoyez un mail à abuse@craigslist.org et demandez la suppression du compte. ",
+        "notes_fr": "Envoyez un mail à abuse@craigslist.org et demandez la suppression du compte. ",
         "notes_it": "Spedisci un email a abuse@craigslist.org e richiedi la cancellazione",
         "notes_de": "Sende eine E-Mail an abuse@craigslist.org und beantrage die Löschung",
         "notes_pt_br": "Envie um e-mail para abuse@craigslist.org e peça a remoção.",
@@ -332,7 +322,7 @@
         "url": "http://www.dailymile.com/account/settings/edit",
         "difficulty": "easy",
         "notes": "Edit your account and select 'Remove my account'.",
-        "notes_fr":"Modifiez vos infos et selectionnez Remove my account.",
+        "notes_fr": "Modifiez vos infos et selectionnez Remove my account.",
         "notes_de": "Editiere deinen Account und wähle 'Remove my account'",
         "notes_it": "Edita il tuo account e clicca il pulsante 'Remove my account'",
         "notes_pt_br": "Edite sua conta e seleciona 'Remove my account'.",
@@ -394,7 +384,7 @@
         "url": "https://diasp.eu/user/edit#close_account_pane",
         "difficulty": "easy",
         "notes": "Click close my account and confirm with your password.",
-        "notes_fr":"Cliquez sur fermez mon compte et confirmer avec votre mot de passe.",
+        "notes_fr": "Cliquez sur fermez mon compte et confirmer avec votre mot de passe.",
         "notes_it": "Clicca chiudi il mio account e conferma inserendo la tua password.",
         "notes_de": "Klicke auf 'close my account' und bestätige dies mit deinem Passwort.",
         "notes_pt_br": "Clique em 'close my account' e confirme com sua senha.",
@@ -465,7 +455,7 @@
         "url": "https://help.ea.com/en/contact-us/ask",
         "difficulty": "hard",
         "notes": "Contact customer services to request deletion. If you're outside the US this must be by phone.",
-        "notes_fr":"Contactez le support pour demander la suppression du compte. Si vous n'êtes pas americain cela se fait par téléphone.",
+        "notes_fr": "Contactez le support pour demander la suppression du compte. Si vous n'êtes pas americain cela se fait par téléphone.",
         "notes_it": "Contatta il sistema clienti per cancellarti. Se sei fuori dagli Stati Uniti questa azione va effettuata via telefono.",
         "notes_de": "Kontaktiere den Support um die Löschung zu beantragen. Wenn du außerhalb der USA bist, muss dies per Telefon geschehen.",
         "notes_pt_br": "Contate a assistência ao cliente e peça que sua conta seja deletada. Se você estiver fora dos EUA você deve fazer isso pelo telefone.",
@@ -518,7 +508,7 @@
         "notes_it": "Non puoi eliminare il tuo account Evernote, solo disattivarlo temporaneamente. La disattivazione non cancella nessuno dei tuoi dati quindi dovrai cancellarli manualmente prima di effettuare la disattivazione.",
         "notes_de": "Du kannst deinen Evernote-Account nicht löschen, du kannst ihn nur temporär deaktivieren. Deaktivierung löscht nicht deine Daten, deshalb musst du manuell jede Notiz und persönliche Information löschen. Schließe dann eine Synchronisation ab und deaktiviere deinen Account dann.",
         "notes_pt_br": "Você não pode deletar sua conta Evernote, apenas desativá-la temporariamente. Desativação não remove seus dados então você terá que remover manualmente todas suas informações, realizar uma sincronização e então desativar sua conta.",
-         "notes_cat": "No pot eliminar un compte d'Evernote, només pot desactivar-la temporalment. La desactivaciò no esborra les seves dades, ho haurà de fer manualment, després sincronitzar i desactivar."
+        "notes_cat": "No pot eliminar un compte d'Evernote, només pot desactivar-la temporalment. La desactivaciò no esborra les seves dades, ho haurà de fer manualment, després sincronitzar i desactivar."
     },
 
     {
@@ -590,7 +580,7 @@
         "url": "http://www.fotka.pl/ustawienia/konto_usun",
         "difficulty": "medium",
         "notes": "To delete your account, you must not post anything for at least three days.",
-        "notes_fr":"Pour supprimer votre compte, ne postez rien pendant 3 jours.",
+        "notes_fr": "Pour supprimer votre compte, ne postez rien pendant 3 jours.",
         "notes_it": "Per eliminare il tuo account, non devi pubblicare niente per almeno tre giorni.",
         "notes_de": "Um deinen Account zu löschen, schreibe nichts für mindestens drei Tage.",
         "notes_pt_br": "Para deletar sua conta, você deve postar nada por pelo menos três dias.",
@@ -625,8 +615,8 @@
         "url": "https://ezcrypt.it/ML4n#ej6rorotmsxq7jF8ViyGjTVh",
         "difficulty": "easy",
         "notes": "/msg NickServ DROP nick password",
-        "notes_fr":"/msg NickServ DROP pseudo mot-de-passe",
-        "notes_de":"/msg NickServ DROP Nutzername Passwort",
+        "notes_fr": "/msg NickServ DROP pseudo mot-de-passe",
+        "notes_de": "/msg NickServ DROP Nutzername Passwort",
         "notes_pt_br": "/msg NickServ DROP apelido senha",
         "notes_cat": "/msg NickServ DROP nom_usuari contrasenya"
     },
@@ -665,7 +655,7 @@
         "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
         "difficulty": "impossible",
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
-        "notes_de": "Du solltest aufhören den Service zu nutzen, ohne uns zu informieren. Wir behalten uns vor, dein Inhalt und deine Daten, die du durch unseren Service hochgeladen hast weiterhin zu nutzen.", 
+        "notes_de": "Du solltest aufhören den Service zu nutzen, ohne uns zu informieren. Wir behalten uns vor, dein Inhalt und deine Daten, die du durch unseren Service hochgeladen hast weiterhin zu nutzen.",
         "notes_it": "Puoi in qualsiasi momento smettere di usare il servizio. Tuttavia noi possiamo comunque accedere a qualsiasi contenuto che hai inviato attraverso il servizio.",
         "notes_pt_br": "Você pode parar de usar o serviço a qualquer momento. Nós, no entando, iremos manter e usar qualquer conteúdo enviado por você através do serviço.",
         "notes_cat": "Pot deixar d'utilitzar el servei en qualsevol moment. Nosaltres, no obstant continuarém fent servir el Contingut que ha enviat."
@@ -710,7 +700,7 @@
         "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
         "difficulty": "impossible",
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
-        "notes_de": "Du solltest aufhören den Service zu nutzen, ohne uns zu informieren. Wir behalten uns vor, dein Inhalt und deine Daten, die du durch unseren Service hochgeladen hast weiterhin zu nutzen.", 
+        "notes_de": "Du solltest aufhören den Service zu nutzen, ohne uns zu informieren. Wir behalten uns vor, dein Inhalt und deine Daten, die du durch unseren Service hochgeladen hast weiterhin zu nutzen.",
         "notes_it": "Puoi in qualsiasi momento smettere di usare il servizio. Tuttavia noi possiamo comunque accedere a qualsiasi contenuto che hai inviato attraverso il servizio.",
         "notes_pt_br": "Você pode parar de usar o serviço a qualquer momento. Nós, no entando, iremos manter e usar qualquer conteúdo enviado por você através do serviço.",
         "notes_cat": "Pot parar d'utilitzar el servei en qualsevol moment. Nosaltres seguirem fent servir el Contingut que ha enviat al lloc."
@@ -787,7 +777,7 @@
         "url": "http://www.gopetition.com/",
         "difficulty": "easy",
         "notes": "Select a reason for closing and it'll take 2 clicks.",
-        "notes_fr":"Choisissez la raison de la suppression et cela se fait en 2 cliques.",
+        "notes_fr": "Choisissez la raison de la suppression et cela se fait en 2 cliques.",
         "notes_de": "Wähle einen Grund für die Löschung und es wird nur 2 Klicks benötigen.",
         "notes_it": "Seleziona un motivo perchè stai chiudendo il tuo account e fatto",
         "notes_pt_br": "Selecione um motivo para fechar a conta e irá levar dois cliques.",
@@ -800,7 +790,7 @@
         "difficulty": "easy",
         "notes": "Select a reason for closing and it'll take 2 clicks.",
         "notes_de": "Wähle einen Grund für die Löschung. Es braucht nur 2 clicks.",
-        "notes_fr":"Choisissez la raison de la suppression et cela se fait en 2 cliques.",
+        "notes_fr": "Choisissez la raison de la suppression et cela se fait en 2 cliques.",
         "notes_it": "Logga il tuo account, quindi clicca su 'My Profile'. Vedrai un link 'Close my account'. Cliccaci e segui le istruzioni.",
         "notes_pt_br": "Selecione um motivo para fechar a conta e irá levar dois cliques.",
         "notes_cat": "Seleccioni un motiu per tancar el compte, només seran 2 clics"
@@ -843,7 +833,7 @@
         "url": "https://gumroad.com/",
         "difficulty": "hard",
         "notes": "No page explaining how to delete your account. You have to contact support directly (link at the bottom of the page) and they'll do it for you.",
-        "notes_fr":"Aucune page n'explique comment supprimer votre compte. Vous devez contacter le support et ils le feront pour vous.",
+        "notes_fr": "Aucune page n'explique comment supprimer votre compte. Vous devez contacter le support et ils le feront pour vous.",
         "notes_it": "Nessuna pagina spiega come eliminare l'account. Devi contattare il supporto direttamente (il link si trova in fondo alla pagina) e lo faranno al posto tuo.",
         "notes_pt_br": "Não há uma página explicando como deletar sua conta. Você terá de contatar o suporte diretamente (link no final da página) e eles irão deletá-la para você.",
         "notes_cat": "No s'explica com eliminar el compte. Haurà de contactar directament amb el servei d'assistència (link al final de la pàgina) i ells li borraran el compte."
@@ -860,7 +850,7 @@
         "url": "http://jacquesmattheij.com/The+Unofficial+HN+FAQ#deleteaccount",
         "difficulty": "impossible",
         "notes": "Your contributions are there to stay, but you can at least clear out your profile -- even your email address.",
-        "notes_fr":"Vos contributions resteront sur le site, mais vous pouvez 'vider' votre profil, même votre email.",
+        "notes_fr": "Vos contributions resteront sur le site, mais vous pouvez 'vider' votre profil, même votre email.",
         "notes_it": "Le tue donazioni resteranno, ma puoi almeno pulire il tuo profilo -- anche il tuo indirizzo email",
         "notes_pt_br": "Suas contribuições serão mantidas, mas você pode limpar o seu perfil -- inclusive seu endereço de e-mail.",
         "notes_cat": "Les seves contribucions es mantindran, però pot neteijar el seu perfil -- incloent el seu e-mail."
@@ -871,7 +861,7 @@
         "url": "https://dashboard.heroku.com/account",
         "difficulty": "easy",
         "notes": "“Close your account...” link at the bottom of the page.",
-        "notes_fr":"Lien 'Fermez mon compte...' en bas de la page.",
+        "notes_fr": "Lien 'Fermez mon compte...' en bas de la page.",
         "notes_it": "“Close your account...” link in fondo alla pagina",
         "notes_pt_br": "Link “Close your account...” no final da página.",
         "notes_cat": "Link “Close your account...” al final de la pàgina."
@@ -888,7 +878,7 @@
         "url": "http://hol.org.uk/profile.php?view=quithol",
         "difficulty": "impossible",
         "notes": "You can remove information and manually quit HOL, but your account stays forever.",
-        "notes_fr":"Vous pouvez enlever vos infos perso. mais votre compte restera à vie.",
+        "notes_fr": "Vous pouvez enlever vos infos perso. mais votre compte restera à vie.",
         "notes_it": "Puoi rimuovere le tue informazioni e effettuare il logout, ma il tuo account resterà li.",
         "notest_pt_br": "Você pode remover as informações e manualmente sair do HOL, mas sua conta é permanente.",
         "notest_cat": "Pot esborrar la seva informaciò i manualment sortir d'HOL, però el seu compte es permanent."
@@ -917,7 +907,7 @@
         "url": "https://iceber.gs/home",
         "difficulty": "easy",
         "notes": "On top bar: 'Your name', 'My Account' and just click on 'Delete Account' link at bottom.",
-        "notes_fr":"Sur la barre du haut 'Votre nom', 'Mon compte' et cliquez 'Supprimer mon compte.' ",
+        "notes_fr": "Sur la barre du haut 'Votre nom', 'Mon compte' et cliquez 'Supprimer mon compte.' ",
         "notes_it": "Nel menu in alto: 'Tuo nome', 'My Account', e clicca sul link 'Delete Account' in fondo.",
         "notes_pt_br": "Na barra superior: 'Seu nome', 'My Account' e clique no link 'Delete Account' no final.",
         "notes_cat": "A la barra superior: 'Seu nome', 'My Account' i faci click a 'Delete Account' al final."
@@ -928,7 +918,7 @@
         "url": "http://www.icq.com/download/icq/knownissues/account/en",
         "difficulty": "impossible",
         "notes": "ICQ is now working on providing a delete feature which will be available in upcoming ICQ versions. Currently, there’s no such functionality.",
-        "notes_fr":"ICQ travaille sur la possibilité de pouvoir supprimer votre compte. Mais pour le moment cette fonctionnalité n'est pas disponible.",
+        "notes_fr": "ICQ travaille sur la possibilité de pouvoir supprimer votre compte. Mais pour le moment cette fonctionnalité n'est pas disponible.",
         "notes_it": "ICQ sta implementando la possibilità di eliminare il tuo account e sarà disponibile nelle prossime versioni di ICQ. Al momento non esiste modo di eliminare il tuo account.",
         "notes_de": "ICQ arbeitet an einer Löschfunktion. Diese wird in künftigen Versionen von ICQ verfügbar sein. Momentan gibt es diese Funktion nicht.",
         "notes_pt_br": "ICQ está trabalhando para providenciar uma funcionalidade para deletar contas que estará disponível nas próximas versões do ICQ. Atualmente, não há tal funcionalidade.",
@@ -960,6 +950,14 @@
     },
 
     {
+        "name": "InfiBot",
+        "url": "https://infibot.com/",
+        "difficulty": "hard",
+        "notes": "Email customer support. Requests are handled within 48 hours.",
+        "email": "customersupport@infibot.com"
+    },
+
+    {
         "name": "InnoGames",
         "url": "http://goodbye.innogames.com/",
         "difficulty": "easy"
@@ -970,7 +968,7 @@
         "url": "http://feedback.instacanv.as/knowledgebase/articles/117760-how-do-i-cancel-my-gallery-",
         "difficulty": "hard",
         "notes": "Email your username and email to customer services and they will delete your account.",
-        "notes_fr":"Envoyez votre email et votre pseudo au support, et ils supprimeront votre compte.",
+        "notes_fr": "Envoyez votre email et votre pseudo au support, et ils supprimeront votre compte.",
         "notes_it": "Spedisci un email al servizio clienti contenente l'username e elimineranno il tuo account.",
         "notes_pt_br": "Envie um e-mail com seu usuário e e-mail para a assistência ao cliente e eles deletarão sua conta.",
         "notes_cat": "Enviï un e-mail amb el seu nom d'usuari i e-mail a l'assistència al client i ells esborraran el seu compte."
@@ -1003,7 +1001,7 @@
         "url": "http://www.apple.com/support/itunes/contact/",
         "difficulty": "hard",
         "notes": "Contact customer services. You will lose access to any media you haven’t downloaded to your computer.",
-        "notes_fr":"Contatcez le support. Vous perdrez l'accès à tout le contenu non téléchargé.",
+        "notes_fr": "Contatcez le support. Vous perdrez l'accès à tout le contenu non téléchargé.",
         "notes_it": "Contatta il servizio clienti. Perderai l'accesso a qualsiasi file di cui non hai una copia sul computer.",
         "notes_de": "Kontaktiere den Kundenservice. Du wirst deinen Zugang zu allen Medien verlieren, die du nicht auf deinen Computer heruntergeladen hast.",
         "notes_cat": "Contacta amb el servei d'assistència. Perdrà l'accés a qualsevol contingut que no hagi descarregat al seu ordinador."
@@ -1034,7 +1032,7 @@
         "url": "https://drive.jolicloud.com/#/settings/account",
         "difficulty": "easy",
         "notes": "Click 'Delete Account' at the botom of the account preference page",
-        "notes_fr":"Cliquez 'Supprimer mon compte' en bas de la page.",
+        "notes_fr": "Cliquez 'Supprimer mon compte' en bas de la page.",
         "notes_it": "Clicca 'Delete Account' in fondo alla pagina delle preferenze.",
         "notes_pt_br": "Clique em 'Delete Accout' no final da página de preferências da conta",
         "notes_cat": "Cliqui a 'Delete Accout' al final de la pàgina de preferències del compte"
@@ -1045,7 +1043,7 @@
         "url": "https://www.jottacloud.com/account/delete",
         "difficulty": "easy",
         "notes": "Log in. Type in password. Press 'delete'.",
-        "notes_fr":"Loggez vous, tapez votre mot de passe, cliquez sur Delete.",
+        "notes_fr": "Loggez vous, tapez votre mot de passe, cliquez sur Delete.",
         "notes_it": "Log in. Digita la password. Premi 'delete'.",
         "notes_de": "Logge dich ein, tippe dein Passwort ein. Klicke auf 'delete'.",
         "notes_pt_br": "Logue-se. Digite sua senha. Pressione 'delete'.",
@@ -1174,8 +1172,8 @@
     {
         "name": "LinkedIn",
         "url": "http://help.linkedin.com/app/answers/detail/a_id/63/kw/delete%20account",
-        "difficulty" : "medium",
-        "notes" : "There are reports that LinkedIn continues to email people with a closed account. You may need to contact customer services to delete account instead of just closing it."
+        "difficulty": "medium",
+        "notes": "There are reports that LinkedIn continues to email people with a closed account. You may need to contact customer services to delete account instead of just closing it."
     },
 
     {
@@ -1400,7 +1398,7 @@
         "url": "http://pastebin.com/profile",
         "difficulty": "impossible",
         "notes": "You can remove your pastes, but there's no link to delete your account.",
-        "notes_fr":"Vous pouvez supprimer vos pastes, mais il n'y aucun lien permettant de supprimer votre compte.",
+        "notes_fr": "Vous pouvez supprimer vos pastes, mais il n'y aucun lien permettant de supprimer votre compte.",
         "notes_it": "Puoi cancellare completamente i tuoi paste, ma non esiste il modo di cancellare l'account.",
         "notes_pt_br": "Você pode remover seus pastes, mas não há um link para remover sua conta.",
         "notes_cat": "Pot esborrar els seus 'pastes', però no hi ha cap enllaç per esborrar el compte."
@@ -1602,7 +1600,7 @@
         "url": "https://scanmyserver.com/?suspend=1",
         "difficulty": "easy",
         "notes": "Login to your account and follow 'Account Suspension' instructions.",
-        "notes_fr" : "Connectez vous et suivez les instructions de suspension du compte.",
+        "notes_fr": "Connectez vous et suivez les instructions de suspension du compte.",
         "notes_it": "Entra nel tuo account e segui le istruzioni 'Account Suspension'.",
         "notes_pt_br": "Faça login e siga as instruções de 'Account Suspension'.",
         "notes_cat": "Entri al seu compte i segueixi les instruccions a 'Account Suspension'."
@@ -1629,7 +1627,7 @@
         "url": "http://shopify.com/admin/settings/account",
         "difficulty": "easy",
         "notes": "Select 'Please cancel my account'. Choose a reason then select 'close my shopify store'.",
-        "notes_fr" : "Selectionnez supprimer mon compte. Choisissez la raison et cliquez 'close my spotify store'",
+        "notes_fr": "Selectionnez supprimer mon compte. Choisissez la raison et cliquez 'close my spotify store'",
         "notes_it": "Seleziona 'Please cancel my account'. Seleziona un motivo e seleziona 'close my shopify store'.",
         "notes_pt_br": "Selecione 'Please cancel my account'. Escolha um motivo e selecione 'close my shopify store'.",
         "notes_cat": "Seleccioni 'Please cancel my account'. Esculli un motiu i seleccioni 'close my shopify store'."
@@ -1666,7 +1664,7 @@
         "url": "http://help.slideshare.com/entries/57912-How-do-I-delete-my-SlideShare-account-",
         "difficulty": "easy",
         "notes": "A direct link is not available as it is based on your username.",
-        "notes_fr" : "Un lien direct n'est pas disponible comme le système est basé sur votre pseudo.",
+        "notes_fr": "Un lien direct n'est pas disponible comme le système est basé sur votre pseudo.",
         "notes_pt_br": "Um link direto não está disponível e é baseado no seu usuário.",
         "notes_cat": "No hi ha un enllaç directe ja que aquest està basat en el seu nom d'usuari."
     },
@@ -1676,7 +1674,7 @@
         "url": "http://www.snapchat.com/a/delete_account",
         "difficulty": "easy",
         "notes": "Enter username and password and click 'Delete'.",
-        "notes_fr" : "Entrez votre pseudo et votre mot de passe et cliquez sur supprimer.",
+        "notes_fr": "Entrez votre pseudo et votre mot de passe et cliquez sur supprimer.",
         "notes_it": "Inserisci username e password e clicca 'Delete'.",
         "notes_pt_br": "Digite seu usuário e senha e clique em 'Delete'.",
         "notes_cat": "Entri el seu nom d'usuari i contrasenya i faci clic a 'Delete'."
@@ -1687,7 +1685,7 @@
         "url": "http://www.sonico.com/tyc.php",
         "difficulty": "hard",
         "notes": "Send a request to legal@sonico.com and request deletion.",
-        "notes_fr" : "Envoyez une demande de suppression à legal@sonico.com .",
+        "notes_fr": "Envoyez une demande de suppression à legal@sonico.com .",
         "notes_it": "Invia la richiesta a legal@sonico.com",
         "notes_pt_br": "Envie um pedido para legal@sonico.com e peça a remoção.",
         "notes_cat": "Enviï una petició per esborrar el seu compte a legal@sonico.com.",
@@ -1842,7 +1840,7 @@
         "url": "https://trello.com/your/account",
         "difficulty": "easy",
         "notes": "Select 'Delete your account?' option to delete your account",
-        "notes_fr" : "Selectionnez 'Supprimer mon compte?' pour le supprimer.",
+        "notes_fr": "Selectionnez 'Supprimer mon compte?' pour le supprimer.",
         "notes_it": "Seleziona 'Eliminare il tuo account?' per eliminare il tuo account.",
         "notes_pt_br": "Selecione a opção 'Delete your account?' para deletar sua conta",
         "notes_cat": "Seleccioni l'opció 'Delete your account?' per esborrar el seu compte"
@@ -1919,7 +1917,7 @@
         "url": "http://www.ustream.tv/account/preferences",
         "difficulty": "easy",
         "notes": "Scroll down to the bottom of the 'Account Settings' page and click 'Delete Account'",
-        "notes_fr" : "Tout en bas de la page il y a 'Parametre du compte' cliquez 'Supprimer mon compte'.",
+        "notes_fr": "Tout en bas de la page il y a 'Parametre du compte' cliquez 'Supprimer mon compte'.",
         "notes_it": "Scrolla fino al fondo della pagina 'Impostazioni Accountì e clicca 'Elimina Account'",
         "notes_pt_br": "Vá até o final da página 'Account Settings' e clique em 'Delete Account'",
         "notes_cat": "Baixi fins al peu de la pàgina a 'Account Settings' i cliqui a 'Delete Account'"
@@ -1940,7 +1938,7 @@
         "url": "http://www.viadeo.com/settings/account/?language=fr&ga_from=Fu:%2Fsettings%2Faccount%2F;Fb%3Amenu_box_right%3BFe%3AL1-account-settings%3B",
         "difficulty": "easy",
         "notes": "There's a button on the right, just under the menu.",
-        "notes_fr" : "La bouton de suppression se trouve sur la droite sous le menu.",
+        "notes_fr": "La bouton de suppression se trouve sur la droite sous le menu.",
         "notes_it": "C'è un bottone sulla destra, proprio sotto il menu.",
         "notes_pt_br": "Existe um botão à direita, logo abaixo do menu.",
         "notes_cat": "Hi ha un botò a la dreta, just a sota del menu."
@@ -1983,7 +1981,7 @@
         "url": "https://petitions.whitehouse.gov/",
         "difficulty": "impossible",
         "notes": "Site provides no user account management interface or account deletion options.",
-        "notes_fr" : "Le site ne propose pas la suppression de compte.",
+        "notes_fr": "Le site ne propose pas la suppression de compte.",
         "notes_it": "Il sito non possiede nessuna interfaccia di gestione utente o possibilità di eliminare l'account",
         "notes_pt_br": "O site não possui interface de gerenciamento da conta ou opções para remoção da conta.",
         "notes_cat": "La web no té opcions d'usuari o per esborrar el compte."
@@ -2000,7 +1998,7 @@
         "url": "https://whatsapp.zendesk.com/entries/21119703-How-do-I-delete-my-account-",
         "difficulty": "medium",
         "notes": "From the app: Settings → Account → Delete your account.",
-        "notes_fr" : "Depuis l'app: Réglages -> Compte -> Supprimer mon compte.",
+        "notes_fr": "Depuis l'app: Réglages -> Compte -> Supprimer mon compte.",
         "notes_it": "Dall'applicazione: Impostazioni → Account → Elimina il tuo account.",
         "notes_pt_br": "No aplicativo: Settings → Account → Delete your account.",
         "notes_cat": "Des de l'aplicació: Settings → Account → Delete your account."
@@ -2020,7 +2018,7 @@
         "url": "https://en.wikipedia.org/wiki/Wikipedia:FAQ#How_do_I_change_my_username.2Fdelete_my_account.3F",
         "difficulty": "impossible",
         "notes": "'A username cannot be deleted.' However, they do have some suggestions.",
-        "notes_fr" : "Vous ne pouvez pas supprimer votre compte.",
+        "notes_fr": "Vous ne pouvez pas supprimer votre compte.",
         "notes_it": "'Un username non può essere eliminato.'. In ogni caso, ci sono alcuni consigli.",
         "notes_pt_br": "'Um usuário não pode ser deletado.' Entretanto, eles possuem algumas sugestões.",
         "notes_cat": "'No es poden esborrar els usuaris.' Però fan algunes suggerencies."
@@ -2053,7 +2051,7 @@
         "url": "https://www.xing.com/help/help-and-faqs-2/general-stuff-55/xing-memberships-153/general-stuff-803/canceling-free-basic-membership-185",
         "difficulty": "easy",
         "notes": "Select 'delete my profile' at the bottom of the page.",
-        "notes_fr":"Selectionnez 'Supprimer mon compte' en bas de la page.",
+        "notes_fr": "Selectionnez 'Supprimer mon compte' en bas de la page.",
         "notes_it": "Seleziona 'elimina il mio profilo' sul fondo della pagina.",
         "notes_pt_br": "Selecione 'delete my profile' no final da página.",
         "notes_cat": "Seleccioni 'delete my profile' al final de la pàgina."
@@ -2064,7 +2062,7 @@
         "url": "https://www.xobni.com/account/settings",
         "difficulty": "easy",
         "notes": "“Delete account” link at the bottom of the page.",
-        "notes_fr":"'Supprimer mon compte' lien en bas de la page." ,
+        "notes_fr": "'Supprimer mon compte' lien en bas de la page.",
         "notes_it": "Il link 'Elimina Account' si trova sul fondo della pagina.",
         "notes_pt_br": "Link “Delete account” no final da página.",
         "notes_cat": "Fes clic a l'enllaç “Delete account” al final de la pàgina."
@@ -2098,7 +2096,7 @@
         "difficulty": "impossible",
         "notes": "You can't delete your YouTube account without deleting your entire Google Account. But you can delete your channel.",
         "notes_cat": "No pots esborrar el teu compte de Youtube sense borrar tot el compte de Google, però pots borrar el teu canal.",
-        "notes_fr":"Vous ne pouvez pas supprimer votre compte Youtube sans supprimer votre compte Google. Mais vous pouvez supprimer votre chaîne."
+        "notes_fr": "Vous ne pouvez pas supprimer votre compte Youtube sans supprimer votre compte Google. Mais vous pouvez supprimer votre chaîne."
     },
 
     {
