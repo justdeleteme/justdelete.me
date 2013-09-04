@@ -65,6 +65,7 @@
         "url": "http://www.animalcrossingcommunity.com/help_main.asp?HelpSectionID=5#Topic201",
         "difficulty": "impossible",
         "notes": "We do not 'delete' or 'terminate' accounts on ACC. If you no longer wish to use the site, you may delete all personal information from your profile and then stop logging in.",
+        "notes_fr": "ACC ne supprime pas les comptes. Cependant vous pouvez supprimer les informations qui sont dessus et arreter de vous connecter.",
         "notes_it": "Non è possibile chiudere o terminare un account su ACC. Se non desideri più utilizzare il sito, puoi comunque eliminare tutti i dati personali dal tuo profilo e non loggarci più",
         "notes_pt_br": "Nós não 'deletamos' ou 'terminamos' contas na ACC. Caso você não queira mais utilizar o site, você pode deletar todas as suas informações pessoas em seu perfil e então parar de logar-se."
     },
@@ -92,7 +93,7 @@
         "url": "http://ask.fm/feedbacks/new",
         "difficulty": "hard",
         "notes": "Request deletion from customer services.",
-        "notes_fr": "Demandez la suppresion du compte par le service consommateur.",
+        "notes_fr": "Demandez la suppresion du compte par le support du site.",
         "notes_it": "Richiedi la cancellazione al servizio clienti",
         "notes_de": "Beantrage die Löschung beim Support.",
         "notes_pt_br": "Peça para que seja deletada pela assistência ao cliente."
@@ -119,6 +120,7 @@
         "url": "https://eu.battle.net/support/en/ticket/submit",
         "difficulty": "hard",
         "notes": "Customer Support will require you to send a signed written letter confirming your wishes, your account details and a copy of legal identification (passport, drivers license) to your account region's office headquarters.",
+        "notes_fr": "Le support vous demandera une lettre écrite demandant la suppresion du compte, dans cette lettre donnez vos details de compte ainsi qu'un justificatif d'identité.",
         "notes_it": "Il servizio clienti richiede di spedire una lettera firmata al quartier generale della tua nazione confermando le tue intenzioni, allegando i dettagli del tuo account e una copia di un documento (passaporto, patente)",
         "notes_pt_br": "A Assistência ao Cliente irá pedir que você envie uma carta assinada confirmando os seus desejos, os detalhes de sua conta e uma cópia autenticada de identificação (passaporte, carteira de motorista) para o escritório da região de sua conta."
     },
@@ -134,6 +136,7 @@
         "url": "https://bitbucket.org/account/",
         "difficulty": "easy",
         "notes": "On the side menu, click on 'Delete Account' and on the confirmation page click 'Delete Account', all repositories and the account is immediately wiped.",
+        "notes_fr": "Dans les parametres du compte cliquez sur supprimer le compte puis sur supprimer le compte. Tous les dépot ainsi que le compte seront immediatement supprimés.",
         "notes_it": "Nel menu al lato, clicca su 'Delete Account' e fai lo stesso sulla pagina di conferma, l'account e i repositories saranno cancellati",
         "notes_pt_br": "No menu lateral, clique em 'Delete Account' e na página de confirmação clique em 'Delete Account', todos os repositórios e contas serão imediatamente excluídos."
     },
@@ -164,6 +167,7 @@
         "url": "http://www.bodybuilding.com/store/help/delete-bodyspace-account.htm",
         "difficulty": "impossible",
         "notes": "You can only deactivate your account by contacting support as they state on the help page. There is no way to permanently delete your account or data, and an inactive public profile will always be visible to public.",
+        "notes_fr": "Vous pouvez seulement désactiver votre compte en contactant le support.",
         "notes_it": "Puoi solo disattivare l'account contattando il supporto. Non esiste modo di eliminare permanentemente il tuo account o i dati, e un account inattivo resterà comunque visibile al pubblico",
         "notes_pt_br": "Você pode apenas desativar sua conta contatando a assistência ao cliente como explicitado na página de ajuda. Não há como remover permanentemente sua conta ou seus dados, e um perfil publico inativo sempre estará visível ao público."
     },
@@ -185,6 +189,7 @@
         "url": "http://www.ress.at/profil/profil_entfernen.php",
         "difficulty": "easy",
         "notes": "Just click 'Abschicken'",
+        "notes_fr": "Cliquez juste 'Abschicken'.",
         "notes_it": "Clicca semplicemente 'Abschicken'",
         "notes_de": "Einfach auf 'Abschicken' klicken",
         "notes_pt_br": "Apenas clique em 'Abschicken'"
@@ -219,6 +224,7 @@
         "url": "https://cne.coderedweb.com",
         "difficulty": "impossible",
         "notes": "You can't delete yourself. You can only change your phone nr. to a bogus number.",
+        "notes_fr": "Vous ne pouvez pas supprimer votre compte. Vous pouvez seulement donner un faux numéro.",
         "notes_it": "Non puoi eliminarti. Puoi solamente cambiare il tuo numero di telefono con uno inventato",
         "notes_pt_br": "Você não pode deletar sua conta. Você pode mudar o número de telefone para um número qualquer."
     },
@@ -228,6 +234,7 @@
         "url": "http://help.codeschool.com/kb/codeschool-faqs/account-questions",
         "difficulty": "medium",
         "notes": "Start a private discussion with them and they will 'take care of it'.",
+        "notes_fr":"Posez leur la question pour qu'ils vous prennent en charge.",
         "notes_it": "Inizia una discussione privata con loro e se ne occuperanno loro",
         "notes_de": "Starte eine private Diskussion mit ihnen und sie 'Kümmern sich drum'.",
         "notes_pt_br": "Inicie uma discussão privada com eles e eles irão 'cuidar disso'."
@@ -253,6 +260,7 @@
         "url" : "https://twitter.com/coderwall/status/250670074741022720",
         "difficulty": "hard",
         "notes" : "E-mail support@coderwall.com with username and ask for account deletion.",
+        "notes_fr":" Envoyez un mail à support@coderwall.com en donnant votre identifiant et en demandant la suppresion du compte.",
         "email": "support@coderwall.com"
     },
 
@@ -261,6 +269,7 @@
         "url": "https://www.couchsurfing.org/delete_profile.html?delete=1",
         "difficulty": "impossible",
         "notes": "Cannot be deleted fully, reactivation is always available. Fill out the form and select 'I understand. Please delete my profile.'.",
+        "notes_fr":"Ne sera pas completement supprimé, reactivation toujours possible. Remplissez le formulaire et selectionnez 'I understand. Please delete my profile.",
         "notes_it": "Non può essere eliminato completamente, una riattivazione è sempre effettuabile. Riempi il modulo e scegli 'I understand. Please delete my profile.'.",
         "notes_de": "Kann nicht vollständig gelöscht werden, reaktivierung ist immer möglich. Fülle das Formular aus und wähle 'I understand. Please delete my profile.'.",
         "notes_pt_br": "Não pode ser totalmente deletada, reativação é sempre possível. Preencha o formulário e selecione 'I understand. Please delete my profile.'."
@@ -271,6 +280,7 @@
         "url": "https://www.coursera.org/about/contact",
         "difficulty": "hard",
         "notes": "Contact support and request they delete your account.",
+        "notes_fr":"Contactez le support et demandez la suppression de vore compte.",
         "notes_it": "Contatta il supporto e richiedi la cancellazione del tuo account.",
         "notes_de": "Kontaktiere den Support und sie löschen deinen Account.",
         "notes_pt_br": "Contate o suporte e peça que eles deletem sua conta."
@@ -281,6 +291,7 @@
         "url": "http://www.craigslist.org/about/help/user_accounts",
         "difficulty": "hard",
         "notes": "Send an email to abuse@craigslist.org and request deletion.",
+        "notes_fr":"Envoyez un mail à abuse@craigslist.org et demandez la suppression du compte. ",
         "notes_it": "Spedisci un email a abuse@craigslist.org e richiedi la cancellazione",
         "notes_de": "Sende eine E-Mail an abuse@craigslist.org und beantrage die Löschung",
         "notes_pt_br": "Envie um e-mail para abuse@craigslist.org e peça a remoção.",
@@ -292,6 +303,7 @@
         "url": "http://www.dailymile.com/account/settings/edit",
         "difficulty": "easy",
         "notes": "Edit your account and select 'Remove my account'.",
+        "notes_fr":"Modifiez vos infos et selectionnez Remove my account.",
         "notes_de": "Editiere deinen Account und wähle 'Remove my account'",
         "notes_it": "Edita il tuo account e clicca il pulsante 'Remove my account'",
         "notes_pt_br": "Edite sua conta e seleciona 'Remove my account'."
@@ -417,6 +429,7 @@
         "url": "https://help.ea.com/en/contact-us/ask",
         "difficulty": "hard",
         "notes": "Contact customer services to request deletion. If you're outside the US this must be by phone.",
+        "notes_fr":"Contactez le support pour demander la suppression du compte. Si vous n'êtes pas americain cela se fait par téléphone.",
         "notes_it": "Contatta il sistema clienti per cancellarti. Se sei fuori dagli Stati Uniti questa azione va effettuata via telefono.",
         "notes_de": "Kontaktiere den Support um die Löschung zu beantragen. Wenn du außerhalb der USA bist, muss dies per Telefon geschehen.",
         "notes_pt_br": "Contate a assistência ao cliente e peça que sua conta seja deletada. Se você estiver fora dos EUA você deve fazer isso pelo telefone."
@@ -531,6 +544,7 @@
         "url": "http://www.fotka.pl/ustawienia/konto_usun",
         "difficulty": "medium",
         "notes": "To delete your account, you must not post anything for at least three days.",
+        "notes_fr":"Pour supprimer votre compte, ne postez rien pendant 3 jours.",
         "notes_it": "Per eliminare il tuo account, non devi pubblicare niente per almeno tre giorni.",
         "notes_de": "Um deinen Account zu löschen, schreibe nichts für mindestens drei Tage.",
         "notes_pt_br": "Para deletar sua conta, você deve postar nada por pelo menos três dias."
@@ -563,6 +577,7 @@
         "url": "https://ezcrypt.it/ML4n#ej6rorotmsxq7jF8ViyGjTVh",
         "difficulty": "easy",
         "notes": "/msg NickServ DROP nick password",
+        "notes_fr":"/msg NickServ DROP pseudo mot-de-passe",
         "notes_de":"/msg NickServ DROP Nutzername Passwort",
         "notes_pt_br": "/msg NickServ DROP apelido senha"
     },
@@ -713,6 +728,7 @@
         "url": "http://www.gopetition.com/",
         "difficulty": "easy",
         "notes": "Select a reason for closing and it'll take 2 clicks.",
+        "notes_fr":"Choisissez la raison de la suppression et cela se fait en 2 cliques.",
         "notes_de": "Wähle einen Grund für die Löschung und es wird nur 2 Klicks benötigen.",
         "notes_it": "Seleziona un motivo perchè stai chiudendo il tuo account e fatto",
         "notes_pt_br": "Selecione um motivo para fechar a conta e irá levar dois cliques."
@@ -724,6 +740,7 @@
         "difficulty": "easy",
         "notes": "Select a reason for closing and it'll take 2 clicks.",
         "notes_de": "Wähle einen Grund für die Löschung. Es braucht nur 2 clicks.",
+        "notes_fr":"Choisissez la raison de la suppression et cela se fait en 2 cliques.",
         "notes_it": "Logga il tuo account, quindi clicca su 'My Profile'. Vedrai un link 'Close my account'. Cliccaci e segui le istruzioni.",
         "notes_pt_br": "Selecione um motivo para fechar a conta e irá levar dois cliques."
     },
@@ -787,6 +804,7 @@
         "url": "https://dashboard.heroku.com/account",
         "difficulty": "easy",
         "notes": "“Close your account...” link at the bottom of the page.",
+        "notes_fr":"Lien 'Fermez mon compte...' en bas de la page.",
         "notes_it": "“Close your account...” link in fondo alla pagina",
         "notes_pt_br": "Link “Close your account...” no final da página."
     },
@@ -935,6 +953,7 @@
         "url": "https://drive.jolicloud.com/#/settings/account",
         "difficulty": "easy",
         "notes": "Click 'Delete Account' at the botom of the account preference page",
+        "notes_fr":"Cliquez 'Supprimer mon compte' en bas de la page.",
         "notes_it": "Clicca 'Delete Account' in fondo alla pagina delle preferenze.",
         "notes_pt_br": "Clique em 'Delete Accout' no final da página de preferências da conta"
     },
@@ -944,6 +963,7 @@
         "url": "https://www.jottacloud.com/account/delete",
         "difficulty": "easy",
         "notes": "Log in. Type in password. Press 'delete'.",
+        "notes_fr":"Loggez vous, tapez votre mot de passe, cliquez sur Delete.",
         "notes_it": "Log in. Digita la password. Premi 'delete'.",
         "notes_de": "Logge dich ein, tippe dein Passwort ein. Klicke auf 'delete'.",
         "notes_pt_br": "Logue-se. Digite sua senha. Pressione 'delete'."
