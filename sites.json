@@ -582,15 +582,8 @@
 
     {
         "name": "Fitocracy",
-        "url": "https://www.fitocracy.com/home/",
-        "difficulty": "hard",
-        "notes": "Send support a request to requests@fitocracy.com and they'll mark your account for deletion",
-        "notes_de": "Sende dem Support eine E-Mail an requests@fitoracy.com und sie werden deinen Account für die Löschung markieren.",
-        "notes_it": "Spedisci una email a requests@fitocracy.com e il tuo account verrà messo in coda per la cancellazione",
-        "notes_pt_br": "Envie ao suporte um pedido para requests@fitocracy.com e eles irão marcar sua conta para remoção",
-        "notes_cat": "Enviï a requests@fitocracy.com una petició per esborrar el seu compte, ells marcaran el compte per ser esborrat",
-        "notes_es": "Envie a requests@fitocracy.com una petición para borrar su cuenta, ellos marcarán la cuenta para ser borrada",
-        "email": "requests@fitocracy.com"
+        "url": "https://www.fitocracy.com/account/deletion/",
+        "difficulty": "easy",
     },
 
     {
