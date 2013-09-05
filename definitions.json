@@ -25,7 +25,7 @@
             "de": "Schwierigkeit",
             "fr": "difficulté",
             "ru": "Сложность",
-            "pt_br": "difficuldade",
+            "pt_br": "dificuldade",
             "cat": "dificultat",
             "es": "dificultad"
         },
@@ -216,7 +216,7 @@
             "de": "Translation contributors",
             "fr": "Traducteurs",
             "ru": "Участники перевода",
-            "pt_br": "Translation contributors",
+            "pt_br": "Colaboradores de Tradução",
             "cat": "Traductors col·laboradors",
             "es": "Traductores colaboradores"
         },
@@ -226,7 +226,7 @@
             "de": "More contributors",
             "fr": "Contributeurs",
             "ru": "Другие участники проекта",
-            "pt_br": "More contributors",
+            "pt_br": "Mais colaboradores",
             "cat": "Més col·laboradors",
             "es": "Más colaboradores"
         },
@@ -236,7 +236,7 @@
             "de": "View all contributors",
             "fr": "Voir tous les contributeurs",
             "ru": "Просмотреть список всех участников проекта",
-            "pt_br": "View all contributors",
+            "pt_br": "Ver todos os colaboradores",
             "cat": "Veure tots els col·laboradors",
             "es": "Ver todos los colaboradores"
         },
@@ -256,7 +256,7 @@
             "de": "Extension Dot Guide",
             "fr": "Extension Dot Guide",
             "ru": "Что означают точки",
-            "pt_br": "Extension Dot Guide",
+            "pt_br": "Guia da Simbologia da Extensão",
             "cat": "Guia del Punt de l'extensió",
             "es": "Guia del Punto de la extensión"
         },
@@ -326,9 +326,9 @@
             "de": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Kann ohne den jeweiligen Support zu kontaktieren nicht gelöscht werden",
             "fr": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Ne peut être totalement supprimé sans contacter le support",
             "ru": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Невозможно полностью удалить без обращения в службу поддержки",
-            "pt_br": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - No se puede suprimir permanentmente sin contactar con atención al cliente",
+            "pt_br": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Não pode ser totalmente deletada sem contatar a assistência ao cliente",
             "cat": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - No es pot suprimir permanentment sense contactar amb atenció al client",
-            "es": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Não pode ser totalmente deletada sem contatar a assistência ao cliente"
+            "es": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - No se puede suprimir permanentmente sin contactar con atención al cliente"
         },
         "extensionl4": {
             "en": "<span class=\"dot-wrapper\"><span class=\"dot impossible\"></span></span> - Cannot be deleted",
