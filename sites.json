@@ -436,6 +436,12 @@
     },
 
     {
+        "name": "Draft",
+        "url": "https://draftin.com/draft/users/edit",
+        "difficulty": "easy"
+    },
+
+    {
         "name": "Dribbble",
         "url": "http://dribbble.com/account",
         "difficulty": "easy"
