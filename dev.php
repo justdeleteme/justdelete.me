@@ -123,18 +123,19 @@
 
 	<!-- Facebook Like Button SDK -->
 	<div id="fb-root"></div>
-	<div class="ribbon"><a target="_blank" href="http://github.com/rmlewisuk/justdelete.me"><img src="inc/icons/gh-ribbon.png"></a></div>
-	<a href="https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf" target="_blank" class="banner">
-            <?php echo $banner ?>
-	</a>
+	<nav>
+		<!-- begin language switcher -->
+		<span class="language-switch" href="#" data-dropdown="#dropdown-1" id="<?php echo $lang; ?>"><?php echo $full_name; ?></span>
+		<!-- end language switcher -->
+		<a href="#" class="info">About</a>
+		<a href="#" class="banner">Chrome Extension</a>
+		<a target="_blank" href="https://docs.google.com/a/therobb.com/forms/d/1mhr3vaTni5U8PvOdp_NvQ6vKBxNTmJTeKP3VWRuioCE/viewform">Submit a site</a>
+		<a target="_blank" href="http://github.com/rmlewisuk/justdelete.me">Fork on GitHub</a>
+	</nav>
 
 	<header>
 		<h1>just<span>delete</span>.me</h1>
 		<p class="tagline"><?php echo $tagline ?></p>
-
-		<!-- begin language switcher -->
-		<span class="language-switch" href="#" data-dropdown="#dropdown-1" id="<?php echo $lang; ?>"><?php echo $full_name; ?></span>
-		<!-- end language switcher -->
 	</header>
 
 	<div id="test">
@@ -243,6 +244,9 @@
 				<ul>
 					<?php include 'contrib.php'; ?>
 					<li><a href='http://github.com/rmlewisuk/justdelete.me/contributors'><?php echo $viewcontrib; ?> &raquo;</a></li>
+				</ul>
+			
+				
 				</ul>
 			</div>
 		</div>
