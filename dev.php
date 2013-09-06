@@ -240,9 +240,10 @@
 				</ul>
 			</div><div class="info-block-half">
 				<h2><?php echo $morecontrib; ?></h2>
+
+				<?php echo $contributors; ?>
 			
 				<ul>
-					<?php include 'contrib.php'; ?>
 					<li><a href='http://github.com/rmlewisuk/justdelete.me/contributors'><?php echo $viewcontrib; ?> &raquo;</a></li>
 				</ul>
 			
