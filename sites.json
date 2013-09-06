@@ -571,7 +571,7 @@
         "notes_de": "Schreibe eine mail an den Kundensupport um die Löschung zu beantragen",
         "notes_pt_br": "Envie um e-mail para a assistência ao cliente para pedir a remoção.",
         "notes_cat": "Enviï un e-mail a l'assistència al client per demanar l'eliminació del compte.",
-        "notes_e": "Envie un e-mail a la asistencia al cliente para pedir la eliminación de la cuenta."
+        "notes_es": "Envie un e-mail a la asistencia al cliente para pedir la eliminación de la cuenta."
     },
 
     {
@@ -1115,7 +1115,7 @@
         "notes_de": "Logge dich ein, tippe dein Passwort ein. Klicke auf 'delete'.",
         "notes_pt_br": "Logue-se. Digite sua senha. Pressione 'delete'.",
         "notes_cat": "Entri al compte. Posi la seva contrassenya. Presioni 'delete'.",
-        "notes_cat": "Entre en la cuenta. Ponga su contraseña. Pulse 'delete'."
+        "notes_es": "Entre en la cuenta. Ponga su contraseña. Pulse 'delete'."
     },
 
     {
@@ -1126,7 +1126,7 @@
         "notes_it": "Spedisci una email a support@jsfiddle.net se desideri che il tuo account sia cancellato <a href='https://github.com/jsfiddle/jsfiddle-issues/issues/237'>More here</a>",
         "notes_pt_br": "Envie um pedido para support@jsfiddle.net se você deseja que sua conta seja deletada. <a href='https://github.com/jsfiddle/jsfiddle-issues/issues/237'>Mais aqui</a>",
         "notes_cat": "Enviï un mail a support@jsfiddle.net per demanar que eliminin el seu compte. <a href='https://github.com/jsfiddle/jsfiddle-issues/issues/237'>Més aquí</a>",
-        "notes_cat": "Envíe un mail a support@jsfiddle.net para pedir que eliminen su cuenta. <a href='https://github.com/jsfiddle/jsfiddle-issues/issues/237'>Más aquí</a>",
+        "notes_es": "Envíe un mail a support@jsfiddle.net para pedir que eliminen su cuenta. <a href='https://github.com/jsfiddle/jsfiddle-issues/issues/237'>Más aquí</a>",
         "email": "support@jsfiddle.net"
     },
 
@@ -1284,7 +1284,7 @@
         "notes_it": "Account Settings → Account Settings Drop-down → Close my account → Digita DELETE e premi il pulsante Delete Account.",
         "notes_pt_br": "Account Settings → Account Settings Drop-down → Close my account → Digite DELETE e pressione o botão Delete Account.",
         "notes_cat": "Account Settings → Account Settings Drop-down → Close my account → Marca DELETE i presioni el botó 'Delete Account'.",
-        "notes_cat": "Account Settings → Account Settings Drop-down → Close my account → Marca DELETE y presiona el botón 'Delete Account'."
+        "notes_es": "Account Settings → Account Settings Drop-down → Close my account → Marca DELETE y presiona el botón 'Delete Account'."
     },
 
     {
