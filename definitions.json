@@ -7,7 +7,8 @@
             "ru": "Just Delete Me | Каталог прямых ссылок для удаления вашего аккаунта с различных веб-сайтов",
             "pt_br": "Just Delete Me | Um diretório de links diretos para deletar sua conta em serviços da web.",
             "cat": "Just Delete Me | Un directori d'enllaços directes per eliminar els teus comptes dels diferents serveis d'internet.",
-            "es": "Just Delete Me | Un directorio de enlaces directos para eliminar sus cuentas de los diferentes servicios de internet."
+            "es": "Just Delete Me | Un directorio de enlaces directos para eliminar sus cuentas de los diferentes servicios de internet.",
+            "vi": "Just Delete Me | Danh mục những đường dẫn giúp bạn xóa tài khoản trên các mạng xã hội."
         },
         "description": {
             "en": "A directory of direct links to delete your account from web services. Find out how to delete your Facebook, Twitter, LinkedIn accounts and more.",
@@ -17,7 +18,8 @@
             "ru": "Каталог прямых ссылок для удаления вашего аккаунта с различных веб-сайтов",
             "pt_br": "Um diretório de links diretos para deletar sua conta em serviços da web. Descubra como deletar a sua conta no Facebook, Twitter, LinkedIn e outros.",
             "cat": "Un directori d'enllaços per eliminar els teus comptes dels diferents serveis d'internet. Descobreix com eliminar els comptes de Facebook, Twitter i altres.",
-            "es": "Un directorio de enllaces para eliminar sus cuentas de los diferentes servicios de internet. Descubra como eliminar sus cuentas de Facebook, Twitter y otros."
+            "es": "Un directorio de enllaces para eliminar sus cuentas de los diferentes servicios de internet. Descubra como eliminar sus cuentas de Facebook, Twitter y otros.",
+            "vi": "Danh mục những đường dẫn giúp bạn xóa tài khoản trên các mạng xã hội. Hãy tìm cách xóa tài khoản Facebook, Twitter, LinkedIn và nhiều hơn nữa."
         },
         "difficulty": {
             "en": "difficulty",
@@ -27,7 +29,8 @@
             "ru": "Сложность",
             "pt_br": "dificuldade",
             "cat": "dificultat",
-            "es": "dificultad"
+            "es": "dificultad",
+            "en": "độ khó"
         },
         "difficulty_easy": {
             "en": "easy",
@@ -37,7 +40,8 @@
             "ru": "легко",
             "pt_br": "fácil",
             "cat": "fàcil",
-            "es": "fácil"
+            "es": "fácil",
+            "vi": "dễ"
         },
         "difficulty_medium": {
             "en": "medium",
@@ -47,7 +51,8 @@
             "ru": "средний",
             "pt_br": "média",
             "cat": "mitja",
-            "es": "media"
+            "es": "media",
+            "vi": "trung bình"
         },
         "difficulty_hard": {
             "en": "hard",
@@ -57,7 +62,8 @@
             "ru": "трудно",
             "pt_br": "difícil",
             "cat": "difícil",
-            "es": "difícil"
+            "es": "difícil",
+            "vi": "khó"
         },
         "difficulty_impossible": {
             "en": "impossible",
@@ -67,7 +73,8 @@
             "ru": "невозможно",
             "pt_br": "impossível",
             "cat": "impossible",
-            "es": "imposible"
+            "es": "imposible",
+            "vi": "không thể"
         },
         "tagline": {
             "en": "A directory of direct links to delete your account from web services.",
@@ -77,7 +84,8 @@
             "ru": "Каталог прямых ссылок для удаления аккаунта с веб-сайтов",
             "pt_br": "Um diretório de links diretos para deletar sua conta em serviços da web.",
             "cat": "Un directori d'enllaços directes per suprimir els seus comptes de la web.",
-            "es": "Un directorio de enlaces directos para eliminar sus cuentas en la web"
+            "es": "Un directorio de enlaces directos para eliminar sus cuentas en la web",
+            "vi": "Danh mục những đường dẫn giúp bạn xóa tài khoản trên các mạng xã hội."
         },
         "noinfo": {
             "en": "No Info Available",
@@ -87,7 +95,8 @@
             "ru": "Информация недоступна",
             "pt_br": "Nenhuma Informação Disponível",
             "cat": "No hi ha informació disponible",
-            "es": "No hay información disponible"
+            "es": "No hay información disponible",
+            "vi": "Không có thông tin"
 
         },
         "showinfo": {
@@ -98,7 +107,8 @@
             "ru": "показать информацию...",
             "pt_br": "exibir informações...",
             "cat": "mostrar informació",
-            "es": "mostrar información"
+            "es": "mostrar información",
+            "vi": "xem thông tin..."
         },
         "hideinfo": {
             "en": "hide info...",
@@ -108,7 +118,8 @@
             "ru": "скрыть информацию...",
             "pt_br": "esconder informações...",
             "cat": "amagar informació",
-            "es": "esconder información"
+            "es": "esconder información",
+            "vi": "ẩn thông tin..."
         },
         "whatisthis": {
             "en": "What is this?",
@@ -118,7 +129,8 @@
             "ru": "Что это?",
             "pt_br": "O que é isto?",
             "cat": "Que es això?",
-            "es": "¿Que es esto?"
+            "es": "¿Que es esto?",
+            "vi": "Cái gì đây?"
         },
         "whatisthis1": {
             "en": "Many companies use <a href=\"http://darkpatterns.org/\">dark pattern</a> techniques to make it difficult to find how to delete your account. JustDelete.me aims to be a directory of urls to enable you to easily delete your account from web services.",
@@ -128,7 +140,8 @@
             "ru": "Многие компании используют технологию <a href=\"http://darkpatterns.org/\">dark pattern</a> для того, чтобы усложнить процесс удаления аккаунта. Каталог ссылок JustDelete.me призван помочь вам с легкостью удалить аккаунт с веб-сайта",
             "pt_br": "Diversas companhias usam técnicas <a href=\"http://darkpatterns.org/\">dark pattern</a> para tornar difícil encontrar como deletar sua conta. JustDelete.me tem por objetivo ser um diretório de urls que tornem fácil a remoção de sua conta em serviços da web.",
             "cat": "Nombroses companyies usen una técnica anomenada <a href=\"http://darkpatterns.org/\">dark pattern</a> per dificultar l'eliminació dels comptes d'usuari als seus serveis online. JustDelete.me busca ser un directori on centralitzar els enllaços per eliminar facilment les vostres comptes de la web.",
-            "es": "Numerosas empresas usan una tecnica llamada <a href=\"http://darkpatterns.org/\">dark pattern</a> para dificultar la eliminación de cuentas de usuario en sus servicios web. JustDelete.me busca ser un directorio donde centralizar los enlaces para eliminar facilmente sus cuentas online."
+            "es": "Numerosas empresas usan una tecnica llamada <a href=\"http://darkpatterns.org/\">dark pattern</a> para dificultar la eliminación de cuentas de usuario en sus servicios web. JustDelete.me busca ser un directorio donde centralizar los enlaces para eliminar facilmente sus cuentas online.",
+            "vi": "Nhiều tổ chức dùng thuật toán <a href=\"http://darkpatterns.org/\">dark pattern</a> làm người dùng khó có thể tìm ra cách xóa hoàn toàn tài khoản của họ. JustDelete.me được tạo ra nhằm cung cấp những đường dẫn giúp bạn xóa bỏ tài khoản của mình trên các trang web dịch vụ."
         }, 
         "whatisthis2": {
             "en": "Got a site you think should be added? <a href=\"http://github.com/rmlewisuk/justdelete.me\">Fork the project GitHub</a>.",
@@ -138,7 +151,8 @@
             "ru": "Есть сайт, который неободимо добавить? <a href=\"http://github.com/rmlewisuk/justdelete.me\">Fork the project GitHub</a>.",
             "pt_br": "Sabe de um site que você acha que deve ser adicionado? <a href=\"http://github.com/rmlewisuk/justdelete.me\">Faça um Fork do projeto no GitHub</a>.",
             "cat": "Creus que es podría posar algun altre servei web a la llista? <a href=\"http://github.com/rmlewisuk/justdelete.me\">Fes un Fork del projecte a GitHub.</a>",
-            "es": "Crees que se podría poner algun otro servicio web más en la lista? <a href=\"http://github.com/rmlewisuk/justdelete.me\">Haz un Fork del proyecto en GitHub.</a>"
+            "es": "Crees que se podría poner algun otro servicio web más en la lista? <a href=\"http://github.com/rmlewisuk/justdelete.me\">Haz un Fork del proyecto en GitHub.</a>",
+            "vi": "Bạn nghĩ nên bổ sung đường dẫn cho một website? <a href=\"http://github.com/rmlewisuk/justdelete.me\">Gia nhập dự án GitHub</a>."
         },
         "whatisthis3": {
             "en": "<em>Email submission is temporarily disabled</em>",
@@ -148,7 +162,8 @@
             "ru": "<em>Прием сообщений по электронной почте временно приостановлен</em>",
             "pt_br": "<em>Envio por e-mails está temporariamente desabilitado</em>",
             "cat": "<em>El servei de captació d'emails està temporalment inhabilitat</em>",
-            "es": "<em>El servício de captación de emails está temporalmente inhabilitado</em>"
+            "es": "<em>El servício de captación de emails está temporalmente inhabilitado</em>",
+            "vi": "<em>Email thông báo tạm thời ngừng hoạt động</em>"
         },
         "guide": {
             "en": "Guide",
@@ -158,7 +173,8 @@
             "ru": "Руководство",
             "pt_br": "Guia",
             "cat": "Guia",
-            "es": "Guia"
+            "es": "Guia",
+            "vi": "Hướng dẫn"
         },
         "guideexplanations": {
             "en": "The links above are colour-coded to indicate the difficulty level of account deletion:",
@@ -168,7 +184,8 @@
             "ru": "Сслыки выше выделены цветом, для обозначения уровня сложности удаления аккаунта:",
             "pt_br": "Os links acima possuem cores baseados no nível de dificuldade para deletar a conta:",
             "cat": "Els enllaços de la part superior s'han classificat amb un codi de colors per indicar la dificultat per suprimir el compte:",
-            "es": "Los enlaces de la parte superior se han clasificado con un codigo de colores para indicar la dificultad para suprimir la cuenta:"
+            "es": "Los enlaces de la parte superior se han clasificado con un codigo de colores para indicar la dificultad para suprimir la cuenta:",
+            "vi": "Những đường dẫn trên được đánh dấu bằng màu theo độ khó của việc xóa tài khoản:"
         },
         "guideeasy": {
             "en": "<span class=\"green\">Easy</span> - Simple process",
@@ -178,7 +195,8 @@
             "ru": "<span class=\"green\">Легко</span> - Простой процесс",
             "pt_br": "<span class=\"green\">Fácil</span> - Processo simples",
             "cat": "<span class=\"green\">Fàcil</span> - Procés simple",
-            "es": "<span class=\"green\">Fácil</span> - Proceso simple"
+            "es": "<span class=\"green\">Fácil</span> - Proceso simple",
+            "vi": "<span class=\"green\">Dễ</span> - Chỉ vài thao tác đơn giản"
         },
         "guidemedium": {
             "en": "<span class=\"yellow\">Medium</span> - Some extra steps involved",
@@ -188,7 +206,8 @@
             "ru": "<span class=\"yellow\">Средний</span> - Необходимы дополнительные действия",
             "pt_br": "<span class=\"yellow\">Média</span> - Alguns passos extras necessários",
             "cat": "<span class=\"yellow\">Mitja</span> - S'han de fer alguns passos extra",
-            "es": "<span class=\"yellow\">Media</span> - Se tendrán que hacer algunos pasos extra"
+            "es": "<span class=\"yellow\">Media</span> - Se tendrán que hacer algunos pasos extra",
+            "vi": "<span class=\"yellow\">Trung bình</span> - Cần có một số thao tác bổ sung"
         },
         "guidehard": {
             "en": "<span class=\"red\">Hard</span> - Cannot be fully deleted without contacting customer services",
@@ -198,7 +217,8 @@
             "ru": "<span class=\"red\">Трудно</span> - Нельзя полностью удалить без обращения в службу поддержки",
             "pt_br": "<span class=\"red\">Difícil</span> - Não pode ser totalmente deletada sem contatar a assistência ao cliente",
             "cat": "<span class=\"red\">Difícil</span> - No es pot suprimir permanentment sense contactar amb atenció al client",
-            "es": "<span class=\"red\">Difícil</span> - No se puede suprimir permanentmente sin contactar con atención al cliente"
+            "es": "<span class=\"red\">Difícil</span> - No se puede suprimir permanentmente sin contactar con atención al cliente",
+            "vi": "<span class=\"red\">Khó</span> - Không thể xóa bỏ tài khoản một cách hoàn toàn"
         },
         "guideimpossible": {
             "en": "<span class=\"black\">Impossible</span> - Cannot be deleted",
@@ -208,7 +228,8 @@
             "ru": "<span class=\"black\">Невозможно</span> - Невозможно удалить",
             "pt_br": "<span class=\"black\">Impossível</span> - Não pode ser deletada",
             "cat": "<span class=\"black\">Impossíble</span> - No pot ser suprimida",
-            "es": "<span class=\"black\">Imposible</span> - No puede ser eliminada"
+            "es": "<span class=\"black\">Imposible</span> - No puede ser eliminada",
+            "vi": "<span class=\"black\">Impossible</span> - Không thể xóa được"
         },
         "translationcontrib": {
             "en": "Translation contributors",
@@ -218,7 +239,8 @@
             "ru": "Участники перевода",
             "pt_br": "Colaboradores de Tradução",
             "cat": "Traductors col·laboradors",
-            "es": "Traductores colaboradores"
+            "es": "Traductores colaboradores",
+            "vi": "Nhóm biên dịch"
         },
         "morecontrib": {
             "en": "More contributors",
@@ -228,7 +250,8 @@
             "ru": "Другие участники проекта",
             "pt_br": "Mais colaboradores",
             "cat": "Més col·laboradors",
-            "es": "Más colaboradores"
+            "es": "Más colaboradores",
+            "vi": "Những người có đóng góp"
         },
         "viewcontrib": {
             "en": "View all contributors",
@@ -238,7 +261,8 @@
             "ru": "Просмотреть список всех участников проекта",
             "pt_br": "Ver todos os colaboradores",
             "cat": "Veure tots els col·laboradors",
-            "es": "Ver todos los colaboradores"
+            "es": "Ver todos los colaboradores",
+            "vi": "Xem tất cả các thành viên"
         },
         "extension": {
             "en": "Google Chrome Extension",
@@ -248,7 +272,8 @@
             "ru": "Расширение для Google Chrome",
             "pt_br": "Extensão do Google Chrome",
             "cat": "Extensió per a Google Chrome",
-            "es": "Extensión para Google Chrome"
+            "es": "Extensión para Google Chrome",
+            "vi": "Tiện ích cho Google Chrome"
         },
         "extensionguide": {
             "en": "Extension Dot Guide",
@@ -258,7 +283,8 @@
             "ru": "Что означают точки",
             "pt_br": "Guia da Simbologia da Extensão",
             "cat": "Guia del Punt de l'extensió",
-            "es": "Guia del Punto de la extensión"
+            "es": "Guia del Punto de la extensión",
+            "vi": "Hướng dẫn dùng Tiện ích"
         },
         "extensionp1": {
             "en": "Our good friend <a target=\"_blank\" href=\"http://mikerogers.io\">Mike Rogers</a> has helped us to release an awesome Google Chrome Extension for JustDelete.me.",
@@ -268,7 +294,8 @@
             "ru": "Наш хороший друг <a target=\"_blank\" href=\"http://mikerogers.io\">Mike Rogers</a> помог нам выпустить прекрасное расширение JustDelete.me для Google Chrome.",
             "pt_br": "Nosso bom amigo <a target=\"_blank\" href=\"http://mikerogers.io\">Mike Rogers</a> nos ajudou a lançar uma incrível Extensão do Google Chrome para o JustDelete.me.",
             "cat": "El nostre amic <a target=\"_blank\" href=\"http://mikerogers.io\">Mike Rogers</a> ens ha ajudat a llançar aquesta increible Extensió de Google Chrome per a JustDelete.me.",
-            "es": "Nuestro buen amigo <a target=\"_blank\" href=\"http://mikerogers.io\">Mike Rogers</a> nos ha ayudado a lanzar esta increible Extensión de Google Chrome para JustDelete.me."
+            "es": "Nuestro buen amigo <a target=\"_blank\" href=\"http://mikerogers.io\">Mike Rogers</a> nos ha ayudado a lanzar esta increible Extensión de Google Chrome para JustDelete.me.",
+            "vi": "Người bạn tốt của chúng tôi <a target=\"_blank\" href=\"http://mikerogers.io\">Mike Rogers</a> đã giúp chúng tôi phát hành Tiện ích cho Google Chrome của JustDelete.me."
         },
         "extensionp2": {
             "en": "When you are on a website that is listed on justdelete.me, the Chrome Extension will add a small dot to the omnibar. Clicking on this dot will take you to the relevant delete page.",
@@ -278,7 +305,8 @@
             "ru": "Когда вы находитесь на сайте, который есть в списке justdelete.me, расширения для Chrome добавить маленькую точку в оминбар. Кликнув на эту точку, вы попадете на подходящую страницу для удаления.",
             "pt_br": "Quando você estiver em um site que está listado no justdelete.me, a Extensão do Chrome irá adicionar um pequeno ponto na omnibar. Clicando neste ponto irá levar você até a página para deletar sua conta.",
             "cat": "Si entres a una web identificada per JustDelete.me, l'extensió et mostrarà un punt a l'omnibar. Clicant a aquell punt, et portarà directament a la pàgina per esborrar el compte.",
-            "es": "Si entras a una web identificada por JustDelete.me, la extensión te mostrarà un punto a la omnibar. Clicando a ese punto, te llevará directamente a la página para borrar el ctu cuenta."
+            "es": "Si entras a una web identificada por JustDelete.me, la extensión te mostrarà un punto a la omnibar. Clicando a ese punto, te llevará directamente a la página para borrar el ctu cuenta.",
+            "vi": "Khi bạn truy cập một trang web đã được liệt kê tại justdelete.me, Tiện ích Chrome sẽ hiện một dấu chấm nhỏ trên thanh đường dẫn. Nhấn vào dấu chấm này sẽ đưa bạn tới trang xóa tài khoản."
         },
         "extensionp3": {
             "en": "To install it, simply proceed to the <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome Web Store</a>.",
@@ -288,7 +316,8 @@
             "ru": "Для того чтобы установить расширение, просто перейдите в <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome Web Store</a>.",
             "pt_br": "Para instalá-la, acesse a <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome Web Store</a>.",
             "cat": "Per instal·lar-la, entra a la <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome Web Store</a>.",
-            "es": "Para instalarla, entre en la <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome Web Store</a>."
+            "es": "Para instalarla, entre en la <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome Web Store</a>.",
+            "vi": "Để cài đặt, hãy đi tới <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome Web Store</a>."
         },
         "extensionl1": {
             "en": "<span class=\"dot-wrapper\"><span class=\"dot easy\"></span></span> - Simple process",
@@ -298,7 +327,8 @@
             "ru": "<span class=\"dot-wrapper\"><span class=\"dot easy\"></span></span> - Простой процесс",
             "pt_br": "<span class=\"dot-wrapper\"><span class=\"dot easy\"></span></span> - Processo simples",
             "cat": "<span class=\"dot-wrapper\"><span class=\"dot easy\"></span></span> - Procés simple",
-            "es": "<span class=\"dot-wrapper\"><span class=\"dot easy\"></span></span> - Proceso simple"
+            "es": "<span class=\"dot-wrapper\"><span class=\"dot easy\"></span></span> - Proceso simple",
+            "vi": "<span class=\"dot-wrapper\"><span class=\"dot easy\"></span></span> - Tiến hành đơn giản"
         },
         "extensionl2": {
             "en": "<span class=\"dot-wrapper\"><span class=\"dot medium\"></span></span> - Some extra steps involved",
@@ -308,7 +338,8 @@
             "ru": "<span class=\"dot-wrapper\"><span class=\"dot medium\"></span></span> -  Нужны дополнительные действия",
             "pt_br": "<span class=\"dot-wrapper\"><span class=\"dot medium\"></span></span> - Alguns passos extras necessários",
             "cat": "<span class=\"dot-wrapper\"><span class=\"dot medium\"></span></span> - S'han de fer alguns passos extra",
-            "es": "<span class=\"dot-wrapper\"><span class=\"dot medium\"></span></span> -  Se tendrán que hacer algunos pasos extra"
+            "es": "<span class=\"dot-wrapper\"><span class=\"dot medium\"></span></span> -  Se tendrán que hacer algunos pasos extra",
+            "vi": "<span class=\"dot-wrapper\"><span class=\"dot medium\"></span></span> - Cần thêm một số bước bổ sung"
         },
         "extensionl3": {
             "en": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Cannot be fully deleted without contacting customer-services",
@@ -318,7 +349,8 @@
             "ru": "<span class=\"dot-wrapper\"><span class=\"dot medium\"></span></span> -  Нужны дополнительные действия",
             "pt_br": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Não pode ser totalmente deletada sem contatar a assistência ao cliente",
             "cat": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - No es pot suprimir permanentment sense contactar amb atenció al client",
-            "es": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Não pode ser totalmente deletada sem contatar a assistência ao cliente"
+            "es": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Não pode ser totalmente deletada sem contatar a assistência ao cliente",
+            "vi": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Không thể xóa được nếu không liên lạc với bộ phận dịch vụ khách hàng"
         },
         "extensionl3": {
             "en": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Cannot be fully deleted without contacting customer-services",
@@ -328,7 +360,8 @@
             "ru": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Невозможно полностью удалить без обращения в службу поддержки",
             "pt_br": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Não pode ser totalmente deletada sem contatar a assistência ao cliente",
             "cat": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - No es pot suprimir permanentment sense contactar amb atenció al client",
-            "es": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - No se puede suprimir permanentmente sin contactar con atención al cliente"
+            "es": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - No se puede suprimir permanentmente sin contactar con atención al cliente",
+            "vi": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Không thể xóa được nếu không liên lạc với bộ phận dịch vụ khách hàng"
         },
         "extensionl4": {
             "en": "<span class=\"dot-wrapper\"><span class=\"dot impossible\"></span></span> - Cannot be deleted",
@@ -338,7 +371,8 @@
             "ru": "<span class=\"dot-wrapper\"><span class=\"dot impossible\"></span></span> - Невозможно удалить",
             "pt_br": "<span class=\"dot-wrapper\"><span class=\"dot impossible\"></span></span> - Não pode ser deletada",
             "cat": "<span class=\"dot-wrapper\"><span class=\"dot impossible\"></span></span> - No pot ser suprimida",
-            "es": "<span class=\"dot-wrapper\"><span class=\"dot impossible\"></span></span> - No puede ser eliminada"
+            "es": "<span class=\"dot-wrapper\"><span class=\"dot impossible\"></span></span> - No puede ser eliminada",
+            "vi": "<span class=\"dot-wrapper\"><span class=\"dot impossible\"></span></span> - Không thể xóa được"
         },
         "banner": {
             "en": "Try our new <span>Chrome Extension</span>",
@@ -348,7 +382,8 @@
             "ru": "Попробуйте наше новое <span>расширение для Chrome</span>",
             "pt_br": "Experimente a nossa nova <span>Extensão do Chrome</span>",
             "cat": "Prova la nostra nova  <span>Extensió de Chrome</span>",
-            "es": "Prueba nuestra nueva <span>Extensión de Chrome</span>"
+            "es": "Prueba nuestra nueva <span>Extensión de Chrome</span>",
+            "vi": "Hãy thử <span>Tiện ích cho Chrome</span> mới của chúng tôi"
         },
         "footer": {
             "en": "Made by <a href=\"http://robblewis.me\">Robb Lewis</a> and <a href=\"http://edpoole.me\">Ed Poole</a> | Fork on <a href=\"http://github.com/rmlewisuk/justdelete.me\">GitHub</a> | Hosted by <a href=\"http://www.mediatemple.net/#a_aid=521a8aefe4c3b\">Media Temple</a> | Analytics by <a href=\"https://t.co/fvPnva7p4Y\">GoSquared</a>",
@@ -358,7 +393,8 @@
             "ru": "Сделали <a href=\"http://robblewis.me\">Robb Lewis</a> и <a href=\"http://edpoole.me\">Ed Poole</a> | Fork on <a href=\"http://github.com/rmlewisuk/justdelete.me\">GitHub</a> | Хостинг <a href=\"http://www.mediatemple.net/#a_aid=521a8aefe4c3b\">Media Temple</a> | Статистика <a href=\"https://t.co/fvPnva7p4Y\">GoSquared</a>",
             "pt_br": "Criado por <a href=\"http://robblewis.me\">Robb Lewis</a> e <a href=\"http://edpoole.me\">Ed Poole</a> | Fork em <a href=\"http://github.com/rmlewisuk/justdelete.me\">GitHub</a> | Hospedado por <a href=\"http://www.mediatemple.net/#a_aid=521a8aefe4c3b\">Media Temple</a> | Analytics por <a href=\"https://t.co/fvPnva7p4Y\">GoSquared</a>",
             "cat": "Creat per <a href=\"http://robblewis.me\">Robb Lewis</a> e <a href=\"http://edpoole.me\">Ed Poole</a> | Fork a <a href=\"http://github.com/rmlewisuk/justdelete.me\">GitHub</a> | Hospedado por <a href=\"http://www.mediatemple.net/#a_aid=521a8aefe4c3b\">Media Temple</a> | Analytics per <a href=\"https://t.co/fvPnva7p4Y\">GoSquared</a>",
-            "es": "Criado por <a href=\"http://robblewis.me\">Robb Lewis</a> e <a href=\"http://edpoole.me\">Ed Poole</a> | Fork en <a href=\"http://github.com/rmlewisuk/justdelete.me\">GitHub</a> | Hospedado por <a href=\"http://www.mediatemple.net/#a_aid=521a8aefe4c3b\">Media Temple</a> | Analytics por <a href=\"https://t.co/fvPnva7p4Y\">GoSquared</a>"
+            "es": "Criado por <a href=\"http://robblewis.me\">Robb Lewis</a> e <a href=\"http://edpoole.me\">Ed Poole</a> | Fork en <a href=\"http://github.com/rmlewisuk/justdelete.me\">GitHub</a> | Hospedado por <a href=\"http://www.mediatemple.net/#a_aid=521a8aefe4c3b\">Media Temple</a> | Analytics por <a href=\"https://t.co/fvPnva7p4Y\">GoSquared</a>",
+            "vi": "Lập ra bởi <a href=\"http://robblewis.me\">Robb Lewis</a> và <a href=\"http://edpoole.me\">Ed Poole</a> | Lưu trữ tại <a href=\"http://github.com/rmlewisuk/justdelete.me\">GitHub</a> | Máy chủ tại <a href=\"http://www.mediatemple.net/#a_aid=521a8aefe4c3b\">Media Temple</a> | Thống kê bởi <a href=\"https://t.co/fvPnva7p4Y\">GoSquared</a>"
         },
         "help": {
             "en": "Help translate",
@@ -368,7 +404,8 @@
             "ru": "Помогайте переводить",
             "pt_br": "Ajude a traduzir",
             "cat": "Ajuda a traduir",
-            "es": "Ayude a traducir"
+            "es": "Ayude a traducir",
+            "vi": "Biên dịch"
         },
         "donate": {
             "en": "Hosting costs money. If you like JustDelete.me, please consider making a donation.",
@@ -378,7 +415,8 @@
             "ru": "Хостинг стоит денег. Если вам понравился JustDelete.me, пожалуйста, сделайте пожертвование.",
             "pt_br": "Hospedagem custa dinheiro. Se você gosta do JustDelete.me, por favor considere fazer uma doação.",
             "cat": "El servei d'allotjament d'aquesta web d'ajuda costa diners, si t'agrada JustDelete.me, considera fer una donació, si us plau.",
-            "es": "El servicio de alojamiento de esta web de ayuda cuesta dinero, si te gusta JustDelete.me, considera hacer una donación, porfavor."
+            "es": "El servicio de alojamiento de esta web de ayuda cuesta dinero, si te gusta JustDelete.me, considera hacer una donación, porfavor.",
+            "vi": "Chúng tôi phải chi trả chi phí để duy trì trang web. Nếu bạn thích JustDelete.me, hãy nhở ủng hộ chúng tôi."
         },
         "sendmail": {
             "en": "Send email",
@@ -389,6 +427,7 @@
             "pt_br": "Enviar e-mail",
             "cat": "Envia un e-mail",
             "es": "Enviar e-mail"
+            "vi": "Gửi email"
         },
         "submit": {
             "en": "Submit a site",
@@ -398,6 +437,7 @@
             "ru": "Submit a site",
             "pt_br": "Submit a site",
             "cat": "Submit a site",
-            "es": "Submit a site"
+            "es": "Submit a site",
+            "vi": "Thêm một trang web vào danh sách"
         }
     }]
