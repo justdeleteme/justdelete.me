@@ -2,6 +2,8 @@
 	
 	$langs = ['en', 'it', 'de', 'fr', 'ru', 'pt_br', 'cat', 'es', 'vi'];
 
+	include 'contrib.php';
+
 	foreach ($langs as $language)
 	{
 		// start the output buffer
