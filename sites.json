@@ -1288,6 +1288,12 @@
         "notes_cat": "Ha de tornar tots els discs físics, el seu compte estarà en “cancelament pendent” fins que es rebin els discs.",
         "notes_es": "Debe devolver todos los discos físicos, su cuenta estará en “cancelament pendiente” hasta que se reciban los discos."
     },
+    
+    {
+        "name": "Lumi",
+        "url": "https://lumi.do/account/privacy/delete/user",
+        "difficulty": "easy"
+    },
 
     {
         "name": "MailChimp",
