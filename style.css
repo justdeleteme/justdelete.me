@@ -616,6 +616,7 @@ footer a:hover, .info-container a:hover {
 .dropdown .pt_br A, .pt_br A { background-image: url(inc/icons/flags/pt_br16.png); }
 .dropdown .cat A, .cat A { background-image: url(inc/icons/flags/cat16.png); }
 .dropdown .vi A, .vi A { background-image: url(inc/icons/flags/vi16.png); }
+.dropdown .tr A, .tr A { background-image: url(inc/icons/flags/tr16.png); }
 
 #en { 
 	background-image: url(./inc/icons/flags/en24.png);
@@ -667,6 +668,12 @@ footer a:hover, .info-container a:hover {
 
 #vi {
 	background-image: url(./inc/icons/flags/vi24.png);
+	background-repeat:no-repeat;
+	background-position: left center;
+}
+
+#tr {
+	background-image: url(./inc/icons/flags/tr24.png);
 	background-repeat:no-repeat;
 	background-position: left center;
 }
