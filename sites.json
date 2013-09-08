@@ -521,6 +521,13 @@
     },
 
     {
+        "name": "eRepublik",
+        "url": "http://www.erepublik.com/en/contact/none/none",
+        "difficulty": "hard",
+        "notes": "Create new Game Support ticket to request account removal."
+    },
+
+    {
         "name": "Etsy",
         "url": "http://www.etsy.com/help/article/53",
         "difficulty": "hard",
