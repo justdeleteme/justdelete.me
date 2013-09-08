@@ -1,19 +1,14 @@
 <?php
-	// $data = file_get_contents("https://api.github.com/repos/rmlewisuk/justdelete.me/contributors");
-	$data = json_decode(file_get_contents('https://api.github.com/repos/rmlewisuk/justdelete.me/contributors'));
 
-	$x=0;
-	$contribs = [];
-	while($x<=4)
-  	{	
-  		$length = sizeof($data) - 1;
-  		$random = rand(0, $length);
-  		while (in_array($random, $contribs)) {
-  			$random = rand(0, $length);
-  		}
-  		$contribs[] = $random;
+  $data = json_decode( file_get_contents( 'https://api.github.com/repos/rmlewisuk/justdelete.me/contributors' ) );
+  shuffle( $data );
 
-  		echo "<li><a href='http://github.com/" . $data[$random]->login . "'>" . $data[$random]->login . "</a></li>";
-  		$x++;
-  	}
+  foreach ( array_slice( $data, 0, 5 ) AS $contributor ) {
+      printf(
+          '<li><a href="http://github.com/%s">%s</a></li>',
+          $contributor->login,
+          $contributor->login
+      );
+  }
+  
 ?>
