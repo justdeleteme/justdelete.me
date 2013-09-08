@@ -195,6 +195,12 @@
     },
 
     {
+        "name": "Booking",
+        "url": "https://secure.booking.com/login.en-us.html?tmpl=profile/delete_account",
+        "difficulty": "easy"
+    },
+
+    {
         "name": "Box",
         "url": "https://app.box.com/settings",
         "difficulty": "easy"
