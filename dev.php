@@ -236,7 +236,7 @@
 		        	<li class="fr"><a href="https://github.com/p1rox">Armand Vignat</a></li>
 		        	<li class="ru"><a href="https://github.com/morozd">morozd</a></li>
 		        	<li class="pt_br"><a href="https://github.com/mkbu95">Matheus Macabu</a></li>
-		        	<li class="cat"><a href="https://github.com/rockbdn">JP Queralt</a></li>
+		        	<li class="cat"><a href="https://github.com/rockbdn">JP Queralt (+ Español)</a></li>
 		        	<li class="vi"><a href="https://github.com/giangnb">Giang Nguyen</a></li>
 				</ul>
 			</div><div class="info-block-half">
