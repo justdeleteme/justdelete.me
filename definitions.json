@@ -35,7 +35,7 @@
             "pt_br": "dificuldade",
             "cat": "dificultat",
             "es": "dificultad",
-            "vi": "độ khó",
+            "vi": "mức độ",
             "tr": "zorluk",
             "ar":"الصعوبة"
         },
@@ -416,7 +416,7 @@
             "pt_br": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Não pode ser totalmente deletada sem contatar a assistência ao cliente",
             "cat": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - No es pot suprimir permanentment sense contactar amb atenció al client",
             "es": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - No se puede suprimir permanentmente sin contactar con atención al cliente",
-            "vi": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Không thể xóa được nếu không liên lạc với bộ phận dịch vụ khách hàng",
+            "vi": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Không xóa được nếu không liên hệ bộ phận dịch vụ khách hàng",
             "tr": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Müşteri hizmetleri ile irtibat kurmak'sız silinemez",
             "ar":"<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - لا يمكن حذفه بصفة نهائية إلا عند الاتصال بالدعم"
         },
