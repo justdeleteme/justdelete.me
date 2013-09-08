@@ -1374,6 +1374,13 @@
         "notes_cat": "“Cancel your account” al final de la pàgina.",
         "notes_es": "“Cancel your account” al final de la página."
     },
+    
+    {
+        "name": "My Opera",
+        "url": "http://my.opera.com/community/contact/myopera/?selected=delete",
+        "difficulty": "hard",
+        "notes": "Use the form to contact community support and ask for deleting your account."
+    },
 
     {
         "name": "MyLife.com",
