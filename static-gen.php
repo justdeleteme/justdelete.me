@@ -1,6 +1,6 @@
 <?php
 	
-	$langs = ['en', 'it', 'de', 'fr', 'ru', 'pt_br', 'cat', 'es', 'vi', 'tr'];
+	$langs = ['en', 'it', 'de', 'fr', 'ru', 'pt_br', 'cat', 'es', 'vi', 'tr', 'ar'];
 
 	include 'contrib.php';
 
@@ -42,6 +42,9 @@
 		}
 		if ($lang == "tr") {
 			$full_name = "Türk";
+		}
+		if ($lang == "ar") {
+			$full_name = "العربية";
 		}
 		
 		include ('dev.php');

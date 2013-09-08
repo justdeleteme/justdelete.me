@@ -245,6 +245,7 @@
 		        	<li class="cat"><a href="https://github.com/rockbdn">JP Queralt (+ Español)</a></li>
 		        	<li class="vi"><a href="https://github.com/giangnb">Giang Nguyen</a></li>
 		        	<li class="tr"><a href="https://github.com/MarioErmando">Erman Sayın</a></li>
+		        	<li class="ar"><a href="https://github.com/adahhane">Dahhane Ayyoub</a></li>
 
 				</ul>
 			</div><div class="info-block-half">
@@ -326,6 +327,7 @@
 	        <li class="cat"><a href="cat.html">Català</a></li>
 	        <li class="vi"><a href="vi.html">Việt</a></li>
 	        <li class="tr"><a href="tr.html">Türk</a></li>
+	        <li class="ar"><a href="ar.html">العربية</a></li>
 	        <li class="dropdown-divider"></li>
 	        <li class="help"><a target="_blank" href="https://github.com/rmlewisuk/justdelete.me/issues/164"><?php echo $help_translate; ?></a></li>
 	    </ul>
