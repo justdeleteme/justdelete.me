@@ -237,6 +237,7 @@
 		        	<li class="ru"><a href="https://github.com/morozd">morozd</a></li>
 		        	<li class="pt_br"><a href="https://github.com/mkbu95">Matheus Macabu</a></li>
 		        	<li class="cat"><a href="https://github.com/rockbdn">JP Queralt</a></li>
+		        	<li class="vi"><a href="https://github.com/giangnb">Giang Nguyen</a></li>
 				</ul>
 			</div><div class="info-block-half">
 				<h2><?php echo $morecontrib; ?></h2>
@@ -316,6 +317,7 @@
 	        <li class="pt_br"><a href="pt_br.html">Português</a></li>
 	        <li class="es"><a href="es.html">Español</a></li>
 	        <li class="cat"><a href="cat.html">Català</a></li>
+	        <li class="vi"><a href="vi.html">Việt</a></li>
 	        <li class="dropdown-divider"></li>
 	        <li class="help"><a target="_blank" href="https://github.com/rmlewisuk/justdelete.me/issues/164"><?php echo $help_translate; ?></a></li>
 	    </ul>

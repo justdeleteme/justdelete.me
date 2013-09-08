@@ -30,7 +30,7 @@
             "pt_br": "dificuldade",
             "cat": "dificultat",
             "es": "dificultad",
-            "en": "độ khó"
+            "vi": "độ khó"
         },
         "difficulty_easy": {
             "en": "easy",
@@ -426,7 +426,7 @@
             "ru": "E-mail отправлен",
             "pt_br": "Enviar e-mail",
             "cat": "Envia un e-mail",
-            "es": "Enviar e-mail"
+            "es": "Enviar e-mail",
             "vi": "Gửi email"
         },
         "submit": {

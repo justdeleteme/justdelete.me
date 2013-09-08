@@ -1,6 +1,6 @@
 <?php
 	
-	$langs = ['en', 'it', 'de', 'fr', 'ru', 'pt_br', 'cat', 'es'];
+	$langs = ['en', 'it', 'de', 'fr', 'ru', 'pt_br', 'cat', 'es', 'vi'];
 
 	foreach ($langs as $language)
 	{
@@ -34,6 +34,9 @@
 		}
 		if ($lang == "es") {
 			$full_name = "Español";
+		}
+		if ($lang == "vi") {
+			$full_name = "Việt";
 		}
 		
 		include ('dev.php');
