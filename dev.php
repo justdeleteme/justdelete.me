@@ -9,6 +9,12 @@
 		return 0;
 	}); 
 
+	// For testing
+	if ( ! isset($contributors))
+	{
+		include 'contrib.php';		
+	}
+
 	if (isset($_GET['lang']))
 	{
 		$lang = $_GET['lang'];
@@ -246,9 +252,7 @@
 
 				<?php echo $contributors; ?>
 			
-				<ul>
-					<li><a href='http://github.com/rmlewisuk/justdelete.me/contributors'><?php echo $viewcontrib; ?> &raquo;</a></li>
-				</ul>
+				<p><br/><a href='http://github.com/rmlewisuk/justdelete.me/contributors'><?php echo $viewcontrib; ?> &raquo;</a></p>
 			
 				
 				</ul>

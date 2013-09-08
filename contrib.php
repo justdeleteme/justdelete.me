@@ -1,6 +1,6 @@
 <?php
 
-        $max_count = 48;
+        $max_count = 60;
         $img_width = 32;
 
         $data = json_decode(file_get_contents('https://api.github.com/repos/rmlewisuk/justdelete.me/contributors'));
