@@ -83,7 +83,7 @@
 
 ?>
 <!DOCTYPE HTML>
-<html>
+<html lang="<?php echo $lang ?>">
 <head>
 	<title><?php echo $title ?></title>
 	<meta charset="UTF-8">
