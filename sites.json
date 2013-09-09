@@ -1397,6 +1397,13 @@
         "url": "https://new.myspace.com/settings/profile",
         "difficulty": "easy"
     },
+    
+    {
+        "name": "Neopets",
+        "url": "mailto:unsubscribe@neopets.com",
+        "difficulty": "easy",
+        "notes": "Send an email stating you wish to delete your account."
+    },
 
     {
         "name": "Netflix",
