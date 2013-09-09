@@ -9,7 +9,25 @@
 		return 0;
 	}); 
 
-	// $lang = "en"; $full_name = "English"; // For testing
+	// For testing
+	if ( ! isset($contributors))
+	{
+		include 'contrib.php';		
+	}
+
+	if (isset($_GET['lang']))
+	{
+		$lang = $_GET['lang'];
+	}
+	// For testing
+	if ( !isset($lang))
+	{
+		$lang = "en";
+	}
+	if ( !isset($full_name))
+	{
+		$full_name = "English";
+	}
 
 	$definitions = json_decode(file_get_contents('definitions.json'));
 
@@ -34,6 +52,10 @@
 	$guidemedium = $definitions[0]->guidemedium->$lang;
 	$guidehard = $definitions[0]->guidehard->$lang;
 	$guideimpossible = $definitions[0]->guideimpossible->$lang;
+	$translationcontrib = $definitions[0]->translationcontrib->$lang;
+	$morecontrib = $definitions[0]->morecontrib->$lang;
+	$viewcontrib = $definitions[0]->viewcontrib->$lang;
+	$extensionguide = $definitions[0]->extensionguide->$lang;
 	$extension = $definitions[0]->extension->$lang;
 	$extensionp1 = $definitions[0]->extensionp1->$lang;
 	$extensionp2 = $definitions[0]->extensionp2->$lang;
@@ -45,6 +67,10 @@
 	$banner = $definitions[0]->banner->$lang;
 	$footer = $definitions[0]->footer->$lang;
 	$help_translate = $definitions[0]->help->$lang;
+	$donate = $definitions[0]->donate->$lang;
+	$sendmail = $definitions[0]->sendmail->$lang;
+	$submit = $definitions[0]->submit->$lang;
+
 	if ($lang == "en")
 	{
 		$note_lang = "notes";
@@ -57,9 +83,9 @@
 
 ?>
 <!DOCTYPE HTML>
-<html>
+<html lang="<?php echo $lang ?>">
 <head>
-	<title>Just Delete Me | <?php echo $title ?></title>
+	<title><?php echo $title ?></title>
 	<meta charset="UTF-8">
 	<!--[if lt IE 9]>
 		<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -98,42 +124,24 @@
 	      w.attachEvent("onload", gs);
 	  })(window);
 	</script>
-        <script type="text/javascript">
-
-             $(document).ready(function() {
-                 $('#LanguageSwitcher').LanguageSwitcher({
-                    effect: 'fade',
-                    openMode: 'hover',                    
-                    onChange: function(evt){                                           
-                        setCookie("selectedlanguage", evt.selectedItem, 365);
-                        selectedlanguage = evt.selectedItem;
-                        // if (selectedlanguage != "en") {
-                        // 	window.location.replace("/"+selectedlanguage+".html");
-                        // }
-                        // else {
-                        // 	return;
-                        // }
-                    }
-                });
-            });
-        </script>
 </head>	
 <body>
 
 	<!-- Facebook Like Button SDK -->
 	<div id="fb-root"></div>
-
-	<a href="https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf" target="_blank" class="banner">
-            <?php echo $banner ?>
-	</a>
+	<nav>
+		<!-- begin language switcher -->
+		<span class="language-switch" href="#" data-dropdown="#dropdown-1" id="<?php echo $lang; ?>"><?php echo $full_name; ?></span>
+		<!-- end language switcher -->
+		<a href="#" class="info">About</a>
+		<a href="#" class="banner">Chrome Extension</a>
+		<a target="_blank" href="https://docs.google.com/a/therobb.com/forms/d/1mhr3vaTni5U8PvOdp_NvQ6vKBxNTmJTeKP3VWRuioCE/viewform">Submit a site</a>
+		<a target="_blank" href="http://github.com/rmlewisuk/justdelete.me">Fork on GitHub</a>
+	</nav>
 
 	<header>
 		<h1>just<span>delete</span>.me</h1>
 		<p class="tagline"><?php echo $tagline ?></p>
-
-		<!-- begin language switcher -->
-		<span class="language-switch" href="#" data-dropdown="#dropdown-1" id="<?php echo $lang; ?>"><?php echo $full_name; ?></span>
-		<!-- end language switcher -->
 	</header>
 
 	<div id="test">
@@ -156,21 +164,27 @@
                                     <?php echo $site->name; ?>
                                 </a>                            
                                 <p class="site-difficulty">
-                                    <label class="difficulty"><?php echo $definitions[0]->difficulty->$lang; ?></label>: <label class="difficulty_<?php echo $site->difficulty; ?>"><?php echo $site->difficulty; ?></label>
+                                    <?php echo $definitions[0]->difficulty->$lang; ?>: <?php echo eval('return $difficulty_' . $site->difficulty . ';'); ?>
                                 </p>
                                 <?php if (isset($site->$note_lang)) : ?>
-                                    <div class="tooltip-content">                        
-                                        <div class="tooltip-content-en">
-                                        <?php echo $site->$note_lang; ?>
-                                        </div>
+                                    <div class="tooltip-content">                                   
+                                        <?php echo $site->$note_lang;
+                                        if (isset($site->email))
+                                        {
+                                            echo '<br><a href="mailto:' . $site->email . '?Subject=Account%20Deletion%20Request&body=Please%20delete%20my%20account,%20my%20username%20is%20 XXXXXX">' . $sendmail . ' &raquo;</a>';
+                                        }
+                                        ?>                                          
                                     </div>
                                     <a href="#" class="tooltip-toggle contains-info"><?php echo $showinfo ?></a>
                                 <?php elseif (isset($site->notes)) : ?>
-                                	<div class="tooltip-content">                        
-                                        <div class="tooltip-content-en">
-                                        <?php echo $site->notes; ?>
+                                	<div class="tooltip-content">                                   
+                                        <?php echo $site->notes; 
+                                        if (isset($site->email))
+                                        {
+                                            echo '<br><a href="mailto:' . $site->email . '?Subject=Account%20Deletion%20Request&body=Please%20delete%20my%20account,%20my%20username%20is%20 XXXXX">' . $sendmail . ' &raquo;</a>';
+                                        }
+                                        ?> 
                                         </div>
-                                    </div>
                                     <a href="#" class="tooltip-toggle contains-info"><?php echo $showinfo ?></a>
                                 <?php else : ?>
                                     <p class="tooltip-toggle"><?php echo $noinfo ?></p>
@@ -186,7 +200,7 @@
 				<h2><?php echo $whatisthis ?></h2>
 				<p><?php echo $whatisthis1 ?></p>
 				<p><?php echo $whatisthis2 ?></p>
-				<p><?php echo $whatisthis3 ?></p>
+				<p><a target="_blank" href="https://docs.google.com/a/therobb.com/forms/d/1mhr3vaTni5U8PvOdp_NvQ6vKBxNTmJTeKP3VWRuioCE/viewform"><?php echo $submit ?> &raquo;</a></p>
 				<ul>
 					<li><a href="http://robblewis.me/just-delete-me?utm_source=JustDeleteMe&amp;utm_medium=link&amp;utm_campaign=Just+Delete+Me" target="_blank">Read the announcement blog post &raquo;</a></li>
 					<li><a href="http://robblewis.me/24-hours-of-just-delete-me/" target="_blank">See the first-day stats &raquo;</a></li>
@@ -203,9 +217,50 @@
 					<li><?php echo $guidehard ?></li>
 					<li><?php echo $guideimpossible ?></li>
 				</ul>
-			</div>		
+
+				<p><?php echo $donate; ?></p>
+				<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+					<input type="hidden" name="cmd" value="_s-xclick">
+					<input type="hidden" name="hosted_button_id" value="E9VLGMSJ3R4Q4">
+					<input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
+					<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+				</form>
+			</div>
 		</div>
 	</section>
+
+	<section class="info-block contributors">
+		<div class="info-container">
+
+			<div class="info-block-half">
+				<h2><?php echo $translationcontrib; ?></h2>
+			
+				<ul class="contributors translate">
+		        	<li class="it"><a href="https://github.com/LorenzoRogai">Lorenzo Rogai</a></li>
+		    		<li class="de"><a href="http://www.erbloggt.de/">Konstantin Hinrichs</a></li>
+		        	<li class="fr"><a href="https://github.com/buzzb0x">Ethan Ohayon</a></li>
+		        	<li class="fr"><a href="https://github.com/p1rox">Armand Vignat</a></li>
+		        	<li class="ru"><a href="https://github.com/morozd">morozd</a></li>
+		        	<li class="pt_br"><a href="https://github.com/mkbu95">Matheus Macabu</a></li>
+		        	<li class="cat"><a href="https://github.com/rockbdn">JP Queralt (+ Español)</a></li>
+		        	<li class="vi"><a href="https://github.com/giangnb">Giang Nguyen</a></li>
+		        	<li class="tr"><a href="https://github.com/MarioErmando">Erman Sayın</a></li>
+		        	<li class="ar"><a href="https://github.com/adahhane">Dahhane Ayyoub</a></li>
+
+				</ul>
+			</div><div class="info-block-half">
+				<h2><?php echo $morecontrib; ?></h2>
+
+				<?php echo $contributors; ?>
+			
+				<p><br/><a href='http://github.com/rmlewisuk/justdelete.me/contributors'><?php echo $viewcontrib; ?> &raquo;</a></p>
+			
+				
+				</ul>
+			</div>
+		</div>
+	</section>
+
 	<div class="banner-block">
 		<div class="banner-content">
 			<div class="banner-block-half">
@@ -214,17 +269,18 @@
 				<p><?php echo $extensionp2 ?></p>
 				<p><?php echo $extensionp3 ?></p>			
 			</div><div class="banner-block-half">
-				<h2>Extension Dot Guide</h2>
+				<h2><?php echo $extensionguide; ?></h2>
 				<ul>
 					<li><?php echo $extensionl1 ?></li>
 					<li><?php echo $extensionl2 ?></li>
 					<li><?php echo $extensionl3 ?></li>
-					<li><?php echo $extensionl4 ?></li>					
-				</ul>				
+					<li><?php echo $extensionl4 ?></li>		
+				</ul>			
 			</div>	
 		</div>
 		<div class="banner-block-extension"></div>
 	</div>
+
 	<section class="info-block">
 		<div class="info-container">
 			<footer>
@@ -262,10 +318,16 @@
 	<div id="dropdown-1" class="dropdown dropdown-tip has-icons">
 	    <ul class="dropdown-menu">
 	    	<li class="en"><a href="/">English</a></li>
-	        <li class="it"><a href="it.html">Italiano <span class="beta">incompleto</span></a></li>
-	    	<!-- <li class="de"><a href="de.html">German <span class="beta">unvollständig</span></a></li> -->
-	        <!-- <li class="fr"><a href="fr.html">French <span class="beta">incomplète</span></a></li> -->
-	        <!-- <li class="es"><a href="es.html">Spanish <span class="beta">incompleto</span></a></li> -->
+	        <li class="it"><a href="it.html">Italiano</a></li>
+	    	<li class="de"><a href="de.html">Deutsch</a></li>
+	        <li class="fr"><a href="fr.html">Français</a></li>
+	        <li class="ru"><a href="ru.html">Pусский</a></li>
+	        <li class="pt_br"><a href="pt_br.html">Português</a></li>
+	        <li class="es"><a href="es.html">Español</a></li>
+	        <li class="cat"><a href="cat.html">Català</a></li>
+	        <li class="vi"><a href="vi.html">Việt</a></li>
+	        <li class="tr"><a href="tr.html">Türk</a></li>
+	        <li class="ar"><a href="ar.html">العربية</a></li>
 	        <li class="dropdown-divider"></li>
 	        <li class="help"><a target="_blank" href="https://github.com/rmlewisuk/justdelete.me/issues/164"><?php echo $help_translate; ?></a></li>
 	    </ul>

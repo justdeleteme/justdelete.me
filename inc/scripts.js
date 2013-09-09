@@ -47,12 +47,10 @@ $(function(){
 
     $('.banner').click(function(e) {
      $('body').scrollTo('.banner-block');
-    })
+    });
 
-    $('.site').hover(function () {
-     $(this).find('.tooltip').fadeIn();
-    }, function () {
-     $(this).find('.tooltip').fadeOut('fast');
+    $('.info').click(function(e) {
+     $('body').scrollTo('.info-block');
     });
 
     // create the keys and konami variables

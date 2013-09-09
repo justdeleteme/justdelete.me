@@ -11,13 +11,44 @@ body {
 	background-color:#D4D8DC;
 }
 
+nav {
+	position: fixed;
+	padding: 9px 0;
+	text-align: center;
+	background-color: #293840;
+	color: #93ABBE;
+	top: 0;
+	z-index: 1;
+	margin: 0 auto;
+	width: 100%;
+}
+
+nav a {
+	color: #93ABBE;
+	text-decoration: none;
+	padding: 8px 10px;
+}
+
+	nav a:hover, .language-switch:hover {
+		background-color: #515d64;
+	}
+
+.language-switch {
+	padding-left: 29px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	padding-right: 10px;
+	cursor: pointer;
+}
+
 header {
 	position: relative;
 	background-color: #293840;
 	color: #E8E8E8;	
 	text-align: center;
-	padding: 40px 0;
+	padding: 18px 0;
 	border-bottom: 5px solid #cf5a5a;
+	margin-top: 36px;
 }
 
 .js-on header {
@@ -118,8 +149,22 @@ header h1 span {
 
    ######################################################### */
 
+.ribbon {
+	position: absolute;
+	top: 0;
+	right: 0;
+	border: 0;
+	z-index: 1;
+	width: 15%;
+	max-width: 149px;
+}
 
-.banner {
+	.ribbon img {
+		float: right;
+		width: 100%;
+	}
+
+/*.banner {
 	display: block;
 	text-align: center;
 	background-color: #7BAC7B;
@@ -136,7 +181,7 @@ header h1 span {
 
 .banner:hover {
 	background-color: #5D895D;
-}
+}*/
 
 .banner-block {
 	background-color: #7BAC7B;
@@ -539,56 +584,103 @@ footer a:hover, .info-container a:hover {
 	color: #CF5A5A;
 }
 
-/* Language switch */
-
-.language-switch {
-	position: absolute;
-	top: 5px;
-	left: 10px;
-	padding-left: 29px;
-	padding-top: 3px;
-	padding-bottom: 5px;
-	padding-right: 10px;
-}
-
-	.language-switch:hover {
-		background-color: #414f56;
-		border-radius: 3px;
-	}
-
 .beta {
 	font-size: 50%;
 	color: #cf5a5a;
 }
 
+.clearfix {
+	clear: both;
+}
+
+.info-block.contributors {
+	border-top: none;
+}
+
+.contributors.translate {
+	list-style-type: none;
+}
+.contributors.translate LI > A {
+	padding-left: 30px;
+	background-position: 8px center;
+	background-repeat: no-repeat;
+}
+
 .dropdown .help A { background-image: url(inc/icons/github16.png); }
-.dropdown .it A { background-image: url(inc/icons/flags/it16.png); }
-.dropdown .en A { background-image: url(inc/icons/flags/en16.png); }
-.dropdown .fr A { background-image: url(inc/icons/flags/fr16.png); }
-.dropdown .de A { background-image: url(inc/icons/flags/de16.png); }
-.dropdown .es A { background-image: url(inc/icons/flags/es16.png); }
+.dropdown .it A, .it A { background-image: url(inc/icons/flags/it16.png); }
+.dropdown .en A, .en A { background-image: url(inc/icons/flags/en16.png); }
+.dropdown .fr A, .fr A { background-image: url(inc/icons/flags/fr16.png); }
+.dropdown .de A, .de A { background-image: url(inc/icons/flags/de16.png); }
+.dropdown .es A, .es A { background-image: url(inc/icons/flags/es16.png); }
+.dropdown .ru A, .ru A { background-image: url(inc/icons/flags/ru16.png); }
+.dropdown .pt_br A, .pt_br A { background-image: url(inc/icons/flags/pt_br16.png); }
+.dropdown .cat A, .cat A { background-image: url(inc/icons/flags/cat16.png); }
+.dropdown .vi A, .vi A { background-image: url(inc/icons/flags/vi16.png); }
+.dropdown .tr A, .tr A { background-image: url(inc/icons/flags/tr16.png); }
+.dropdown .ar A, .ar A { background-image: url(inc/icons/flags/ar16.png); }
 
 #en { 
 	background-image: url(./inc/icons/flags/en24.png);
 	background-repeat:no-repeat;
+	background-position: left center;
 }
 
 #fr { 
 	background-image: url(./inc/icons/flags/fr24.png);
-	background-repeat:no-repeat;	
+	background-repeat:no-repeat;
+	background-position: left center;	
 }
 
 #de { 
 	background-image: url(./inc/icons/flags/de24.png);
-	background-repeat:no-repeat;	
+	background-repeat:no-repeat;
+	background-position: left center;	
 }
 
 #it { 
 	background-image: url(./inc/icons/flags/it24.png);	
 	background-repeat:no-repeat;
+	background-position: left center;
 }
 
 #es { 
 	background-image: url(./inc/icons/flags/es24.png);
-	background-repeat:no-repeat;	
+	background-repeat:no-repeat;
+	background-position: left center;	
+}
+
+#ru { 
+	background-image: url(./inc/icons/flags/ru24.png);
+	background-repeat:no-repeat;
+	background-position: left center;	
+}
+
+#pt_br {
+	background-image: url(./inc/icons/flags/pt_br24.png);
+	background-repeat:no-repeat;
+	background-position: left center;
+}
+
+#cat {
+	background-image: url(./inc/icons/flags/cat24.png);
+	background-repeat:no-repeat;
+	background-position: left center;
+}
+
+#vi {
+	background-image: url(./inc/icons/flags/vi24.png);
+	background-repeat:no-repeat;
+	background-position: left center;
+}
+
+#tr {
+	background-image: url(./inc/icons/flags/tr24.png);
+	background-repeat:no-repeat;
+	background-position: left center;
+}
+
+#ar {
+	background-image: url(./inc/icons/flags/ar24.png);
+	background-repeat:no-repeat;
+	background-position: left center;
 }
