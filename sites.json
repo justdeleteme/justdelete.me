@@ -1400,9 +1400,9 @@
     
     {
         "name": "Neopets",
-        "url": "mailto:unsubscribe@neopets.com",
+        "url": "http://www.neopets.com/help_search.phtml?help_id=4",
         "difficulty": "easy",
-        "notes": "Send an email stating you wish to delete your account."
+        "notes": "Send an email to the address provided stating you wish to delete your account."
     },
 
     {
