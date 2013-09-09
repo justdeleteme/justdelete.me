@@ -1397,6 +1397,13 @@
         "url": "https://new.myspace.com/settings/profile",
         "difficulty": "easy"
     },
+    
+    {
+        "name": "Neopets",
+        "url": "http://www.neopets.com/help_search.phtml?help_id=4",
+        "difficulty": "easy",
+        "notes": "Send an email to the address provided stating you wish to delete your account."
+    },
 
     {
         "name": "Netflix",
