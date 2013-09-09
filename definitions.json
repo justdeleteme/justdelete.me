@@ -10,7 +10,8 @@
             "es": "Just Delete Me | Un directorio de enlaces directos para eliminar sus cuentas de los diferentes servicios de internet.",
             "vi": "Just Delete Me | Danh mục những đường dẫn giúp bạn xóa tài khoản trên các mạng xã hội.",
             "tr": "Just Delete Me | Web hizmetlerinden hesabınızı silmek için bağlantılar.",
-            "ar": "Just Delete Me | دليل وصلات مباشرة لحذف حساباتك من المواقع التفاعلية."
+            "ar": "Just Delete Me | دليل وصلات مباشرة لحذف حساباتك من المواقع التفاعلية.",
+            "nl": "Just Delete Me | Een verzameling directe links om jouw gebruikersgegevens bij een webdienst te verwijderen."
         },
         "description": {
             "en": "A directory of direct links to delete your account from web services. Find out how to delete your Facebook, Twitter, LinkedIn accounts and more.",
@@ -23,7 +24,8 @@
             "es": "Un directorio de enllaces para eliminar sus cuentas de los diferentes servicios de internet. Descubra como eliminar sus cuentas de Facebook, Twitter y otros.",
             "vi": "Danh mục những đường dẫn giúp bạn xóa tài khoản trên các mạng xã hội. Hãy tìm cách xóa tài khoản Facebook, Twitter, LinkedIn và nhiều hơn nữa.",
             "tr": "Web hizmetlerinden hesabınızı silmek için bağlantılar. Nasıl Facebook, Twitter, LinkedIn, ve diğer hesaplarınızı silmeyi bulun.",
-            "ar": "Just Delete Me | دليل وصلات لحذف حساباتك من المواقع التفاعلية. تعرف على كيفية حذف حساباتيكم على الفايسبوك, تويتر و لينكداين وأكثر."
+            "ar": "Just Delete Me | دليل وصلات لحذف حساباتك من المواقع التفاعلية. تعرف على كيفية حذف حساباتيكم على الفايسبوك, تويتر و لينكداين وأكثر.",
+            "nl": "Een verzameling van directe links om jouw gebruikersgegevens bij webdiensten te verwijderen. Vindt uit hoe je jouw Facebook, Twitter, LinkedIn en andere gebruikersaccounts kunt verwijderen."
 
         },
         "difficulty": {
@@ -37,7 +39,8 @@
             "es": "dificultad",
             "vi": "độ khó",
             "tr": "zorluk",
-            "ar":"الصعوبة"
+            "ar":"الصعوبة",
+            "nl": "moeilijkheidsgraad"
         },
         "difficulty_easy": {
             "en": "easy",
@@ -50,7 +53,8 @@
             "es": "fácil",
             "vi": "dễ",
             "tr": "basit",
-            "ar":"سهل"
+            "ar":"سهل",
+            "nl": "gemakkelijk"
         },
         "difficulty_medium": {
             "en": "medium",
@@ -63,7 +67,8 @@
             "es": "media",
             "vi": "trung bình",
             "tr": "orta",
-            "ar":"متوسط"
+            "ar":"متوسط",
+            "nl": "gemiddeld"
         },
         "difficulty_hard": {
             "en": "hard",
@@ -76,7 +81,8 @@
             "es": "difícil",
             "vi": "khó",
             "tr": "zor",
-            "ar":"صعب"
+            "ar":"صعب",
+            "nl": "moeilijk"
         },
         "difficulty_impossible": {
             "en": "impossible",
@@ -89,7 +95,8 @@
             "es": "imposible",
             "vi": "không thể",
             "tr": "imkansız",
-            "ar":"مستحيل"
+            "ar":"مستحيل",
+            "nl": "onmogelijk"
         },
         "tagline": {
             "en": "A directory of direct links to delete your account from web services.",
@@ -102,7 +109,8 @@
             "es": "Un directorio de enlaces directos para eliminar sus cuentas en la web",
             "vi": "Danh mục những đường dẫn giúp bạn xóa tài khoản trên các mạng xã hội.",
             "tr": "Web hizmetlerinden hesabınızı silmek için bağlantılar.",
-            "ar":"دليل وصلات لحذف حساباتك من المواقع التفاعلية" 
+            "ar":"دليل وصلات لحذف حساباتك من المواقع التفاعلية" ,
+            "nl": "Een verzameling directe links om jouw account van een webdienst te verwijderen."
         },
         "noinfo": {
             "en": "No Info Available",
@@ -115,8 +123,8 @@
             "es": "No hay información disponible",
             "vi": "Không có thông tin",
             "tr": "Bilgi Yok",
-            "ar":"معلومات غير متاحة"
-
+            "ar":"معلومات غير متاحة",
+            "nl": "Geen informatie beschikbaar"
         },
         "showinfo": {
             "en": "show info...",
@@ -129,7 +137,8 @@
             "es": "mostrar información",
             "vi": "xem thông tin...",
             "tr": "bilgi göster...",
-            "ar":"شاهد المعلومات..."
+            "ar":"شاهد المعلومات...",
+            "nl": "toon informatie..."
         },
         "hideinfo": {
             "en": "hide info...",
@@ -142,7 +151,8 @@
             "es": "esconder información",
             "vi": "ẩn thông tin...",
             "tr": "bilgi gizle",
-            "ar":"حجب العلومات..."
+            "ar":"حجب العلومات...",
+            "nl": "verberg informatie..."
         },
         "whatisthis": {
             "en": "What is this?",
@@ -155,7 +165,8 @@
             "es": "¿Que es esto?",
             "vi": "Cái gì đây?",
             "tr": "Bu nedir?",
-            "ar":"ما هذا ؟"
+            "ar":"ما هذا ؟",
+            "nl": "Wat is dit?"
         },
         "whatisthis1": {
             "en": "Many companies use <a href=\"http://darkpatterns.org/\">dark pattern</a> techniques to make it difficult to find how to delete your account. JustDelete.me aims to be a directory of urls to enable you to easily delete your account from web services.",
@@ -169,7 +180,8 @@
             "vi": "Nhiều tổ chức dùng thuật toán <a href=\"http://darkpatterns.org/\">dark pattern</a> làm người dùng khó có thể tìm ra cách xóa hoàn toàn tài khoản của họ. JustDelete.me được tạo ra nhằm cung cấp những đường dẫn giúp bạn xóa bỏ tài khoản của mình trên các trang web dịch vụ.",
             "es": "Numerosas empresas usan una tecnica llamada <a href=\"http://darkpatternsved.org/\">dark pattern</a> para dificultar la eliminación de cuentas de usuario en sus servicios web. JustDelete.me busca ser un directorio donde centralizar los enlaces para eliminar facilmente sus cuentas online.",
             "tr": "Çoğu şirket <a href=\"http://darkpatterns.org/\">dark pattern</a> tekniklerini kullanarak hesabınızı silmenizi zorlaştırıyor. JustDelete.me kolayca web hizmetlerinizden hesabınızı silmek için bir bağlantı dizini olmayı hedeflemektedir.",
-            "ar":" مجموعة من المواقع تستعمل تقنيات تسمى <a href=\"http://darkpatterns.org/\">dark pattern</a> لتصعب عملية حذف الحساب الخاص بك. JustDelete.me يريد ان يصبح دليلا لوصلات تسهل عملية الحذف."
+            "ar":" مجموعة من المواقع تستعمل تقنيات تسمى <a href=\"http://darkpatterns.org/\">dark pattern</a> لتصعب عملية حذف الحساب الخاص بك. JustDelete.me يريد ان يصبح دليلا لوصلات تسهل عملية الحذف.",
+            "nl": "Veel bedrijven gebruiken <a href=\"http://darkpatterns.org/\">dark pattern</a> technieken om het moeilijk te maken te achterhalen hoe jej jouw account kunt verwijderen. JustDelete.me poogt een verzameling urls te maken om het makkelijk te maken om jouw account te verwijderen van een web dienst."
 
         }, 
         "whatisthis2": {
@@ -183,8 +195,8 @@
             "es": "Crees que se podría poner algun otro servicio web más en la lista? <a href=\"http://github.com/rmlewisuk/justdelete.me\">Haz un Fork del proyecto en GitHub.</a>",
             "vi": "Bạn nghĩ nên bổ sung đường dẫn cho một website? <a href=\"http://github.com/rmlewisuk/justdelete.me\">Gia nhập dự án GitHub</a>.",
             "tr": "Bu liste'ye eklenmesi gereken bir site biliyor musunuz? <a href=\"http://github.com/rmlewisuk/justdelete.me\">GitHub projesini fork'layın</a>.",
-            "ar":"هل تعتقد آن هنالك موقع يجب اضافته ؟ <a href=\"http://github.com/rmlewisuk/justdelete.me\"> تابع المشروع على جيت هاب"
-
+            "ar":"هل تعتقد آن هنالك موقع يجب اضافته ؟ <a href=\"http://github.com/rmlewisuk/justdelete.me\"> تابع المشروع على جيت هاب",
+            "nl": "Heb je een site die je toe wilt voegen? <a href=\"http://github.com/rmlewisuk/justdelete.me\">Fork het project op GitHub</a>."
         },
         "whatisthis3": {
             "en": "<em>Email submission is temporarily disabled</em>",
@@ -197,7 +209,8 @@
             "es": "<em>El servício de captación de emails está temporalmente inhabilitado</em>",
             "vi": "<em>Email thông báo tạm thời ngừng hoạt động</em>",
             "tr": "<em>Email göndermesi şuan devre dışı</em>",
-            "ar":" الإضافة بواسطة البريد معطلة مؤقتا"
+            "ar":" الإضافة بواسطة البريد معطلة مؤقتا",
+            "nl": "<em>E-mail versturen is tijdelijk uitgeschakeld</em>"
         },
         "guide": {
             "en": "Guide",
@@ -210,7 +223,8 @@
             "es": "Guia",
             "vi": "Hướng dẫn",
             "tr": "Rehber",
-            "ar":"الدليل"
+            "ar":"الدليل",
+            "nl": "Gids"
         },
         "guideexplanations": {
             "en": "The links above are colour-coded to indicate the difficulty level of account deletion:",
@@ -223,7 +237,8 @@
             "es": "Los enlaces de la parte superior se han clasificado con un codigo de colores para indicar la dificultad para suprimir la cuenta:",
             "vi": "Những đường dẫn trên được đánh dấu bằng màu theo độ khó của việc xóa tài khoản:",
             "tr": "Yukardaki bağlantılar bağlantı silme zorluğunu göstermek için renk-kodludur:",
-            "ar":"الرصلات ملونة لتعلم المتصفح بمستوى صعوبة حذف حسابك في المواقع المدرجة"
+            "ar":"الرصلات ملونة لتعلم المتصفح بمستوى صعوبة حذف حسابك في المواقع المدرجة",
+            "nl": "De links hierboven zijn kleur-gecodeerd om de moeilijkheidsgraad voor account verwijdering aan te geven:"
         },
         "guideeasy": {
             "en": "<span class=\"green\">Easy</span> - Simple process",
@@ -236,7 +251,8 @@
             "es": "<span class=\"green\">Fácil</span> - Proceso simple",
             "vi": "<span class=\"green\">Dễ</span> - Chỉ vài thao tác đơn giản",
             "tr": "<span class=\"green\">Basit</span> - Basit işlem",
-            "ar":"<span class=\"green\">سهل</span> - عملية سهلة"
+            "ar":"<span class=\"green\">سهل</span> - عملية سهلة",
+            "nl": "<span class=\"green\">Easy</span> - Eenvoudig proces"
         },
         "guidemedium": {
             "en": "<span class=\"yellow\">Medium</span> - Some extra steps involved",
@@ -249,7 +265,8 @@
             "es": "<span class=\"yellow\">Media</span> - Se tendrán que hacer algunos pasos extra",
             "vi": "<span class=\"yellow\">Trung bình</span> - Cần có một số thao tác bổ sung",
             "tr": "<span class=\"yellow\">Orta</span> - Bazı ekstra işlemler",
-            "ar":"<span class=\"yellow\">متوسط</span> - تحتاج مراحل إضافية"
+            "ar":"<span class=\"yellow\">متوسط</span> - تحتاج مراحل إضافية",
+            "nl": "<span class=\"yellow\">Medium</span> - Extra stappen nodig"
         },
         "guidehard": {
             "en": "<span class=\"red\">Hard</span> - Cannot be fully deleted without contacting customer services",
@@ -262,7 +279,8 @@
             "es": "<span class=\"red\">Difícil</span> - No se puede suprimir permanentmente sin contactar con atención al cliente",
             "vi": "<span class=\"red\">Khó</span> - Không thể xóa bỏ tài khoản một cách hoàn toàn",
             "tr": "<span class=\"red\">Zor</span> - Müşteri hizmetleri ile irtibat kurmak'sız silinemez",
-            "ar":"<span class=\"red\">صعب</span> - لا يمكن مسحه بصفة نهائية حتى تتصل بدعم الموقع"
+            "ar":"<span class=\"red\">صعب</span> - لا يمكن مسحه بصفة نهائية حتى تتصل بدعم الموقع",
+            "nl": "<span class=\"red\">Hard</span> - Kan niet volledig worden verwijderd zonder contact met de klantenservice"
         },
         "guideimpossible": {
             "en": "<span class=\"black\">Impossible</span> - Cannot be deleted",
@@ -275,7 +293,8 @@
             "es": "<span class=\"black\">Imposible</span> - No puede ser eliminada",
             "vi": "<span class=\"black\">Impossible</span> - Không thể xóa được",
             "tr": "<span class=\"black\">Imkansız</span> - Silinemez",
-            "ar":"<span class=\"black\">مستحيل</span> - لا يمكن حذفه"
+            "ar":"<span class=\"black\">مستحيل</span> - لا يمكن حذفه",
+            "nl": "<span class=\"black\">Impossible</span> - Kan niet worden verwijderd"
         },
         "translationcontrib": {
             "en": "Translation contributors",
@@ -288,7 +307,8 @@
             "es": "Traductores colaboradores",
             "vi": "Nhóm biên dịch",
             "tr": "Çeviri için katkıda bulunanlar",
-            "ar":"المساهمون في الترجمة"
+            "ar":"المساهمون في الترجمة",
+            "nl": "Vertalers"
         },
         "morecontrib": {
             "en": "More contributors",
@@ -301,7 +321,8 @@
             "es": "Más colaboradores",
             "vi": "Những người có đóng góp",
             "tr": "Daha çok katkıda bulunanlar",
-            "ar":"المزيد من المساهمين"
+            "ar":"المزيد من المساهمين",
+            "nl": "Meer bijdragers"
         },
         "viewcontrib": {
             "en": "View all contributors",
@@ -314,7 +335,8 @@
             "es": "Ver todos los colaboradores",
             "vi": "Xem tất cả các thành viên",
             "tr": "Bütün katkıda bulunanları görüntüle",
-            "ar":"آنظر كافة المشاركين"
+            "ar":"آنظر كافة المشاركين",
+            "nl": "Toon alle bijdragers"
         },
         "extension": {
             "en": "Google Chrome Extension",
@@ -327,7 +349,8 @@
             "es": "Extensión para Google Chrome",
             "vi": "Tiện ích cho Google Chrome",
             "tr": "Google Chrome uzantısı",
-            "ar":"امتداد من آجل جوجل كروم"
+            "ar":"امتداد من آجل جوجل كروم",
+            "nl": "Google Chrome Extensie"
         },
         "extensionguide": {
             "en": "Extension Dot Guide",
@@ -340,7 +363,8 @@
             "es": "Guia del Punto de la extensión",
             "vi": "Hướng dẫn dùng Tiện ích",
             "tr": "Uzatma Noktası Kılavuzu",
-            "ar":"دليل الامتداد"
+            "ar":"دليل الامتداد",
+            "nl": "Extension Dot Guide"
         },
         "extensionp1": {
             "en": "Our good friend <a target=\"_blank\" href=\"http://mikerogers.io\">Mike Rogers</a> has helped us to release an awesome Google Chrome Extension for JustDelete.me.",
@@ -353,7 +377,8 @@
             "es": "Nuestro buen amigo <a target=\"_blank\" href=\"http://mikerogers.io\">Mike Rogers</a> nos ha ayudado a lanzar esta increible Extensión de Google Chrome para JustDelete.me.",
             "vi": "Người bạn tốt của chúng tôi <a target=\"_blank\" href=\"http://mikerogers.io\">Mike Rogers</a> đã giúp chúng tôi phát hành Tiện ích cho Google Chrome của JustDelete.me.",
             "tr": "Güzel arkadaşımız <a target=\"_blank\" href=\"http://mikerogers.io\">Mike Rogers</a> Google Chrome için bir JustDelete.me uzantısı yapmamıza yardım etti. ",
-            "ar":"صديقنا<a target=\"_blank\" href=\"http://mikerogers.io\">مايك روجرز</a> ساعدنا في إنشاء إمتداد جوجل كروم ل JustDelete.me"
+            "ar":"صديقنا<a target=\"_blank\" href=\"http://mikerogers.io\">مايك روجرز</a> ساعدنا في إنشاء إمتداد جوجل كروم ل JustDelete.me",
+            "nl": "Onze vriend <a target=\"_blank\" href=\"http://mikerogers.io\">Mike Rogers</a> heeft ons geholpen om een Google Chrome extensie voor JustDelete.me te maken."
         },
         "extensionp2": {
             "en": "When you are on a website that is listed on justdelete.me, the Chrome Extension will add a small dot to the omnibar. Clicking on this dot will take you to the relevant delete page.",
@@ -366,7 +391,8 @@
             "es": "Si entras a una web identificada por JustDelete.me, la extensión te mostrarà un punto a la omnibar. Clicando a ese punto, te llevará directamente a la página para borrar el ctu cuenta.",
             "vi": "Khi bạn truy cập một trang web đã được liệt kê tại justdelete.me, Tiện ích Chrome sẽ hiện một dấu chấm nhỏ trên thanh đường dẫn. Nhấn vào dấu chấm này sẽ đưa bạn tới trang xóa tài khoản.",
             "tr": "Justdelete.me'de listelenen bir siteye girerseniz, Google Chrome uzantısı omnibar'a küçük bir nokta koyar. Bu noktaya tıklamak sizi direk o site'nin silme sayfasına gönderir.",
-            "ar":"عند الدخول لأحد المواقع المعروضة في موقعنا، سيتم إضافة علامة مميزة في شريط العنوان. بالضغظ عليه سيحولك مباشرة إلى صفحة الحذف داخل الموقع المتصفح"
+            "ar":"عند الدخول لأحد المواقع المعروضة في موقعنا، سيتم إضافة علامة مميزة في شريط العنوان. بالضغظ عليه سيحولك مباشرة إلى صفحة الحذف داخل الموقع المتصفح",
+            "nl": "Wanneer u op een website bent welke op justdelete.me is vermeld toont de Chrome extensie een kleine stip in de omnibar. Het klikken op de stip brengt u naar de verwijder pagina."
         },
         "extensionp3": {
             "en": "To install it, simply proceed to the <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome Web Store</a>.",
@@ -379,7 +405,8 @@
             "es": "Para instalarla, entre en la <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome Web Store</a>.",
             "vi": "Để cài đặt, hãy đi tới <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome Web Store</a>.",
             "tr": "Yüklemek için, sadece <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome Web Mağzası</a>'na girin.",
-            "ar":"للثتبيث من هنا <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome Web Store</a>."
+            "ar":"للثتبيث من هنا <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome Web Store</a>.",
+            "nl": "Ga naar de <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome Web Store</a> om te installeren."
         },
         "extensionl1": {
             "en": "<span class=\"dot-wrapper\"><span class=\"dot easy\"></span></span> - Simple process",
@@ -392,7 +419,8 @@
             "es": "<span class=\"dot-wrapper\"><span class=\"dot easy\"></span></span> - Proceso simple",
             "vi": "<span class=\"dot-wrapper\"><span class=\"dot easy\"></span></span> - Tiến hành đơn giản",
             "tr": "<span class=\"dot-wrapper\"><span class=\"dot easy\"></span></span> - Basit işlem",
-            "ar":"<span class=\"dot-wrapper\"><span class=\"dot easy\"></span></span> - عملية بسيطة"
+            "ar":"<span class=\"dot-wrapper\"><span class=\"dot easy\"></span></span> - عملية بسيطة",
+            "nl": "<span class=\"dot-wrapper\"><span class=\"dot easy\"></span></span> - Eenvoudig proces"
         },
         "extensionl2": {
             "en": "<span class=\"dot-wrapper\"><span class=\"dot medium\"></span></span> - Some extra steps involved",
@@ -405,7 +433,8 @@
             "es": "<span class=\"dot-wrapper\"><span class=\"dot medium\"></span></span> -  Se tendrán que hacer algunos pasos extra",
             "vi": "<span class=\"dot-wrapper\"><span class=\"dot medium\"></span></span> - Cần thêm một số bước bổ sung",
             "tr": "<span class=\"dot-wrapper\"><span class=\"dot medium\"></span></span> - Ilgili bazı ek adımlar",
-            "ar":"<span class=\"dot-wrapper\"><span class=\"dot medium\"></span></span> - تحتاج مراحل إضافية"
+            "ar":"<span class=\"dot-wrapper\"><span class=\"dot medium\"></span></span> - تحتاج مراحل إضافية",
+            "nl": "<span class=\"dot-wrapper\"><span class=\"dot medium\"></span></span> - Extra stappen nodig"
         },
         "extensionl3": {
             "en": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Cannot be fully deleted without contacting customer-services",
@@ -418,7 +447,8 @@
             "es": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - No se puede suprimir permanentmente sin contactar con atención al cliente",
             "vi": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Không thể xóa được nếu không liên lạc với bộ phận dịch vụ khách hàng",
             "tr": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Müşteri hizmetleri ile irtibat kurmak'sız silinemez",
-            "ar":"<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - لا يمكن حذفه بصفة نهائية إلا عند الاتصال بالدعم"
+            "ar":"<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - لا يمكن حذفه بصفة نهائية إلا عند الاتصال بالدعم",
+            "nl": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Kan niet volledig worden verwijderd zonder contact met de klanten service"
         },
         "extensionl4": {
             "en": "<span class=\"dot-wrapper\"><span class=\"dot impossible\"></span></span> - Cannot be deleted",
@@ -431,7 +461,8 @@
             "es": "<span class=\"dot-wrapper\"><span class=\"dot impossible\"></span></span> - No puede ser eliminada",
             "vi": "<span class=\"dot-wrapper\"><span class=\"dot impossible\"></span></span> - Không thể xóa được",
             "tr": "<span class=\"dot-wrapper\"><span class=\"dot impossible\"></span></span> - Silinemez",
-            "ar":"<span class=\"dot-wrapper\"><span class=\"dot impossible\"></span></span> - لا يمكن حذفه"
+            "ar":"<span class=\"dot-wrapper\"><span class=\"dot impossible\"></span></span> - لا يمكن حذفه",
+            "nl": "<span class=\"dot-wrapper\"><span class=\"dot impossible\"></span></span> - Kan niet verwijderd worden"
         },
         "banner": {
             "en": "Try our new <span>Chrome Extension</span>",
@@ -444,7 +475,8 @@
             "es": "Prueba nuestra nueva <span>Extensión de Chrome</span>",
             "vi": "Hãy thử <span>Tiện ích cho Chrome</span> mới của chúng tôi",
             "tr": "Yeni <span>Chrome uzantı</span>mızı kullanın",
-            "ar":"إمتداد كروم"
+            "ar":"إمتداد كروم",
+            "nl": "Probeer de nieuwe <span>Chrome Extension</span>"
         },
         "footer": {
             "en": "Made by <a href=\"http://robblewis.me\">Robb Lewis</a> and <a href=\"http://edpoole.me\">Ed Poole</a> | Fork on <a href=\"http://github.com/rmlewisuk/justdelete.me\">GitHub</a> | Hosted by <a href=\"http://www.mediatemple.net/#a_aid=521a8aefe4c3b\">Media Temple</a> | Analytics by <a href=\"https://t.co/fvPnva7p4Y\">GoSquared</a>",
@@ -457,7 +489,8 @@
             "es": "Criado por <a href=\"http://robblewis.me\">Robb Lewis</a> e <a href=\"http://edpoole.me\">Ed Poole</a> | Fork en <a href=\"http://github.com/rmlewisuk/justdelete.me\">GitHub</a> | Hospedado por <a href=\"http://www.mediatemple.net/#a_aid=521a8aefe4c3b\">Media Temple</a> | Analytics por <a href=\"https://t.co/fvPnva7p4Y\">GoSquared</a>",
             "vi": "Lập ra bởi <a href=\"http://robblewis.me\">Robb Lewis</a> và <a href=\"http://edpoole.me\">Ed Poole</a> | Lưu trữ tại <a href=\"http://github.com/rmlewisuk/justdelete.me\">GitHub</a> | Máy chủ tại <a href=\"http://www.mediatemple.net/#a_aid=521a8aefe4c3b\">Media Temple</a> | Thống kê bởi <a href=\"https://t.co/fvPnva7p4Y\">GoSquared</a>",
             "tr": "<a href=\"http://robblewis.me\">Robb Lewis</a> ve <a href=\"http://edpoole.me\">Ed Poole</a> tarafından yapılmıştır | <a href=\"http://github.com/rmlewisuk/justdelete.me\">GitHub</a>'da forklayın | Hosting <a href=\"http://www.mediatemple.net/#a_aid=521a8aefe4c3b\">Media Temple</a> tarafından | Analiz <a href=\"https://t.co/fvPnva7p4Y\">GoSquared</a> tarafından",
-            "ar":"أنشئ من طرف  <a href=\"http://robblewis.me\">روب لويس</a> et <a href=\"http://edpoole.me\">إيد بول</a> | تابع <a href=\"http://github.com/rmlewisuk/justdelete.me\">جيت هاب</a> | مستضاف من طرف <a href=\"http://www.mediatemple.net/#a_aid=521a8aefe4c3b\">Media Temple</a> | تحليلات من طرف <a href=\"https://t.co/fvPnva7p4Y\">GoSquared</a>"
+            "ar":"أنشئ من طرف  <a href=\"http://robblewis.me\">روب لويس</a> et <a href=\"http://edpoole.me\">إيد بول</a> | تابع <a href=\"http://github.com/rmlewisuk/justdelete.me\">جيت هاب</a> | مستضاف من طرف <a href=\"http://www.mediatemple.net/#a_aid=521a8aefe4c3b\">Media Temple</a> | تحليلات من طرف <a href=\"https://t.co/fvPnva7p4Y\">GoSquared</a>",
+            "nl": "Gemaakt door <a href=\"http://robblewis.me\">Robb Lewis</a> en <a href=\"http://edpoole.me\">Ed Poole</a> | Fork op <a href=\"http://github.com/rmlewisuk/justdelete.me\">GitHub</a> | Gehost door <a href=\"http://www.mediatemple.net/#a_aid=521a8aefe4c3b\">Media Temple</a> | Analytics door <a href=\"https://t.co/fvPnva7p4Y\">GoSquared</a>"
 
         },
         "help": {
@@ -471,7 +504,8 @@
             "es": "Ayude a traducir",
             "vi": "Biên dịch",
             "tr": "Çevirmemize yardım edin",
-            "ar":"ساعد في الترجمة"
+            "ar":"ساعد في الترجمة",
+            "nl": "Help vertalen"
         },
         "donate": {
             "en": "Hosting costs money. If you like JustDelete.me, please consider making a donation.",
@@ -484,7 +518,8 @@
             "es": "El servicio de alojamiento de esta web de ayuda cuesta dinero, si te gusta JustDelete.me, considera hacer una donación, porfavor.",
             "vi": "Chúng tôi phải chi trả chi phí để duy trì trang web. Nếu bạn thích JustDelete.me, hãy nhở ủng hộ chúng tôi.",
             "tr": "Hosting para tutuyor. Eğer JustDelete.me'yi seviyorsanız, lütfen bağışlamayı düşünün.",
-            "ar":"الإستضافة تكلف المال, إذا آعجبك الموقع JustDelete.me, قم بمساعة مالية"
+            "ar":"الإستضافة تكلف المال, إذا آعجبك الموقع JustDelete.me, قم بمساعة مالية",
+            "nl": "Hosting kost geld. Om JustDelete.me te ondersteunen kunt u een donatie maken."
         },
         "sendmail": {
             "en": "Send email",
@@ -497,7 +532,8 @@
             "es": "Enviar e-mail",
             "vi": "Gửi email",
             "tr": "Email gönder",
-            "ar":"إرسال رسالة"
+            "ar":"إرسال رسالة",
+            "nl": "Stuur een e-mail"
         },
         "submit": {
             "en": "Submit a site",
@@ -510,6 +546,7 @@
             "es": "Submit a site",
             "vi": "Thêm một trang web vào danh sách",
             "tr": "Site gönder",
-            "ar":"إدراج موقع"
+            "ar":"إدراج موقع",
+            "nl": "Dien een website in"
         }
     }]
