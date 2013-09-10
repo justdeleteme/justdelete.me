@@ -38,7 +38,7 @@
 			$full_name = "Español";
 		}
 		if ($lang == "vi") {
-			$full_name = "Việt";
+			$full_name = "Tiếng Việt";
 		}
 		if ($lang == "tr") {
 			$full_name = "Türk";
