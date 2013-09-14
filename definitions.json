@@ -1,4 +1,18 @@
 [{
+	"languages": {
+		"en": "English",
+		"it": "Italiano",
+		"de": "Deutsch",
+		"fr": "Français",
+		"ru": "Pусский",
+		"pt_br": "Português",
+		"cat": "Català",
+		"es": "Español",
+		"vi": "Việt",
+		"tr": "Türk",
+		"ar": "العربية"
+		},
+
         "title": {
             "en": "Just Delete Me | A directory of direct links to delete your account from web services.",
             "it": "Just Delete Me | Una directory di link diretti per eliminare il tuo account dai siti web.",
