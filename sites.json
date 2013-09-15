@@ -354,6 +354,14 @@
         "notes_cat": "Editi el seu compte i seleccioni 'Remove my account'.",
         "notes_es": "Edite su cuenta y seleccione 'Remove my account'."
     },
+    
+    {
+        "name": "Dashlane",
+        "url": "https://www.dashlane.com/deleteaccount",
+        "difficulty": "easy",
+        "notes": "You have to enter your mailadress and have to choose a 'why are you leaving' answer'. To verify this step you'll become a mail with a security code to fill into the form. After that your account is deleted.",
+        "notes_de": "Nach Angabe der E-Mail-Adresse und der Auswahl eines Grunds der Löschung, erhält man per Mail einen Sicherheitscode. Dieser wird im Löschformular eingetragen und abgeschickt. Danach wird der Account unwiederbringlich gelöscht."
+    },
 
     {
         "name": "Deadspin (Gawker Media)",
