@@ -164,7 +164,7 @@
                                     <?php echo $site->name; ?>
                                 </a>                            
                                 <p class="site-difficulty">
-                                    <?php echo $definitions[0]->difficulty->$lang; ?>: <?php echo eval('return $difficulty_' . $site->difficulty . ';'); ?>
+                                    <?php echo eval('return $difficulty_' . $site->difficulty . ';'); ?>
                                 </p>
                                 <?php if (isset($site->$note_lang)) : ?>
                                     <div class="tooltip-content">                                   
@@ -246,6 +246,7 @@
 		        	<li class="vi"><a href="https://github.com/giangnb">Giang Nguyen</a></li>
 		        	<li class="tr"><a href="https://github.com/MarioErmando">Erman Sayın</a></li>
 		        	<li class="ar"><a href="https://github.com/adahhane">Dahhane Ayyoub</a></li>
+		        	<li class="nl"><a href="https://github.com/mprins">Mark Prins</a></li>
 
 				</ul>
 			</div><div class="info-block-half">
@@ -321,10 +322,11 @@
 	        <li class="it"><a href="it.html">Italiano</a></li>
 	    	<li class="de"><a href="de.html">Deutsch</a></li>
 	        <li class="fr"><a href="fr.html">Français</a></li>
-	        <li class="ru"><a href="ru.html">Pусский</a></li>
-	        <li class="pt_br"><a href="pt_br.html">Português</a></li>
+	        <li class="nl"><a href="nl.html">Nederlands</a></li>
 	        <li class="es"><a href="es.html">Español</a></li>
 	        <li class="cat"><a href="cat.html">Català</a></li>
+	        <li class="pt_br"><a href="pt_br.html">Português</a></li>
+	        <li class="ru"><a href="ru.html">Pусский</a></li>
 	        <li class="vi"><a href="vi.html">Tiếng Việt</a></li>
 	        <li class="tr"><a href="tr.html">Türk</a></li>
 	        <li class="ar"><a href="ar.html">العربية</a></li>
