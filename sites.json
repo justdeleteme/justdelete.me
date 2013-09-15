@@ -1464,7 +1464,7 @@
         "name": "Nike+",
         "url": "https://secure-nikeplus.nike.com/plus/settings/",
         "difficulty": "easy",
-        "notes": "At the bottom of the account form, there is a 'Deactivate Account' button. Upon clicking, there will be a set of information that explains the process of account deactivation."
+        "notes": "At the bottom of the account form, there is a 'Deactivate Account' button. Upon clicking, there will be a set of information that explains the process of account deactivation. All account information will be deleted."
     },
 
     {
