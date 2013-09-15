@@ -325,7 +325,7 @@
 	        <li class="pt_br"><a href="pt_br.html">Português</a></li>
 	        <li class="es"><a href="es.html">Español</a></li>
 	        <li class="cat"><a href="cat.html">Català</a></li>
-	        <li class="vi"><a href="vi.html">Việt</a></li>
+	        <li class="vi"><a href="vi.html">Tiếng Việt</a></li>
 	        <li class="tr"><a href="tr.html">Türk</a></li>
 	        <li class="ar"><a href="ar.html">العربية</a></li>
 	        <li class="dropdown-divider"></li>
