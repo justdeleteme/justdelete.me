@@ -571,6 +571,13 @@
     },
 
     {
+        "name": "Experian",
+        "url": "http://experian.metafaq.com/help/CreditExpertBRS/Cancel_and_duration/CancelBRS",
+        "difficulty": "hard",
+        "notes": "You can cancel by email but only if your membership includes insurance. Otherwise, an email cancellation will be ignored. You have to call 0800 561 0083 to cancel your account. This is the only way."
+    },
+
+    {
         "name": "Facebook",
         "url": "https://www.facebook.com/help/delete_account?rdrhc",
         "difficulty": "medium",
