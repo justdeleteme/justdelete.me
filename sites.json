@@ -1916,6 +1916,14 @@
     },
 
     {
+        "name": "StepMap",
+        "url": "http://www.stepmap.de/profil.php",
+        "difficulty": "hard",
+        "notes": "To delete your StepMap account, let us know by sending an e-mail with info@stepmap.de and enter your username. The sender address must be your e-mail address that you have subscribed to at StepMap.",
+        "notes_de": "Um Deinen StepMap-Account zu löschen, teile uns dies bitte per E-Mail an info@stepmap.de mit und nenne uns Deinen Benutzernamen. Die Absenderadresse muss Deine E-Mail-Adresse sein, mit der Du Dich bei StepMap angemeldet hast."
+    },
+
+    {
         "name": "Strava",
         "url": "https://www.strava.com/settings/privacy",
         "difficulty": "medium",
