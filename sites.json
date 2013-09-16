@@ -394,6 +394,14 @@
             "es": "Edite su cuenta y seleccione 'Remove my account'."
         }
     },
+    
+    {
+        "name": "Dashlane",
+        "url": "https://www.dashlane.com/deleteaccount",
+        "difficulty": "easy",
+        "notes": "You have to enter your mailadress and have to choose a 'why are you leaving' answer'. To verify this step you'll become a mail with a security code to fill into the form. After that your account is deleted.",
+        "notes_de": "Nach Angabe der E-Mail-Adresse und der Auswahl eines Grunds der Löschung, erhält man per Mail einen Sicherheitscode. Dieser wird im Löschformular eingetragen und abgeschickt. Danach wird der Account unwiederbringlich gelöscht."
+    },
 
     {
         "name": "Deadspin (Gawker Media)",
@@ -623,6 +631,13 @@
             "cat": "No pot eliminar un compte d'Evernote, només pot desactivar-la temporalment. La desactivaciò no esborra les seves dades, ho haurà de fer manualment, després sincronitzar i desactivar.",
             "es": "No se puede eliminar una cuenta de Evernote, solo se puede desactivar la temporalmente. La desactivación no borra sus datos, lo deberá hacer manualmente, después sincronitzar y desactivar."
         }
+    },
+
+    {
+        "name": "Experian",
+        "url": "http://experian.metafaq.com/help/CreditExpertBRS/Cancel_and_duration/CancelBRS",
+        "difficulty": "hard",
+        "notes": "You can cancel by email but only if your membership includes insurance. Otherwise, an email cancellation will be ignored. You have to call 0800 561 0083 to cancel your account. This is the only way."
     },
 
     {
@@ -1564,6 +1579,14 @@
         "url": "https://new.myspace.com/settings/profile",
         "difficulty": "easy"
     },
+    
+    {
+        "name": "Neopets",
+        "url": "http://www.neopets.com/help_search.phtml?help_id=4",
+        "difficulty": "hard",
+        "notes": "Send an email to the unsubscribe@neopets.com stating you wish to delete your account.",
+        "email": "unsubscribe@neopets.com"
+    },
 
     {
         "name": "Netflix",
@@ -1608,6 +1631,13 @@
         "name": "NewsBlur",
         "url": "https://www.newsblur.com/profile/delete_account",
         "difficulty": "easy"
+    },
+
+    {
+        "name": "Nike+",
+        "url": "https://secure-nikeplus.nike.com/plus/settings/",
+        "difficulty": "easy",
+        "notes": "At the bottom of the account form, there is a 'Deactivate Account' button. Upon clicking, there will be a set of information that explains the process of account deactivation. All account information will be deleted."
     },
 
     {
@@ -2154,6 +2184,15 @@
             "cat": "Si contacta amb l'assistència al client d'Steam, li respondran que deixi d'utilitzar el seu compte. Si no ha comprat jocs el compte serà deshabilitat al cap d'un temps.",
             "es": "Si contacta con la asistencia al cliente de Steam, le responderán que deje de utilizar su cuenta. Si no ha comprado juegos la cuenta será deshabilitado al cabo de un tiempo."
         }
+    },
+
+    {
+        "name": "StepMap",
+        "url": "http://www.stepmap.de/profil.php",
+        "difficulty": "hard",
+        "notes": "To delete your StepMap account, let us know by sending an e-mail with info@stepmap.de and enter your username. The sender address must be your e-mail address that you have subscribed to at StepMap.",
+        "notes_de": "Um Deinen StepMap-Account zu löschen, teile uns dies bitte per E-Mail an info@stepmap.de mit und nenne uns Deinen Benutzernamen. Die Absenderadresse muss Deine E-Mail-Adresse sein, mit der Du Dich bei StepMap angemeldet hast.",
+        "email": "info@stepmap.de"
     },
 
     {

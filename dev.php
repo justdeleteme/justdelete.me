@@ -295,6 +295,14 @@ $submit                = $definitions[0]->submit->$lang;
                 $(this).html("<?php echo $hideinfo ?>").addClass('text-toggled');
             }       
         });
+
+		$('a[href^="mailto:"]').click(function() {
+			"use strict";
+			var s = encodeURIComponent("Account Deletion Request");
+			var b = encodeURIComponent("Please delete my account, my username is [USERNAME].");
+			window.location.href = $(this).attr("href") + "?subject=" + s + "&body=" + b;
+			return false;
+		});
 	</script>
 
 	<div id="dropdown-1" class="dropdown dropdown-tip has-icons">
