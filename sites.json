@@ -1065,9 +1065,10 @@
     },
     {
         "name": "Instructables",
-        "url": "http://www.instructables.com/you",
-        "difficulty": "hard"
-        "notes":"You have to email them (service@instructables.com) to get your account deleted"
+        "url": "http://www.instructables.com/",
+        "difficulty": "hard",
+        "notes":"You have to email them (service@instructables.com) to get your account deleted",
+        "email":"service@instructables.com"
     },
 
     {
