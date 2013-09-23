@@ -236,6 +236,13 @@
         "url": "https://4id.channel4.com/account/remove",
         "difficulty": "easy"
     },
+    
+    {
+        "name": "CleverReach",
+        "url": "www.cleverreach.com",
+        "difficulty": "hard",
+        "email": "info@cleverreach.de"
+    }
 
     {
         "name": "CloudApp",
