@@ -1380,6 +1380,13 @@
     },
 
     {
+        "name": "Morningstar",
+        "url": "http://socialize.morningstar.com/feedback/feedbackform.asp",
+        "difficulty": "hard",
+        "notes": "Fill out the feedback form, asking them to delete your account. Be sure to specify that you’re not just unsubscribing from e-mail but that you want your account deleted entirely."
+    },
+
+    {
         "name": "Mozilla Persona",
         "url": "https://login.persona.org/",
         "difficulty": "easy",
