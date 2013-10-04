@@ -1644,6 +1644,13 @@
     },
 
     {
+        "name": "Prezi",
+        "url": "http://prezi.com/profile/delete_user_account/",
+        "difficulty": "easy",
+        "notes": "Log into your account -> Confirm with your password (all of your prezis will be deleted, not possible to revert this)."
+    },
+
+    {
         "name": "Pushover",
         "url": "https://pushover.net/settings/delete_account",
         "difficulty": "easy"
