@@ -49,6 +49,10 @@ $(function(){
      $('body').scrollTo('.banner-block');
     });
 
+    $('.info').click(function(e) {
+     $('body').scrollTo('.info-block');
+    });
+
     // create the keys and konami variables
     var keys = [],
     konami = "38,38,40,40,37,39,37,39,66,65";

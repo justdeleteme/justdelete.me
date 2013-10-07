@@ -1,6 +1,8 @@
 <?php
 	
-	$langs = ['en', 'it', 'de', 'fr', 'ru', 'pt_br'];
+	$langs = ['en', 'it', 'de', 'fr', 'ru', 'pt_br', 'cat', 'es', 'vi', 'tr', 'ar', 'nl'];
+
+	include 'contrib.php';
 
 	foreach ($langs as $language)
 	{
@@ -28,6 +30,24 @@
 		}
 		if ($lang == "pt_br") {
 			$full_name = "Português";
+		}
+		if ($lang == "cat") {
+			$full_name = "Català";
+		}
+		if ($lang == "es") {
+			$full_name = "Español";
+		}
+		if ($lang == "vi") {
+			$full_name = "Tiếng Việt";
+		}
+		if ($lang == "tr") {
+			$full_name = "Türk";
+		}
+		if ($lang == "ar") {
+			$full_name = "العربية";
+		}
+		if ($lang == "nl") {
+			$full_name = "Nederlands";
 		}
 		
 		include ('dev.php');

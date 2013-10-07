@@ -10,6 +10,16 @@
 	}); 
 
 	// For testing
+	if ( ! isset($contributors))
+	{
+		include 'contrib.php';		
+	}
+
+	if (isset($_GET['lang']))
+	{
+		$lang = $_GET['lang'];
+	}
+	// For testing
 	if ( !isset($lang))
 	{
 		$lang = "en";
@@ -59,6 +69,8 @@
 	$help_translate = $definitions[0]->help->$lang;
 	$donate = $definitions[0]->donate->$lang;
 	$sendmail = $definitions[0]->sendmail->$lang;
+	$submit = $definitions[0]->submit->$lang;
+
 	if ($lang == "en")
 	{
 		$note_lang = "notes";
@@ -71,7 +83,7 @@
 
 ?>
 <!DOCTYPE HTML>
-<html>
+<html lang="<?php echo $lang ?>">
 <head>
 	<title><?php echo $title ?></title>
 	<meta charset="UTF-8">
@@ -117,18 +129,19 @@
 
 	<!-- Facebook Like Button SDK -->
 	<div id="fb-root"></div>
-	<div class="ribbon"><a target="_blank" href="http://github.com/rmlewisuk/justdelete.me"><img src="inc/icons/gh-ribbon.png"></a></div>
-	<a href="https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf" target="_blank" class="banner">
-            <?php echo $banner ?>
-	</a>
+	<nav>
+		<!-- begin language switcher -->
+		<span class="language-switch" href="#" data-dropdown="#dropdown-1" id="<?php echo $lang; ?>"><?php echo $full_name; ?></span>
+		<!-- end language switcher -->
+		<a href="#" class="info">About</a>
+		<a href="#" class="banner">Chrome Extension</a>
+		<a target="_blank" href="https://docs.google.com/a/therobb.com/forms/d/1mhr3vaTni5U8PvOdp_NvQ6vKBxNTmJTeKP3VWRuioCE/viewform">Submit a site</a>
+		<a target="_blank" href="http://github.com/rmlewisuk/justdelete.me">Fork on GitHub</a>
+	</nav>
 
 	<header>
 		<h1>just<span>delete</span>.me</h1>
 		<p class="tagline"><?php echo $tagline ?></p>
-
-		<!-- begin language switcher -->
-		<span class="language-switch" href="#" data-dropdown="#dropdown-1" id="<?php echo $lang; ?>"><?php echo $full_name; ?></span>
-		<!-- end language switcher -->
 	</header>
 
 	<div id="test">
@@ -151,7 +164,7 @@
                                     <?php echo $site->name; ?>
                                 </a>                            
                                 <p class="site-difficulty">
-                                    <?php echo $definitions[0]->difficulty->$lang; ?>: <?php echo eval('return $difficulty_' . $site->difficulty . ';'); ?>
+                                    <?php echo eval('return $difficulty_' . $site->difficulty . ';'); ?>
                                 </p>
                                 <?php if (isset($site->$note_lang)) : ?>
                                     <div class="tooltip-content">                                   
@@ -187,7 +200,7 @@
 				<h2><?php echo $whatisthis ?></h2>
 				<p><?php echo $whatisthis1 ?></p>
 				<p><?php echo $whatisthis2 ?></p>
-				<p><?php echo $whatisthis3 ?></p>
+				<p><a target="_blank" href="https://docs.google.com/a/therobb.com/forms/d/1mhr3vaTni5U8PvOdp_NvQ6vKBxNTmJTeKP3VWRuioCE/viewform"><?php echo $submit ?> &raquo;</a></p>
 				<ul>
 					<li><a href="http://robblewis.me/just-delete-me?utm_source=JustDeleteMe&amp;utm_medium=link&amp;utm_campaign=Just+Delete+Me" target="_blank">Read the announcement blog post &raquo;</a></li>
 					<li><a href="http://robblewis.me/24-hours-of-just-delete-me/" target="_blank">See the first-day stats &raquo;</a></li>
@@ -226,15 +239,24 @@
 		        	<li class="it"><a href="https://github.com/LorenzoRogai">Lorenzo Rogai</a></li>
 		    		<li class="de"><a href="http://www.erbloggt.de/">Konstantin Hinrichs</a></li>
 		        	<li class="fr"><a href="https://github.com/buzzb0x">Ethan Ohayon</a></li>
+		        	<li class="fr"><a href="https://github.com/p1rox">Armand Vignat</a></li>
 		        	<li class="ru"><a href="https://github.com/morozd">morozd</a></li>
 		        	<li class="pt_br"><a href="https://github.com/mkbu95">Matheus Macabu</a></li>
+		        	<li class="cat"><a href="https://github.com/rockbdn">JP Queralt (+ Español)</a></li>
+		        	<li class="vi"><a href="https://github.com/giangnb">Giang Nguyen</a></li>
+		        	<li class="tr"><a href="https://github.com/MarioErmando">Erman Sayın</a></li>
+		        	<li class="ar"><a href="https://github.com/adahhane">Dahhane Ayyoub</a></li>
+		        	<li class="nl"><a href="https://github.com/mprins">Mark Prins</a></li>
+
 				</ul>
 			</div><div class="info-block-half">
 				<h2><?php echo $morecontrib; ?></h2>
+
+				<?php echo $contributors; ?>
 			
-				<ul>
-					<?php include 'contrib.php'; ?>
-					<li><a href='http://github.com/rmlewisuk/justdelete.me/contributors'><?php echo $viewcontrib; ?> &raquo;</a></li>
+				<p><br/><a href='http://github.com/rmlewisuk/justdelete.me/contributors'><?php echo $viewcontrib; ?> &raquo;</a></p>
+			
+				
 				</ul>
 			</div>
 		</div>
@@ -298,11 +320,16 @@
 	    <ul class="dropdown-menu">
 	    	<li class="en"><a href="/">English</a></li>
 	        <li class="it"><a href="it.html">Italiano</a></li>
-	    	<li class="de"><a href="de.html">Deutsch <span class="beta">unvollständig</span></a></li>
-	        <li class="fr"><a href="fr.html">Français <span class="beta">incomplète</span></a></li>
-	        <li class="ru"><a href="ru.html">Pусский <span class="beta">неполный</span></a></li>
+	    	<li class="de"><a href="de.html">Deutsch</a></li>
+	        <li class="fr"><a href="fr.html">Français</a></li>
+	        <li class="nl"><a href="nl.html">Nederlands</a></li>
+	        <li class="es"><a href="es.html">Español</a></li>
+	        <li class="cat"><a href="cat.html">Català</a></li>
 	        <li class="pt_br"><a href="pt_br.html">Português</a></li>
-	        <!-- <li class="es"><a href="es.html">Spanish <span class="beta">incompleto</span></a></li> -->
+	        <li class="ru"><a href="ru.html">Pусский</a></li>
+	        <li class="vi"><a href="vi.html">Tiếng Việt</a></li>
+	        <li class="tr"><a href="tr.html">Türk</a></li>
+	        <li class="ar"><a href="ar.html">العربية</a></li>
 	        <li class="dropdown-divider"></li>
 	        <li class="help"><a target="_blank" href="https://github.com/rmlewisuk/justdelete.me/issues/164"><?php echo $help_translate; ?></a></li>
 	    </ul>
