@@ -146,6 +146,14 @@
     },
 
     {
+        "name": "Behance",
+        "url": "http://www.behance.net/account/privacy",
+        "difficulty": "easy",
+        "notes": "To delete your account, please go into your 'Me' tab, visit account settings and hit the privacy tab. There, you'll have the option to delete.",
+        "notes_nl": "Verwijder je account door in te loggen en op de 'Me' tab te klikken. Selecteer vervolgens de 'privacy tab' die je bij 'account settings' kunt vinden. Hier vind je de delete mogelijkheid" 
+    },
+    
+    {
         "name": "Bitbucket",
         "url": "https://bitbucket.org/account/",
         "difficulty": "easy",
