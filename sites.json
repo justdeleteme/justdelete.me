@@ -238,6 +238,14 @@
     },
 
     {
+        "name": "Cinemagram",
+        "url": "",
+        "difficulty": "impossible",
+        "notes": "According to the app you can email feedback@cinemagr.am for questions. Unfortunatly removal requests aren't replied to.",
+        "notes_nl": "Volgens de app kun je emailen naar feedback@cinemagr.am voor vragen. Helaas wordt er niet gereageerd op dit account."
+    },
+
+    {
         "name": "CloudApp",
         "url": "http://my.cl.ly/account/delete",
         "difficulty": "easy"
