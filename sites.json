@@ -1460,6 +1460,14 @@
     },
 
     {
+        "name": "New Relic",
+        "url": "",
+        "difficulty": "hard",
+        "notes": "You can cancel your account by logging in and selecting the option 'cancel your account'. Account deletion is only possible by emailing support. Please note that they may not remove all of your data: http://newrelic.com/privacy",
+        "email": "support@newrelic.com"
+    },
+
+    {
         "name": "New York Times",
         "url": "https://myaccount.nytimes.com/membercenter/help.html",
         "difficulty": "hard",
