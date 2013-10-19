@@ -224,6 +224,13 @@
         "notes_cat": "Només cal clicar a 'Abschicken'",
         "notes_es": "Solo tienes que clicar en 'Abschicken'"
     },
+    
+    {
+        "name": "CareerBuilder.com",
+        "url": "http://www.careerbuilder.com/User/UserConfirmation.aspx",
+        "difficulty": "easy",
+        "notes": "Must remove uploaded files first"
+    },
 
     {
         "name": "Change.org",
