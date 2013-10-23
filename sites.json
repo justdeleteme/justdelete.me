@@ -1811,6 +1811,13 @@
     },
 
     {
+        "name": "Simple Machines",
+        "url": "http://www.simplemachines.org/community/index.php?action=profile;area=deleteaccount",
+        "difficulty": "hard",
+        "notes": "Enter your password to have your account marked for deletion by an administrator or moderator. You can do this for any other Simple Machines forums if the forum administrator allows.",
+    },
+
+    {
         "name": "Skype",
         "url": "https://support.skype.com/en/faq/FA142/can-i-delete-my-skype-account",
         "difficulty": "hard",
