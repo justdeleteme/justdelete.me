@@ -343,6 +343,13 @@
     },
 
     {
+        "name": "CrashPlan",
+        "url": "http://support.crashplan.com/",
+        "difficulty": "medium",
+        "notes": "Start a live chat session and a representative will delete your account.",
+    },
+
+    {
         "name": "Daily Mile",
         "url": "http://www.dailymile.com/account/settings/edit",
         "difficulty": "easy",
