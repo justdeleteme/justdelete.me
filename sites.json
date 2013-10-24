@@ -775,6 +775,13 @@
     },
 
     {
+        "name": "Moped",
+        "url": "https://secure.moped.com/account/support",
+        "difficulty": "hard",
+        "notes": "You need send email to support and it may take up to 24 hours to process your request."
+    },
+
+    {
         "name": "Mozilla Persona",
         "url": "https://login.persona.org/",
         "difficulty": "easy",
