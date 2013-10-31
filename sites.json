@@ -1340,6 +1340,18 @@
     },
 
     {
+        "name": "MePergunte",
+        "url": "http://mepergunte.com/perfil/configuracoes/excluir/",
+        "difficulty": "easy"
+    },
+
+    {
+        "name": "Microsoft Account",
+        "url": "https://account.live.com/closeaccount.aspx",
+        "difficulty": "easy"
+    },
+
+    {
         "name": "Microsoft Office 365",
         "url": "http://office.com/myaccount",
         "difficulty": "easy"
@@ -1902,6 +1914,14 @@
     },
 
     {
+        "name": "Spring.me",
+        "url": "https://springme.zendesk.com/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "To remove the account it's necessary to sumbit a request in https://springme.zendesk.com/hc/en-us/requests/new. In \"Problem\" field, select \"Account\" and \"Delete Account\".",
+        "notes_pt_br": "Para remover a conta é necessário enviar um pedido de remoção em https://springme.zendesk.com/hc/en-us/requests/new. No campo \"Problem\", seleciona \"Account\" e depois \"Delete Account\"."
+    },
+
+    {
         "name": "StackOverflow",
         "url": "http://meta.stackoverflow.com/help/deleting-account",
         "difficulty": "hard",
@@ -1985,6 +2005,14 @@
         "notes_pt_br": "Edit profile (menu no canto do topo à direita da página) →  Delete account",
         "notes_cat": "Edit profile (menú situat a la cantonada superior esquerra) →  Delete account",
         "notes_es": "Edit profile (menú situado en la esquina superior izquierda) →  Delete account"
+    },
+
+    {
+        "name": "Technorati",
+        "url": "http://technorati.com",
+        "difficulty": "impossible",
+        "notes": "It's not possible to remove your account, but you can remove your blogs.",
+        "notes_pt_br": "Não é possível remover sua conta, mas você pode remover seus blogs."
     },
 
     {
