@@ -213,6 +213,12 @@
     },
 
     {
+        "name": "Buffer",
+        "url": "https://bufferapp.com/app/account/leave",
+        "difficulty": "easy"
+    },
+
+    {
         "name": "C&M News by Rеss.at",
         "url": "http://www.ress.at/profil/profil_entfernen.php",
         "difficulty": "easy",
