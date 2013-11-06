@@ -343,6 +343,13 @@
     },
 
     {
+        "name": "CrashPlan",
+        "url": "http://support.crashplan.com/",
+        "difficulty": "medium",
+        "notes": "Start a live chat session and a representative will delete your account.",
+    },
+
+    {
         "name": "Daily Mile",
         "url": "http://www.dailymile.com/account/settings/edit",
         "difficulty": "easy",
@@ -1801,6 +1808,13 @@
         "notes_pt_br": "Contate a assistência ao cliente por e-mail ou chat ao vivo e peça a remoção.",
         "notes_cat": "Contacti amb l'assistència al client per e-mail o chat i demani la supressió del compte.",
         "notes_es": "Contacte con la asistencia al cliente por e-mail o chat y pida la supresión de la cuenta."
+    },
+
+    {
+        "name": "Simple Machines",
+        "url": "http://www.simplemachines.org/community/index.php?action=profile;area=deleteaccount",
+        "difficulty": "hard",
+        "notes": "Enter your password to have your account marked for deletion by an administrator or moderator. You can do this for any other Simple Machines forums if the forum administrator allows.",
     },
 
     {
