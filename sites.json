@@ -442,6 +442,12 @@
         "notes_cat": "Contacti amb l'assistència al client de Digg i demani que es clausuri el seu compte.",
         "notes_es": "Contacte con asistencia al cliente de Digg y pida que se clausure su cuenta."
     },
+    
+    {
+        "name": "Discogs",
+        "url": "http://www.discogs.com/users/delete",
+        "difficulty": "easy"
+    },
 
     {
         "name": "Disqus",
