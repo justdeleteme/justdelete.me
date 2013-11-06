@@ -1387,7 +1387,7 @@
         "name": "Match",
         "url": "http://uk.match.com/myaccount/myunsubscription.php",
         "difficulty": "medium",
-        "notes": "Login -> Suspend Account -> Enter email & password -> Save -> Delete Account",
+        "notes": "Login -> Suspend Account -> Enter email & password -> Save -> Delete Account"
     },
 
     {
