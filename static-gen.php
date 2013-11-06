@@ -1,6 +1,6 @@
 <?php
 	
-	$langs = ['en', 'it', 'de', 'fr', 'ru', 'pt_br', 'cat', 'es', 'vi', 'tr', 'ar', 'nl'];
+	$langs = ['en', 'it', 'de', 'fr', 'ru', 'pt_br', 'cat', 'es', 'vi', 'tr', 'ar', 'nl', 'fa'];
 
 	include 'contrib.php';
 
@@ -48,6 +48,9 @@
 		}
 		if ($lang == "nl") {
 			$full_name = "Nederlands";
+		}
+		if ($lang == "fa") {
+			$full_name = "فارسی";
 		}
 		
 		include ('dev.php');

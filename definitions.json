@@ -285,7 +285,7 @@
             "tr": "<span class=\"yellow\">Orta</span> - Bazı ekstra işlemler",
             "ar":"<span class=\"yellow\">متوسط</span> - تحتاج مراحل إضافية",
             "nl": "<span class=\"yellow\">Medium</span> - Extra stappen nodig",
-            "nl": "<span class=\"yellow\">متوسط</span> - شامل مراحل اضافی"
+            "fa": "<span class=\"yellow\">متوسط</span> - شامل مراحل اضافی"
         },
         "guidehard": {
             "en": "<span class=\"red\">Hard</span> - Cannot be fully deleted without contacting customer services",
@@ -315,7 +315,7 @@
             "tr": "<span class=\"black\">Imkansız</span> - Silinemez",
             "ar":"<span class=\"black\">مستحيل</span> - لا يمكن حذفه",
             "nl": "<span class=\"black\">Impossible</span> - Kan niet worden verwijderd",
-            "nl": "<span class=\"black\">ناممکن</span> - حذف‌نشدنی"
+            "fa": "<span class=\"black\">ناممکن</span> - حذف‌نشدنی"
         },
         "translationcontrib": {
             "en": "Translation contributors",
