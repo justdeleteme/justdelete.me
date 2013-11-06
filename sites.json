@@ -1382,6 +1382,13 @@
         "notes_cat": "Account Settings → Account Settings Drop-down → Close my account → Marca DELETE i presioni el botó 'Delete Account'.",
         "notes_es": "Account Settings → Account Settings Drop-down → Close my account → Marca DELETE y presiona el botón 'Delete Account'."
     },
+    
+    {
+        "name": "Match",
+        "url": "http://uk.match.com/myaccount/myunsubscription.php",
+        "difficulty": "medium",
+        "notes": "Login -> Suspend Account -> Enter email & password -> Save -> Delete Account",
+    },
 
     {
         "name": "MediaFire",
