@@ -1,71 +1,25 @@
 <?php
-	
-	$langs = ['en', 'it', 'de', 'fr', 'ru', 'pt_br', 'cat', 'es', 'vi', 'tr', 'ar', 'nl'];
 
-	include 'contrib.php';
+// 
+include 'contrib.php';
 
-	foreach ($langs as $language)
-	{
-		// start the output buffer
-		ob_start(); ?>
-		
-		<?php
+$languages = json_decode(file_get_contents('definitions.json'));
 
-		$lang = $language;
 
-		if ($lang == "en") {
-			$full_name = "English";
-		}
-		if ($lang == "it") {
-			$full_name = "Italiano";
-		}
-		if ($lang == "de") {
-			$full_name = "Deutsch";
-		}
-		if ($lang == "fr") {
-			$full_name = "Français";
-		}
-		if ($lang == "ru") {
-			$full_name = "Pусский";
-		}
-		if ($lang == "pt_br") {
-			$full_name = "Português";
-		}
-		if ($lang == "cat") {
-			$full_name = "Català";
-		}
-		if ($lang == "es") {
-			$full_name = "Español";
-		}
-		if ($lang == "vi") {
-			$full_name = "Tiếng Việt";
-		}
-		if ($lang == "tr") {
-			$full_name = "Türk";
-		}
-		if ($lang == "ar") {
-			$full_name = "العربية";
-		}
-		if ($lang == "nl") {
-			$full_name = "Nederlands";
-		}
-		
-		include ('dev.php');
+foreach ($languages[0]->languages as $lang => $full_name) {
+    ob_start();
+    
+    include('dev.php');
+    
+    if ($lang == "en") {
+        $cachefile = "index.html";
+    } else {
+        $cachefile = "$lang.html";
+    }
 
-		if ($language == "en")
-		{
-			$cachefile = "index.html";
-		}
-		else {
-			$cachefile = $language.".html";
-		}
-		// open the cache file "cache/home.html" for writing
-		$fp = fopen($cachefile, 'w'); 
-		// save the contents of output buffer to the file
-		fwrite($fp, ob_get_contents()); 
-		// close the file
-		fclose($fp); 
-		// Send the output to the browser
-		ob_end_flush();
-	}
+    $fp = fopen($cachefile, 'w');
+    fwrite($fp, ob_get_contents());
+    fclose($fp);
+    ob_end_flush();
+}
 ?>

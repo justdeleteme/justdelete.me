@@ -1,92 +1,77 @@
 <?php
-	$sites = json_decode(file_get_contents('sites.json'));
-	usort($sites, function($a, $b) {
-	          $a = strtolower($a->name);
-	          $b = strtolower($b->name);
-	          
-		if ($a < $b) return -1;
-		if ($a > $b) return 1;
-		return 0;
-	}); 
+// For testing
+if (!isset($contributors)) {
+    include 'contrib.php';
+}
 
-	// For testing
-	if ( ! isset($contributors))
-	{
-		include 'contrib.php';		
-	}
+// For testing
+if (!isset($sites)) {
+    $sites = json_decode(file_get_contents('sites.json'));
+    
+    // sorting outsourced (sort.php)
+}
 
-	if (isset($_GET['lang']))
-	{
-		$lang = $_GET['lang'];
-	}
-	// For testing
-	if ( !isset($lang))
-	{
-		$lang = "en";
-	}
-	if ( !isset($full_name))
-	{
-		$full_name = "English";
-	}
+// For testing
+if (isset($_GET['lang'])) {
+    $lang = $_GET['lang'];
+}
+if (!isset($lang)) {
+    $lang      = "en";
+    $full_name = "English";
+}
 
-	$definitions = json_decode(file_get_contents('definitions.json'));
+if (!isset($definitions)) {
+    
+    $definitions = json_decode(file_get_contents('definitions.json'));
+}
 
-	$title = $definitions[0]->title->$lang;
-	$description = $definitions[0]->description->$lang;
-	$difficulty = $definitions[0]->difficulty->$lang;
-	$difficulty_easy = $definitions[0]->difficulty_easy->$lang;
-	$difficulty_medium = $definitions[0]->difficulty_medium->$lang;
-	$difficulty_hard = $definitions[0]->difficulty_hard->$lang;
-	$difficulty_impossible = $definitions[0]->difficulty_impossible->$lang;
-	$tagline = $definitions[0]->tagline->$lang;
-	$noinfo = $definitions[0]->noinfo->$lang;
-	$showinfo = $definitions[0]->showinfo->$lang;
-	$hideinfo = $definitions[0]->hideinfo->$lang;
-	$whatisthis = $definitions[0]->whatisthis->$lang;
-	$whatisthis1 = $definitions[0]->whatisthis1->$lang;
-	$whatisthis2 = $definitions[0]->whatisthis2->$lang;
-	$whatisthis3 = $definitions[0]->whatisthis3->$lang;
-	$guide = $definitions[0]->guide->$lang;
-	$guideexplanations = $definitions[0]->guideexplanations->$lang;
-	$guideeasy = $definitions[0]->guideeasy->$lang;
-	$guidemedium = $definitions[0]->guidemedium->$lang;
-	$guidehard = $definitions[0]->guidehard->$lang;
-	$guideimpossible = $definitions[0]->guideimpossible->$lang;
-	$translationcontrib = $definitions[0]->translationcontrib->$lang;
-	$morecontrib = $definitions[0]->morecontrib->$lang;
-	$viewcontrib = $definitions[0]->viewcontrib->$lang;
-	$extensionguide = $definitions[0]->extensionguide->$lang;
-	$extension = $definitions[0]->extension->$lang;
-	$extensionp1 = $definitions[0]->extensionp1->$lang;
-	$extensionp2 = $definitions[0]->extensionp2->$lang;
-	$extensionp3 = $definitions[0]->extensionp3->$lang;
-	$extensionl1 = $definitions[0]->extensionl1->$lang;
-	$extensionl2 = $definitions[0]->extensionl2->$lang;
-	$extensionl3 = $definitions[0]->extensionl3->$lang;
-	$extensionl4 = $definitions[0]->extensionl4->$lang;
-	$banner = $definitions[0]->banner->$lang;
-	$footer = $definitions[0]->footer->$lang;
-	$help_translate = $definitions[0]->help->$lang;
-	$donate = $definitions[0]->donate->$lang;
-	$sendmail = $definitions[0]->sendmail->$lang;
-	$submit = $definitions[0]->submit->$lang;
-
-	if ($lang == "en")
-	{
-		$note_lang = "notes";
-	}
-	else
-	{
-		$note_lang = "notes_" . $lang;
-	}
-
+$title                 = $definitions[0]->title->$lang;
+$description           = $definitions[0]->description->$lang;
+$difficulty            = $definitions[0]->difficulty->$lang;
+$difficulty_easy       = $definitions[0]->difficulty_easy->$lang;
+$difficulty_medium     = $definitions[0]->difficulty_medium->$lang;
+$difficulty_hard       = $definitions[0]->difficulty_hard->$lang;
+$difficulty_impossible = $definitions[0]->difficulty_impossible->$lang;
+$tagline               = $definitions[0]->tagline->$lang;
+$noinfo                = $definitions[0]->noinfo->$lang;
+$showinfo              = $definitions[0]->showinfo->$lang;
+$hideinfo              = $definitions[0]->hideinfo->$lang;
+$whatisthis            = $definitions[0]->whatisthis->$lang;
+$whatisthis1           = $definitions[0]->whatisthis1->$lang;
+$whatisthis2           = $definitions[0]->whatisthis2->$lang;
+$whatisthis3           = $definitions[0]->whatisthis3->$lang;
+$guide                 = $definitions[0]->guide->$lang;
+$guideexplanations     = $definitions[0]->guideexplanations->$lang;
+$guideeasy             = $definitions[0]->guideeasy->$lang;
+$guidemedium           = $definitions[0]->guidemedium->$lang;
+$guidehard             = $definitions[0]->guidehard->$lang;
+$guideimpossible       = $definitions[0]->guideimpossible->$lang;
+$translationcontrib    = $definitions[0]->translationcontrib->$lang;
+$morecontrib           = $definitions[0]->morecontrib->$lang;
+$viewcontrib           = $definitions[0]->viewcontrib->$lang;
+$extensionguide        = $definitions[0]->extensionguide->$lang;
+$extension             = $definitions[0]->extension->$lang;
+$extensionp1           = $definitions[0]->extensionp1->$lang;
+$extensionp2           = $definitions[0]->extensionp2->$lang;
+$extensionp3           = $definitions[0]->extensionp3->$lang;
+$extensionl1           = $definitions[0]->extensionl1->$lang;
+$extensionl2           = $definitions[0]->extensionl2->$lang;
+$extensionl3           = $definitions[0]->extensionl3->$lang;
+$extensionl4           = $definitions[0]->extensionl4->$lang;
+$banner                = $definitions[0]->banner->$lang;
+$footer                = $definitions[0]->footer->$lang;
+$help_translate        = $definitions[0]->help->$lang;
+$donate                = $definitions[0]->donate->$lang;
+$sendmail              = $definitions[0]->sendmail->$lang;
+$submit                = $definitions[0]->submit->$lang;
 
 ?>
-<!DOCTYPE HTML>
+
+<!DOCTYPE html>
 <html lang="<?php echo $lang ?>">
-<head>
+  <head>
+    <meta charset="utf-8">
 	<title><?php echo $title ?></title>
-	<meta charset="UTF-8">
 	<!--[if lt IE 9]>
 		<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
@@ -131,7 +116,7 @@
 	<div id="fb-root"></div>
 	<nav>
 		<!-- begin language switcher -->
-		<span class="language-switch" href="#" data-dropdown="#dropdown-1" id="<?php echo $lang; ?>"><?php echo $full_name; ?></span>
+		<span class="language-switch" data-dropdown="#dropdown-1" id="<?php echo $lang; ?>"><?php echo $full_name; ?></span>
 		<!-- end language switcher -->
 		<a href="#" class="info">About</a>
 		<a href="#" class="banner">Chrome Extension</a>
@@ -170,28 +155,28 @@
 			<!-- // FIRST FOR EACH -->
 
                         <?php foreach ($sites as $site) : ?><section class="site-block <?php echo $site->difficulty; ?>">
-                                <a class="site-header" href="<?php echo $site->url; ?>">
+                                <a class="site-header" href="<?php echo urlencode($site->url); ?>">
                                     <?php echo $site->name; ?>
                                 </a>                            
                                 <p class="site-difficulty">
-                                    <?php echo eval('return $difficulty_' . $site->difficulty . ';'); ?>
+                                    <?php echo $definitions[0]->difficulty->$lang; ?>: <?php echo eval('return $difficulty_' . $site->difficulty . ';'); ?>
                                 </p>
-                                <?php if (isset($site->$note_lang)) : ?>
+                                <?php if (isset($site->notes->$lang)) : ?>
                                     <div class="tooltip-content">                                   
-                                        <?php echo $site->$note_lang;
+                                        <?php echo $site->notes->$lang;
                                         if (isset($site->email))
                                         {
-                                            echo '<br><a href="mailto:' . $site->email . '?Subject=Account%20Deletion%20Request&body=Please%20delete%20my%20account,%20my%20username%20is%20 XXXXXX">' . $sendmail . ' &raquo;</a>';
+                                            echo '<br><a href="mailto:' . $site->email . '">' . $sendmail . ' &raquo;</a>';
                                         }
                                         ?>                                          
                                     </div>
                                     <a href="#" class="tooltip-toggle contains-info"><?php echo $showinfo ?></a>
-                                <?php elseif (isset($site->notes)) : ?>
+                                <?php elseif (isset($site->notes->en)) : ?>
                                 	<div class="tooltip-content">                                   
-                                        <?php echo $site->notes; 
+                                        <?php echo $site->notes->en; 
                                         if (isset($site->email))
                                         {
-                                            echo '<br><a href="mailto:' . $site->email . '?Subject=Account%20Deletion%20Request&body=Please%20delete%20my%20account,%20my%20username%20is%20 XXXXX">' . $sendmail . ' &raquo;</a>';
+                                            echo '<br><a href="mailto:' . $site->email . '">' . $sendmail . ' &raquo;</a>';
                                         }
                                         ?> 
                                         </div>
@@ -232,8 +217,8 @@
 				<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 					<input type="hidden" name="cmd" value="_s-xclick">
 					<input type="hidden" name="hosted_button_id" value="E9VLGMSJ3R4Q4">
-					<input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
-					<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+					<input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_donate_SM.gif" name="submit" alt="PayPal – The safer, easier way to pay online.">
+					<img alt="" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
 				</form>
 			</div>
 		</div>
@@ -256,7 +241,6 @@
 		        	<li class="vi"><a href="https://github.com/giangnb">Giang Nguyen</a></li>
 		        	<li class="tr"><a href="https://github.com/MarioErmando">Erman Sayın</a></li>
 		        	<li class="ar"><a href="https://github.com/adahhane">Dahhane Ayyoub</a></li>
-		        	<li class="nl"><a href="https://github.com/mprins">Mark Prins</a></li>
 
 				</ul>
 			</div><div class="info-block-half">
@@ -265,9 +249,6 @@
 				<?php echo $contributors; ?>
 			
 				<p><br/><a href='http://github.com/rmlewisuk/justdelete.me/contributors'><?php echo $viewcontrib; ?> &raquo;</a></p>
-			
-				
-				</ul>
 			</div>
 		</div>
 	</section>
@@ -295,8 +276,8 @@
 	<section class="info-block">
 		<div class="info-container">
 			<footer>
-				<span><?php echo $footer ?></label>
-				<div class="share-buttons" id="share buttons">
+				<span><?php echo $footer ?></span>
+				<div class="share-buttons" id="share-buttons">
 				<!-- Twitter -->
 					<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://justdelete.me">Tweet</a>
 					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
@@ -324,6 +305,14 @@
                 $(this).html("<?php echo $hideinfo ?>").addClass('text-toggled');
             }       
         });
+
+		$('a[href^="mailto:"]').click(function() {
+			"use strict";
+			var s = encodeURIComponent("Account Deletion Request");
+			var b = encodeURIComponent("Please delete my account, my username is [USERNAME].");
+			window.location.href = $(this).attr("href") + "?subject=" + s + "&body=" + b;
+			return false;
+		});
 	</script>
 
 	<div id="dropdown-1" class="dropdown dropdown-tip has-icons">
@@ -332,12 +321,11 @@
 	        <li class="it"><a href="it.html">Italiano</a></li>
 	    	<li class="de"><a href="de.html">Deutsch</a></li>
 	        <li class="fr"><a href="fr.html">Français</a></li>
-	        <li class="nl"><a href="nl.html">Nederlands</a></li>
+	        <li class="ru"><a href="ru.html">Pусский</a></li>
+	        <li class="pt_br"><a href="pt_br.html">Português</a></li>
 	        <li class="es"><a href="es.html">Español</a></li>
 	        <li class="cat"><a href="cat.html">Català</a></li>
-	        <li class="pt_br"><a href="pt_br.html">Português</a></li>
-	        <li class="ru"><a href="ru.html">Pусский</a></li>
-	        <li class="vi"><a href="vi.html">Tiếng Việt</a></li>
+	        <li class="vi"><a href="vi.html">Việt</a></li>
 	        <li class="tr"><a href="tr.html">Türk</a></li>
 	        <li class="ar"><a href="ar.html">العربية</a></li>
 	        <li class="dropdown-divider"></li>
