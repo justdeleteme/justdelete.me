@@ -10,14 +10,6 @@
         "url": "https://500px.com/settings",
         "difficulty": "easy"
     },
-    {
-        "name": "Multiplay.co.uk",
-        "url": "https://multiplay.com/contactus/",
-        "difficulty": "hard",
-        "notes": "You have to contact Multiplay by their contact us page.",
-        "notes_es": "Tienes que contactar a Multiplay a través de su página contactanos."
-    },
-    
 
     {
         "name": "9GAG",
@@ -134,7 +126,7 @@
         "notes_cat": "Vagi a la pàgina 'Settings', baixa fins a trobar 'Deactivate account'. Cliqui al botó 'Close Account', i confirmi-ho.",
         "notes_es": "Vaya a la página 'Settings', baje hasta encontrar 'Deactivate account'. Clique en el botón 'Close Account', y confirme."
     },
-    
+
     {
         "name": "Bandcamp",
         "url": "https://bandcamp.com/settings?pane=fan",
@@ -165,9 +157,9 @@
         "url": "http://www.behance.net/account/privacy",
         "difficulty": "easy",
         "notes": "To delete your account, please go into your 'Me' tab, visit account settings and hit the privacy tab. There, you'll have the option to delete.",
-        "notes_nl": "Verwijder je account door in te loggen en op de 'Me' tab te klikken. Selecteer vervolgens de 'privacy tab' die je bij 'account settings' kunt vinden. Hier vind je de delete mogelijkheid" 
+        "notes_nl": "Verwijder je account door in te loggen en op de 'Me' tab te klikken. Selecteer vervolgens de 'privacy tab' die je bij 'account settings' kunt vinden. Hier vind je de delete mogelijkheid"
     },
-    
+
     {
         "name": "Bitbucket",
         "url": "https://bitbucket.org/account/",
@@ -254,7 +246,7 @@
         "notes_cat": "Només cal clicar a 'Abschicken'",
         "notes_es": "Solo tienes que clicar en 'Abschicken'"
     },
-    
+
     {
         "name": "CareerBuilder.com",
         "url": "http://www.careerbuilder.com/User/UserConfirmation.aspx",
@@ -273,14 +265,6 @@
         "url": "https://4id.channel4.com/account/remove",
         "difficulty": "easy"
     },
-    
-    {
-        "name": "CleverReach",
-        "url": "www.cleverreach.com",
-        "difficulty": "hard",
-        "notes": "Email customer services to request deletion",
-        "email": "info@cleverreach.de"
-    },
 
     {
         "name": "Cinemagram",
@@ -288,6 +272,14 @@
         "difficulty": "impossible",
         "notes": "According to the app you can email feedback@cinemagr.am for questions. Unfortunatly removal requests aren't replied to.",
         "notes_nl": "Volgens de app kun je emailen naar feedback@cinemagr.am voor vragen. Helaas wordt er niet gereageerd op dit account."
+    },
+
+    {
+        "name": "CleverReach",
+        "url": "www.cleverreach.com",
+        "difficulty": "hard",
+        "notes": "Email customer services to request deletion",
+        "email": "info@cleverreach.de"
     },
 
     {
@@ -421,7 +413,7 @@
         "notes_cat": "Editi el seu compte i seleccioni 'Remove my account'.",
         "notes_es": "Edite su cuenta y seleccione 'Remove my account'."
     },
-    
+
     {
         "name": "Dashlane",
         "url": "https://www.dashlane.com/deleteaccount",
@@ -494,7 +486,6 @@
         "notes_pt_br": "Clique em 'close my account' e confirme com sua senha.",
         "notes_cat": "Cliqui a 'close my account' i confirmi-ho amb la seva contrasenya.",
         "notes_es": "Haga clic en 'close my account' y confirmelo con su contraseña."
-        
     },
 
     {
@@ -509,19 +500,19 @@
         "notes_cat": "Contacti amb l'assistència al client de Digg i demani que es clausuri el seu compte.",
         "notes_es": "Contacte con asistencia al cliente de Digg y pida que se clausure su cuenta."
     },
-    
-    {
-        "name": "Discogs",
-        "url": "http://www.discogs.com/users/delete",
-        "difficulty": "easy"
-    },
 
     {
         "name": "diHITT",
         "url": "http://www.dihitt.com/user/delete_profile",
         "difficulty": "easy"
     },
-    
+
+    {
+        "name": "Discogs",
+        "url": "http://www.discogs.com/users/delete",
+        "difficulty": "easy"
+    },
+
     {
         "name": "Disqus",
         "url": "http://disqus.com/pages/dashboard/#account",
@@ -1070,7 +1061,7 @@
         "notes_it": "Nel menu in alto: 'Tuo nome', 'My Account', e clicca sul link 'Delete Account' in fondo.",
         "notes_pt_br": "Na barra superior: 'Seu nome', 'My Account' e clique no link 'Delete Account' no final.",
         "notes_cat": "A la barra superior: 'El seu nom', 'My Account' i faci click a 'Delete Account' al final.",
-        "notes_es":"En la barra superior: 'Su nombre', 'My Account' y haga clic en 'Delete Account' al final."
+        "notes_es": "En la barra superior: 'Su nombre', 'My Account' y haga clic en 'Delete Account' al final."
     },
 
     {
@@ -1135,13 +1126,6 @@
         "notes_cat": "Enviï un e-mail amb el seu nom d'usuari i e-mail a l'assistència al client i ells esborraran el seu compte.",
         "notes_es": "Envíe un e-mail con su nombre de usuario y e-mail a la asistencia al cliente y ellos borrarán su cuenta."
     },
-    {
-        "name": "Instructables",
-        "url": "http://www.instructables.com/",
-        "difficulty": "hard",
-        "notes":"You have to email them (service@instructables.com) to get your account deleted",
-        "email":"service@instructables.com"
-    },
 
     {
         "name": "Instagram",
@@ -1153,6 +1137,14 @@
         "name": "Instapaper",
         "url": "https://www.instapaper.com/user/delete",
         "difficulty": "easy"
+    },
+
+    {
+        "name": "Instructables",
+        "url": "http://www.instructables.com/",
+        "difficulty": "hard",
+        "notes": "You have to email them (service@instructables.com) to get your account deleted",
+        "email": "service@instructables.com"
     },
 
     {
@@ -1317,7 +1309,7 @@
         "url": "https://lastpass.com/delete_account.php",
         "difficulty": "easy"
     },
-    
+
     {
         "name": "League of Legends",
         "url": "https://support.leagueoflegends.com/entries/461131-Disabling-Your-Account",
@@ -1407,7 +1399,7 @@
         "notes_cat": "Account Settings → Account Settings Drop-down → Close my account → Marca DELETE i presioni el botó 'Delete Account'.",
         "notes_es": "Account Settings → Account Settings Drop-down → Close my account → Marca DELETE y presiona el botón 'Delete Account'."
     },
-    
+
     {
         "name": "Match",
         "url": "http://uk.match.com/myaccount/myunsubscription.php",
@@ -1486,17 +1478,17 @@
     },
 
     {
-        "name": "Morningstar",
-        "url": "http://socialize.morningstar.com/feedback/feedbackform.asp",
-        "difficulty": "hard",
-        "notes": "Fill out the feedback form, asking them to delete your account. Be sure to specify that you’re not just unsubscribing from e-mail but that you want your account deleted entirely."
-    },
-
-    {
         "name": "Moped",
         "url": "https://secure.moped.com/account/support",
         "difficulty": "hard",
         "notes": "You need send email to support and it may take up to 24 hours to process your request."
+    },
+
+    {
+        "name": "Morningstar",
+        "url": "http://socialize.morningstar.com/feedback/feedbackform.asp",
+        "difficulty": "hard",
+        "notes": "Fill out the feedback form, asking them to delete your account. Be sure to specify that you’re not just unsubscribing from e-mail but that you want your account deleted entirely."
     },
 
     {
@@ -1508,6 +1500,14 @@
         "notes_pt_br": "Link “Cancel your account” no final da página.",
         "notes_cat": "“Cancel your account” al final de la pàgina.",
         "notes_es": "“Cancel your account” al final de la página."
+    },
+
+    {
+        "name": "Multiplay.co.uk",
+        "url": "https://multiplay.com/contactus/",
+        "difficulty": "hard",
+        "notes": "You have to contact Multiplay by their contact us page.",
+        "notes_es": "Tienes que contactar a Multiplay a través de su página contactanos."
     },
 
     {
@@ -1532,7 +1532,7 @@
         "url": "https://new.myspace.com/settings/profile",
         "difficulty": "easy"
     },
-    
+
     {
         "name": "Neopets",
         "url": "http://www.neopets.com/help_search.phtml?help_id=4",
@@ -1549,7 +1549,7 @@
         "notes_it": "Contatta il servizio clienti.",
         "notes_pt_br": "Contate a assistência ao cliente. Mesmo assim eles não deletarão sua conta sobre a premissa que talvez você queira retornar em manter seu histórico e recomendações.",
         "notes_cat": "Contacti amb el servei d'assistència al client. No s'eliminarà completament, sota la premisa de que potser voldràs reobrir el compte i mantindre l'historial i les notificacions.",
-        "notes_es":  "Contacte con el servicio de asistencia al cliente. No se eliminará completamente, bajo la premisa de que quizás querrás reabrir la cuenta y mantener el historial y las notificaciones."
+        "notes_es": "Contacte con el servicio de asistencia al cliente. No se eliminará completamente, bajo la premisa de que quizás querrás reabrir la cuenta y mantener el historial y las notificaciones."
     },
 
     {
@@ -1777,7 +1777,7 @@
         "notes_cat": "Entri al seu compte -> Cliqui a l'enllaç (les dades s'eliminen permanentment, no es pot revertir).",
         "notes_es": "Entre en su cuenta -> Clique en el enlace (los datos se eliminan permanentmente, noses puede revertir)."
     },
-    
+
     {
         "name": "Prezi",
         "url": "https://prezi.com/profile/delete_user_account/",
@@ -1813,7 +1813,7 @@
         "url": "http://raptr.com/account/deactivation",
         "difficulty": "easy"
     },
-    
+
     {
         "name": "RateYourMusic",
         "url": "http://rateyourmusic.com/account/delete",
@@ -1890,6 +1890,13 @@
     },
 
     {
+        "name": "Runescape",
+        "url": "http://services.runescape.com/m=rswiki/en/Account_Help",
+        "difficulty": "hard",
+        "notes": "Under 5. Account Settings > A. Account Management > V. Account Deletion. You must mail or fax an affidavit to the Runescape office along with a copy of your legal identification"
+    },
+
+    {
         "name": "RunKeeper",
         "url": "http://runkeeper.com/I-Love-RunKeeper",
         "difficulty": "medium",
@@ -1898,13 +1905,6 @@
         "notes_pt_br": "Após clicar no botão, você terá que digitar sua senha, completar o captcha, clicar em outro botão, E a confirmar.",
         "notes_cat": "Després de clicar al botó, haurà d'entrar la contrasenya i completar el 'captcha', clicar un altre botó i confirmar a la finestra de diàleg.",
         "notes_es": "Después de pulsar el botón, deberá entrar la contraseña y completar el 'captcha', pulsar otro botón y confirmar en la ventana de diálogo."
-    },
-    
-    {
-        "name": "Runescape",
-        "url": "http://services.runescape.com/m=rswiki/en/Account_Help",
-        "difficulty": "hard",
-        "notes": "Under 5. Account Settings > A. Account Management > V. Account Deletion. You must mail or fax an affidavit to the Runescape office along with a copy of your legal identification"
     },
 
     {
@@ -2124,7 +2124,7 @@
         "notes_de": "Um Deinen StepMap-Account zu löschen, teile uns dies bitte per E-Mail an info@stepmap.de mit und nenne uns Deinen Benutzernamen. Die Absenderadresse muss Deine E-Mail-Adresse sein, mit der Du Dich bei StepMap angemeldet hast.",
         "email": "info@stepmap.de"
     },
-    
+
     {
         "name": "Storify",
         "url": "http://storify.com/settings#account",
@@ -2370,16 +2370,16 @@
     },
 
     {
-        "name": "WEB.DE",
-        "url": "https://kundencenter.web.de/",
-        "difficulty": "easy"
-    },
-
-    {
         "name": "Weather.com",
         "url": "http://registration.weather.com/ursa/profile/unsubscribe",
         "difficulty": "easy",
         "notes": "Site uses the term \"unsubscribe\" to describe completely deleting an account."
+    },
+
+    {
+        "name": "WEB.DE",
+        "url": "https://kundencenter.web.de/",
+        "difficulty": "easy"
     },
 
     {
