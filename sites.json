@@ -134,6 +134,13 @@
         "notes_cat": "Vagi a la pàgina 'Settings', baixa fins a trobar 'Deactivate account'. Cliqui al botó 'Close Account', i confirmi-ho.",
         "notes_es": "Vaya a la página 'Settings', baje hasta encontrar 'Deactivate account'. Clique en el botón 'Close Account', y confirme."
     },
+    
+    {
+        "name": "Bandcamp",
+        "url": "https://bandcamp.com/settings?pane=fan",
+        "difficulty": "easy",
+        "notes": "To terminate an artist account, you must click on the 'Artists' pane, click on the desired artist's profile, and click the termination link there."
+    },
 
     {
         "name": "Battle.net",
