@@ -1468,6 +1468,13 @@
     },
 
     {
+        "name": "NoIP",
+        "url": "http://www.noip.com/members/account/delete.php",
+        "difficulty": "easy",
+        "notes": "Check the box to confirm and then click 'Change'."
+    },
+
+    {
         "name": "Odnoklassniki",
         "url": "http://www.odnoklassniki.ru/regulations",
         "difficulty": "easy",
