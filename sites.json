@@ -383,6 +383,13 @@
     },
 
     {
+        "name": "CreditExpert",
+        "url": "http://experian.metafaq.com/help/CreditExpertBRS/Cancel_and_duration/CancelBRS",
+        "difficulty": "hard",
+        "notes": "You can cancel by email but only if your membership includes insurance. Otherwise, an email cancellation will be ignored. You have to call 0800 561 0083 to cancel your account. This is the only way."
+    },
+    
+    {
         "name": "Daily Mile",
         "url": "http://www.dailymile.com/account/settings/edit",
         "difficulty": "easy",
@@ -608,13 +615,6 @@
         "notes_pt_br": "Você não pode deletar sua conta Evernote, apenas desativá-la temporariamente. Desativação não remove seus dados então você terá que remover manualmente todas suas informações, realizar uma sincronização e então desativar sua conta.",
         "notes_cat": "No pot eliminar un compte d'Evernote, només pot desactivar-la temporalment. La desactivaciò no esborra les seves dades, ho haurà de fer manualment, després sincronitzar i desactivar.",
         "notes_es": "No se puede eliminar una cuenta de Evernote, solo se puede desactivar la temporalmente. La desactivación no borra sus datos, lo deberá hacer manualmente, después sincronitzar y desactivar."
-    },
-
-    {
-        "name": "Experian",
-        "url": "http://experian.metafaq.com/help/CreditExpertBRS/Cancel_and_duration/CancelBRS",
-        "difficulty": "hard",
-        "notes": "You can cancel by email but only if your membership includes insurance. Otherwise, an email cancellation will be ignored. You have to call 0800 561 0083 to cancel your account. This is the only way."
     },
 
     {
