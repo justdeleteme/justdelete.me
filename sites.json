@@ -1262,6 +1262,14 @@
         "url": "https://lastpass.com/delete_account.php",
         "difficulty": "easy"
     },
+    
+    {
+        "name": "League of Legends",
+        "url": "https://support.leagueoflegends.com/entries/461131-Disabling-Your-Account",
+        "difficulty": "impossible"
+        "notes": "Accounts may be disabled, but some data will be retained. E-mail support@riotgames.com with the subject  \"Account Deactivation\" and include your username, summoner name, server and email used when registering the account in your ticket",
+        "email": "support@riotgames.com"
+    }
 
     {
         "name": "Letterboxd",
@@ -1788,6 +1796,13 @@
         "notes_cat": "Després de clicar al botó, haurà d'entrar la contrasenya i completar el 'captcha', clicar un altre botó i confirmar a la finestra de diàleg.",
         "notes_es": "Después de pulsar el botón, deberá entrar la contraseña y completar el 'captcha', pulsar otro botón y confirmar en la ventana de diálogo."
     },
+    
+    {
+        "name": "Runescape",
+        "url": "http://services.runescape.com/m=rswiki/en/Account_Help",
+        "difficulty": "hard",
+        "notes": "Under 5. Account Settings > A. Account Management > V. Account Deletion. You must mail or fax an affidavit to the Runescape office along with a copy of your legal identification"
+    }
 
     {
         "name": "ScanMyServer",
