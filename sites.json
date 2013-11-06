@@ -1759,9 +1759,8 @@
     {
         "name": "RateYourMusic",
         "url": "http://rateyourmusic.com/account/delete",
-        "difficulty": "easy",
-        "notes": "After deleteing the account, it will be deactivated for 30 days before being deleted permanently. Messages, 
-            forum posts, and contributions stay on the site even after your account is deleted."
+        "difficulty": "impossible",
+        "notes": "After deleteing the account, it will be deactivated for 30 days before being deleted permanently. Messages, forum posts, and contributions stay on the site even after your account is deleted."
     },
 
     {
