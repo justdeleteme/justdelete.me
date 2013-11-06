@@ -1657,6 +1657,13 @@
         "notes_cat": "Entri al seu compte -> Cliqui a l'enllaç (les dades s'eliminen permanentment, no es pot revertir).",
         "notes_es": "Entre en su cuenta -> Clique en el enlace (los datos se eliminan permanentmente, noses puede revertir)."
     },
+    
+    {
+        "name": "Prezi",
+        "url": "https://prezi.com/profile/delete_user_account/",
+        "difficulty": "easy"
+        "notes": "Log into your account -> Click the link -> Enter your password and click on Delete Account.",
+    },
 
     {
         "name": "Pushover",
