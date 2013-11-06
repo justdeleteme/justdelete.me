@@ -2191,17 +2191,9 @@
 
     {
         "name": "Weather.com",
-        "url": "http://www.weather.com/common/home/privacy.html",
-        "difficulty": "hard",
-        "notes": "&ldquo;If you wish to cancel your account or request that we delete or no longer use your account information to provide you Services, contact us at deleteaccount@talk2.weather.com. Subject to applicable law, we will retain and use your account information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.&rdquo;",
-        "email": "deleteaccount@talk2.weather.com"
-    },
-
-    {
-        "name": "Weather.com",
         "url": "http://registration.weather.com/ursa/profile/unsubscribe",
         "difficulty": "easy",
-        "notes": "Site uses the term \"unsubscribe\" to describe completely deleting an account.",
+        "notes": "Site uses the term \"unsubscribe\" to describe completely deleting an account."
     },
 
     {
