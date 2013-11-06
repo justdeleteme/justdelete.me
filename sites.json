@@ -390,12 +390,19 @@
     },
 
     {
+        "name": "CrashPlan",
+        "url": "http://support.crashplan.com/",
+        "difficulty": "medium",
+        "notes": "Start a live chat session and a representative will delete your account."
+    },
+
+    {
         "name": "CreditExpert",
         "url": "http://experian.metafaq.com/help/CreditExpertBRS/Cancel_and_duration/CancelBRS",
         "difficulty": "hard",
         "notes": "You can cancel by email but only if your membership includes insurance. Otherwise, an email cancellation will be ignored. You have to call 0800 561 0083 to cancel your account. This is the only way."
     },
-    
+
     {
         "name": "Daily Mile",
         "url": "http://www.dailymile.com/account/settings/edit",
@@ -1906,6 +1913,13 @@
         "notes_pt_br": "Contate a assistência ao cliente por e-mail ou chat ao vivo e peça a remoção.",
         "notes_cat": "Contacti amb l'assistència al client per e-mail o chat i demani la supressió del compte.",
         "notes_es": "Contacte con la asistencia al cliente por e-mail o chat y pida la supresión de la cuenta."
+    },
+
+    {
+        "name": "Simple Machines",
+        "url": "http://www.simplemachines.org/community/index.php?action=profile;area=deleteaccount",
+        "difficulty": "hard",
+        "notes": "Enter your password to have your account marked for deletion by an administrator or moderator. You can do this for any other Simple Machines forums if the forum administrator allows."
     },
 
     {
