@@ -241,8 +241,9 @@
         "name": "CleverReach",
         "url": "www.cleverreach.com",
         "difficulty": "hard",
+        "notes": "Email customer services to request deletion",
         "email": "info@cleverreach.de"
-    }
+    },
 
     {
         "name": "CloudApp",
