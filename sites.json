@@ -1661,8 +1661,8 @@
     {
         "name": "Prezi",
         "url": "https://prezi.com/profile/delete_user_account/",
-        "difficulty": "easy"
-        "notes": "Log into your account -> Click the link -> Enter your password and click on Delete Account.",
+        "difficulty": "easy",
+        "notes": "Log into your account -> Click the link -> Enter your password and click on Delete Account."
     },
 
     {
