@@ -1953,6 +1953,13 @@
         "notes_de": "Um Deinen StepMap-Account zu löschen, teile uns dies bitte per E-Mail an info@stepmap.de mit und nenne uns Deinen Benutzernamen. Die Absenderadresse muss Deine E-Mail-Adresse sein, mit der Du Dich bei StepMap angemeldet hast.",
         "email": "info@stepmap.de"
     },
+    
+    {
+        "name": "Storify",
+        "url": "http://storify.com/settings#account",
+        "difficulty": "easy",
+        "notes": "Just click the 'Delete account' button in red"
+    },
 
     {
         "name": "Strava",
