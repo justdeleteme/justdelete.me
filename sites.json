@@ -505,6 +505,12 @@
     },
 
     {
+        "name": "diHITT",
+        "url": "http://www.dihitt.com/user/delete_profile",
+        "difficulty": "easy"
+    },
+    
+    {
         "name": "Disqus",
         "url": "http://disqus.com/pages/dashboard/#account",
         "difficulty": "easy"
