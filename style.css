@@ -121,6 +121,12 @@ header h1 span {
 	margin: 0 auto;
 }
 
+.adsense {
+	width: 728px;
+	margin: 0 auto;
+	margin-top: 27px;
+}
+
 .sites {
 	padding: 30px 0;
 	min-height: 143px;
