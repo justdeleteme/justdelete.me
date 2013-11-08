@@ -12,7 +12,7 @@ $(function(){
         var $sites = $('.sites section');
 
         $sites.show().filter(function() {
-            var text = $(this).find('a').text().replace(/\s+/g, ' ').toLowerCase();
+            var text = $(this).find('.site-header').text().replace(/\s+/g, ' ').toLowerCase();
             return !~text.indexOf(term);
         }).hide();
 
