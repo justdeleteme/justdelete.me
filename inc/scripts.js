@@ -2,6 +2,21 @@ $(function(){
 
     $('body').addClass('js-on');
 
+    $('.alpha-sort a').click(function(e){
+        e.preventDefault();
+        var term = $(this).text();
+        var $sites = $('.sites section');
+
+        $sites.show().filter(function() {
+            var text = $(this).find('.site-header').text().replace(/\s+/g, ' ').toLowerCase().substr(1,1);
+            return !~text.indexOf(term);
+        }).hide();
+
+        if ( ! $('.site-block').is(':visible')) {
+            $('.no-results').show();
+        }
+    });
+
     $('input').keyup(function(){
 
         if ($('.no-results').is(':visible')) {

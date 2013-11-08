@@ -111,6 +111,16 @@ header h1 span {
 	font-size: 16px;
 }
 
+.sort-container {
+	max-width: 500px;
+	margin: 0 auto;
+	position: relative;
+	padding: 10px 0;
+	text-align: center;
+}
+	.sort-container a { text-decoration: none; }
+	.sort-container .alpha-sort a { padding: 0 3px; }
+
 
 .search .search-container input:focus {
 	outline: none;
