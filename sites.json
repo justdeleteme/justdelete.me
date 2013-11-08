@@ -773,13 +773,14 @@
     {
         "name": "Gauges",
         "url": "http://get.gaug.es/tos/",
-        "difficulty": "impossible",
-        "notes": "If you wish to terminate your Gauges account, you may simply discontinue using Gauges.",
-        "notes_de": "Wenn du deinen Gauges-Account löschen willst, solltest du aufhören Gauges zu nutzen.",
-        "notes_it": "Se desideri cancellare il tuo Gauges account, devi semplicemente non usarlo più.",
-        "notes_pt_br": "Se você deseja fechar sua conta em Gauges, apenas pare de usar Gauges.",
-        "notes_cat": "Si desitja tancar el seu compte a Gauges, tant sols ha de deixar de fer-la servir.",
-        "notes_es": "Si desea cerrar su cuenta en Gauges, sólo tiene que dejar de usarla."
+        "difficulty": "hard",
+        "notes": "Contact support and request they delete your account.",
+        "notes_fr": "Contactez le support et demandez la suppression de vore compte.",
+        "notes_it": "Contatta il supporto e richiedi la cancellazione del tuo account.",
+        "notes_de": "Kontaktiere den Support und sie löschen deinen Account.",
+        "notes_pt_br": "Contate o suporte e peça que eles deletem sua conta.",
+        "notes_cat": "Contacti amb l'assistència al client i demani que li esborrrin el compte.",
+        "notes_es": "Contacte con asistencia al cliente y pide que te borren la cuenta."
     },
 
     {
