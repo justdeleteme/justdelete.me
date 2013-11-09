@@ -179,7 +179,8 @@
         "notes": "The best you can do is archive all of your links. Go to the link you want to archive and click the 'x' in the upper right of the shortlink to archive the link. You can also make all of your shortlinks private.",
         "notes_cat": "El millor que pots fer es arxivar tots els teus enllaços. Vés al enllaç que vols arxivar i fés clic a la 'x' a la cantonada superior dreta per arxivar l'enllaç. També els pots fer privats.",
         "notes_es": "Lo mejor que puedes hacer es archivar los enlaces. Ves al enlace y haz clic en la 'x' de la esquina superior derecha para archivar el enlace. También los puedes hacer privados.",
-        "notes_it": "La cosa miglior che puoi fare è archiviare tutti i tuoi link. Seleziona il link che desideri archiviare e clicca la 'x' in alto a destra del collegamente per archiviarlo. Puoi anche rendere tutti i tuoi collegamenti privati"
+        "notes_it": "La cosa miglior che puoi fare è archiviare tutti i tuoi link. Seleziona il link che desideri archiviare e clicca la 'x' in alto a destra del collegamente per archiviarlo. Puoi anche rendere tutti i tuoi collegamenti privati",
+        "notes_pt_br": "O melhor que você pode fazer é armazenar todos os links. Vá ao link e clique no 'x' no canto superior direito para arquivar o link. Também pode fazer com que todos os seus links fiquem privados."
     },
 
     {
@@ -189,7 +190,8 @@
         "notes": "You can't delete your Blogger Account without deleting your entire Google Account. But you can delete your blog.",
         "notes_fr": "Vous ne pouvez pas supprimer votre compte Blogger sans supprimer votre compte Google, mais vous pouvez supprimer votre blog.",
         "notes_cat": "Hauries d'esborrar tot el compte de Google sencer, però si que pots eliminar el teu blog.",
-        "notes_es": "Tendrías que borrar toda cuenta de Google entera, pero si que puedes eliminar tu blog."
+        "notes_es": "Tendrías que borrar toda cuenta de Google entera, pero si que puedes eliminar tu blog.",
+        "notes_pt_br": "Não é possível remover sua conta no Blogger sem remover a sua conta no Google, mas você pode eliminar seus blogs."
     },
 
     {
@@ -276,7 +278,7 @@
 
     {
         "name": "CleverReach",
-        "url": "www.cleverreach.com",
+        "url": "http://www.cleverreach.com",
         "difficulty": "hard",
         "notes": "Email customer services to request deletion",
         "email": "info@cleverreach.de"
@@ -344,6 +346,7 @@
         "notes_fr": " Envoyez un mail à support@coderwall.com en donnant votre identifiant et en demandant la suppresion du compte.",
         "notes_cat": "Envia un e-mail a support@coderwall.com amb el nom d'usuari i una petició per esborrar el compte.",
         "notes_es": "Envía un e-mail a support@coderwall.com con el nombre de usuario y una petición para borrar la cuenta.",
+        "notes_pt_br": "É preciso enviar um e-mail para support@codewall.com com o seu nome de usuário pedindo a remoção da conta.",
         "email": "support@coderwall.com"
     },
 
@@ -955,6 +958,7 @@
         "notes_fr": "Gravatar appartient à Wordpress, ce qui veut dire que vous ne pouvez pas supprimer votre compte.",
         "notes_cat": "No es pot esborrar el seu compte de Gravatar sense borrar tot el compte de WordPress.",
         "notes_es": "No se puede borrar su cuenta de Gravatar sin borrar todas las cuentas de WordPress."
+        "notes_pt_br": "Não é possível remover a sua conta no Gravatar sem remover a sua conta no WordPress."
     },
 
     {
@@ -1071,7 +1075,7 @@
         "difficulty": "impossible",
         "notes": "ICQ is now working on providing a delete feature which will be available in upcoming ICQ versions. Currently, there’s no such functionality.",
         "notes_fr": "ICQ travaille sur la possibilité de pouvoir supprimer votre compte. Mais pour le moment cette fonctionnalité n'est pas disponible.",
-        "notes_it": "ICQ sta implementanto la possibilità di eliminare il tuo account e sarà disponibile nelle prossime versioni di ICQ. Al momento non esiste modo di eliminare il tuo account.",
+        "notes_it": "ICQ sta implementando la possibilità di eliminare il tuo account e sarà disponibile nelle prossime versioni di ICQ. Al momento non esiste modo di eliminare il tuo account.",
         "notes_de": "ICQ arbeitet an einer Löschfunktion. Diese wird in künftigen Versionen von ICQ verfügbar sein. Momentan gibt es diese Funktion nicht.",
         "notes_pt_br": "ICQ está trabalhando para providenciar uma funcionalidade para deletar contas que estará disponível nas próximas versões do ICQ. Atualmente, não há tal funcionalidade.",
         "notes_cat": "ICQ està treballant per oferir una funcionalitat per borrar comptes, estarà disponible a les pròximes versions. Actualment no existeix aquesta funcionalitat.",
@@ -1145,6 +1149,7 @@
         "url": "http://www.instructables.com/",
         "difficulty": "hard",
         "notes": "You have to email them (service@instructables.com) to get your account deleted",
+        "notes_pt_br": "É preciso enviar um e-mail para eles (service@instructables) para ter a sua conta removida.",
         "email": "service@instructables.com"
     },
 
@@ -1168,7 +1173,8 @@
         "notes_it": "Contatta il servizio clienti. Perderai l'accesso a qualsiasi file di cui non hai una copia sul computer.",
         "notes_de": "Kontaktiere den Kundenservice. Du wirst deinen Zugang zu allen Medien verlieren, die du nicht auf deinen Computer heruntergeladen hast.",
         "notes_cat": "Contacta amb el servei d'assistència. Perdrà l'accés a qualsevol contingut que no hagi descarregat al seu ordinador.",
-        "notes_es": "Contacte con el servicio de asistencia. Perderá el acceso a cualquier contenido que no haya descargado en su ordenador."
+        "notes_es": "Contacte con el servicio de asistencia. Perderá el acceso a cualquier contenido que no haya descargado en su ordenador.",
+        "notes_pt_br": "Entre em contato com o suporte. Você perderá o acesso a todos os arquivos que você não fez o download para o seu computador."
     },
 
     {
@@ -1359,7 +1365,8 @@
         "difficulty": "medium",
         "notes": "There are reports that LinkedIn continues to email people with a closed account. You may need to contact customer services to delete account instead of just closing it.",
         "notes_cat": "Hi han informes que diuen que LinkedIn segueix enviant correu electrònic a les persones amb comptes tancats. Podria ser necessari posar-se en contacte amb el servei al client per eliminar el compte en lloc de tancar-lo.",
-        "notes_es": "Hay informes que dicen que LinkedIn sigue enviando correo electrónico a las personas con cuentas cerradas. Podría ser necesario ponerse en contacto con el servicio al cliente para eliminar la cuenta en lugar de cerrarla."
+        "notes_es": "Hay informes que dicen que LinkedIn sigue enviando correo electrónico a las personas con cuentas cerradas. Podría ser necesario ponerse en contacto con el servicio al cliente para eliminar la cuenta en lugar de cerrarla.",
+        "notes_pt_br": "Há indícios de que o LinkedIn continua enviando e-mails para as pessoas que fecharam suas contas. Nesse caso, pode ser necessário que se entre em contato com o Serviço ao Cliente para remover a conta ao invés de fechá-la"
     },
 
     {
@@ -1539,6 +1546,7 @@
         "url": "http://www.neopets.com/help_search.phtml?help_id=4",
         "difficulty": "hard",
         "notes": "Send an email to the unsubscribe@neopets.com stating you wish to delete your account.",
+        "notes_pt_br": "Envie um e-mail para unsubscribe@neopets.com pedindo a remoção da conta.",
         "email": "unsubscribe@neopets.com"
     },
 
@@ -1819,7 +1827,8 @@
         "name": "RateYourMusic",
         "url": "http://rateyourmusic.com/account/delete",
         "difficulty": "impossible",
-        "notes": "After deleteing the account, it will be deactivated for 30 days before being deleted permanently. Messages, forum posts, and contributions stay on the site even after your account is deleted."
+        "notes": "After deleting the account, it will be deactivated for 30 days before being deleted permanently. Messages, forum posts, and contributions stay on the site even after your account is deleted.",
+        "notes_pt_br": "Após deletar a sua conta, ela permanecerá inativa por 30 dias antes de ser definitivamente deletada. No entanto, mensagens, posts nos fóruns e constribuições permanecem no site mesmo após a conta ter sido deletada."
     },
 
     {
@@ -2103,7 +2112,8 @@
         "notes_it": "La cancellazione non può essere annullata. Tutti i tuoi dati, contatti messaggi e foto verrano eliminati permanentemente.",
         "notes_de": "Die Löschung Ihres Eintrages kann nicht rückgängig gemacht werden. Alle Ihre Profildaten, Kontakte Nachrichten und Bilder werden unwiderruflich entfernt. Ihre Mitschüler und Kontakte können nicht mehr über StayFriends Kontakt zu Ihnen aufnehmen.",
         "notes_cat": "L'eliminació no pot ser anulada. Totes les dades del teu perfil, contactes, missatges i imatges seran eliminades permanentment. Ningú es podrà posar en contacte amb tu.",
-        "notes_es": "La eliminación no puede ser anulada. Todos los datos de tu perfil, contactos, mensajes e imágenes serán eliminadas permanentemente. Nadie podrá ponerse en contacto contigo."
+        "notes_es": "La eliminación no puede ser anulada. Todos los datos de tu perfil, contactos, mensajes e imágenes serán eliminadas permanentemente. Nadie podrá ponerse en contacto contigo.",
+        "notes_pt_br": "A remoção da conta não pode ser desfeita. Todos os dados do seu perfil, contato, mensagens e imagens serão eliminadas em definitivo. Ninguém conseguirá entrar em contato com você pelo StayFriends."
     },
 
     {
@@ -2402,7 +2412,8 @@
         "notes": "Menu →  Edit vCard →  Account management →  Delete everything (cannot be undone)",
         "notes_it": "Menu →  Modifica vCard →  Gestione Account →  Elimina tutto (non può essere annullato)",
         "notes_cat": "Menu →  Edit vCard →  Account management →  Delete everything (no es pot tornar endarrera)",
-        "notes_es": "Menu →  Edit vCard →  Account management →  Delete everything (no se puede volver atras)"
+        "notes_es": "Menu →  Edit vCard →  Account management →  Delete everything (no se puede volver atras)",
+        "notes_pt_br": "Menu →  Edit vCard →  Account management →  Delete everything (não pode ser desfeita)."
     },
 
     {
@@ -2495,7 +2506,8 @@
         "notes": "You can't delete your YouTube account without deleting your entire Google Account. But you can delete your channel.",
         "notes_cat": "No pots esborrar el teu compte de Youtube sense borrar tot el compte de Google, però pots borrar el teu canal.",
         "notes_fr": "Vous ne pouvez pas supprimer votre compte Youtube sans supprimer votre compte Google. Mais vous pouvez supprimer votre chaîne.",
-        "notes_es": "No puedes borrar tu cuenta de Youtube sin borrar toda la cuenta de Google, pero puedes borrar tu canal."
+        "notes_es": "No puedes borrar tu cuenta de Youtube sin borrar toda la cuenta de Google, pero puedes borrar tu canal.",
+        "notes_pt_br": "Não é possível deletar a sua conta no YouTube sem deletar a sua conta no Google, mas você pode deletar o seu canal."
     },
 
     {
