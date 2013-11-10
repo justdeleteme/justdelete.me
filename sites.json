@@ -54,6 +54,14 @@
     },
 
     {
+        "name": "Akismet",
+        "url": "https://akismet.com/account",
+        "difficulty": "impossible",
+        "notes": "You can't remove your account, but you can cancel it.",
+        "notes_pt_br": "Você não consegue remover a sua conta, mas você pode cancelá-la."
+    },
+
+    {
         "name": "Album Reminder",
         "url": "http://www.albumreminder.com/usercenter/deleteaccount/",
         "difficulty": "easy"
@@ -693,6 +701,14 @@
     },
 
     {
+        "name": "Flavors.me",
+        "url": "http://flavors.me/account/settings/",
+        "difficulty": "easy",
+        "notes": "In \"Subscription\" section, click in \"Delete Account\" button",
+        "notes_pt_br": "Na seção \"Subscription\", clique no botão \"Delete Account\""
+    },
+
+    {
         "name": "Flickr",
         "url": "http://www.flickr.com/profile_delete.gne",
         "difficulty": "easy"
@@ -826,6 +842,14 @@
         "notes_pt_br": "Você deve enviar um e-mail ao suporte do seu e-mail registrado para remover a conta. Qualquer tipo de Premium Membership não será ressarcida",
         "notes_cat": "Ha d'enviar un e-mail a l'assistencia al client. Si es disposava de compte Premium no es tornaran els diners.",
         "notes_es": "Debe enviar un e-mail a la asistencia al cliente. Si se disponía de cuenta Premium no se devolverá el dinero."
+    },
+
+    {
+        "name": "GetSatisfaction",
+        "url": "https://getsatisfaction.com/me/edit",
+        "difficulty": "impossible",
+        "notes": "You can't remove your account, but you can deactivate it.",
+        "notes_pt_br": "Você não consegue remover a sua conta, mas você pode desativá-la."
     },
 
     {
@@ -1783,6 +1807,14 @@
     },
 
     {
+        "name": "Polldaddy",
+        "url": "https://polldaddy.com/account/",
+        "difficulty": "easy",
+        "notes": "The WordPress.com account still stay active.",
+        "notes_pt_br": "A conta no WordPress.com ainda permanece ativa."
+    },
+
+    {
         "name": "Postcrossing",
         "url": "http://www.postcrossing.com/removal",
         "difficulty": "easy",
@@ -2297,6 +2329,14 @@
         "notes_pt_br": "Para deletar sua conta, você precisa se desinscrever de todos os seus cursos.",
         "notes_cat": "Per esborrar el seu compte, haurà de deixar d'estar subscrit a tots els cursos.",
         "notes_es": "Para borrar su cuenta, deberá dejar de estar suscrito a todos los cursos."
+    },
+
+    {
+        "name": "UOL Mais",
+        "url": "http://mais.perfil.uol.com.br/perfil_excluir.html",
+        "difficulty": "easy",
+        "notes": "Just check the checkbox and click in "Excluir Perfil" Button. Your BOL or UOL e-mail account still stay active, if you used it for register in service.",
+        "notes_pt_br": "Apenas seleciona o checkbox e clique no botão "Excluir Perfil". A sua conta de e-mail do UOL ou do BOL ainda permanece ativa, caso você a tenha usado para se cadastrar no serviço."
     },
 
     {
