@@ -980,6 +980,13 @@
         "url": "http://grooveshark.com/#!/settings/account",
         "difficulty": "easy"
     },
+	
+    {
+        "name": "Groupon",
+        "url": "https://groupon.com/customer_support",
+        "difficulty": "hard",
+        "notes": "According to Groupon's privacy statement, you have to contact support directly and ask them to delete your account."
+    },
 
     {
         "name": "Gumroad",
