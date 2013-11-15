@@ -1672,6 +1672,13 @@
         "url": "https://account.live.com/CloseAccount.aspx",
         "difficulty": "easy"
     },
+	
+    {
+        "name": "Overstock",
+        "url": "https://help.overstock.com/app/contact_page",
+        "difficulty": "hard",
+        "notes": "You must contact support directly and ask them to invalidate your account.  However, your transaction data may not be deleted from their records."
+    },
 
     {
         "name": "Pandora",
