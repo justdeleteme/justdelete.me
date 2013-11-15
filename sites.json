@@ -980,7 +980,7 @@
         "url": "http://grooveshark.com/#!/settings/account",
         "difficulty": "easy"
     },
-	
+
     {
         "name": "Groupon",
         "url": "https://groupon.com/customer_support",
@@ -2357,6 +2357,12 @@
     {
         "name": "VK/ВКонтакте",
         "url": "http://vk.com/settings?act=deactivate",
+        "difficulty": "easy"
+    },
+
+    {
+        "name": "WAYN",
+        "url": "http://www.wayn.com/wayn.html?wci=unregister",
         "difficulty": "easy"
     },
 
