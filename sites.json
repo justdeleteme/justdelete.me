@@ -1203,6 +1203,13 @@
     },
 
     {
+        "name": "JDate.com",
+        "url": "http://www.jdate.com/",
+        "difficulty": "easy",
+        "notes": "Under 'Membership Management' click 'Remove my Profile'. Fill out the survey and submit to delete your profile."
+    },
+
+    {
         "name": "Jezebel (Gawker Media)",
         "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
         "difficulty": "impossible",
