@@ -980,7 +980,7 @@
         "url": "http://grooveshark.com/#!/settings/account",
         "difficulty": "easy"
     },
-	
+
     {
         "name": "Groupon",
         "url": "https://groupon.com/customer_support",
@@ -1046,6 +1046,13 @@
         "notes_pt_br": "Você pode remover as informações e manualmente sair do HOL, mas sua conta é permanente.",
         "notes_cat": "Pot esborrar la seva informaciò i manualment sortir d'HOL, però el seu compte es permanent.",
         "notes_es": "Puede borrar su informacion y manualmente salir de HOL, pero su cuenta es permanente."
+    },
+
+    {
+        "name": "Hot or Not",
+        "url": "http://hotornot.com",
+        "difficulty": "easy",
+        "notes": "Sign in to your account, go to the 'Account' options in your settings and delete your profile. See also 'Can I deactivate or delete my Profile?' on http://hotornot.com/privacy/"
     },
 
     {
@@ -1193,6 +1200,13 @@
         "notes_pt_br": "Você pode parar de usar o serviço a qualquer momento. Nós, no entanto, iremos manter e usar qualquer conteúdo enviado por você através do serviço.",
         "notes_cat": "Pot parar de fer servir el servei en qualsevol moment. Nosaltres, si més no mantindrém i continuarem utilitzant el contingut que ha enviat amb el servei.",
         "notes_es": "Puede dejar de utilizar el servicio en cualquier momento. Nosotros, sin embargo continuaremos usando el contenido que ha enviado."
+    },
+
+    {
+        "name": "JDate.com",
+        "url": "http://www.jdate.com/",
+        "difficulty": "easy",
+        "notes": "Under 'Membership Management' click 'Remove my Profile'. Fill out the survey and submit to delete your profile."
     },
 
     {
@@ -2357,6 +2371,12 @@
     {
         "name": "VK/ВКонтакте",
         "url": "http://vk.com/settings?act=deactivate",
+        "difficulty": "easy"
+    },
+
+    {
+        "name": "WAYN",
+        "url": "http://www.wayn.com/wayn.html?wci=unregister",
         "difficulty": "easy"
     },
 
