@@ -1049,6 +1049,13 @@
     },
 
     {
+        "name": "Hot or Not",
+        "url": "http://hotornot.com",
+        "difficulty": "easy",
+        "notes": "Sign in to your account, go to the 'Account' options in your settings and delete your profile. See also 'Can I deactivate or delete my Profile?' on http://hotornot.com/privacy/"
+    },
+
+    {
         "name": "Hotmail",
         "url": "https://account.live.com/CloseAccount.aspx",
         "difficulty": "easy"
