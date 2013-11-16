@@ -12,7 +12,7 @@
 	// For testing
 	if ( ! isset($contributors))
 	{
-		$contributors = "";		
+		$contributors = "";
 	}
 
 	if (isset($_GET['lang']))
@@ -79,73 +79,12 @@
 	{
 		$note_lang = "notes_" . $lang;
 	}
+	$homepage = true;
 
 
 ?>
-<!DOCTYPE HTML>
-<html lang="<?php echo $lang ?>">
-<head>
-	<title><?php echo $title ?></title>
-	<meta charset="UTF-8">
-	<!--[if lt IE 9]>
-		<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-	<![endif]-->
-	<meta name="viewport" content="width=device-width,initial-scale=1">
-	<meta name="description" content="<?php echo $description ?>">
+<?php include('inc/header.php'); ?>
 
-	<!-- Icons -->
-	<link rel="shortcut icon" href="inc/icons/favicon.ico">
-	<link rel="apple-touch-icon-precomposed" href="inc/icons/apple-touch-icon-precomposed.png">
-	<link rel="apple-touch-icon-precomposed" href="inc/icons/apple-touch-icon-72x72-precomposed.png">
-	<link rel="apple-touch-icon-precomposed" href="inc/icons/apple-touch-icon-120x120-precomposed.png">
-	<link rel="apple-touch-icon-precomposed" href="inc/icons/apple-touch-icon-144x144-precomposed.png">
-
-	<link rel="stylesheet" type="text/css" href="style.css" />
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-	<script>window.jQuery || document.write('<script src="inc/jquery.js"><\/script>')</script>
-	<script src="inc/scripts.js"></script>
-	<link type="text/css" rel="stylesheet" href="inc/jquery.dropdown.css" />
-	<script type="text/javascript" src="inc/jquery.dropdown.js"></script>
-
-	<script type="text/javascript">
-	  var GoSquared = {};
-	  GoSquared.acct = "GSN-106715-K";
-	  (function(w){
-	    function gs(){
-	      w._gstc_lt = +new Date;
-	      var d = document, g = d.createElement("script");
-	      g.type = "text/javascript";
-	      g.src = "//d1l6p2sc9645hc.cloudfront.net/tracker.js";
-	      var s = d.getElementsByTagName("script")[0];
-	      s.parentNode.insertBefore(g, s);
-	    }
-	    w.addEventListener ?
-	      w.addEventListener("load", gs, false) :
-	      w.attachEvent("onload", gs);
-	  })(window);
-	</script>
-</head>	
-<body>
-
-	<!-- Facebook Like Button SDK -->
-	<div id="fb-root"></div>
-	<nav>
-		<!-- begin language switcher -->
-		<span class="language-switch" href="#" data-dropdown="#dropdown-1" id="<?php echo $lang; ?>"><?php echo $full_name; ?></span>
-		<!-- end language switcher -->
-		<a href="#" class="info">About</a>
-		<a href="#" class="banner">Chrome Extension</a>
-		<a target="_blank" href="https://docs.google.com/a/therobb.com/forms/d/1mhr3vaTni5U8PvOdp_NvQ6vKBxNTmJTeKP3VWRuioCE/viewform">Submit a site</a>
-		<a target="_blank" href="http://github.com/rmlewisuk/justdelete.me">Fork on GitHub</a>
-	</nav>
-
-	<header>
-		<h1>just<span>delete</span>.me</h1>
-		<p class="tagline"><?php echo $tagline ?></p>
-	</header>
-
-	<div id="test">
-	</div>
 	<div class="search">
 		<div class="search-container">
 			<input type="text" id="search">
@@ -153,35 +92,12 @@
 		</div>
 
 		<div class="sort-container">
-			<span class="alpha-sort">
-				<a href="#">a</a>
-				<a href="#">b</a>
-				<a href="#">c</a>
-				<a href="#">d</a>
-				<a href="#">e</a>
-				<a href="#">f</a>
-				<a href="#">g</a>
-				<a href="#">h</a>
-				<a href="#">i</a>
-				<a href="#">j</a>
-				<a href="#">k</a>
-				<a href="#">l</a>
-				<a href="#">m</a>
-				<a href="#">n</a>
-				<a href="#">o</a>
-				<a href="#">p</a>
-				<a href="#">q</a>
-				<a href="#">r</a>
-				<a href="#">s</a>
-				<a href="#">t</a>
-				<a href="#">u</a>
-				<a href="#">v</a>
-				<a href="#">w</a>
-				<a href="#">x</a>
-				<a href="#">y</a>
-				<a href="#">z</a>
-			</span>
+			<button class="popular">Popular</button>
+	    	<button data-dropdown="#dropdown-2" class="az-sort">A - Z &#9660;</button>
+	    	<button data-dropdown="#dropdown-3" class="diff-sort">Difficulty &#9660;</button>
+	    	<button class="reset">reset</button>
 		</div>
+
 	</div>
 	<section class="main">
 
@@ -194,7 +110,7 @@
 			     data-ad-slot="6251902116"></ins>
 			<script>
 			(adsbygoogle = window.adsbygoogle || []).push({});
-		</script>		
+		</script>	
 	</section>
 		<section class="sites" id="sites">
 
@@ -232,6 +148,9 @@
                                 <?php else : ?>
                                     <p class="tooltip-toggle"><?php echo $noinfo ?></p>
                                 <?php endif; ?>
+                                <?php if (isset($site->popular)) : ?>
+                                    	<span class="meta">popular</span>
+                                    <?php endif; ?>
                             </section><?php endforeach; ?>
 
 		</section>
@@ -378,6 +297,50 @@
 	        <li class="dropdown-divider"></li>
 	        <li class="help"><a target="_blank" href="https://github.com/rmlewisuk/justdelete.me/issues/164"><?php echo $help_translate; ?></a></li>
 	    </ul>
+	</div>
+
+	<div id="dropdown-2" class="dropdown dropdown-tip">
+		<ul class="dropdown-menu">
+			<span class="alpha-sort">
+				<li><a href="#">a</a></li>
+				<li><a href="#">b</a></li>
+				<li><a href="#">c</a></li>
+				<li><a href="#">d</a></li>
+				<li><a href="#">e</a></li>
+				<li><a href="#">f</a></li>
+				<li><a href="#">g</a></li>
+				<li><a href="#">h</a></li>
+				<li><a href="#">i</a></li>
+				<li><a href="#">j</a></li>
+				<li><a href="#">k</a></li>
+				<li><a href="#">l</a></li>
+				<li><a href="#">m</a></li>
+				<li><a href="#">n</a></li>
+				<li><a href="#">o</a></li>
+				<li><a href="#">p</a></li>
+				<li><a href="#">q</a></li>
+				<li><a href="#">r</a></li>
+				<li><a href="#">s</a></li>
+				<li><a href="#">t</a></li>
+				<li><a href="#">u</a></li>
+				<li><a href="#">v</a></li>
+				<li><a href="#">w</a></li>
+				<li><a href="#">x</a></li>
+				<li><a href="#">y</a></li>
+				<li><a href="#">z</a></li>
+			</span>
+		</ul>
+	</div>
+
+	<div id="dropdown-3" class="dropdown dropdown-tip">
+		<ul class="dropdown-menu">
+			<span class="diff-sort">
+				<li><a href="#">Easy</a></li>
+				<li><a href="#">Medium</a></li>
+				<li><a href="#">Hard</a></li>
+				<li><a href="#">Impossible</a></li>
+			</span>
+		</ul>
 	</div>
 </body>
 </html>

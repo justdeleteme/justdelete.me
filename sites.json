@@ -198,6 +198,7 @@
     },
 
     {
+        "popular": "true",
         "name": "Blogger",
         "url": "https://support.google.com/blogger/answer/41932",
         "difficulty": "impossible",
@@ -233,6 +234,7 @@
     },
 
     {
+        "popular": "true",
         "name": "Box",
         "url": "https://app.box.com/settings",
         "difficulty": "easy"
@@ -598,6 +600,7 @@
     },
 
     {
+        "popular": "true",
         "name": "eBay",
         "url": "http://cgi1.ebay.com/ws/eBayISAPI.dll?CloseAccount",
         "difficulty": "easy",
@@ -658,6 +661,7 @@
     },
 
     {
+        "popular": "true",
         "name": "Facebook",
         "url": "https://www.facebook.com/help/delete_account?rdrhc",
         "difficulty": "medium",
@@ -747,6 +751,7 @@
     },
 
     {
+        "popular": "true",
         "name": "Foursquare",
         "url": "https://foursquare.com/delete_me",
         "difficulty": "easy"
@@ -915,6 +920,7 @@
     },
 
     {
+        "popular": "true",
         "name": "GoDaddy",
         "url": "http://support.godaddy.com/groups/go-daddy-customers/forum/topic/how-do-i-delete-my-account-with-godaddy/",
         "difficulty": "impossible",
@@ -943,6 +949,7 @@
     },
 
     {
+        "popular": "true",
         "name": "Google",
         "url": "https://www.google.com/accounts/Login",
         "difficulty": "easy"
@@ -1010,6 +1017,7 @@
     },
 
     {
+        "popular": "true",
         "name": "Groupon",
         "url": "https://groupon.com/customer_support",
         "difficulty": "hard",
@@ -1084,6 +1092,7 @@
     },
 
     {
+        "popular": "true",
         "name": "Hotmail",
         "url": "https://account.live.com/CloseAccount.aspx",
         "difficulty": "easy"
@@ -1177,6 +1186,7 @@
     },
 
     {
+        "popular": "true",
         "name": "Instagram",
         "url": "https://instagram.com/accounts/remove/request",
         "difficulty": "easy"
@@ -1411,6 +1421,7 @@
     },
 
     {
+        "popular": "true",
         "name": "LinkedIn",
         "url": "http://help.linkedin.com/app/answers/detail/a_id/63/kw/delete%20account",
         "difficulty": "medium",
@@ -1460,6 +1471,7 @@
     },
 
     {
+        "popular": "true",
         "name": "Match",
         "url": "http://uk.match.com/myaccount/myunsubscription.php",
         "difficulty": "medium",
@@ -1602,6 +1614,7 @@
     },
 
     {
+        "popular": "true",
         "name": "Netflix",
         "url": "https://support.netflix.com/en/node/407",
         "difficulty": "impossible",
@@ -1801,6 +1814,7 @@
     },
 
     {
+        "popular": "true",
         "name": "Pinterest",
         "url": "https://pinterest.com/settings/",
         "difficulty": "impossible",
@@ -1904,6 +1918,7 @@
     },
 
     {
+        "popular": "true",
         "name": "Readability",
         "url": "https://www.readability.com/account/delete",
         "difficulty": "impossible",
@@ -1915,6 +1930,7 @@
     },
 
     {
+        "popular": "true",
         "name": "Reddit",
         "url": "https://ssl.reddit.com/prefs/delete/",
         "difficulty": "easy",
@@ -2043,6 +2059,7 @@
     },
 
     {
+        "popular": "true",
         "name": "Skype",
         "url": "https://support.skype.com/en/faq/FA142/can-i-delete-my-skype-account",
         "difficulty": "hard",
@@ -2141,6 +2158,7 @@
     },
 
     {
+        "popular": "true",
         "name": "Spring.me",
         "url": "https://springme.zendesk.com/hc/en-us/requests/new",
         "difficulty": "hard",
@@ -2321,6 +2339,7 @@
     },
 
     {
+        "popular": "true",
         "name": "Twitter",
         "url": "https://twitter.com/settings/accounts/confirm_deactivation",
         "difficulty": "easy"
@@ -2497,6 +2516,7 @@
     },
 
     {
+        "popular": "true",
         "name": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Wikipedia:FAQ#How_do_I_change_my_username.2Fdelete_my_account.3F",
         "difficulty": "impossible",
@@ -2509,6 +2529,7 @@
     },
 
     {
+        "popular": "true",
         "name": "WordPress.com",
         "url": "http://en.support.wordpress.com/deleting-accounts/",
         "difficulty": "impossible",
@@ -2557,6 +2578,7 @@
     },
 
     {
+        "popular": "true",
         "name": "Yahoo!",
         "url": "https://edit.yahoo.com/config/delete_user",
         "difficulty": "easy"
@@ -2574,12 +2596,14 @@
     },
 
     {
+        "popular": "true",
         "name": "Yelp",
         "url": "http://www.yelp.co.uk/contact?topic=support&subtopic=close",
         "difficulty": "easy"
     },
 
     {
+        "popular": "true",
         "name": "YouTube",
         "url": "https://support.google.com/youtube/answer/55759",
         "difficulty": "impossible",

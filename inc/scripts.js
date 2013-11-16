@@ -2,6 +2,7 @@ $(function(){
 
     $('body').addClass('js-on');
 
+    // A - Z Sorting
     $('.alpha-sort a').click(function(e){
         e.preventDefault();
         var term = $(this).text();
@@ -17,6 +18,47 @@ $(function(){
         }
     });
 
+    // Difficulty sorting
+    $('.diff-sort a').click(function(e){
+        e.preventDefault();
+        var term = $(this).text().toLowerCase();
+        var $sites = $('.sites section');
+
+        $sites.show().filter(function() {
+            var text = $(this).find('.site-difficulty').text().replace(/\s+/g, ' ').toLowerCase();
+            return !~text.indexOf(term);
+        }).hide();
+
+        if ( ! $('.site-block').is(':visible')) {
+            $('.no-results').show();
+        }
+    });
+
+    // Popular sorting
+    $('button.popular').click(function(e){
+        e.preventDefault();
+        var term = "popular";
+        var $sites = $('.sites section');
+
+        $sites.show().filter(function() {
+            var text = $(this).find('.meta').text().replace(/\s+/g, ' ').toLowerCase();
+            return !~text.indexOf(term);
+        }).hide();
+
+        if ( ! $('.site-block').is(':visible')) {
+            $('.no-results').show();
+        }
+    });
+
+    // Clear search and sorting
+    $('button.reset').click(function(e){
+        var $sites = $('.sites section');
+        $sites.show();
+        $('.no-results').hide();
+        $('input').val('');
+    });
+
+    // Searching
     $('input').keyup(function(){
 
         if ($('.no-results').is(':visible')) {
