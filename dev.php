@@ -153,6 +153,7 @@
 		</div>
 
 		<div class="sort-container">
+			<button class="popular">Popular</button>
 	    	<button data-dropdown="#dropdown-2" class="az-sort">A - Z &#9660;</button>
 	    	<button data-dropdown="#dropdown-3" class="diff-sort">Difficulty &#9660;</button>
 	    	<button class="reset">reset</button>
@@ -201,6 +202,9 @@
                                 <?php else : ?>
                                     <p class="tooltip-toggle"><?php echo $noinfo ?></p>
                                 <?php endif; ?>
+                                <?php if (isset($site->popular)) : ?>
+                                    	<span class="meta">popular</span>
+                                    <?php endif; ?>
                             </section><?php endforeach; ?>
 
 		</section>

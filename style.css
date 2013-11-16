@@ -48,7 +48,7 @@ header {
 	background-color: #293840;
 	color: #E8E8E8;	
 	text-align: center;
-	padding: 25px 0;
+	padding: 70px 0;
 	border-bottom: 5px solid #cf5a5a;
 	margin-top: 36px;
 }
@@ -169,6 +169,10 @@ button {
 	display: inline-block;
 	width: 25%;
 	padding: 10px 5px;
+}
+
+.meta {
+	display: none;
 }
 
 
