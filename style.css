@@ -31,7 +31,7 @@ nav a {
 	padding: 8px 10px;
 }
 
-	nav a:hover, .language-switch:hover {
+	nav a:hover, .language-switch:hover, .current {
 		border-bottom: 3px solid #000;
 	}
 
