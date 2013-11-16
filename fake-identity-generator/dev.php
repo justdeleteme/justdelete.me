@@ -57,6 +57,7 @@
 <?php include('../inc/header.php'); ?>
 
 <script type="text/javascript" src="/inc/generate.js"></script>
+<script type="text/javascript" src="/inc/markov.min.js"></script>
 
 <section class="adsense">
 		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -73,10 +74,7 @@
 	<div class="generate">
 		<button class="generate">Generate fake identity</button>
 	</div>
-	<div class="avatar">&#9786;</div>
-    <div id="identity">
-      
-    </div>
+    <div id="identity"></div>
 </section>
 
 <?php include('../inc/id-footer.php'); ?>

@@ -35,8 +35,18 @@ $('button.generate').click(function(e){
 	identity.username = firstNames[userOne] + userTwo;
 	identity.password = generatePassword();
 
+	var markov = new Markov({ // Input text from http://chrisvalleskey.com/fillerama/
+		inputText: "Now that the, uh, garbage ball is in space, Doctor, perhaps you can help me with my inhibitions? Oh sure! Blame the wizards! You guys realize you live in a sewer, right? I guess because my parents keep telling me to be more ladylike. As though! This is the worst kind of discrimination: the kind against me! And remember, don't do anything that affects anything, unless it turns out you were supposed to, in which case, for the love of God, don't not do it! Now Fry, it's been a few years since medical school, so remind me. Disemboweling in your species: fatal or non-fatal? I wish! It's a nickel. Whoa a real live robot; or is that some kind of cheesy New Year's costume? Ven ve voke up, ve had zese wodies. Then throw her in the laundry room, which will hereafter be referred to as 'the brig'. The key to victory is discipline, and that means a well made bed. You will practice until you can make your bed in your sleep.Yes, I saw. You were doing well, until everyone died. Good news, everyone! There's a report on TV with some very bad news! I videotape every customer that comes in here, so that I may blackmail them later. Ok, we'll go deliver this crate like professionals, and then we'll go ride the bumper cars.Professor, make a woman out of me. Look, everyone wants to be like Germany, but do we really have the pure strength of 'will'? I barely knew Philip, but as a clergyman I have no problem telling his most intimate friends all about him."
+	});
+
+	markov.options.endWithCompleteSentence = true; 
+
+	var complete_para = document.getElementById('identity');
+
+	identity.bio = markov.generate(30);
+
 	identityOutput = document.getElementById("identity");
-	identityOutput.innerHTML = "<p>Name: " + identity.name + "</p><p>Location: " + identity.address + "</p><p>Date of birth: " + identity.dob + "</p><p>Username: " + identity.username + "</p><p>Password: " + identity.password + "</p>";
+	identityOutput.innerHTML = "<p><strong>Name</strong>: " + identity.name + "</p><p><strong>Location</strong>: " + identity.address + "</p><p><strong>Date of birth</strong>: " + identity.dob + "</p><p><strong>Bio</strong>: " + identity.bio + "</p><p><strong>Username</strong>: " + identity.username + "</p><p><strong>Password</strong>: " + identity.password + "</p>";
 });
 
 function randomNumber(length) {
