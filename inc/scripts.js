@@ -2,6 +2,7 @@ $(function(){
 
     $('body').addClass('js-on');
 
+    // A - Z Sorting
     $('.alpha-sort a').click(function(e){
         e.preventDefault();
         var term = $(this).text();
@@ -15,6 +16,28 @@ $(function(){
         if ( ! $('.site-block').is(':visible')) {
             $('.no-results').show();
         }
+    });
+
+    // Difficulty sorting
+    $('.diff-sort a').click(function(e){
+        e.preventDefault();
+        var term = $(this).text().toLowerCase();
+        var $sites = $('.sites section');
+
+        $sites.show().filter(function() {
+            var text = $(this).find('.site-difficulty').text().replace(/\s+/g, ' ').toLowerCase();
+            return !~text.indexOf(term);
+        }).hide();
+
+        if ( ! $('.site-block').is(':visible')) {
+            $('.no-results').show();
+        }
+    });
+
+    // Clear search and sorting
+    $('button.reset').click(function(e){
+        var $sites = $('.sites section');
+        $sites.show();
     });
 
     $('input').keyup(function(){

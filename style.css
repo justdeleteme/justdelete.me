@@ -80,6 +80,17 @@ header h1 span {
 	display: none;
 }
 
+button {
+	background-color: #FFF;
+	border: none;
+	padding: 10px;
+	font-weight: bold;
+	text-transform: uppercase;
+	cursor:pointer
+}
+
+	button.reset { color: #cf5a5a;}
+
 .js-on .search {
 	display: block;
 }
@@ -122,7 +133,6 @@ header h1 span {
 	text-align: center;
 }
 	.sort-container a { text-decoration: none; }
-	.sort-container .alpha-sort a { padding: 0 3px; }
 
 
 .search .search-container input:focus {

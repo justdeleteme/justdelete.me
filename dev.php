@@ -153,48 +153,17 @@
 		</div>
 
 		<div class="sort-container">
-			<span class="alpha-sort">
-				<a href="#">a</a>
-				<a href="#">b</a>
-				<a href="#">c</a>
-				<a href="#">d</a>
-				<a href="#">e</a>
-				<a href="#">f</a>
-				<a href="#">g</a>
-				<a href="#">h</a>
-				<a href="#">i</a>
-				<a href="#">j</a>
-				<a href="#">k</a>
-				<a href="#">l</a>
-				<a href="#">m</a>
-				<a href="#">n</a>
-				<a href="#">o</a>
-				<a href="#">p</a>
-				<a href="#">q</a>
-				<a href="#">r</a>
-				<a href="#">s</a>
-				<a href="#">t</a>
-				<a href="#">u</a>
-				<a href="#">v</a>
-				<a href="#">w</a>
-				<a href="#">x</a>
-				<a href="#">y</a>
-				<a href="#">z</a>
-			</span>
+	    	<button data-dropdown="#dropdown-2" class="az-sort">A - Z &#9660;</button>
+	    	<button data-dropdown="#dropdown-3" class="diff-sort">Difficulty &#9660;</button>
+	    	<button class="reset">reset</button>
 		</div>
+
 	</div>
 	<section class="main">
 
 	<section class="adsense">
-		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-			<!-- JDM -->
-			<ins class="adsbygoogle"
-			     style="display:inline-block;width:728px;height:90px"
-			     data-ad-client="ca-pub-9778304973218149"
-			     data-ad-slot="6251902116"></ins>
-			<script>
-			(adsbygoogle = window.adsbygoogle || []).push({});
-		</script>		
+		<div class="t" style="background-color: black; width: 728px; height: 90px;">
+		</div>		
 	</section>
 		<section class="sites" id="sites">
 
@@ -378,6 +347,50 @@
 	        <li class="dropdown-divider"></li>
 	        <li class="help"><a target="_blank" href="https://github.com/rmlewisuk/justdelete.me/issues/164"><?php echo $help_translate; ?></a></li>
 	    </ul>
+	</div>
+
+	<div id="dropdown-2" class="dropdown dropdown-tip">
+		<ul class="dropdown-menu">
+			<span class="alpha-sort">
+				<li><a href="#">a</a></li>
+				<li><a href="#">b</a></li>
+				<li><a href="#">c</a></li>
+				<li><a href="#">d</a></li>
+				<li><a href="#">e</a></li>
+				<li><a href="#">f</a></li>
+				<li><a href="#">g</a></li>
+				<li><a href="#">h</a></li>
+				<li><a href="#">i</a></li>
+				<li><a href="#">j</a></li>
+				<li><a href="#">k</a></li>
+				<li><a href="#">l</a></li>
+				<li><a href="#">m</a></li>
+				<li><a href="#">n</a></li>
+				<li><a href="#">o</a></li>
+				<li><a href="#">p</a></li>
+				<li><a href="#">q</a></li>
+				<li><a href="#">r</a></li>
+				<li><a href="#">s</a></li>
+				<li><a href="#">t</a></li>
+				<li><a href="#">u</a></li>
+				<li><a href="#">v</a></li>
+				<li><a href="#">w</a></li>
+				<li><a href="#">x</a></li>
+				<li><a href="#">y</a></li>
+				<li><a href="#">z</a></li>
+			</span>
+		</ul>
+	</div>
+
+	<div id="dropdown-3" class="dropdown dropdown-tip">
+		<ul class="dropdown-menu">
+			<span class="diff-sort">
+				<li><a href="#">Easy</a></li>
+				<li><a href="#">Medium</a></li>
+				<li><a href="#">Hard</a></li>
+				<li><a href="#">Impossible</a></li>
+			</span>
+		</ul>
 	</div>
 </body>
 </html>
