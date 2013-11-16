@@ -58,6 +58,17 @@
 
 <script type="text/javascript" src="/inc/generate.js"></script>
 
+<section class="adsense">
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+			<!-- JDM -->
+			<ins class="adsbygoogle"
+			     style="display:inline-block;width:728px;height:90px"
+			     data-ad-client="ca-pub-9778304973218149"
+			     data-ad-slot="6251902116"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>	
+	</section>
 <section class="content">
 	<div class="generate">
 		<button class="generate">Generate fake identity</button>
