@@ -75,6 +75,11 @@
 		<button class="generate">Generate fake identity</button>
 	</div>
     <div id="identity"></div>
+
+    <div class="tweet-button">
+    	<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://justdelete.me/fake-identity-generator" data-text="I created a fake identity with JustDelete.me!" data-size="large" data-count="none">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+    </div>
 </section>
 
 <?php include('inc/id-footer.php'); ?>

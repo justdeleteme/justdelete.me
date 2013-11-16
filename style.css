@@ -190,6 +190,10 @@ button {
 			padding: 20px;
 			border: 1px solid #cf5a5a;
 		}
+	.tweet-button {
+		margin: 0 auto;
+		text-align: center;
+	}
 
 
 /* #########################################################
