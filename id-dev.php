@@ -10,7 +10,7 @@
 		$lang = "en";
 	}
 
-	$definitions = json_decode(file_get_contents('../definitions.json'));
+	$definitions = json_decode(file_get_contents('definitions.json'));
 
 	$title = $definitions[0]->title->$lang;
 	$description = $definitions[0]->description->$lang;
@@ -54,7 +54,7 @@
 
 ?>
 
-<?php include('../inc/header.php'); ?>
+<?php include('inc/header.php'); ?>
 
 <script type="text/javascript" src="/inc/generate.js"></script>
 <script type="text/javascript" src="/inc/markov.min.js"></script>
@@ -77,4 +77,4 @@
     <div id="identity"></div>
 </section>
 
-<?php include('../inc/id-footer.php'); ?>
+<?php include('inc/id-footer.php'); ?>
