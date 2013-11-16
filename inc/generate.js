@@ -10,8 +10,8 @@ var months = ["January", "February", "March", "April", "May", "June", "July", "A
 
 var names, name, location, day, month, year, dob, identity = [];
 
-$('button.generate').click(function(e){
-	firstNames = mNames;
+function generateID() {
+	firstNames = $("#male").prop("checked") === true ? mNames : fNames;
 	firstName = randomNumber(firstNames.length) - 1;
 	surname = randomNumber(surnames.length) -1;
 	identity.name = firstNames[firstName] + " " + surnames[surname];
@@ -47,7 +47,7 @@ $('button.generate').click(function(e){
 
 	identityOutput = document.getElementById("identity");
 	identityOutput.innerHTML = "<p><strong>Name</strong>: " + identity.name + "</p><p><strong>Location</strong>: " + identity.address + "</p><p><strong>Date of birth</strong>: " + identity.dob + "</p><p><strong>Bio</strong>: " + identity.bio + "</p><p><strong>Username</strong>: " + identity.username + "</p><p><strong>Password</strong>: " + identity.password + "</p>";
-});
+}
 
 function randomNumber(length) {
 	return Math.ceil( Math.random() * length);
@@ -66,4 +66,11 @@ function generatePassword()
     var password = partOne + partTwo;
     return password;
 }
+
+$('button.generate').click(function(e) {
+	generateID();
+});
+
+generateID();
+
 });
