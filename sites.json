@@ -908,6 +908,12 @@
     },
 
     {
+        "name": "Gmail",
+        "url": "https://accounts.google.com/b/0/DeleteCaribouService",
+        "difficulty": "easy"
+    },
+
+    {
         "name": "GMX",
         "url": "http://www.gmx.net/",
         "difficulty": "impossible",
@@ -952,6 +958,12 @@
         "popular": "true",
         "name": "Google",
         "url": "https://www.google.com/accounts/Login",
+        "difficulty": "easy"
+    },
+
+    {
+        "name": "Google+",
+        "url": "https://plus.google.com/u/0/downgrade/",
         "difficulty": "easy"
     },
 
