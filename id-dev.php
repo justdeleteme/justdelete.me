@@ -72,6 +72,8 @@
 	</section>
 <section class="content">
 	<div class="generate">
+		<h2>Fake Identity Generator</h2>
+		<p>Generate a fake name, address, date of birth, username, password and biography.</p>
 		<button class="generate">Generate fake identity</button><br/>
 		<input type="radio" name="gender" id="male" checked> Male <input type="radio" name="gender"> Female
 	</div>
