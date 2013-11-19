@@ -1699,7 +1699,7 @@
         "url": "https://account.live.com/CloseAccount.aspx",
         "difficulty": "easy"
     },
-	
+
     {
         "name": "Overstock",
         "url": "https://help.overstock.com/app/contact_page",
@@ -2300,7 +2300,8 @@
         "popular": "true",
         "name": "Twitter",
         "url": "https://twitter.com/settings/accounts/confirm_deactivation",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "notes": "Your account is actually 'deactivated' before being deleted. Only after 30 days of remaining deactivated will it then be deleted. Details: https://support.twitter.com/articles/15358-deactivating-your-account",
     },
 
     {
