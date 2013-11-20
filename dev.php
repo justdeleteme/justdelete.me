@@ -148,8 +148,8 @@
                                 <?php else : ?>
                                     <p class="tooltip-toggle"><?php echo $noinfo ?></p>
                                 <?php endif; ?>
-                                <?php if (isset($site->popular)) : ?>
-                                    	<span class="meta">popular</span>
+                                <?php if (isset($site->meta)) : ?>
+                                    	<span class="meta"><?php echo $site->meta; ?></span>
                                     <?php endif; ?>
                             </section><?php endforeach; ?>
 
