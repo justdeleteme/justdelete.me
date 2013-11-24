@@ -1320,6 +1320,12 @@
         "url": "https://www.khanacademy.org/settings",
         "difficulty": "easy"
     },
+    
+    {
+        "name": "Kickstarter",
+        "url": "https://www.kickstarter.com/profile/destroy",
+        "difficulty": "easy"
+    },
 
     {
         "name": "Kik",
