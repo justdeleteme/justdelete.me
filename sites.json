@@ -346,13 +346,12 @@
 
     {
         "name": "Coderwall",
-        "url": "https://twitter.com/coderwall/status/250670074741022720",
-        "difficulty": "hard",
-        "notes": "E-mail support@coderwall.com with username and ask for account deletion.",
-        "notes_fr": " Envoyez un mail à support@coderwall.com en donnant votre identifiant et en demandant la suppresion du compte.",
-        "notes_cat": "Envia un e-mail a support@coderwall.com amb el nom d'usuari i una petició per esborrar el compte.",
-        "notes_es": "Envía un e-mail a support@coderwall.com con el nombre de usuario y una petición para borrar la cuenta.",
-        "email": "support@coderwall.com"
+        "url": "https://coderwall.com/delete_account",
+        "difficulty": "easy",
+        "notes": "Sign in then visit https://coderwall.com/delete_account",
+        "notes_fr": "Identifiez-vous puis visitez https://coderwall.com/delete_account",
+        "notes_cat": "Identifica't al lloc web i entra https://coderwall.com/delete_account",
+        "notes_es": "Identifícate en el sitio web y entra en https://coderwall.com/delete_account"
     },
 
     {
