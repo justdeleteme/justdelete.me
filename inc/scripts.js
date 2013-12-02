@@ -1,4 +1,9 @@
 $(function(){
+    var webf1 = "http://webf1.soc.port.ac.uk/design/worksheet/";
+    if (document.referrer == webf1 ) {
+        $('.hello-webf1').slideDown();
+        console.log("Hello");
+    }
 
     $('body').addClass('js-on');
 
