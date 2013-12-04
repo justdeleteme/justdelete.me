@@ -1446,6 +1446,12 @@
         "difficulty": "medium",
         "notes": "Login -> Suspend Account -> Enter email & password -> Save -> Delete Account"
     },
+    
+    {
+        "name": "McAfee",
+        "url": "http://home.mcafee.com/supportpages/unsub.aspx",
+        "difficulty": "easy"
+    },
 
     {
         "name": "MediaFire",
