@@ -199,7 +199,7 @@
 			
 				<ul class="contributors translate">
 		        	<li class="it"><a href="https://github.com/LorenzoRogai">Lorenzo Rogai</a></li>
-		    		<li class="de"><a href="http://www.erbloggt.de/">Konstantin Hinrichs</a></li>
+		    		<li class="de"><a href="http://www.erbloggt.de/">Konstantin Hinrichs</a>, <a href="http://www.floriankeller.de/">Florian Keller</a></li>
 		        	<li class="fr"><a href="https://github.com/buzzb0x">Ethan Ohayon</a></li>
 		        	<li class="fr"><a href="https://github.com/p1rox">Armand Vignat</a></li>
 		        	<li class="ru"><a href="https://github.com/morozd">morozd</a></li>
