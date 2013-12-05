@@ -1,6 +1,6 @@
 <?php
 	
-	$langs = ['en', 'it', 'de', 'fr', 'ru', 'pt_br', 'cat', 'es', 'vi', 'tr', 'ar', 'nl', 'fa'];
+	$langs = ['en', 'it', 'de', 'fr', 'ru', 'pt_br', 'cat', 'es', 'vi', 'tr', 'ar', 'nl', 'fa', 'zh-cn'];
 
 	include 'contrib.php';
 
@@ -51,6 +51,9 @@
 		}
 		if ($lang == "fa") {
 			$full_name = "فارسی";
+		}
+		if ($lang == "zh-cn") {
+			$full_name = "中国的";
 		}
 		
 		include ('dev.php');
