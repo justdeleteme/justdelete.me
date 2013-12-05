@@ -3,7 +3,8 @@
         $max_count = 60;
         $img_width = 32;
 
-        $data = json_decode(file_get_contents('https://api.github.com/repos/rmlewisuk/justdelete.me/contributors'));
+        // $data = json_decode(file_get_contents('https://api.github.com/repos/rmlewisuk/justdelete.me/collaborators'));
+        $data = json_decode(file_get_contents('contrib.json'));
         $count = sizeof($data) - 1;
         if ($count >= $max_count) {$count = $max_count;}
 
