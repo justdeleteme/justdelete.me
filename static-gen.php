@@ -55,7 +55,7 @@
 		if ($lang == "zh-cn") {
 			$full_name = "中国的";
 		}
-		if ($lang = "id") {
+		if ($lang == "id") {
 			$full_name = "Indonesia";
 		}
 		
