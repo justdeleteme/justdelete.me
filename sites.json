@@ -2575,6 +2575,12 @@
     },
 
     {
+        "name": "Zootool",
+        "url": "http://zootool.com/delete",
+        "difficulty": "easy"
+    },
+
+    {
         "name": "Zurker",
         "url": "https://my.zurker.com/destroy",
         "difficulty": "easy"
