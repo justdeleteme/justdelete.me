@@ -1445,7 +1445,7 @@
         "difficulty": "medium",
         "notes": "Login -> Suspend Account -> Enter email & password -> Save -> Delete Account"
     },
-    
+
     {
         "name": "McAfee",
         "url": "http://home.mcafee.com/supportpages/unsub.aspx",
@@ -1819,6 +1819,13 @@
         "name": "Pocket",
         "url": "http://getpocket.com/account_deletion/",
         "difficulty": "easy"
+    },
+
+    {
+        "name": "Podio",
+        "url": "https://podio.com/settings/account",
+        "difficulty": "easy",
+        "notes": "Log in to your account, press the delete button and type the phrase asked."
     },
 
     {
