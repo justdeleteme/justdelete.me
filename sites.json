@@ -198,7 +198,7 @@
     },
 
     {
-        "popular": "true",
+        "meta": "popular",
         "name": "Blogger",
         "url": "https://support.google.com/blogger/answer/41932",
         "difficulty": "impossible",
@@ -234,7 +234,7 @@
     },
 
     {
-        "popular": "true",
+        "meta": "popular",
         "name": "Box",
         "url": "https://app.box.com/settings",
         "difficulty": "easy"
@@ -356,6 +356,7 @@
 
     {
         "name": "Coderwall",
+<<<<<<< HEAD
         "url": "https://twitter.com/coderwall/status/250670074741022720",
         "difficulty": "hard",
         "notes": "E-mail support@coderwall.com with username and ask for account deletion.",
@@ -364,6 +365,14 @@
         "notes_es": "Envía un e-mail a support@coderwall.com con el nombre de usuario y una petición para borrar la cuenta.",
         "notes_pt_br": "É preciso enviar um e-mail para support@codewall.com com o seu nome de usuário pedindo a remoção da conta.",
         "email": "support@coderwall.com"
+=======
+        "url": "https://coderwall.com/delete_account",
+        "difficulty": "easy",
+        "notes": "Sign in then visit https://coderwall.com/delete_account",
+        "notes_fr": "Identifiez-vous puis visitez https://coderwall.com/delete_account",
+        "notes_cat": "Identifica't al lloc web i entra https://coderwall.com/delete_account",
+        "notes_es": "Identifícate en el sitio web y entra en https://coderwall.com/delete_account"
+>>>>>>> refs/remotes/upstream/master
     },
 
     {
@@ -600,7 +609,7 @@
     },
 
     {
-        "popular": "true",
+        "meta": "popular",
         "name": "eBay",
         "url": "http://cgi1.ebay.com/ws/eBayISAPI.dll?CloseAccount",
         "difficulty": "easy",
@@ -661,7 +670,7 @@
     },
 
     {
-        "popular": "true",
+        "meta": "popular",
         "name": "Facebook",
         "url": "https://www.facebook.com/help/delete_account?rdrhc",
         "difficulty": "medium",
@@ -751,7 +760,7 @@
     },
 
     {
-        "popular": "true",
+        "meta": "popular",
         "name": "Foursquare",
         "url": "https://foursquare.com/delete_me",
         "difficulty": "easy"
@@ -926,7 +935,7 @@
     },
 
     {
-        "popular": "true",
+        "meta": "popular",
         "name": "GoDaddy",
         "url": "http://support.godaddy.com/groups/go-daddy-customers/forum/topic/how-do-i-delete-my-account-with-godaddy/",
         "difficulty": "impossible",
@@ -955,7 +964,7 @@
     },
 
     {
-        "popular": "true",
+        "meta": "popular",
         "name": "Google",
         "url": "https://www.google.com/accounts/Login",
         "difficulty": "easy"
@@ -1029,7 +1038,7 @@
     },
 
     {
-        "popular": "true",
+        "meta": "popular",
         "name": "Groupon",
         "url": "https://groupon.com/customer_support",
         "difficulty": "hard",
@@ -1104,7 +1113,7 @@
     },
 
     {
-        "popular": "true",
+        "meta": "popular",
         "name": "Hotmail",
         "url": "https://account.live.com/CloseAccount.aspx",
         "difficulty": "easy"
@@ -1198,7 +1207,7 @@
     },
 
     {
-        "popular": "true",
+        "meta": "popular",
         "name": "Instagram",
         "url": "https://instagram.com/accounts/remove/request",
         "difficulty": "easy"
@@ -1439,7 +1448,7 @@
     },
 
     {
-        "popular": "true",
+        "meta": "popular",
         "name": "LinkedIn",
         "url": "http://help.linkedin.com/app/answers/detail/a_id/63/kw/delete%20account",
         "difficulty": "medium",
@@ -1489,11 +1498,17 @@
     },
 
     {
-        "popular": "true",
+        "meta": "popular",
         "name": "Match",
         "url": "http://uk.match.com/myaccount/myunsubscription.php",
         "difficulty": "medium",
         "notes": "Login -> Suspend Account -> Enter email & password -> Save -> Delete Account"
+    },
+    
+    {
+        "name": "McAfee",
+        "url": "http://home.mcafee.com/supportpages/unsub.aspx",
+        "difficulty": "easy"
     },
 
     {
@@ -1632,7 +1647,7 @@
     },
 
     {
-        "popular": "true",
+        "meta": "popular",
         "name": "Netflix",
         "url": "https://support.netflix.com/en/node/407",
         "difficulty": "impossible",
@@ -1832,7 +1847,7 @@
     },
 
     {
-        "popular": "true",
+        "meta": "popular",
         "name": "Pinterest",
         "url": "https://pinterest.com/settings/",
         "difficulty": "impossible",
@@ -1936,7 +1951,7 @@
     },
 
     {
-        "popular": "true",
+        "meta": "popular",
         "name": "Readability",
         "url": "https://www.readability.com/account/delete",
         "difficulty": "impossible",
@@ -1948,7 +1963,7 @@
     },
 
     {
-        "popular": "true",
+        "meta": "popular",
         "name": "Reddit",
         "url": "https://ssl.reddit.com/prefs/delete/",
         "difficulty": "easy",
@@ -2077,7 +2092,7 @@
     },
 
     {
-        "popular": "true",
+        "meta": "popular",
         "name": "Skype",
         "url": "https://support.skype.com/en/faq/FA142/can-i-delete-my-skype-account",
         "difficulty": "hard",
@@ -2176,7 +2191,7 @@
     },
 
     {
-        "popular": "true",
+        "meta": "popular",
         "name": "Spring.me",
         "url": "https://springme.zendesk.com/hc/en-us/requests/new",
         "difficulty": "hard",
@@ -2185,8 +2200,8 @@
     },
 
     {
-        "name": "StackOverflow",
-        "url": "http://meta.stackoverflow.com/help/deleting-account",
+        "name": "Stack Overflow / Stack Exchange Accounts",
+        "url": "http://stackoverflow.com/help/deleting-account",
         "difficulty": "hard",
         "notes": "If you haven't posted on the site, it's just one click. Otherwise, edit your 'About Me' bio to say 'please delete me' then contact support.",
         "notes_it": "Se non hai effettuato alcuna azione sul sito, basta un click. Altrimenti, edita il tuo 'About me' biografia in 'please delete me' quindi contatta il servizio clienti.",
@@ -2357,7 +2372,7 @@
     },
 
     {
-        "popular": "true",
+        "meta": "popular",
         "name": "Twitter",
         "url": "https://twitter.com/settings/accounts/confirm_deactivation",
         "difficulty": "easy",
@@ -2535,7 +2550,7 @@
     },
 
     {
-        "popular": "true",
+        "meta": "popular",
         "name": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Wikipedia:FAQ#How_do_I_change_my_username.2Fdelete_my_account.3F",
         "difficulty": "impossible",
@@ -2548,7 +2563,7 @@
     },
 
     {
-        "popular": "true",
+        "meta": "popular",
         "name": "WordPress.com",
         "url": "http://en.support.wordpress.com/deleting-accounts/",
         "difficulty": "impossible",
@@ -2597,7 +2612,7 @@
     },
 
     {
-        "popular": "true",
+        "meta": "popular",
         "name": "Yahoo!",
         "url": "https://edit.yahoo.com/config/delete_user",
         "difficulty": "easy"
@@ -2615,14 +2630,14 @@
     },
 
     {
-        "popular": "true",
+        "meta": "popular",
         "name": "Yelp",
         "url": "http://www.yelp.co.uk/contact?topic=support&subtopic=close",
         "difficulty": "easy"
     },
 
     {
-        "popular": "true",
+        "meta": "popular",
         "name": "YouTube",
         "url": "https://support.google.com/youtube/answer/55759",
         "difficulty": "impossible",
@@ -2642,6 +2657,12 @@
     {
         "name": "Zoho",
         "url": "https://accounts.zoho.com/u/h#setting/closeaccount",
+        "difficulty": "easy"
+    },
+
+    {
+        "name": "Zootool",
+        "url": "http://zootool.com/delete",
         "difficulty": "easy"
     },
 

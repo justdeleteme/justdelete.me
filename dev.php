@@ -29,47 +29,50 @@
 		$full_name = "English";
 	}
 
-	$definitions = json_decode(file_get_contents('definitions.json'));
+	$definitions = json_decode(file_get_contents('trans/site/'.$lang.'.json'));
 
-	$title = $definitions[0]->title->$lang;
-	$description = $definitions[0]->description->$lang;
-	$difficulty = $definitions[0]->difficulty->$lang;
-	$difficulty_easy = $definitions[0]->difficulty_easy->$lang;
-	$difficulty_medium = $definitions[0]->difficulty_medium->$lang;
-	$difficulty_hard = $definitions[0]->difficulty_hard->$lang;
-	$difficulty_impossible = $definitions[0]->difficulty_impossible->$lang;
-	$tagline = $definitions[0]->tagline->$lang;
-	$noinfo = $definitions[0]->noinfo->$lang;
-	$showinfo = $definitions[0]->showinfo->$lang;
-	$hideinfo = $definitions[0]->hideinfo->$lang;
-	$whatisthis = $definitions[0]->whatisthis->$lang;
-	$whatisthis1 = $definitions[0]->whatisthis1->$lang;
-	$whatisthis2 = $definitions[0]->whatisthis2->$lang;
-	$whatisthis3 = $definitions[0]->whatisthis3->$lang;
-	$guide = $definitions[0]->guide->$lang;
-	$guideexplanations = $definitions[0]->guideexplanations->$lang;
-	$guideeasy = $definitions[0]->guideeasy->$lang;
-	$guidemedium = $definitions[0]->guidemedium->$lang;
-	$guidehard = $definitions[0]->guidehard->$lang;
-	$guideimpossible = $definitions[0]->guideimpossible->$lang;
-	$translationcontrib = $definitions[0]->translationcontrib->$lang;
-	$morecontrib = $definitions[0]->morecontrib->$lang;
-	$viewcontrib = $definitions[0]->viewcontrib->$lang;
-	$extensionguide = $definitions[0]->extensionguide->$lang;
-	$extension = $definitions[0]->extension->$lang;
-	$extensionp1 = $definitions[0]->extensionp1->$lang;
-	$extensionp2 = $definitions[0]->extensionp2->$lang;
-	$extensionp3 = $definitions[0]->extensionp3->$lang;
-	$extensionl1 = $definitions[0]->extensionl1->$lang;
-	$extensionl2 = $definitions[0]->extensionl2->$lang;
-	$extensionl3 = $definitions[0]->extensionl3->$lang;
-	$extensionl4 = $definitions[0]->extensionl4->$lang;
-	$banner = $definitions[0]->banner->$lang;
-	$footer = $definitions[0]->footer->$lang;
-	$help_translate = $definitions[0]->help->$lang;
-	$donate = $definitions[0]->donate->$lang;
-	$sendmail = $definitions[0]->sendmail->$lang;
-	$submit = $definitions[0]->submit->$lang;
+	// var_dump($definitions);
+	// die;
+
+	$title = $definitions->title;
+	$description = $definitions->description;
+	$difficulty = $definitions->difficulty;
+	$difficulty_easy = $definitions->difficulty_easy;
+	$difficulty_medium = $definitions->difficulty_medium;
+	$difficulty_hard = $definitions->difficulty_hard;
+	$difficulty_impossible = $definitions->difficulty_impossible;
+	$tagline = $definitions->tagline;
+	$noinfo = $definitions->noinfo;
+	$showinfo = $definitions->showinfo;
+	$hideinfo = $definitions->hideinfo;
+	$whatisthis = $definitions->whatisthis;
+	$whatisthis1 = $definitions->whatisthis1;
+	$whatisthis2 = $definitions->whatisthis2;
+	$whatisthis3 = $definitions->whatisthis3;
+	$guide = $definitions->guide;
+	$guideexplanations = $definitions->guideexplanations;
+	$guideeasy = $definitions->guideeasy;
+	$guidemedium = $definitions->guidemedium;
+	$guidehard = $definitions->guidehard;
+	$guideimpossible = $definitions->guideimpossible;
+	$translationcontrib = $definitions->translationcontrib;
+	$morecontrib = $definitions->morecontrib;
+	$viewcontrib = $definitions->viewcontrib;
+	$extensionguide = $definitions->extensionguide;
+	$extension = $definitions->extension;
+	$extensionp1 = $definitions->extensionp1;
+	$extensionp2 = $definitions->extensionp2;
+	$extensionp3 = $definitions->extensionp3;
+	$extensionl1 = $definitions->extensionl1;
+	$extensionl2 = $definitions->extensionl2;
+	$extensionl3 = $definitions->extensionl3;
+	$extensionl4 = $definitions->extensionl4;
+	$banner = $definitions->banner;
+	$footer = $definitions->footer;
+	$help_translate = $definitions->help;
+	$donate = $definitions->donate;
+	$sendmail = $definitions->sendmail;
+	$submit = $definitions->submit;
 
 	if ($lang == "en")
 	{
@@ -148,8 +151,8 @@
                                 <?php else : ?>
                                     <p class="tooltip-toggle"><?php echo $noinfo ?></p>
                                 <?php endif; ?>
-                                <?php if (isset($site->popular)) : ?>
-                                    	<span class="meta">popular</span>
+                                <?php if (isset($site->meta)) : ?>
+                                    	<span class="meta"><?php echo $site->meta; ?></span>
                                     <?php endif; ?>
                             </section><?php endforeach; ?>
 
@@ -199,7 +202,7 @@
 			
 				<ul class="contributors translate">
 		        	<li class="it"><a href="https://github.com/LorenzoRogai">Lorenzo Rogai</a></li>
-		    		<li class="de"><a href="http://www.erbloggt.de/">Konstantin Hinrichs</a></li>
+		    		<li class="de"><a href="http://www.erbloggt.de/">Konstantin Hinrichs</a>, <a href="http://www.floriankeller.de/">Florian Keller</a></li>
 		        	<li class="fr"><a href="https://github.com/buzzb0x">Ethan Ohayon</a></li>
 		        	<li class="fr"><a href="https://github.com/p1rox">Armand Vignat</a></li>
 		        	<li class="ru"><a href="https://github.com/morozd">morozd</a></li>
@@ -210,6 +213,8 @@
 		        	<li class="ar"><a href="https://github.com/adahhane">Dahhane Ayyoub</a></li>
 		        	<li class="nl"><a href="https://github.com/mprins">Mark Prins</a></li>
 		        	<li class="fa"><a href="https://github.com/Arasteh">Mahmoud Arasteh Nasab</a></li>
+		        	<li class="zh-cn"><a href="https://github.com/Jonwei">Joe Shen</a></li>
+		        	<li class="id"><a href="https://github.com/rafeyu">Ramdziana Feri Y</a></li>
 
 				</ul>
 			</div><div class="info-block-half">
@@ -294,6 +299,8 @@
 	        <li class="tr"><a href="tr.html">Türk</a></li>
 	        <li class="ar"><a href="ar.html">العربية</a></li>
 	        <li class="fa"><a href="fa.html">فارسی</a></li>
+	        <li class="zh-cn"><a href="zh-cn.html">中国的</a></li>
+	        <li class="id"><a href="id.html">Indonesia</a></li>
 	        <li class="dropdown-divider"></li>
 	        <li class="help"><a target="_blank" href="https://github.com/rmlewisuk/justdelete.me/issues/164"><?php echo $help_translate; ?></a></li>
 	    </ul>
@@ -342,5 +349,6 @@
 			</span>
 		</ul>
 	</div>
+	
 </body>
 </html>

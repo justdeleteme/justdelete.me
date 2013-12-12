@@ -60,6 +60,9 @@
 		<a target="_blank" href="https://docs.google.com/a/therobb.com/forms/d/1mhr3vaTni5U8PvOdp_NvQ6vKBxNTmJTeKP3VWRuioCE/viewform">Submit a site</a>
 		<a target="_blank" href="http://github.com/rmlewisuk/justdelete.me">Fork on GitHub</a>
 	</nav>
+	<div class="hello-webf1" style="width: 100%; display: none; color: #000; text-transform: uppercase; margin-top: 74px; text-align: center; font-weight: bold;">
+		<p>Hello WEBF1 student! ;)</p>
+	</div>
 
 	<header>
 		<h1>just<span>delete</span>.me</h1>

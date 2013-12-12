@@ -6,8 +6,8 @@ clean:
 sort: sites.json
 	php sort.php
 
-show: sites.json definitions.json
+show: sites.json
 	php dev.php
 
-gen: sites.json definitions.json
+gen: sites.json
 	php static-gen.php > /dev/null 2>&1

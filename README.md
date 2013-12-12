@@ -21,7 +21,7 @@ The sites, urls and additional notes are stored in `sites.json`. If you want to 
 
 ##Contribution checklist
 
-1. Have you updated to the lastest version of the project? `git pull`
+1. Have you updated to the latest version of the project? `git pull`
 2. If you have modified an existing service's difficulty, please explain why/give sources.
 3. URLs must be direct links to either deletion, or if this is not available, a relevant help article.
 4. Any steps for the process should be detailed in the notes (if necessary).
