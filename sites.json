@@ -362,7 +362,7 @@
         "notes_fr": "Identifiez-vous puis visitez https://coderwall.com/delete_account",
         "notes_cat": "Identifica't al lloc web i entra https://coderwall.com/delete_account",
         "notes_es": "Identifícate en el sitio web y entra en https://coderwall.com/delete_account",
-        "notes_pt_br": "Basta se logar no site e acessar https://coderwall.com/delete_account",
+        "notes_pt_br": "Basta se logar no site e acessar https://coderwall.com/delete_account"
     },
 
     {
@@ -2366,7 +2366,8 @@
         "name": "Twitter",
         "url": "https://twitter.com/settings/accounts/confirm_deactivation",
         "difficulty": "easy",
-        "notes": "Your account is actually 'deactivated' before being deleted. Only after 30 days of remaining deactivated will it then be deleted. <a href='https://support.twitter.com/articles/15358-deactivating-your-account'>More details</a>"
+        "notes": "Your account is actually 'deactivated' before being deleted. Only after 30 days of remaining deactivated will it then be deleted. <a href='https://support.twitter.com/articles/15358-deactivating-your-account'>More details</a>",
+        "notes_pt_br": "Sua conta permanece inativa por 30 dias antes de ser definitivamente deletada. <a href='https://support.twitter.com/articles/15358-deactivating-your-account'>Mais detalhes</a>"
     },
 
     {
