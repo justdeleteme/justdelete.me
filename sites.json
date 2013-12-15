@@ -1230,6 +1230,13 @@
     },
 
     {
+        "name": "IRCCloud",
+        "url": "https://www.irccloud.com/",
+        "difficulty": "easy",
+        "notes": "Go to IRCCloud, sign in, click 'Settings', scroll down, enter your password in 'Delete your account', and confirm."
+    },
+
+    {
         "name": "iTunes / Apple ID",
         "url": "http://www.apple.com/support/itunes/contact/",
         "difficulty": "hard",
