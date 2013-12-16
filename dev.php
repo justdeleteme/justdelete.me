@@ -3,11 +3,11 @@
 	usort($sites, function($a, $b) {
 	          $a = strtolower($a->name);
 	          $b = strtolower($b->name);
-	          
+
 		if ($a < $b) return -1;
 		if ($a > $b) return 1;
 		return 0;
-	}); 
+	});
 
 	// For testing
 	if ( ! isset($contributors))
@@ -113,7 +113,7 @@
 			     data-ad-slot="6251902116"></ins>
 			<script>
 			(adsbygoogle = window.adsbygoogle || []).push({});
-		</script>	
+		</script>
 	</section>
 		<section class="sites" id="sites">
 
@@ -124,28 +124,28 @@
                         <?php foreach ($sites as $site) : ?><section class="site-block <?php echo $site->difficulty; ?>">
                                 <a class="site-header" href="<?php echo $site->url; ?>">
                                     <?php echo $site->name; ?>
-                                </a>                            
+                                </a>
                                 <p class="site-difficulty">
                                     <?php echo eval('return $difficulty_' . $site->difficulty . ';'); ?>
                                 </p>
                                 <?php if (isset($site->$note_lang)) : ?>
-                                    <div class="tooltip-content">                                   
+                                    <div class="tooltip-content">
                                         <?php echo $site->$note_lang;
                                         if (isset($site->email))
                                         {
                                             echo '<br><a href="mailto:' . $site->email . '?Subject=Account%20Deletion%20Request&body=Please%20delete%20my%20account,%20my%20username%20is%20 XXXXXX">' . $sendmail . ' &raquo;</a>';
                                         }
-                                        ?>                                          
+                                        ?>
                                     </div>
                                     <a href="#" class="tooltip-toggle contains-info"><?php echo $showinfo ?></a>
                                 <?php elseif (isset($site->notes)) : ?>
-                                	<div class="tooltip-content">                                   
-                                        <?php echo $site->notes; 
+                                	<div class="tooltip-content">
+                                        <?php echo $site->notes;
                                         if (isset($site->email))
                                         {
                                             echo '<br><a href="mailto:' . $site->email . '?Subject=Account%20Deletion%20Request&body=Please%20delete%20my%20account,%20my%20username%20is%20 XXXXX">' . $sendmail . ' &raquo;</a>';
                                         }
-                                        ?> 
+                                        ?>
                                         </div>
                                     <a href="#" class="tooltip-toggle contains-info"><?php echo $showinfo ?></a>
                                 <?php else : ?>
@@ -199,7 +199,7 @@
 
 			<div class="info-block-half">
 				<h2><?php echo $translationcontrib; ?></h2>
-			
+
 				<ul class="contributors translate">
 		        	<li class="it"><a href="https://github.com/LorenzoRogai">Lorenzo Rogai</a></li>
 		    		<li class="de"><a href="http://www.erbloggt.de/">Konstantin Hinrichs</a>, <a href="http://www.floriankeller.de/">Florian Keller</a></li>
@@ -221,10 +221,10 @@
 				<h2><?php echo $morecontrib; ?></h2>
 
 				<?php echo $contributors; ?>
-			
+
 				<p><br/><a href='http://github.com/rmlewisuk/justdelete.me/contributors'><?php echo $viewcontrib; ?> &raquo;</a></p>
-			
-				
+
+
 				</ul>
 			</div>
 		</div>
@@ -236,16 +236,16 @@
 				<h2><?php echo $extension ?></h2>
 				<p><?php echo $extensionp1 ?></p>
 				<p><?php echo $extensionp2 ?></p>
-				<p><?php echo $extensionp3 ?></p>			
+				<p><?php echo $extensionp3 ?></p>
 			</div><div class="banner-block-half">
 				<h2><?php echo $extensionguide; ?></h2>
 				<ul>
 					<li><?php echo $extensionl1 ?></li>
 					<li><?php echo $extensionl2 ?></li>
 					<li><?php echo $extensionl3 ?></li>
-					<li><?php echo $extensionl4 ?></li>		
-				</ul>			
-			</div>	
+					<li><?php echo $extensionl4 ?></li>
+				</ul>
+			</div>
 		</div>
 		<div class="banner-block-extension"></div>
 	</div>
@@ -263,7 +263,7 @@
 
 				</div>
 			</footer>
-		</div>		
+		</div>
 	</section>
 	<script type="text/javascript">
 		$('.contains-info').click(function(e) {
@@ -280,27 +280,27 @@
                 $('.toggled').slideToggle().removeClass('toggled');
                 $(this).prev().slideToggle().addClass('toggled');
                 $(this).html("<?php echo $hideinfo ?>").addClass('text-toggled');
-            }       
+            }
         });
 	</script>
 
 	<div id="dropdown-1" class="dropdown dropdown-tip has-icons">
 	    <ul class="dropdown-menu">
-	    	<li class="en"><a href="/">English</a></li>
-	        <li class="it"><a href="it.html">Italiano</a></li>
+	    	<li class="en"><a href="index.html">English</a></li>
+	    	<li class="ar"><a href="ar.html">العربية</a></li>
+	    	<li class="cat"><a href="cat.html">Català</a></li>
 	    	<li class="de"><a href="de.html">Deutsch</a></li>
-	        <li class="fr"><a href="fr.html">Français</a></li>
-	        <li class="nl"><a href="nl.html">Nederlands</a></li>
-	        <li class="es"><a href="es.html">Español</a></li>
-	        <li class="cat"><a href="cat.html">Català</a></li>
+	    	<li class="es"><a href="es.html">Español</a></li>
+	    	<li class="fa"><a href="fa.html">فارسی</a></li>
+	    	<li class="fr"><a href="fr.html">Français</a></li>
+	    	<li class="id"><a href="id.html">Indonesia</a></li>
+			<li class="it"><a href="it.html">Italiano</a></li>
+			<li class="nl"><a href="nl.html">Nederlands</a></li>
 	        <li class="pt_br"><a href="pt_br.html">Português</a></li>
 	        <li class="ru"><a href="ru.html">Pусский</a></li>
-	        <li class="vi"><a href="vi.html">Tiếng Việt</a></li>
 	        <li class="tr"><a href="tr.html">Türk</a></li>
-	        <li class="ar"><a href="ar.html">العربية</a></li>
-	        <li class="fa"><a href="fa.html">فارسی</a></li>
+	        <li class="vi"><a href="vi.html">Tiếng Việt</a></li>
 	        <li class="zh-cn"><a href="zh-cn.html">中国的</a></li>
-	        <li class="id"><a href="id.html">Indonesia</a></li>
 	        <li class="dropdown-divider"></li>
 	        <li class="help"><a target="_blank" href="https://github.com/rmlewisuk/justdelete.me/issues/164"><?php echo $help_translate; ?></a></li>
 	    </ul>
@@ -349,6 +349,6 @@
 			</span>
 		</ul>
 	</div>
-	
+
 </body>
 </html>

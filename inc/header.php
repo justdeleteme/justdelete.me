@@ -53,7 +53,7 @@
 			<a href="fake-identity-generator" class="id-gen">Fake Identity Generator</a>
 			<a href="#" class="banner">Chrome Extension</a>
 		<?php else : ?>
-			<a href="/" class="home">Home</a>
+			<a href="index.html" class="home">Home</a>
 			<a href="fake-identity-generator" class="id-gen current">Fake Identity Generator</a>
 			<a target="_blank" href="https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf">Chrome Extension</a>
 		<?php endif; ?>
