@@ -31,53 +31,52 @@
 		if ($lang == "en") {
 			$full_name = "English";
 		}
-		if ($lang == "it") {
-			$full_name = "Italiano";
-		}
-		if ($lang == "de") {
-			$full_name = "Deutsch";
-		}
-		if ($lang == "fr") {
-			$full_name = "Français";
-		}
-		if ($lang == "ru") {
-			$full_name = "Pусский";
-		}
-		if ($lang == "pt_br") {
-			$full_name = "Português";
+		if ($lang == "ar") {
+			$full_name = "العربية";
 		}
 		if ($lang == "cat") {
 			$full_name = "Català";
 		}
+		if ($lang == "de") {
+			$full_name = "Deutsch";
+		}
 		if ($lang == "es") {
 			$full_name = "Español";
-		}
-		if ($lang == "vi") {
-			$full_name = "Tiếng Việt";
-		}
-		if ($lang == "tr") {
-			$full_name = "Türk";
-		}
-		if ($lang == "ar") {
-			$full_name = "العربية";
-		}
-		if ($lang == "nl") {
-			$full_name = "Nederlands";
 		}
 		if ($lang == "fa") {
 			$full_name = "فارسی";
 		}
-		if ($lang == "zh-cn") {
-			$full_name = "中国的";
+		if ($lang == "fr") {
+			$full_name = "Français";
 		}
 		if ($lang == "id") {
 			$full_name = "Indonesia";
 		}
+		if ($lang == "it") {
+			$full_name = "Italiano";
+		}
+		if ($lang == "nl") {
+			$full_name = "Nederlands";
+		}
+		if ($lang == "pt_br") {
+			$full_name = "Português";
+		}
+		if ($lang == "ru") {
+			$full_name = "Pусский";
+		}
+		if ($lang == "tr") {
+			$full_name = "Türk";
+		}
+		if ($lang == "vi") {
+			$full_name = "Tiếng Việt";
+		}
+		if ($lang == "zh-cn") {
+			$full_name = "中国的";
+		}
 
 		include ('dev.php');
 
-		if ($language == "en")
-		{
+		if ($language == "en") {
 			$cachefile = "index.html";
 		}
 		else {
