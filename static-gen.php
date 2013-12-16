@@ -1,6 +1,21 @@
 <?php
-	
-	$langs = ['en', 'it', 'de', 'fr', 'ru', 'pt_br', 'cat', 'es', 'vi', 'tr', 'ar', 'nl', 'fa', 'zh-cn', 'id'];
+	$langs = array(
+		'en',
+		'ar',
+		'cat',
+		'de',
+		'es',
+		'fa',
+		'fr',
+		'id',
+		'it',
+		'nl',
+		'pt_br',
+		'ru',
+		'tr',
+		'vi',
+		'zh-cn',
+	);
 
 	include 'contrib.php';
 
@@ -8,7 +23,7 @@
 	{
 		// start the output buffer
 		ob_start(); ?>
-		
+
 		<?php
 
 		$lang = $language;
@@ -58,7 +73,7 @@
 		if ($lang == "id") {
 			$full_name = "Indonesia";
 		}
-		
+
 		include ('dev.php');
 
 		if ($language == "en")
@@ -69,11 +84,11 @@
 			$cachefile = $language.".html";
 		}
 		// open the cache file "cache/home.html" for writing
-		$fp = fopen($cachefile, 'w'); 
+		$fp = fopen($cachefile, 'w');
 		// save the contents of output buffer to the file
-		fwrite($fp, ob_get_contents()); 
+		fwrite($fp, ob_get_contents());
 		// close the file
-		fclose($fp); 
+		fclose($fp);
 		// Send the output to the browser
 		ob_end_flush();
 	}
