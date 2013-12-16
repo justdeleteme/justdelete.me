@@ -139,6 +139,13 @@
         "difficulty": "easy",
         "notes": "To terminate an artist account, you must click on the 'Artists' pane, click on the desired artist's profile, and click the termination link there."
     },
+	
+    {
+        "name": "Barnes and Noble",
+        "url": "http://www.barnesandnoble.com/customerservice/contactus",
+        "difficulty": "impossible",
+        "notes": "It is not possible to delete your Barnes and Noble account.  The best you can do is delete any personal information that you have stored on their website."
+    },
 
     {
         "name": "Battle.net",
