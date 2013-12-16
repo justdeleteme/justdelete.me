@@ -1026,6 +1026,13 @@
         "url": "https://my.gumtree.com/manage/details/deactivate",
         "difficulty": "easy"
     },
+	
+    {
+        "name": "Hack This Site",
+        "url": "https://www.hackthissite.org/forums/viewtopic.php?f=9&t=4800&sid=7edb515c2462108e30ddec760c2ddfebv",
+        "difficulty": "impossible",
+        "notes": "It is not possible to delete your Hack This Site account.  The best you can do is delete any personal information that you have stored on their website."
+    },
 
     {
         "name": "Hacker News",
