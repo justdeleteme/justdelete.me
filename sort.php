@@ -10,7 +10,7 @@ if (!is_null($sites)) {
     {
         $a = strtolower($a->name);
         $b = strtolower($b->name);
-        
+
         if ($a < $b) {
             return -1;
         }
@@ -19,10 +19,10 @@ if (!is_null($sites)) {
         }
         return 0;
     });
-    
+
     $sites_sort = json_encode($sites, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
     $cs2        = md5($sites_sort);
-    
+
     if ($cs1 != $cs2) {
         $sites_sort = preg_replace("/(},)(\s+{)/", "$1\n$2", $sites_sort);
         file_put_contents($file, $sites_sort);

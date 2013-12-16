@@ -8,7 +8,7 @@
         $count = sizeof($data) - 1;
         if ($count >= $max_count) {$count = $max_count;}
 
-		$contributors = "";
+                $contributors = "";
 
         for($i = 0; $i < $count; $i++) {
                 $contributors .= "<a href='".$data[$i]->html_url."'><img width='".$img_width."' src='http://www.gravatar.com/avatar/".$data[$i]->gravatar_id."?s=".$img_width."&amp;d=mm' title='" . $data[$i]->login . "'></a> ";
