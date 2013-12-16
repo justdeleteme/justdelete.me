@@ -1824,6 +1824,13 @@
         "url": "http://www.pixoona.com/dashboard#user/delete",
         "difficulty": "easy"
     },
+	
+    {
+        "name": "Playstation Network",
+        "url": "https://support.us.playstation.com/app/contact_options",
+        "difficulty": "impossible",
+        "notes": "It is not possible to delete your Playstation Network account.  The best you can do is delete any personal information that you have stored on their website."
+    },
 
     {
         "name": "Plenty of Fish",
