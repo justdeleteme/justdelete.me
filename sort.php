@@ -6,10 +6,14 @@
  * attempting to run this sort code.
  */
 if (version_compare(PHP_VERSION, '5.4.0', '<')) {
+    echo "************************************************************************\n";
     echo "Sorting only works on PHP 5.4.0 and higher!\n";
+    echo "Unable to perform the sort, but site generation may be able to continue.\n";
     echo "\n";
-    echo "You appear to be running PHP Version " . PHP_VERSION . "\n";
-    exit (1);
+    echo "You appear to be running the following PHP Version:\n";
+    echo PHP_VERSION . "\n";
+    echo "************************************************************************\n";
+    exit (0);
 }
 
 $file = "sites.json";
