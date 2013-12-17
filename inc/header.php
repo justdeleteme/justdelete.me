@@ -49,7 +49,7 @@
 			<!-- begin language switcher -->
 			<span class="language-switch" href="#" data-dropdown="#dropdown-1" id="<?php echo $lang; ?>"><?php echo $full_name; ?></span>
 			<!-- end language switcher -->
-			<a href="#" class="info">About</a>
+			<a href="#about" class="info">About</a>
 			<a href="/fake-identity-generator" class="id-gen">Fake Identity Generator</a>
 			<a href="#" class="banner">Chrome Extension</a>
 		<?php else : ?>
