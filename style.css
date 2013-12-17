@@ -554,6 +554,13 @@ button {
 	border-top: 4px solid #CF5A5A;
 }
 
+#about-anchor {
+	display: block;
+	position: relative;
+	top: -35px;
+	visibility: hidden;
+}
+
 .info-container {
 	max-width: 1000px;
 	margin: 0 auto;
