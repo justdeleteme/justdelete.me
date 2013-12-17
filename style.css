@@ -554,6 +554,11 @@ button {
 	border-top: 4px solid #CF5A5A;
 }
 
+#about {
+	padding-top: 40px;
+	visibility: hidden;
+}
+
 .info-container {
 	max-width: 1000px;
 	margin: 0 auto;
