@@ -158,6 +158,7 @@
 
 		</section>
 	</section>
+	<span id="about">about anchor</span>
 	<section class="info-block" id="about-anchor">
 		<div class="info-container">
 
