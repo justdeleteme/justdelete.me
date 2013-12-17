@@ -158,7 +158,7 @@
 
 		</section>
 	</section>
-	<section class="info-block">
+	<section class="info-block" id="about-anchor">
 		<div class="info-container">
 
 			<div class="info-block-half">
