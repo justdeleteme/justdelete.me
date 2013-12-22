@@ -1589,7 +1589,7 @@
         "name": "NaNoWriMo",
         "url": "https://nanowrimo.org/account_settings",
         "difficulty": "easy",
-        "notes": "At the bottom of the Account Settings page is a \"Delete My Account\" button. After you click this button and the identical one on the following page, your account will be \"disabled and scheduled for permanent deletion.\" If you log back in within 30 days, your account will be re-enabled. After 30 days, \"your past novels, author profile, and unique account info will be permanently deleted.\""
+        "notes": "At the bottom of the Account Settings page is a \"Delete My Account\" button. Your account will be \"disabled and scheduled for permanent deletion.\" After 30 days, \"your past novels, author profile, and unique account info will be permanently deleted.\" It is unclear if forum posts will be deleted."
     },
 
     {
