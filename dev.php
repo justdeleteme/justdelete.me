@@ -1,4 +1,10 @@
 <?php
+	function normilizeURL($url) {
+		if( strpos( $url, "://" ) == false ){
+			$url = "http://" + $url;
+		}
+		return $url;
+	}
 	$sites = json_decode(file_get_contents('sites.json'));
 	usort($sites, function($a, $b) {
 	          $a = strtolower($a->name);
@@ -122,7 +128,7 @@
 			<!-- // FIRST FOR EACH -->
 
                         <?php foreach ($sites as $site) : ?><section class="site-block <?php echo $site->difficulty; ?>">
-                                <a class="site-header" href="<?php echo $site->url; ?>">
+                                <a class="site-header" href="<?php echo normilizeURL($site->url); ?>">
                                     <?php echo $site->name; ?>
                                 </a>                            
                                 <p class="site-difficulty">
