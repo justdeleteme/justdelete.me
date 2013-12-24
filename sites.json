@@ -979,7 +979,14 @@
         "notes_cat": "Contacti amb assistència al client i demani que esborrin el compte.",
         "notes_es": "Contacte con asistencia al cliente y pida que borren su cuenta."
     },
-
+    
+    {
+	"name": "Gmail",
+	"url": "https://www.google.com/settings/datatools",
+	"difficulty": "easy",
+	"notes": "Login into your account →  Data Tools →  Delete Products →  Remove Gmail permanently "
+    },
+	
     {
         "name": "GMX",
         "url": "http://www.gmx.net/",
@@ -2496,6 +2503,13 @@
         "notes_pt_br": "Você deve enviar um pedido para fechar sua conta pelo formulário.",
         "notes_cat": "Haurà de sol·licitar que esborrin el seu compte via formulari.",
         "notes_es": "Deberá solicitar que borren su cuenta vía formulario."
+    },
+
+    {
+	"name": "Topcoder",
+	"url": "http://www.topcoder.com/help/p=636/",
+	"difficulty": "hard",
+	"notes": "You can't delete your account, but you can contact them via email to deactivate it."    
     },
 
     {
