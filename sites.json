@@ -878,14 +878,14 @@
         "notes_cat": "Contacti amb assistència al client i demani que esborrin el compte.",
         "notes_es": "Contacte con asistencia al cliente y pida que borren su cuenta."
     },
-    
+
     {
-	"name": "Gmail",
-	"url": "https://www.google.com/settings/datatools",
-	"difficulty": "easy",
-	"notes": "Login into your account →  Data Tools →  Delete Products →  Remove Gmail permanently "
+        "name": "Gmail",
+        "url": "https://www.google.com/settings/datatools",
+        "difficulty": "easy",
+        "notes": "Login into your account →  Data Tools →  Delete Products →  Remove Gmail permanently "
     },
-	
+    
     {
         "name": "GMX",
         "url": "http://www.gmx.net/",
@@ -2264,12 +2264,12 @@
     },
 
     {
-	"name": "Topcoder",
-	"url": "http://www.topcoder.com/help/p=636/",
-	"difficulty": "hard",
-	"notes": "You can't delete your account, but you can contact them via email to deactivate it."    
+        "name": "Topcoder",
+        "url": "http://www.topcoder.com/help/p=636/",
+        "difficulty": "hard",
+        "notes": "You can't delete your account, but you can contact them via email to deactivate it."    
     },
-
+    
     {
         "name": "Topface",
         "url": "http://topface.com/delete-profile/",
