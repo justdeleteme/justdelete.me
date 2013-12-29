@@ -2197,6 +2197,11 @@
         "email": "info@stepmap.de"
     },
 
+    {   "name": "Stereomood",
+        "url": "http://www.stereomood.com/users/account",
+        "difficulty": "easy
+    },
+    
     {
         "name": "Storify",
         "url": "http://storify.com/settings#account",
