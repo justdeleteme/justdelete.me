@@ -1186,6 +1186,13 @@
     },
 
     {
+        "name": "Internetometer",
+        "url": "http://internetometer.com/",
+        "difficulty": "impossible",
+        "notes": "Site provides no user account management interface or account deletion options. Email sent to internets@technoized.com was never replied to.",
+    },
+
+    {
         "name": "IO9 (Gawker Media)",
         "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
         "difficulty": "impossible",
