@@ -397,7 +397,7 @@
     {
         "name": "CrashPlan",
         "url": "http://support.crashplan.com/",
-        "difficulty": "medium",
+        "difficulty": "hard",
         "notes": "Start a live chat session and a representative will delete your account."
     },
 
@@ -951,6 +951,14 @@
         "notes_pt_br": "Selecione um motivo para fechar a conta e irá levar dois cliques.",
         "notes_cat": "Seleccioni un motiu per tancar el compte, només seran 2 clics",
         "notes_es": "Seleccione un motivo para cerrar la cuenta, solo serán 2 clics"
+    },
+
+    {
+        "name": "Grailed",
+        "url": "http://www.grailed.com/",
+        "difficulty": "hard",
+        "notes": "Send an email to arun@grailed.com and request deletion.",
+        "email": "arun@grailed.com"
     },
 
     {
