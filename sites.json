@@ -263,6 +263,13 @@
     },
 
     {
+        "name": "Call of Duty (Activision)",
+        "url": "http://www.callofduty.com/",
+        "difficulty": "impossible",
+        "notes": "'There is no way to close or shut down an account.'"
+    },
+
+    {
         "name": "CareerBuilder.com",
         "url": "http://www.careerbuilder.com/User/UserConfirmation.aspx",
         "difficulty": "easy",
