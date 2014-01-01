@@ -243,6 +243,13 @@
     },
 
     {
+        "name": "BurstNET",
+        "url": "http://burst.net/",
+        "difficulty": "impossible",
+        "notes": "Support staff refuses to delete accounts due to 'accounting purposes'"
+    },
+
+    {
         "name": "C&M News by Rеss.at",
         "url": "http://www.ress.at/profil/profil_entfernen.php",
         "difficulty": "easy",
