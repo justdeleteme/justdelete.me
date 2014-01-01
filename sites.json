@@ -1189,7 +1189,7 @@
         "name": "Internetometer",
         "url": "http://internetometer.com/",
         "difficulty": "impossible",
-        "notes": "Site provides no user account management interface or account deletion options. Email sent to internets@technoized.com was never replied to.",
+        "notes": "Site provides no user account management interface or account deletion options. Email sent to internets@technoized.com was never replied to."
     },
 
     {
@@ -2369,6 +2369,13 @@
         "notes_pt_br": "Para deletar sua conta, você precisa se desinscrever de todos os seus cursos.",
         "notes_cat": "Per esborrar el seu compte, haurà de deixar d'estar subscrit a tots els cursos.",
         "notes_es": "Para borrar su cuenta, deberá dejar de estar suscrito a todos los cursos."
+    },
+
+    {
+        "name": "Unroll.me",
+        "url": "https://unroll.me/user/settings",
+        "difficulty": "easy",
+        "notes": "Click 'Delete my account' at the bottom of the user settings page."
     },
 
     {
