@@ -1678,6 +1678,13 @@
     },
 
     {
+        "name": "Nitrous.IO",
+        "url": "https://www.nitrous.io/",
+        "difficulty": "impossible",
+        "notes": "The feature to delete your account has not been built yet but they will notify you when the feature is added if you open a ticket."
+    }, 
+
+    {
         "name": "NoIP",
         "url": "http://www.noip.com/members/account/delete.php",
         "difficulty": "easy",
