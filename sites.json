@@ -243,6 +243,13 @@
     },
 
     {
+        "name": "BurstNET",
+        "url": "http://burst.net/",
+        "difficulty": "impossible",
+        "notes": "Support staff refuses to delete accounts due to 'accounting purposes'"
+    },
+
+    {
         "name": "C&M News by Rеss.at",
         "url": "http://www.ress.at/profil/profil_entfernen.php",
         "difficulty": "easy",
@@ -253,6 +260,13 @@
         "notes_pt_br": "Apenas clique em 'Abschicken'",
         "notes_cat": "Només cal clicar a 'Abschicken'",
         "notes_es": "Solo tienes que clicar en 'Abschicken'"
+    },
+
+    {
+        "name": "Call of Duty (Activision)",
+        "url": "http://www.callofduty.com/",
+        "difficulty": "impossible",
+        "notes": "'There is no way to close or shut down an account.'"
     },
 
     {
@@ -397,7 +411,7 @@
     {
         "name": "CrashPlan",
         "url": "http://support.crashplan.com/",
-        "difficulty": "medium",
+        "difficulty": "hard",
         "notes": "Start a live chat session and a representative will delete your account."
     },
 
@@ -954,6 +968,14 @@
     },
 
     {
+        "name": "Grailed",
+        "url": "http://www.grailed.com/",
+        "difficulty": "hard",
+        "notes": "Send an email to arun@grailed.com and request deletion.",
+        "email": "arun@grailed.com"
+    },
+
+    {
         "name": "Grammarly",
         "url": "https://ed.grammarly.com/accounts/me",
         "difficulty": "easy"
@@ -1175,6 +1197,13 @@
         "difficulty": "hard",
         "notes": "You have to email them (service@instructables.com) to get your account deleted",
         "email": "service@instructables.com"
+    },
+
+    {
+        "name": "Internetometer",
+        "url": "http://internetometer.com/",
+        "difficulty": "impossible",
+        "notes": "Site provides no user account management interface or account deletion options. Email sent to internets@technoized.com was never replied to."
     },
 
     {
@@ -1647,6 +1676,13 @@
         "difficulty": "easy",
         "notes": "At the bottom of the account form, there is a 'Deactivate Account' button. Upon clicking, there will be a set of information that explains the process of account deactivation. All account information will be deleted."
     },
+
+    {
+        "name": "Nitrous.IO",
+        "url": "https://www.nitrous.io/",
+        "difficulty": "impossible",
+        "notes": "The feature to delete your account has not been built yet but they will notify you when the feature is added if you open a ticket."
+    }, 
 
     {
         "name": "NoIP",
@@ -2354,6 +2390,13 @@
         "notes_pt_br": "Para deletar sua conta, você precisa se desinscrever de todos os seus cursos.",
         "notes_cat": "Per esborrar el seu compte, haurà de deixar d'estar subscrit a tots els cursos.",
         "notes_es": "Para borrar su cuenta, deberá dejar de estar suscrito a todos los cursos."
+    },
+
+    {
+        "name": "Unroll.me",
+        "url": "https://unroll.me/user/settings",
+        "difficulty": "easy",
+        "notes": "Click 'Delete my account' at the bottom of the user settings page."
     },
 
     {
