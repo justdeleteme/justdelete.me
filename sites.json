@@ -355,6 +355,14 @@
     },
 
     {
+        "name": "Comment ça marche",
+        "url": "http://www.commentcamarche.net/communaute/remove.php3",
+        "difficulty": "medium",
+        "notes": "login. !! Your message which you have post will be kept for the readable of the forum !!",
+        "notes_fr": "Logez vous. !! Les messages que vous avez postez seront gardé pour la lisibilité du forum !!",
+    },
+    
+    {
         "name": "Couchsurfing",
         "url": "https://www.couchsurfing.org/delete_profile.html?delete=1",
         "difficulty": "impossible",
@@ -1864,7 +1872,15 @@
         "url": "https://www.quora.com/settings/privacy",
         "difficulty": "easy"
     },
-
+    
+    {
+        "name": "radio.fr",
+        "url": "http://www.radio.fr/#%2Fkonto_loeschen.jsf",
+        "difficulty": "easy",
+        "notes": "Login, go to profil page, it's in tab 'my data' and click 'delete my account'.",
+        "notes_fr": "logez vous, allez à la page du profil, c'est dans l'onglet 'mes données' et cliquez sur 'supprimer mon compte.'",
+    },
+    
     {
         "name": "Rainforest QA",
         "url": "https://app.rainforestqa.com/settings",
@@ -2224,6 +2240,14 @@
         "notes_pt_br": "Você pode reativar em até 14 dias. Após este prazo sua conta é deletada.",
         "notes_cat": "Pot reactivar-la en un termini de 14 dies. Desprès d'aquest temps el compte serà esborrat.",
         "notes_es": "Puede reactivarla en un plazo de 14 días. Después de este tiempo la cuenta será borrada."
+    },
+    
+    {
+        "name": "Torrent 411",
+        "url": "https://www.t411.me/contactstaff/",
+        "difficulty": "hard",
+        "notes": "you have to ask the staff to delete your account",
+        "notes_fr": "Vous devez demander au staff pour supprimer votre compte",
     },
 
     {
