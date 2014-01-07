@@ -1318,7 +1318,14 @@
         "notes_cat": "Trigaran aproximadament 180 dies per eliminar les teves dades del sistema .",
         "notes_es": "Tardarán aproximadamente 180 días para eliminar tus datos del sistema."
     },
-
+    
+    {
+        "name": "Kno",
+        "url": "http://www.kno.com/help/customerService",
+        "difficult": "hard",
+        "notes": "You can close your account if you contact customer service either by phone or live chat"
+    },
+    
     {
         "name": "Kotaku (Gawker Media)",
         "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
@@ -2605,4 +2612,5 @@
         "url": "https://my.zurker.com/destroy",
         "difficulty": "easy"
     }
+    
 ]
