@@ -1262,6 +1262,13 @@
     },
 
     {
+        "name": "JS Bin",
+        "url": "https://github.com/remy/jsbin/issues/1010",
+        "difficulty": "impossible",
+        "notes": "At this time it is not possible to remove your account."
+    },
+
+    {
         "name": "jsFiddle",
         "url": "http://doc.jsfiddle.net/meta/channels.html?highlight=contact",
         "difficulty": "hard",
