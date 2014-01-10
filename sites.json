@@ -58,6 +58,13 @@
         "url": "http://www.albumreminder.com/usercenter/deleteaccount/",
         "difficulty": "easy"
     },
+    
+    {
+        "name": "Alibaba",
+        "url": "http://www.alibaba.com/help/contact-us.html",
+        "difficulty": "hard"
+        "notes": "Despite what it says in their FAQ there is actually no automatic way to delete your account. But they do see to be happy to do it if you ask them - you can contact them via http://www.alibaba.com/help/contact-us.html - I cancelled my account via their online chat system."
+    },
 
     {
         "name": "Amazon",
