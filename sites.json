@@ -1262,6 +1262,13 @@
     },
 
     {
+        "name": "JS Bin",
+        "url": "https://github.com/remy/jsbin/issues/1010",
+        "difficulty": "hard",
+        "notes": "You will need to open a GitHub issue with your username in order to close your account."
+    },
+
+    {
         "name": "jsFiddle",
         "url": "http://doc.jsfiddle.net/meta/channels.html?highlight=contact",
         "difficulty": "hard",
