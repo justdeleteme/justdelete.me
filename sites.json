@@ -1264,8 +1264,8 @@
     {
         "name": "JS Bin",
         "url": "https://github.com/remy/jsbin/issues/1010",
-        "difficulty": "impossible",
-        "notes": "At this time it is not possible to remove your account."
+        "difficulty": "hard",
+        "notes": "You will need to open a GitHub issue with your username in order to close your account."
     },
 
     {
