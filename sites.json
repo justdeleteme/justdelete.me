@@ -1116,15 +1116,8 @@
 
     {
         "name": "ICQ",
-        "url": "http://www.icq.com/download/icq/knownissues/account/en",
-        "difficulty": "impossible",
-        "notes": "ICQ is now working on providing a delete feature which will be available in upcoming ICQ versions. Currently, there’s no such functionality.",
-        "notes_fr": "ICQ travaille sur la possibilité de pouvoir supprimer votre compte. Mais pour le moment cette fonctionnalité n'est pas disponible.",
-        "notes_it": "ICQ sta implementanto la possibilità di eliminare il tuo account e sarà disponibile nelle prossime versioni di ICQ. Al momento non esiste modo di eliminare il tuo account.",
-        "notes_de": "ICQ arbeitet an einer Löschfunktion. Diese wird in künftigen Versionen von ICQ verfügbar sein. Momentan gibt es diese Funktion nicht.",
-        "notes_pt_br": "ICQ está trabalhando para providenciar uma funcionalidade para deletar contas que estará disponível nas próximas versões do ICQ. Atualmente, não há tal funcionalidade.",
-        "notes_cat": "ICQ està treballant per oferir una funcionalitat per borrar comptes, estarà disponible a les pròximes versions. Actualment no existeix aquesta funcionalitat.",
-        "notes_es": "ICQ está trabajando para ofrecer una funcionalidad para borrar cuentas, estará disponible en las próximas versiones. Actualmente no existe esta funcionalidad."
+        "url": "http://www.icq.com/delete-account/",
+        "difficulty": "easy"
     },
 
     {
