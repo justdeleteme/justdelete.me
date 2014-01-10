@@ -2552,6 +2552,13 @@
     },
 
     {
+        "name": "Xfire",
+        "url": "http://www.xfire.com/faq#1",
+        "difficulty": "impossible",
+        "notes": "There is no way to delete your account, you can only make some information private and/or delete it."
+    },
+
+    {
         "name": "Xing",
         "url": "https://www.xing.com/help/help-and-faqs-2/general-stuff-55/xing-memberships-153/general-stuff-803/canceling-free-basic-membership-185",
         "difficulty": "easy",
