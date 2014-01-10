@@ -1594,6 +1594,13 @@
     },
 
     {
+        "name": "My Opera",
+        "url": "https://my.opera.com/USERNAME/account/delete",
+        "difficulty": "easy",
+        "notes": "Replace <code>USERNAME</code> with your My Opera username in the URL."
+    },
+
+    {
         "name": "MySpace",
         "url": "https://new.myspace.com/settings/profile",
         "difficulty": "easy"
