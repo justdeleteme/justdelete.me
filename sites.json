@@ -389,7 +389,7 @@
         "url": "http://www.commentcamarche.net/communaute/remove.php3",
         "difficulty": "medium",
         "notes": "login. !! Your message which you have post will be kept for the readable of the forum !!",
-        "notes_fr": "Logez vous. !! Les messages que vous avez postez seront gardé pour la lisibilité du forum !!",
+        "notes_fr": "Logez vous. !! Les messages que vous avez postez seront gardé pour la lisibilité du forum !!"
     },
     
     {
@@ -1959,7 +1959,7 @@
         "url": "http://www.radio.fr/#%2Fkonto_loeschen.jsf",
         "difficulty": "easy",
         "notes": "Login, go to profil page, it's in tab 'my data' and click 'delete my account'.",
-        "notes_fr": "logez vous, allez à la page du profil, c'est dans l'onglet 'mes données' et cliquez sur 'supprimer mon compte.'",
+        "notes_fr": "logez vous, allez à la page du profil, c'est dans l'onglet 'mes données' et cliquez sur 'supprimer mon compte.'"
     },
     
     {
@@ -2333,7 +2333,7 @@
         "url": "https://www.t411.me/contactstaff/",
         "difficulty": "hard",
         "notes": "you have to ask the staff to delete your account",
-        "notes_fr": "Vous devez demander au staff pour supprimer votre compte",
+        "notes_fr": "Vous devez demander au staff pour supprimer votre compte"
     },
 
     {
