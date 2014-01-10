@@ -1382,7 +1382,7 @@
     {
         "name": "Kno",
         "url": "http://www.kno.com/help/customerService",
-        "difficult": "hard",
+        "difficulty": "hard",
         "notes": "You can close your account if you contact customer service either by phone or live chat"
     },
     
