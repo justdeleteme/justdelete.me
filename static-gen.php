@@ -7,9 +7,7 @@
 	foreach ($langs as $language)
 	{
 		// start the output buffer
-		ob_start(); ?>
-		
-		<?php
+		ob_start();
 
 		$lang = $language;
 
