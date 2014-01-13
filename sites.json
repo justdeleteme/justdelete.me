@@ -1379,6 +1379,13 @@
         "notes_cat": "Pot parar de fer servir el servei en qualsevol moment. Nosaltres, si més no mantindrém i continuarem utilitzant el contingut que ha enviat amb el servei.",
         "notes_es": "Puede dejar de utilizar el servicio en cualquier momento. Nosotros, sin embargo continuaremos usando el contenido que ha enviado."
     },
+    
+    {
+        "name": "Kippt",
+        "url": "https://kippt.com/accounts/delete",
+        "difficulty": "easy",
+        "notes": "Click 'Account deletion page' at the bottom of the account settings page."
+    },
 
     {
         "name": "Klout",
