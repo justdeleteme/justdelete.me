@@ -238,6 +238,14 @@
     },
 
     {
+        "name": "Booklooker",
+        "url": "https://secure.booklooker.de/pages/contact.php",
+        "difficulty": "hard",
+        "notes": "You need to request deletion of your data via the contact form after logging in.",
+        "notes_de": "Nach dem einloggen muss der Kundenservice zur Löschung kontaktiert werden."
+    },
+
+    {
         "meta": "popular",
         "name": "Box",
         "url": "https://app.box.com/settings",
