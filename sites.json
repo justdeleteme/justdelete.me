@@ -1893,7 +1893,14 @@
         "url": "https://my.pingdom.com/account/cancel/confirm",
         "difficulty": "easy"
     },
-
+    
+    {
+        "name": "Points.com",
+        "url": "http://questions.points.com/entries/20026692-How-do-I-cancel-my-account-",
+        "difficulty": "hard",
+        "notes": "Must contact support through Contanct form or online chat."
+    },
+    
     {
         "meta": "popular",
         "name": "Pinterest",
