@@ -1744,9 +1744,9 @@
 
     {
         "name": "Nitrous.IO",
-        "url": "https://www.nitrous.io/",
-        "difficulty": "impossible",
-        "notes": "The feature to delete your account has not been built yet but they will notify you when the feature is added if you open a ticket."
+        "url": "https://www.nitrous.io/app#/account_settings",
+        "difficulty": "easy",
+        "notes": "You will see an option to delete your account just below the password reset option."
     },
 
     {
