@@ -20,9 +20,9 @@
 	"guidemedium": "<span class=\"yellow\">Media</span> - Richiede qualche azione aggiuntiva",
 	"guidehard": "<span class=\"red\">Difficile</span> - Non può essere completamente cancellato senza contattare l'assistenza clienti",
 	"guideimpossible": "<span class=\"black\">Impossibile</span> - Non può essere cancellato",
-	"translationcontrib": "Translation contributors",
-	"morecontrib": "More contributors",
-	"viewcontrib": "View all contributors",
+	"translationcontrib": "Contribuenti delle traduzioni",
+	"morecontrib": "Altri contributori",
+	"viewcontrib": "Vedi tutti i contributori",
 	"extension": "Estensione Google Chrome",
 	"extensionguide": "Extension Dot Guide",
 	"extensionp1": "Il nostro amico <a target=\"_blank\" href=\"http://mikerogers.io\">Mike Rogers</a> ci ha aiutato a rilasciare l'estensione di JustDelete.me per Google Chrome.",
@@ -37,5 +37,6 @@
 	"help": "Aiuta a tradurre",
 	"donate": "Possedere un sito costa soldi. Se JustDelete.me ti ha aiutato, per favore considera una donazione.",
 	"sendmail": "Invia e-mail",
-	"submit": "Submit a site"
+	"submit": "Invia un sito",
+        "popular": "Popolari"
 }

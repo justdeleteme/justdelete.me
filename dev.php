@@ -73,7 +73,8 @@
 	$donate = $definitions->donate;
 	$sendmail = $definitions->sendmail;
 	$submit = $definitions->submit;
-
+        $popular = $definitions->popular;
+        
 	if ($lang == "en")
 	{
 		$note_lang = "notes";
@@ -95,9 +96,9 @@
 		</div>
 
 		<div class="sort-container">
-			<button class="popular">Popular</button>
+			<button class="popular"><?php echo $popular; ?></button>
 	    	<button data-dropdown="#dropdown-2" class="az-sort">A - Z &#9660;</button>
-	    	<button data-dropdown="#dropdown-3" class="diff-sort">Difficulty &#9660;</button>
+	    	<button data-dropdown="#dropdown-3" class="diff-sort"><?php echo $difficulty; ?> &#9660;</button>
 	    	<button class="reset">reset</button>
 		</div>
 
@@ -343,10 +344,10 @@
 	<div id="dropdown-3" class="dropdown dropdown-tip">
 		<ul class="dropdown-menu">
 			<span class="diff-sort">
-				<li><a href="#">Easy</a></li>
-				<li><a href="#">Medium</a></li>
-				<li><a href="#">Hard</a></li>
-				<li><a href="#">Impossible</a></li>
+                            <li><a href="#"><?php echo ucfirst($difficulty_easy); ?></a></li>
+                            <li><a href="#"><?php echo ucfirst($difficulty_medium); ?></a></li>
+                            <li><a href="#"><?php echo ucfirst($difficulty_hard); ?></a></li>
+                            <li><a href="#"><?php echo ucfirst($difficulty_impossible); ?></a></li>
 			</span>
 		</ul>
 	</div>
