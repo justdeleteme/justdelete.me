@@ -1387,7 +1387,7 @@
         "notes_cat": "Pot parar de fer servir el servei en qualsevol moment. Nosaltres, si més no mantindrém i continuarem utilitzant el contingut que ha enviat amb el servei.",
         "notes_es": "Puede dejar de utilizar el servicio en cualquier momento. Nosotros, sin embargo continuaremos usando el contenido que ha enviado."
     },
-    
+
     {
         "name": "Kippt",
         "url": "https://kippt.com/accounts/delete",
@@ -1908,14 +1908,7 @@
         "url": "https://my.pingdom.com/account/cancel/confirm",
         "difficulty": "easy"
     },
-    
-    {
-        "name": "Points.com",
-        "url": "http://questions.points.com/entries/20026692-How-do-I-cancel-my-account-",
-        "difficulty": "hard",
-        "notes": "Must contact support through Contanct form or online chat."
-    },
-    
+
     {
         "meta": "popular",
         "name": "Pinterest",
@@ -1963,6 +1956,13 @@
         "url": "https://podio.com/settings/account",
         "difficulty": "easy",
         "notes": "Log in to your account, press the delete button and type the phrase asked."
+    },
+
+    {
+        "name": "Points.com",
+        "url": "http://questions.points.com/entries/20026692-How-do-I-cancel-my-account-",
+        "difficulty": "hard",
+        "notes": "Must contact support through Contanct form or online chat."
     },
 
     {
