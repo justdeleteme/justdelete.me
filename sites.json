@@ -672,6 +672,13 @@
     },
 
     {
+        "name": "Endomondo",
+        "url": "https://www.endomondo.com/?wicket:interface=:15::::",
+        "difficulty": "easy",
+        "notes": "Select any reason for closing your profile. After that you have to complete the process by clicking a link in an email sent to you."
+    },
+
+    {
         "name": "eRepublik",
         "url": "http://www.erepublik.com/en/contact/none/none",
         "difficulty": "hard",
