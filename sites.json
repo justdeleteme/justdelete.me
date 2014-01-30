@@ -238,6 +238,14 @@
     },
 
     {
+        "name": "Booklooker",
+        "url": "https://secure.booklooker.de/pages/contact.php",
+        "difficulty": "hard",
+        "notes": "You need to request deletion of your data via the contact form after logging in.",
+        "notes_de": "Nach dem einloggen muss der Kundenservice zur Löschung kontaktiert werden."
+    },
+
+    {
         "meta": "popular",
         "name": "Box",
         "url": "https://app.box.com/settings",
@@ -365,9 +373,9 @@
 
     {
         "name": "Codecademy",
-        "url": "http://help.codecademy.com/customer/portal/articles/416872",
-        "difficulty": "hard",
-        "notes": "For security reasons, we will need to verify that these requests have come from the email address that's on your Codecademy account.",
+        "url": "http://help.codecademy.com/customer/portal/articles/1394081-how-do-i-delete-my-account-",
+        "difficulty": "easy",
+        "notes": "Simply click the \"I understand delete my account.\" button.",
         "notes_it": "Per ragioni di sicurezza, dobbiamo verificare che queste richieste ci arrivino dall'email che è registrata sul tuo account Codacademy",
         "notes_pt_br": "Por razões de segurança, nós precisaremos verificar se estes pedidos vêm do endereço de e-mail que está na sua conta no Codecademy.",
         "notes_cat": "Per raons de seguretat, necessitem verificar si aquestes peticions provenen des de l'e-mail lligat al seu compte de Codecademy.",
@@ -447,9 +455,9 @@
 
     {
         "name": "CreditExpert",
-        "url": "http://experian.metafaq.com/help/CreditExpertBRS/Cancel_and_duration/CancelBRS",
+        "url": "https://www.creditexpert.co.uk/",
         "difficulty": "hard",
-        "notes": "You can cancel by email but only if your membership includes insurance. Otherwise, an email cancellation will be ignored. You have to call 0800 561 0083 to cancel your account. This is the only way."
+        "notes": "You can cancel by email but only if your membership includes insurance. Otherwise, an email cancellation will be ignored. You have to call 0800 561 0083 to cancel your account. This is the only way. More info here: http://experian.metafaq.com/help/CreditExpertBRS/Cancel_and_duration/CancelBRS"
     },
 
     {
@@ -1379,6 +1387,13 @@
         "notes_cat": "Pot parar de fer servir el servei en qualsevol moment. Nosaltres, si més no mantindrém i continuarem utilitzant el contingut que ha enviat amb el servei.",
         "notes_es": "Puede dejar de utilizar el servicio en cualquier momento. Nosotros, sin embargo continuaremos usando el contenido que ha enviado."
     },
+    
+    {
+        "name": "Kippt",
+        "url": "https://kippt.com/accounts/delete",
+        "difficulty": "easy",
+        "notes": "Click 'Account deletion page' at the bottom of the account settings page."
+    },
 
     {
         "name": "Klout",
@@ -1744,9 +1759,9 @@
 
     {
         "name": "Nitrous.IO",
-        "url": "https://www.nitrous.io/",
-        "difficulty": "impossible",
-        "notes": "The feature to delete your account has not been built yet but they will notify you when the feature is added if you open a ticket."
+        "url": "https://www.nitrous.io/app#/account_settings",
+        "difficulty": "easy",
+        "notes": "You will see an option to delete your account just below the password reset option."
     },
 
     {
@@ -1893,7 +1908,14 @@
         "url": "https://my.pingdom.com/account/cancel/confirm",
         "difficulty": "easy"
     },
-
+    
+    {
+        "name": "Points.com",
+        "url": "http://questions.points.com/entries/20026692-How-do-I-cancel-my-account-",
+        "difficulty": "hard",
+        "notes": "Must contact support through Contanct form or online chat."
+    },
+    
     {
         "meta": "popular",
         "name": "Pinterest",
@@ -2347,6 +2369,13 @@
         "notes_pt_br": "Você pode reativar em até 14 dias. Após este prazo sua conta é deletada.",
         "notes_cat": "Pot reactivar-la en un termini de 14 dies. Desprès d'aquest temps el compte serà esborrat.",
         "notes_es": "Puede reactivarla en un plazo de 14 días. Después de este tiempo la cuenta será borrada."
+    },
+
+    {
+        "name": "Tagged",
+        "url": "http://www.tagged.com/account_cancel.html",
+        "difficulty": "easy",
+        "notes": "You can reactivate at any time by logging in to your account."
     },
 
     {
