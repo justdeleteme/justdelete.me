@@ -11,13 +11,46 @@ body {
 	background-color:#D4D8DC;
 }
 
+nav {
+	position: fixed;
+	padding: 11px 0;
+	text-align: center;
+	background-color: #CF5A5A;
+	top: 0;
+	z-index: 1;
+	margin: 0 auto;
+	width: 100%;
+	color: #000;
+	font-weight: bold;
+}
+
+nav a {
+	color: #000;
+	font-weight: bold;
+	text-decoration: none;
+	padding: 8px 10px;
+}
+
+	nav a:hover, .language-switch:hover, .current {
+		border-bottom: 3px solid #000;
+	}
+
+.language-switch {
+	padding-left: 29px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	padding-right: 10px;
+	cursor: pointer;
+}
+
 header {
 	position: relative;
 	background-color: #293840;
 	color: #E8E8E8;	
 	text-align: center;
-	padding: 40px 0;
+	padding: 70px 0;
 	border-bottom: 5px solid #cf5a5a;
+	margin-top: 36px;
 }
 
 .js-on header {
@@ -28,6 +61,7 @@ header h1 {
 	margin: 0;
 	font-weight: 200;
 	padding-bottom: 10px;
+	font-size: 300%;
 }
 
 header h1 span {
@@ -45,6 +79,17 @@ header h1 span {
 	padding: 10px 0;
 	display: none;
 }
+
+button {
+	background-color: #FFF;
+	border: none;
+	padding: 10px;
+	font-weight: bold;
+	text-transform: uppercase;
+	cursor:pointer
+}
+
+	button.reset { color: #cf5a5a;}
 
 .js-on .search {
 	display: block;
@@ -80,6 +125,15 @@ header h1 span {
 	font-size: 16px;
 }
 
+.sort-container {
+	max-width: 500px;
+	margin: 0 auto;
+	position: relative;
+	padding: 10px 0;
+	text-align: center;
+}
+	.sort-container a { text-decoration: none; }
+
 
 .search .search-container input:focus {
 	outline: none;
@@ -88,6 +142,12 @@ header h1 span {
 .main {
 	max-width: 1000px;
 	margin: 0 auto;
+}
+
+.adsense {
+	width: 728px;
+	margin: 0 auto;
+	margin-top: 27px;
 }
 
 .sites {
@@ -111,6 +171,30 @@ header h1 span {
 	padding: 10px 5px;
 }
 
+.meta {
+	display: none;
+}
+
+.content {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px 0;
+	overflow: auto;
+}
+
+	.generate {
+		text-align: center;
+		margin-bottom: 10px;
+	}
+		.generate button {
+			padding: 20px;
+			border: 1px solid #cf5a5a;
+		}
+	.tweet-button {
+		margin: 0 auto;
+		text-align: center;
+	}
+
 
 /* #########################################################
 
@@ -133,7 +217,7 @@ header h1 span {
 		width: 100%;
 	}
 
-.banner {
+/*.banner {
 	display: block;
 	text-align: center;
 	background-color: #7BAC7B;
@@ -150,7 +234,7 @@ header h1 span {
 
 .banner:hover {
 	background-color: #5D895D;
-}
+}*/
 
 .banner-block {
 	background-color: #7BAC7B;
@@ -470,6 +554,11 @@ header h1 span {
 	border-top: 4px solid #CF5A5A;
 }
 
+#about {
+	padding-top: 40px;
+	visibility: hidden;
+}
+
 .info-container {
 	max-width: 1000px;
 	margin: 0 auto;
@@ -553,24 +642,6 @@ footer a:hover, .info-container a:hover {
 	color: #CF5A5A;
 }
 
-/* Language switch */
-
-.language-switch {
-	position: absolute;
-	top: 5px;
-	left: 10px;
-	padding-left: 29px;
-	padding-top: 3px;
-	padding-bottom: 5px;
-	padding-right: 10px;
-	cursor: pointer;
-}
-
-	.language-switch:hover {
-		background-color: #414f56;
-		border-radius: 3px;
-	}
-
 .beta {
 	font-size: 50%;
 	color: #cf5a5a;
@@ -601,38 +672,101 @@ footer a:hover, .info-container a:hover {
 .dropdown .es A, .es A { background-image: url(inc/icons/flags/es16.png); }
 .dropdown .ru A, .ru A { background-image: url(inc/icons/flags/ru16.png); }
 .dropdown .pt_br A, .pt_br A { background-image: url(inc/icons/flags/pt_br16.png); }
+.dropdown .cat A, .cat A { background-image: url(inc/icons/flags/cat16.png); }
+.dropdown .vi A, .vi A { background-image: url(inc/icons/flags/vi16.png); }
+.dropdown .tr A, .tr A { background-image: url(inc/icons/flags/tr16.png); }
+.dropdown .ar A, .ar A { background-image: url(inc/icons/flags/ar16.png); }
+.dropdown .nl A, .nl A { background-image: url(inc/icons/flags/nl16.png); }
+.dropdown .fa A, .fa A { background-image: url(inc/icons/flags/fa16.png); }
+.dropdown .zh-cn A, .zh-cn A { background-image: url(inc/icons/flags/zh-cn16.png); }
+.dropdown .id A, .id A { background-image: url(inc/icons/flags/id16.png); }
 
 #en { 
 	background-image: url(./inc/icons/flags/en24.png);
 	background-repeat:no-repeat;
+	background-position: left center;
 }
 
 #fr { 
 	background-image: url(./inc/icons/flags/fr24.png);
-	background-repeat:no-repeat;	
+	background-repeat:no-repeat;
+	background-position: left center;	
 }
 
 #de { 
 	background-image: url(./inc/icons/flags/de24.png);
-	background-repeat:no-repeat;	
+	background-repeat:no-repeat;
+	background-position: left center;	
 }
 
 #it { 
 	background-image: url(./inc/icons/flags/it24.png);	
 	background-repeat:no-repeat;
+	background-position: left center;
 }
 
 #es { 
 	background-image: url(./inc/icons/flags/es24.png);
-	background-repeat:no-repeat;	
+	background-repeat:no-repeat;
+	background-position: left center;	
 }
 
 #ru { 
 	background-image: url(./inc/icons/flags/ru24.png);
-	background-repeat:no-repeat;	
+	background-repeat:no-repeat;
+	background-position: left center;	
 }
 
 #pt_br {
 	background-image: url(./inc/icons/flags/pt_br24.png);
 	background-repeat:no-repeat;
+	background-position: left center;
+}
+
+#cat {
+	background-image: url(./inc/icons/flags/cat24.png);
+	background-repeat:no-repeat;
+	background-position: left center;
+}
+
+#vi {
+	background-image: url(./inc/icons/flags/vi24.png);
+	background-repeat:no-repeat;
+	background-position: left center;
+}
+
+#tr {
+	background-image: url(./inc/icons/flags/tr24.png);
+	background-repeat:no-repeat;
+	background-position: left center;
+}
+
+#ar {
+	background-image: url(./inc/icons/flags/ar24.png);
+	background-repeat:no-repeat;
+	background-position: left center;
+}
+
+#nl {
+	background-image: url(./inc/icons/flags/nl24.png);
+	background-repeat:no-repeat;
+	background-position: left center;
+}
+
+#fa {
+	background-image: url(./inc/icons/flags/fa24.png);
+	background-repeat:no-repeat;
+	background-position: left center;
+}
+
+#zh-cn {
+	background-image: url(./inc/icons/flags/zh-cn24.png);
+	background-repeat:no-repeat;
+	background-position: left center;
+}
+
+#id {
+	background-image: url(./inc/icons/flags/id24.png);
+	background-repeat:no-repeat;
+	background-position: left center;
 }

@@ -10,6 +10,16 @@
 	}); 
 
 	// For testing
+	if ( ! isset($contributors))
+	{
+		$contributors = "";
+	}
+
+	if (isset($_GET['lang']))
+	{
+		$lang = $_GET['lang'];
+	}
+	// For testing
 	if ( !isset($lang))
 	{
 		$lang = "en";
@@ -19,46 +29,51 @@
 		$full_name = "English";
 	}
 
-	$definitions = json_decode(file_get_contents('definitions.json'));
+	$definitions = json_decode(file_get_contents('trans/site/'.$lang.'.json'));
 
-	$title = $definitions[0]->title->$lang;
-	$description = $definitions[0]->description->$lang;
-	$difficulty = $definitions[0]->difficulty->$lang;
-	$difficulty_easy = $definitions[0]->difficulty_easy->$lang;
-	$difficulty_medium = $definitions[0]->difficulty_medium->$lang;
-	$difficulty_hard = $definitions[0]->difficulty_hard->$lang;
-	$difficulty_impossible = $definitions[0]->difficulty_impossible->$lang;
-	$tagline = $definitions[0]->tagline->$lang;
-	$noinfo = $definitions[0]->noinfo->$lang;
-	$showinfo = $definitions[0]->showinfo->$lang;
-	$hideinfo = $definitions[0]->hideinfo->$lang;
-	$whatisthis = $definitions[0]->whatisthis->$lang;
-	$whatisthis1 = $definitions[0]->whatisthis1->$lang;
-	$whatisthis2 = $definitions[0]->whatisthis2->$lang;
-	$whatisthis3 = $definitions[0]->whatisthis3->$lang;
-	$guide = $definitions[0]->guide->$lang;
-	$guideexplanations = $definitions[0]->guideexplanations->$lang;
-	$guideeasy = $definitions[0]->guideeasy->$lang;
-	$guidemedium = $definitions[0]->guidemedium->$lang;
-	$guidehard = $definitions[0]->guidehard->$lang;
-	$guideimpossible = $definitions[0]->guideimpossible->$lang;
-	$translationcontrib = $definitions[0]->translationcontrib->$lang;
-	$morecontrib = $definitions[0]->morecontrib->$lang;
-	$viewcontrib = $definitions[0]->viewcontrib->$lang;
-	$extensionguide = $definitions[0]->extensionguide->$lang;
-	$extension = $definitions[0]->extension->$lang;
-	$extensionp1 = $definitions[0]->extensionp1->$lang;
-	$extensionp2 = $definitions[0]->extensionp2->$lang;
-	$extensionp3 = $definitions[0]->extensionp3->$lang;
-	$extensionl1 = $definitions[0]->extensionl1->$lang;
-	$extensionl2 = $definitions[0]->extensionl2->$lang;
-	$extensionl3 = $definitions[0]->extensionl3->$lang;
-	$extensionl4 = $definitions[0]->extensionl4->$lang;
-	$banner = $definitions[0]->banner->$lang;
-	$footer = $definitions[0]->footer->$lang;
-	$help_translate = $definitions[0]->help->$lang;
-	$donate = $definitions[0]->donate->$lang;
-	$sendmail = $definitions[0]->sendmail->$lang;
+	// var_dump($definitions);
+	// die;
+
+	$title = $definitions->title;
+	$description = $definitions->description;
+	$difficulty = $definitions->difficulty;
+	$difficulty_easy = $definitions->difficulty_easy;
+	$difficulty_medium = $definitions->difficulty_medium;
+	$difficulty_hard = $definitions->difficulty_hard;
+	$difficulty_impossible = $definitions->difficulty_impossible;
+	$tagline = $definitions->tagline;
+	$noinfo = $definitions->noinfo;
+	$showinfo = $definitions->showinfo;
+	$hideinfo = $definitions->hideinfo;
+	$whatisthis = $definitions->whatisthis;
+	$whatisthis1 = $definitions->whatisthis1;
+	$whatisthis2 = $definitions->whatisthis2;
+	$whatisthis3 = $definitions->whatisthis3;
+	$guide = $definitions->guide;
+	$guideexplanations = $definitions->guideexplanations;
+	$guideeasy = $definitions->guideeasy;
+	$guidemedium = $definitions->guidemedium;
+	$guidehard = $definitions->guidehard;
+	$guideimpossible = $definitions->guideimpossible;
+	$translationcontrib = $definitions->translationcontrib;
+	$morecontrib = $definitions->morecontrib;
+	$viewcontrib = $definitions->viewcontrib;
+	$extensionguide = $definitions->extensionguide;
+	$extension = $definitions->extension;
+	$extensionp1 = $definitions->extensionp1;
+	$extensionp2 = $definitions->extensionp2;
+	$extensionp3 = $definitions->extensionp3;
+	$extensionl1 = $definitions->extensionl1;
+	$extensionl2 = $definitions->extensionl2;
+	$extensionl3 = $definitions->extensionl3;
+	$extensionl4 = $definitions->extensionl4;
+	$banner = $definitions->banner;
+	$footer = $definitions->footer;
+	$help_translate = $definitions->help;
+	$donate = $definitions->donate;
+	$sendmail = $definitions->sendmail;
+	$submit = $definitions->submit;
+
 	if ($lang == "en")
 	{
 		$note_lang = "notes";
@@ -67,79 +82,39 @@
 	{
 		$note_lang = "notes_" . $lang;
 	}
+	$homepage = true;
 
 
 ?>
-<!DOCTYPE HTML>
-<html>
-<head>
-	<title><?php echo $title ?></title>
-	<meta charset="UTF-8">
-	<!--[if lt IE 9]>
-		<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-	<![endif]-->
-	<meta name="viewport" content="width=device-width,initial-scale=1">
-	<meta name="description" content="<?php echo $description ?>">
+<?php include('inc/header.php'); ?>
 
-	<!-- Icons -->
-	<link rel="shortcut icon" href="inc/icons/favicon.ico">
-	<link rel="apple-touch-icon-precomposed" href="inc/icons/apple-touch-icon-precomposed.png">
-	<link rel="apple-touch-icon-precomposed" href="inc/icons/apple-touch-icon-72x72-precomposed.png">
-	<link rel="apple-touch-icon-precomposed" href="inc/icons/apple-touch-icon-120x120-precomposed.png">
-	<link rel="apple-touch-icon-precomposed" href="inc/icons/apple-touch-icon-144x144-precomposed.png">
-
-	<link rel="stylesheet" type="text/css" href="style.css" />
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-	<script>window.jQuery || document.write('<script src="inc/jquery.js"><\/script>')</script>
-	<script src="inc/scripts.js"></script>
-	<link type="text/css" rel="stylesheet" href="inc/jquery.dropdown.css" />
-	<script type="text/javascript" src="inc/jquery.dropdown.js"></script>
-
-	<script type="text/javascript">
-	  var GoSquared = {};
-	  GoSquared.acct = "GSN-106715-K";
-	  (function(w){
-	    function gs(){
-	      w._gstc_lt = +new Date;
-	      var d = document, g = d.createElement("script");
-	      g.type = "text/javascript";
-	      g.src = "//d1l6p2sc9645hc.cloudfront.net/tracker.js";
-	      var s = d.getElementsByTagName("script")[0];
-	      s.parentNode.insertBefore(g, s);
-	    }
-	    w.addEventListener ?
-	      w.addEventListener("load", gs, false) :
-	      w.attachEvent("onload", gs);
-	  })(window);
-	</script>
-</head>	
-<body>
-
-	<!-- Facebook Like Button SDK -->
-	<div id="fb-root"></div>
-	<div class="ribbon"><a target="_blank" href="http://github.com/rmlewisuk/justdelete.me"><img src="inc/icons/gh-ribbon.png"></a></div>
-	<a href="https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf" target="_blank" class="banner">
-            <?php echo $banner ?>
-	</a>
-
-	<header>
-		<h1>just<span>delete</span>.me</h1>
-		<p class="tagline"><?php echo $tagline ?></p>
-
-		<!-- begin language switcher -->
-		<span class="language-switch" href="#" data-dropdown="#dropdown-1" id="<?php echo $lang; ?>"><?php echo $full_name; ?></span>
-		<!-- end language switcher -->
-	</header>
-
-	<div id="test">
-	</div>
 	<div class="search">
 		<div class="search-container">
 			<input type="text" id="search">
 			<a href="#">search</a>
 		</div>
+
+		<div class="sort-container">
+			<button class="popular">Popular</button>
+	    	<button data-dropdown="#dropdown-2" class="az-sort">A - Z &#9660;</button>
+	    	<button data-dropdown="#dropdown-3" class="diff-sort">Difficulty &#9660;</button>
+	    	<button class="reset">reset</button>
+		</div>
+
 	</div>
-	<section class="main">		
+	<section class="main">
+
+	<section class="adsense">
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+			<!-- JDM -->
+			<ins class="adsbygoogle"
+			     style="display:inline-block;width:728px;height:90px"
+			     data-ad-client="ca-pub-9778304973218149"
+			     data-ad-slot="6251902116"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>	
+	</section>
 		<section class="sites" id="sites">
 
 			<p class="no-results">Can't find what you're looking for? <a href='http://github.com/rmlewisuk/justdelete.me'>Help make justdelete.me better</a>.</p>
@@ -151,7 +126,7 @@
                                     <?php echo $site->name; ?>
                                 </a>                            
                                 <p class="site-difficulty">
-                                    <?php echo $definitions[0]->difficulty->$lang; ?>: <?php echo eval('return $difficulty_' . $site->difficulty . ';'); ?>
+                                    <?php echo eval('return $difficulty_' . $site->difficulty . ';'); ?>
                                 </p>
                                 <?php if (isset($site->$note_lang)) : ?>
                                     <div class="tooltip-content">                                   
@@ -176,10 +151,14 @@
                                 <?php else : ?>
                                     <p class="tooltip-toggle"><?php echo $noinfo ?></p>
                                 <?php endif; ?>
+                                <?php if (isset($site->meta)) : ?>
+                                    	<span class="meta"><?php echo $site->meta; ?></span>
+                                    <?php endif; ?>
                             </section><?php endforeach; ?>
 
 		</section>
 	</section>
+	<span id="about">about anchor</span>
 	<section class="info-block">
 		<div class="info-container">
 
@@ -187,7 +166,7 @@
 				<h2><?php echo $whatisthis ?></h2>
 				<p><?php echo $whatisthis1 ?></p>
 				<p><?php echo $whatisthis2 ?></p>
-				<p><?php echo $whatisthis3 ?></p>
+				<p><a target="_blank" href="https://docs.google.com/a/therobb.com/forms/d/1mhr3vaTni5U8PvOdp_NvQ6vKBxNTmJTeKP3VWRuioCE/viewform"><?php echo $submit ?> &raquo;</a></p>
 				<ul>
 					<li><a href="http://robblewis.me/just-delete-me?utm_source=JustDeleteMe&amp;utm_medium=link&amp;utm_campaign=Just+Delete+Me" target="_blank">Read the announcement blog post &raquo;</a></li>
 					<li><a href="http://robblewis.me/24-hours-of-just-delete-me/" target="_blank">See the first-day stats &raquo;</a></li>
@@ -224,17 +203,29 @@
 			
 				<ul class="contributors translate">
 		        	<li class="it"><a href="https://github.com/LorenzoRogai">Lorenzo Rogai</a></li>
-		    		<li class="de"><a href="http://www.erbloggt.de/">Konstantin Hinrichs</a></li>
+		    		<li class="de"><a href="http://www.erbloggt.de/">Konstantin Hinrichs</a>, <a href="http://www.floriankeller.de/">Florian Keller</a></li>
 		        	<li class="fr"><a href="https://github.com/buzzb0x">Ethan Ohayon</a></li>
+		        	<li class="fr"><a href="https://github.com/p1rox">Armand Vignat</a></li>
 		        	<li class="ru"><a href="https://github.com/morozd">morozd</a></li>
 		        	<li class="pt_br"><a href="https://github.com/mkbu95">Matheus Macabu</a></li>
+		        	<li class="cat"><a href="https://github.com/rockbdn">JP Queralt (+ Español)</a></li>
+		        	<li class="vi"><a href="https://github.com/giangnb">Giang Nguyen</a></li>
+		        	<li class="tr"><a href="https://github.com/MarioErmando">Erman Sayın</a></li>
+		        	<li class="ar"><a href="https://github.com/adahhane">Dahhane Ayyoub</a></li>
+		        	<li class="nl"><a href="https://github.com/mprins">Mark Prins</a></li>
+		        	<li class="fa"><a href="https://github.com/Arasteh">Mahmoud Arasteh Nasab</a></li>
+		        	<li class="zh-cn"><a href="https://github.com/Jonwei">Joe Shen</a></li>
+		        	<li class="id"><a href="https://github.com/rafeyu">Ramdziana Feri Y</a></li>
+
 				</ul>
 			</div><div class="info-block-half">
 				<h2><?php echo $morecontrib; ?></h2>
+
+				<?php echo $contributors; ?>
 			
-				<ul>
-					<?php include 'contrib.php'; ?>
-					<li><a href='http://github.com/rmlewisuk/justdelete.me/contributors'><?php echo $viewcontrib; ?> &raquo;</a></li>
+				<p><br/><a href='http://github.com/rmlewisuk/justdelete.me/contributors'><?php echo $viewcontrib; ?> &raquo;</a></p>
+			
+				
 				</ul>
 			</div>
 		</div>
@@ -298,14 +289,67 @@
 	    <ul class="dropdown-menu">
 	    	<li class="en"><a href="/">English</a></li>
 	        <li class="it"><a href="it.html">Italiano</a></li>
-	    	<li class="de"><a href="de.html">Deutsch <span class="beta">unvollständig</span></a></li>
-	        <li class="fr"><a href="fr.html">Français <span class="beta">incomplète</span></a></li>
-	        <li class="ru"><a href="ru.html">Pусский <span class="beta">неполный</span></a></li>
+	    	<li class="de"><a href="de.html">Deutsch</a></li>
+	        <li class="fr"><a href="fr.html">Français</a></li>
+	        <li class="nl"><a href="nl.html">Nederlands</a></li>
+	        <li class="es"><a href="es.html">Español</a></li>
+	        <li class="cat"><a href="cat.html">Català</a></li>
 	        <li class="pt_br"><a href="pt_br.html">Português</a></li>
-	        <!-- <li class="es"><a href="es.html">Spanish <span class="beta">incompleto</span></a></li> -->
+	        <li class="ru"><a href="ru.html">Pусский</a></li>
+	        <li class="vi"><a href="vi.html">Tiếng Việt</a></li>
+	        <li class="tr"><a href="tr.html">Türk</a></li>
+	        <li class="ar"><a href="ar.html">العربية</a></li>
+	        <li class="fa"><a href="fa.html">فارسی</a></li>
+	        <li class="zh-cn"><a href="zh-cn.html">中国的</a></li>
+	        <li class="id"><a href="id.html">Indonesia</a></li>
 	        <li class="dropdown-divider"></li>
 	        <li class="help"><a target="_blank" href="https://github.com/rmlewisuk/justdelete.me/issues/164"><?php echo $help_translate; ?></a></li>
 	    </ul>
 	</div>
+
+	<div id="dropdown-2" class="dropdown dropdown-tip">
+		<ul class="dropdown-menu">
+			<span class="alpha-sort">
+				<li><a href="#">a</a></li>
+				<li><a href="#">b</a></li>
+				<li><a href="#">c</a></li>
+				<li><a href="#">d</a></li>
+				<li><a href="#">e</a></li>
+				<li><a href="#">f</a></li>
+				<li><a href="#">g</a></li>
+				<li><a href="#">h</a></li>
+				<li><a href="#">i</a></li>
+				<li><a href="#">j</a></li>
+				<li><a href="#">k</a></li>
+				<li><a href="#">l</a></li>
+				<li><a href="#">m</a></li>
+				<li><a href="#">n</a></li>
+				<li><a href="#">o</a></li>
+				<li><a href="#">p</a></li>
+				<li><a href="#">q</a></li>
+				<li><a href="#">r</a></li>
+				<li><a href="#">s</a></li>
+				<li><a href="#">t</a></li>
+				<li><a href="#">u</a></li>
+				<li><a href="#">v</a></li>
+				<li><a href="#">w</a></li>
+				<li><a href="#">x</a></li>
+				<li><a href="#">y</a></li>
+				<li><a href="#">z</a></li>
+			</span>
+		</ul>
+	</div>
+
+	<div id="dropdown-3" class="dropdown dropdown-tip">
+		<ul class="dropdown-menu">
+			<span class="diff-sort">
+				<li><a href="#">Easy</a></li>
+				<li><a href="#">Medium</a></li>
+				<li><a href="#">Hard</a></li>
+				<li><a href="#">Impossible</a></li>
+			</span>
+		</ul>
+	</div>
+	
 </body>
 </html>

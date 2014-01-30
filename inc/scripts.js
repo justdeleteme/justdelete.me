@@ -1,7 +1,71 @@
 $(function(){
+    var webf1 = "http://webf1.soc.port.ac.uk/design/worksheet/";
+    if (document.referrer == webf1 ) {
+        $('.hello-webf1').show();
+        setTimeout(function() {
+            $('.hello-webf1').slideUp();
+        }, 3000);
+    }
 
     $('body').addClass('js-on');
 
+    // A - Z Sorting
+    $('.alpha-sort a').click(function(e){
+        e.preventDefault();
+        var term = $(this).text();
+        var $sites = $('.sites section');
+
+        $sites.show().filter(function() {
+            var text = $(this).find('.site-header').text().replace(/\s+/g, ' ').toLowerCase().substr(1,1);
+            return !~text.indexOf(term);
+        }).hide();
+
+        if ( ! $('.site-block').is(':visible')) {
+            $('.no-results').show();
+        }
+    });
+
+    // Difficulty sorting
+    $('.diff-sort a').click(function(e){
+        e.preventDefault();
+        var term = $(this).text().toLowerCase();
+        var $sites = $('.sites section');
+
+        $sites.show().filter(function() {
+            var text = $(this).find('.site-difficulty').text().replace(/\s+/g, ' ').toLowerCase();
+            return !~text.indexOf(term);
+        }).hide();
+
+        if ( ! $('.site-block').is(':visible')) {
+            $('.no-results').show();
+        }
+    });
+
+    // Popular sorting
+    $('button.popular').click(function(e){
+        e.preventDefault();
+        var term = "popular";
+        var $sites = $('.sites section');
+
+        $sites.show().filter(function() {
+            var text = $(this).find('.meta').text().replace(/\s+/g, ' ').toLowerCase();
+            return !~text.indexOf(term);
+        }).hide();
+
+        if ( ! $('.site-block').is(':visible')) {
+            $('.no-results').show();
+        }
+    });
+
+    // Clear search and sorting
+    $('button.reset').click(function(e){
+        var $sites = $('.sites section');
+        $sites.show();
+        $('.no-results').hide();
+        $('input').val('');
+    });
+
+    // Searching
     $('input').keyup(function(){
 
         if ($('.no-results').is(':visible')) {
@@ -12,7 +76,7 @@ $(function(){
         var $sites = $('.sites section');
 
         $sites.show().filter(function() {
-            var text = $(this).find('a').text().replace(/\s+/g, ' ').toLowerCase();
+            var text = $(this).find('.site-header').text().replace(/\s+/g, ' ').toLowerCase();
             return !~text.indexOf(term);
         }).hide();
 
@@ -47,6 +111,10 @@ $(function(){
 
     $('.banner').click(function(e) {
      $('body').scrollTo('.banner-block');
+    });
+
+    $('.info').click(function(e) {
+     $('body').scrollTo('.info-block');
     });
 
     // create the keys and konami variables
