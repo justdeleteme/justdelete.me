@@ -373,9 +373,9 @@
 
     {
         "name": "Codecademy",
-        "url": "http://help.codecademy.com/customer/portal/articles/416872",
-        "difficulty": "hard",
-        "notes": "For security reasons, we will need to verify that these requests have come from the email address that's on your Codecademy account.",
+        "url": "http://help.codecademy.com/customer/portal/articles/1394081-how-do-i-delete-my-account-",
+        "difficulty": "easy",
+        "notes": "Simply click the \"I understand delete my account.\" button.",
         "notes_it": "Per ragioni di sicurezza, dobbiamo verificare che queste richieste ci arrivino dall'email che è registrata sul tuo account Codacademy",
         "notes_pt_br": "Por razões de segurança, nós precisaremos verificar se estes pedidos vêm do endereço de e-mail que está na sua conta no Codecademy.",
         "notes_cat": "Per raons de seguretat, necessitem verificar si aquestes peticions provenen des de l'e-mail lligat al seu compte de Codecademy.",
