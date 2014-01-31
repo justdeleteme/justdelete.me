@@ -51,9 +51,17 @@
 			<!-- end language switcher -->
 			<a href="#" class="info">About</a>
 			<a href="fake-identity-generator" class="id-gen">Fake Identity Generator</a>
+<<<<<<< other
+=======
+			<a href="#" class="banner">Chrome Extension</a>
+>>>>>>> b2370eb Resolving slashes problem.
 		<?php else : ?>
 			<a href="" class="home">Home</a>
 			<a href="fake-identity-generator" class="id-gen current">Fake Identity Generator</a>
+<<<<<<< other
+=======
+			<a target="_blank" href="https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf">Chrome Extension</a>
+>>>>>>> b2370eb Resolving slashes problem.
 		<?php endif; ?>
 		<a target="_blank" href="https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf">Chrome Extension</a>
 		<a target="_blank" href="https://docs.google.com/a/therobb.com/forms/d/1mhr3vaTni5U8PvOdp_NvQ6vKBxNTmJTeKP3VWRuioCE/viewform">Submit a site</a>

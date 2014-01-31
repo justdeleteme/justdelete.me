@@ -318,7 +318,7 @@
 
 	<div id="dropdown-1" class="dropdown dropdown-tip has-icons">
 	    <ul class="dropdown-menu">
-	    	<li class="en"><a href="/">English</a></li>
+	    	<li class="en"><a href="index.html">English</a></li>
 	        <li class="it"><a href="it.html">Italiano</a></li>
 	    	<li class="de"><a href="de.html">Deutsch</a></li>
 	        <li class="fr"><a href="fr.html">Français</a></li>
