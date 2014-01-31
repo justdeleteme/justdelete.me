@@ -76,6 +76,13 @@
     },
 
     {
+        "name": "Alibaba",
+        "url": "http://www.alibaba.com/help/contact-us.html",
+        "difficulty": "hard",
+        "notes": "Despite what it says in their FAQ there is actually no automatic way to delete your account. But they do see to be happy to do it if you ask them - you can contact them via http://www.alibaba.com/help/contact-us.html - I cancelled my account via their online chat system."
+    },
+
+    {
         "name": "Amazon",
         "url": "https://www.amazon.com/gp/help/customer/contact-us/ref=cu_cf_email?ie=UTF8&mode=email#a",
         "difficulty": "hard",
@@ -154,6 +161,13 @@
         "url": "https://bandcamp.com/settings?pane=fan",
         "difficulty": "easy",
         "notes": "To terminate an artist account, you must click on the 'Artists' pane, click on the desired artist's profile, and click the termination link there."
+    },
+
+    {
+        "name": "Barnes and Noble",
+        "url": "http://www.barnesandnoble.com/customerservice/contactus",
+        "difficulty": "impossible",
+        "notes": "It is not possible to delete your Barnes and Noble account.  The best you can do is delete any personal information that you have stored on their website."
     },
 
     {
@@ -242,6 +256,14 @@
     },
 
     {
+        "name": "Booklooker",
+        "url": "https://secure.booklooker.de/pages/contact.php",
+        "difficulty": "hard",
+        "notes": "You need to request deletion of your data via the contact form after logging in.",
+        "notes_de": "Nach dem einloggen muss der Kundenservice zur Löschung kontaktiert werden."
+    },
+
+    {
         "meta": "popular",
         "name": "Box",
         "url": "https://app.box.com/settings",
@@ -261,6 +283,13 @@
     },
 
     {
+        "name": "BurstNET",
+        "url": "http://burst.net/",
+        "difficulty": "impossible",
+        "notes": "Support staff refuses to delete accounts due to 'accounting purposes'"
+    },
+
+    {
         "name": "C&M News by Rеss.at",
         "url": "http://www.ress.at/profil/profil_entfernen.php",
         "difficulty": "easy",
@@ -271,6 +300,13 @@
         "notes_pt_br": "Apenas clique em 'Abschicken'",
         "notes_cat": "Només cal clicar a 'Abschicken'",
         "notes_es": "Solo tienes que clicar en 'Abschicken'"
+    },
+
+    {
+        "name": "Call of Duty (Activision)",
+        "url": "http://www.callofduty.com/",
+        "difficulty": "impossible",
+        "notes": "'There is no way to close or shut down an account.'"
     },
 
     {
@@ -306,6 +342,14 @@
         "difficulty": "hard",
         "notes": "Email customer services to request deletion",
         "email": "info@cleverreach.de"
+    },
+
+    {
+        "name": "ClickAndBuy",
+        "url": "https://customer.eu.clickandbuy.com/surfer/spring/settings-terminateaccount-flow",
+        "difficulty": "easy",
+        "notes": "Login to your account, then click 'delete account' on the page.",
+        "notes_de": "Logge dich in deinen Account ein und klicke auf der Seite auf 'Account löschen'."
     },
 
     {
@@ -347,9 +391,9 @@
 
     {
         "name": "Codecademy",
-        "url": "http://help.codecademy.com/customer/portal/articles/416872",
-        "difficulty": "hard",
-        "notes": "For security reasons, we will need to verify that these requests have come from the email address that's on your Codecademy account.",
+        "url": "http://help.codecademy.com/customer/portal/articles/1394081-how-do-i-delete-my-account-",
+        "difficulty": "easy",
+        "notes": "Simply click the \"I understand delete my account.\" button.",
         "notes_it": "Per ragioni di sicurezza, dobbiamo verificare che queste richieste ci arrivino dall'email che è registrata sul tuo account Codacademy",
         "notes_pt_br": "Por razões de segurança, nós precisaremos verificar se estes pedidos vêm do endereço de e-mail que está na sua conta no Codecademy.",
         "notes_cat": "Per raons de seguretat, necessitem verificar si aquestes peticions provenen des de l'e-mail lligat al seu compte de Codecademy.",
@@ -370,7 +414,16 @@
         "notes_fr": "Identifiez-vous puis visitez https://coderwall.com/delete_account",
         "notes_cat": "Identifica't al lloc web i entra https://coderwall.com/delete_account",
         "notes_es": "Identifícate en el sitio web y entra en https://coderwall.com/delete_account",
+        "notes_es": "Identifícate en el sitio web y entra en https://coderwall.com/delete_account",
         "notes_pt_br": "Basta se logar no site e acessar https://coderwall.com/delete_account"
+    },
+
+    {
+        "name": "Comment ça marche",
+        "url": "http://www.commentcamarche.net/communaute/remove.php3",
+        "difficulty": "medium",
+        "notes": "login. !! Your message which you have post will be kept for the readable of the forum !!",
+        "notes_fr": "Logez vous. !! Les messages que vous avez postez seront gardé pour la lisibilité du forum !!"
     },
 
     {
@@ -416,15 +469,15 @@
     {
         "name": "CrashPlan",
         "url": "http://support.crashplan.com/",
-        "difficulty": "medium",
+        "difficulty": "hard",
         "notes": "Start a live chat session and a representative will delete your account."
     },
 
     {
         "name": "CreditExpert",
-        "url": "http://experian.metafaq.com/help/CreditExpertBRS/Cancel_and_duration/CancelBRS",
+        "url": "https://www.creditexpert.co.uk/",
         "difficulty": "hard",
-        "notes": "You can cancel by email but only if your membership includes insurance. Otherwise, an email cancellation will be ignored. You have to call 0800 561 0083 to cancel your account. This is the only way."
+        "notes": "You can cancel by email but only if your membership includes insurance. Otherwise, an email cancellation will be ignored. You have to call 0800 561 0083 to cancel your account. This is the only way. More info here: http://experian.metafaq.com/help/CreditExpertBRS/Cancel_and_duration/CancelBRS"
     },
 
     {
@@ -463,6 +516,13 @@
         "name": "Delicious",
         "url": "https://delicious.com/settings/deactivate",
         "difficulty": "easy"
+    },
+
+    {
+        "name": "Delta Airlines (SkyMiles)",
+        "url": "http://www.delta.com/content/www/en_US/support/talk-to-us/skymiles.html",
+        "difficulty": "hard",
+        "notes": "You cannot delete your Delta Skymiles account online.  You must contact them by mail in order to delete your account."
     },
 
     {
@@ -632,6 +692,13 @@
     },
 
     {
+        "name": "Endomondo",
+        "url": "https://www.endomondo.com/?wicket:interface=:15::::",
+        "difficulty": "easy",
+        "notes": "Select any reason for closing your profile. After that you have to complete the process by clicking a link in an email sent to you."
+    },
+
+    {
         "name": "eRepublik",
         "url": "http://www.erepublik.com/en/contact/none/none",
         "difficulty": "hard",
@@ -672,7 +739,7 @@
         "name": "Facebook",
         "url": "https://www.facebook.com/help/delete_account?rdrhc",
         "difficulty": "medium",
-        "notes": "While you can delete your account easily, some of the datas including chat- or group-messages are here to stay forever, just as stated in the website's Privacy.",
+        "notes": "While you can delete your account easily, some of the data including messages, are there to stay forever, just as stated in the website's privacy policy.",
         "notes_it": "Mentre puoi eliminare il tuo account facilmente, qualche dato come le chat o i messaggi di gruppo rimarranno nei loro database, come scritto sul loro sito nella pagina Privacy",
         "notes_de": "Während du deinen Account leicht löschen kannst, bleiben einige deiner Daten dauerhaft. z.B. Chat- und Gruppennachrichten. Dies ist so in den Datenschutzbestimmungen bestimmt.",
         "notes_pt_br": "Você pode deletar sua conta facilmente, porém dados de conversas ficarão armazenados para sempre, como explicitado na Privacidade do site.",
@@ -1001,6 +1068,14 @@
     },
 
     {
+        "name": "Grailed",
+        "url": "http://www.grailed.com/",
+        "difficulty": "hard",
+        "notes": "Send an email to arun@grailed.com and request deletion.",
+        "email": "arun@grailed.com"
+    },
+
+    {
         "name": "Grammarly",
         "url": "https://ed.grammarly.com/accounts/me",
         "difficulty": "easy"
@@ -1059,6 +1134,13 @@
         "name": "Gumtree",
         "url": "https://my.gumtree.com/manage/details/deactivate",
         "difficulty": "easy"
+    },
+
+    {
+        "name": "Hack This Site",
+        "url": "https://www.hackthissite.org/forums/viewtopic.php?f=9&t=4800&sid=7edb515c2462108e30ddec760c2ddfebv",
+        "difficulty": "impossible",
+        "notes": "It is not possible to delete your Hack This Site account.  The best you can do is delete any personal information that you have stored on their website."
     },
 
     {
@@ -1143,15 +1225,8 @@
 
     {
         "name": "ICQ",
-        "url": "http://www.icq.com/download/icq/knownissues/account/en",
-        "difficulty": "impossible",
-        "notes": "ICQ is now working on providing a delete feature which will be available in upcoming ICQ versions. Currently, there’s no such functionality.",
-        "notes_fr": "ICQ travaille sur la possibilité de pouvoir supprimer votre compte. Mais pour le moment cette fonctionnalité n'est pas disponible.",
-        "notes_it": "ICQ sta implementando la possibilità di eliminare il tuo account e sarà disponibile nelle prossime versioni di ICQ. Al momento non esiste modo di eliminare il tuo account.",
-        "notes_de": "ICQ arbeitet an einer Löschfunktion. Diese wird in künftigen Versionen von ICQ verfügbar sein. Momentan gibt es diese Funktion nicht.",
-        "notes_pt_br": "ICQ está trabalhando para providenciar uma funcionalidade para deletar contas que estará disponível nas próximas versões do ICQ. Atualmente, não há tal funcionalidade.",
-        "notes_cat": "ICQ està treballant per oferir una funcionalitat per borrar comptes, estarà disponible a les pròximes versions. Actualment no existeix aquesta funcionalitat.",
-        "notes_es": "ICQ está trabajando para ofrecer una funcionalidad para borrar cuentas, estará disponible en las próximas versiones. Actualmente no existe esta funcionalidad."
+        "url": "http://www.icq.com/delete-account/",
+        "difficulty": "easy"
     },
 
     {
@@ -1224,6 +1299,13 @@
         "notes": "You have to email them (service@instructables.com) to get your account deleted",
         "notes_pt_br": "É preciso enviar um e-mail para eles (service@instructables) para ter a sua conta removida.",
         "email": "service@instructables.com"
+    },
+
+    {
+        "name": "Internetometer",
+        "url": "http://internetometer.com/",
+        "difficulty": "impossible",
+        "notes": "Site provides no user account management interface or account deletion options. Email sent to internets@technoized.com was never replied to."
     },
 
     {
@@ -1312,6 +1394,13 @@
     },
 
     {
+        "name": "JS Bin",
+        "url": "https://github.com/remy/jsbin/issues/1010",
+        "difficulty": "hard",
+        "notes": "You will need to open a GitHub issue with your username in order to close your account."
+    },
+
+    {
         "name": "jsFiddle",
         "url": "http://doc.jsfiddle.net/meta/channels.html?highlight=contact",
         "difficulty": "hard",
@@ -1364,6 +1453,13 @@
     },
 
     {
+        "name": "Kippt",
+        "url": "https://kippt.com/accounts/delete",
+        "difficulty": "easy",
+        "notes": "Click 'Account deletion page' at the bottom of the account settings page."
+    },
+
+    {
         "name": "Klout",
         "url": "http://klout.com/#/edit-settings/optout",
         "difficulty": "medium",
@@ -1373,6 +1469,13 @@
         "notes_pt_br": "Pode levar até 180 dias para que todos os seus dados sejam removidos do sistema.",
         "notes_cat": "Trigaran aproximadament 180 dies per eliminar les teves dades del sistema .",
         "notes_es": "Tardarán aproximadamente 180 días para eliminar tus datos del sistema."
+    },
+
+    {
+        "name": "Kno",
+        "url": "http://www.kno.com/help/customerService",
+        "difficulty": "hard",
+        "notes": "You can close your account if you contact customer service either by phone or live chat"
     },
 
     {
@@ -1620,6 +1723,13 @@
     },
 
     {
+        "name": "My Opera",
+        "url": "https://my.opera.com/USERNAME/account/delete",
+        "difficulty": "easy",
+        "notes": "Replace <code>USERNAME</code> with your My Opera username in the URL."
+    },
+
+    {
         "name": "MyLife.com",
         "url": "http://www.mylife.com/showDeleteAccount.do",
         "difficulty": "easy"
@@ -1640,6 +1750,13 @@
         "name": "MySpace",
         "url": "https://new.myspace.com/settings/profile",
         "difficulty": "easy"
+    },
+
+    {
+        "name": "NaNoWriMo",
+        "url": "https://nanowrimo.org/account_settings",
+        "difficulty": "easy",
+        "notes": "At the bottom of the Account Settings page is a \"Delete My Account\" button. Your account will be \"disabled and scheduled for permanent deletion.\" After 30 days, \"your past novels, author profile, and unique account info will be permanently deleted.\" It is unclear if forum posts will be deleted."
     },
 
     {
@@ -1704,6 +1821,13 @@
         "url": "https://secure-nikeplus.nike.com/plus/settings/",
         "difficulty": "easy",
         "notes": "At the bottom of the account form, there is a 'Deactivate Account' button. Upon clicking, there will be a set of information that explains the process of account deactivation. All account information will be deleted."
+    },
+
+    {
+        "name": "Nitrous.IO",
+        "url": "https://www.nitrous.io/app#/account_settings",
+        "difficulty": "easy",
+        "notes": "You will see an option to delete your account just below the password reset option."
     },
 
     {
@@ -1870,6 +1994,13 @@
     },
 
     {
+        "name": "Playstation Network",
+        "url": "https://support.us.playstation.com/app/contact_options",
+        "difficulty": "impossible",
+        "notes": "It is not possible to delete your Playstation Network account.  The best you can do is delete any personal information that you have stored on their website."
+    },
+
+    {
         "name": "Plenty of Fish",
         "url": "http://www.pof.com/deleteaccount.aspx",
         "difficulty": "easy",
@@ -1891,6 +2022,13 @@
         "url": "https://podio.com/settings/account",
         "difficulty": "easy",
         "notes": "Log in to your account, press the delete button and type the phrase asked."
+    },
+
+    {
+        "name": "Points.com",
+        "url": "http://questions.points.com/entries/20026692-How-do-I-cancel-my-account-",
+        "difficulty": "hard",
+        "notes": "Must contact support through Contanct form or online chat."
     },
 
     {
@@ -1927,8 +2065,17 @@
 
     {
         "name": "Quora",
-        "url": "https://www.quora.com/settings/privacy",
-        "difficulty": "easy"
+        "url": "http://www.quora.com/Quora-product/How-do-I-delete-my-Quora-account",
+        "difficulty": "hard",
+        "notes": "First deactivate your account. Log in, go to 'Settings', 'Privacy', and then 'Deactivate Account'. You can then e-mail privacy@quora.com if you want to completely delete your account."
+    },
+
+    {
+        "name": "radio.fr",
+        "url": "http://www.radio.fr/#%2Fkonto_loeschen.jsf",
+        "difficulty": "easy",
+        "notes": "Login, go to profil page, it's in tab 'my data' and click 'delete my account'.",
+        "notes_fr": "logez vous, allez à la page du profil, c'est dans l'onglet 'mes données' et cliquez sur 'supprimer mon compte.'"
     },
 
     {
@@ -2266,6 +2413,12 @@
     },
 
     {
+        "name": "Stereomood",
+        "url": "http://www.stereomood.com/users/account",
+        "difficulty": "easy"
+    },
+
+    {
         "name": "Storify",
         "url": "http://storify.com/settings#account",
         "difficulty": "easy",
@@ -2292,6 +2445,13 @@
         "notes_pt_br": "Você pode reativar em até 14 dias. Após este prazo sua conta é deletada.",
         "notes_cat": "Pot reactivar-la en un termini de 14 dies. Desprès d'aquest temps el compte serà esborrat.",
         "notes_es": "Puede reactivarla en un plazo de 14 días. Después de este tiempo la cuenta será borrada."
+    },
+
+    {
+        "name": "Tagged",
+        "url": "http://www.tagged.com/account_cancel.html",
+        "difficulty": "easy",
+        "notes": "You can reactivate at any time by logging in to your account."
     },
 
     {
@@ -2328,6 +2488,14 @@
         "name": "Topface",
         "url": "http://topface.com/delete-profile/",
         "difficulty": "easy"
+    },
+
+    {
+        "name": "Torrent 411",
+        "url": "https://www.t411.me/contactstaff/",
+        "difficulty": "hard",
+        "notes": "you have to ask the staff to delete your account",
+        "notes_fr": "Vous devez demander au staff pour supprimer votre compte"
     },
 
     {
@@ -2431,6 +2599,13 @@
         "difficulty": "easy",
         "notes": "Just check the checkbox and click in "Excluir Perfil" Button. Your BOL or UOL e-mail account still stay active, if you used it for register in service.",
         "notes_pt_br": "Apenas seleciona o checkbox e clique no botão "Excluir Perfil". A sua conta de e-mail do UOL ou do BOL ainda permanece ativa, caso você a tenha usado para se cadastrar no serviço."
+    },
+    
+    {
+        "name": "Unroll.me",
+        "url": "https://unroll.me/user/settings",
+        "difficulty": "easy",
+        "notes": "Click 'Delete my account' at the bottom of the user settings page."
     },
 
     {
@@ -2606,6 +2781,13 @@
         "notes_pt_br": "Clique em 'Delete Account' no final do painel de preferências da conta.",
         "notes_cat": "Cliqui a 'Delete Account' al final del panell d'opcions del compte.",
         "notes_es": "Clique en 'Delete Account' al final del panel de opciones de la cuenta."
+    },
+
+    {
+        "name": "Xfire",
+        "url": "http://www.xfire.com/faq#1",
+        "difficulty": "impossible",
+        "notes": "There is no way to delete your account, you can only make some information private and/or delete it."
     },
 
     {

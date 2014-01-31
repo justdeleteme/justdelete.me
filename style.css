@@ -554,6 +554,11 @@ button {
 	border-top: 4px solid #CF5A5A;
 }
 
+#about {
+	padding-top: 40px;
+	visibility: hidden;
+}
+
 .info-container {
 	max-width: 1000px;
 	margin: 0 auto;
@@ -675,6 +680,7 @@ footer a:hover, .info-container a:hover {
 .dropdown .fa A, .fa A { background-image: url(inc/icons/flags/fa16.png); }
 .dropdown .zh-cn A, .zh-cn A { background-image: url(inc/icons/flags/zh-cn16.png); }
 .dropdown .id A, .id A { background-image: url(inc/icons/flags/id16.png); }
+.dropdown .ro A, .ro A { background-image: url(inc/icons/flags/ro16.png); }
 
 #en { 
 	background-image: url(./inc/icons/flags/en24.png);
@@ -762,6 +768,12 @@ footer a:hover, .info-container a:hover {
 
 #id {
 	background-image: url(./inc/icons/flags/id24.png);
+	background-repeat:no-repeat;
+	background-position: left center;
+}
+
+#ro {
+	background-image: url(./inc/icons/flags/ro24.png);
 	background-repeat:no-repeat;
 	background-position: left center;
 }

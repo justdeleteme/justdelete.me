@@ -1,12 +1,29 @@
 <?php
-	
-	$langs = ['en', 'it', 'de', 'fr', 'ru', 'pt_br', 'cat', 'es', 'vi', 'tr', 'ar', 'nl', 'fa', 'zh-cn', 'id'];
+	$langs = array(
+		'en',
+		'ar',
+		'cat',
+		'de',
+		'es',
+		'fa',
+		'fr',
+		'id',
+		'it',
+		'nl',
+		'pt_br',
+		'ru',
+		'tr',
+		'vi',
+		'zh-cn',
+		'ro'
+	);
 
 	include 'contrib.php';
 
 	foreach ($langs as $language)
 	{
 		// start the output buffer
+
 		ob_start();
 
 		$lang = $language;
@@ -14,64 +31,66 @@
 		if ($lang == "en") {
 			$full_name = "English";
 		}
-		if ($lang == "it") {
-			$full_name = "Italiano";
-		}
-		if ($lang == "de") {
-			$full_name = "Deutsch";
-		}
-		if ($lang == "fr") {
-			$full_name = "Français";
-		}
-		if ($lang == "ru") {
-			$full_name = "Pусский";
-		}
-		if ($lang == "pt_br") {
-			$full_name = "Português";
+		if ($lang == "ar") {
+			$full_name = "العربية";
 		}
 		if ($lang == "cat") {
 			$full_name = "Català";
 		}
+		if ($lang == "de") {
+			$full_name = "Deutsch";
+		}
 		if ($lang == "es") {
 			$full_name = "Español";
-		}
-		if ($lang == "vi") {
-			$full_name = "Tiếng Việt";
-		}
-		if ($lang == "tr") {
-			$full_name = "Türk";
-		}
-		if ($lang == "ar") {
-			$full_name = "العربية";
-		}
-		if ($lang == "nl") {
-			$full_name = "Nederlands";
 		}
 		if ($lang == "fa") {
 			$full_name = "فارسی";
 		}
-		if ($lang == "zh-cn") {
-			$full_name = "中国的";
+		if ($lang == "fr") {
+			$full_name = "Français";
 		}
 		if ($lang == "id") {
 			$full_name = "Indonesia";
 		}
-		
+		if ($lang == "it") {
+			$full_name = "Italiano";
+		}
+		if ($lang == "nl") {
+			$full_name = "Nederlands";
+		}
+		if ($lang == "pt_br") {
+			$full_name = "Português";
+		}
+		if ($lang == "ru") {
+			$full_name = "Pусский";
+		}
+		if ($lang == "tr") {
+			$full_name = "Türk";
+		}
+		if ($lang == "vi") {
+			$full_name = "Tiếng Việt";
+		}
+		if ($lang == "zh-cn") {
+			$full_name = "中国的";
+		}
+		if ($lang == "ro") {
+			$full_name = "Român";
+		}
+
 		include ('dev.php');
 
-		if ($language == "en")
-		{
+		if ($language == "en") {
 			$cachefile = "index.html";
 		}
 		else {
 			$cachefile = $language.".html";
 		}
 		// open the cache file "cache/home.html" for writing
-		$fp = fopen($cachefile, 'w'); 
+		$fp = fopen($cachefile, 'w');
 		// save the contents of output buffer to the file
-		fwrite($fp, ob_get_contents()); 
+		fwrite($fp, ob_get_contents());
 		// close the file
-		fclose($fp); 
+		fclose($fp);
 		// Send the output to the browser
 		ob_end_flush();
 	}
