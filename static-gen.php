@@ -23,7 +23,16 @@
 	foreach ($langs as $language)
 	{
 		// start the output buffer
+<<<<<<< HEAD
+=======
+<<<<<<< other
+=======
+>>>>>>> refs/remotes/origin/other
 		
+<<<<<<< HEAD
+=======
+>>>>>>> e3b5498 Alter static-gen.php
+>>>>>>> refs/remotes/origin/other
 		ob_start();
 		
 		$lang = $language;

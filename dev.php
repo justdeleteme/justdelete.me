@@ -93,6 +93,7 @@
 			<input type="text" id="search">
 			<a href="#">search</a>
 		</div>
+<<<<<<< HEAD
 
 		<div class="sort-container">
 			<button class="popular">Popular</button>
@@ -101,6 +102,19 @@
 	    	<button class="reset">reset</button>
 		</div>
 
+=======
+<<<<<<< other
+=======
+
+		<div class="sort-container">
+			<button class="popular">Popular</button>
+	    	<button data-dropdown="#dropdown-2" class="az-sort">A - Z &#9660;</button>
+	    	<button data-dropdown="#dropdown-3" class="diff-sort"><?php echo $difficulty; ?> &#9660;</button>
+	    	<button class="reset">reset</button>
+		</div>
+
+>>>>>>> edc9a81 Alter dev.php file
+>>>>>>> refs/remotes/origin/other
 	</div>
 	<section class="main">
 
