@@ -7,8 +7,12 @@
 	foreach ($langs as $language)
 	{
 		// start the output buffer
+<<<<<<< other
+=======
+		
+>>>>>>> e3b5498 Alter static-gen.php
 		ob_start();
-
+		
 		$lang = $language;
 
 		if ($lang == "en") {
