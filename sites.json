@@ -1613,6 +1613,14 @@
         "url": "http://www.mixcloud.com/myaccount/account/",
         "difficulty": "easy"
     },
+    
+    {
+        "name": "Mobify",
+        "url": "http://www.mobify.com/contact/",
+        "difficulty": "hard"
+        "notes": "You have to send a message in order to remove your account."
+    },
+    
 
     {
         "name": "Mojang",
@@ -2241,7 +2249,13 @@
         "url": "http://soundcloud.com/settings/account#delete-user",
         "difficulty": "easy"
     },
-
+    
+    {
+        "name": "Songkick",
+        "url": "http://www.songkick.com/settings/account-settings",
+        "difficulty": "easy"
+    },
+    
     {
         "name": "SourceForge",
         "url": "https://sourceforge.net/account/remove",
@@ -2403,6 +2417,12 @@
         "notes": "It's not possible to remove your account, but you can remove your blogs.",
         "notes_pt_br": "Não é possível remover sua conta, mas você pode remover seus blogs."
     },
+    
+    {
+        "name": "TED",
+        "url": "http://support.ted.com/customer/portal/emails/new"
+        "difficulty": "hard"
+    }
 
     {
         "name": "Ticketmaster",
@@ -2602,13 +2622,8 @@
 
     {
         "name": "Waze",
-        "url": "http://www.waze.com/support/",
-        "difficulty": "hard",
-        "notes": "Send in a support ticket via the Quick Help form at Waze Support. Enter 'Delete Waze account' as the subject/question, then click the Email link. Complete filling out the form with your Waze username and registered email address.",
-        "notes_it": "Invia un ticket di supporto a Waze attraverso Quick Help form. Inserisci 'Delete Waze account' come oggetto/domanda, successivamente clicca il link Email. Completa il resto del form con i tuoi dati Waze.",
-        "notes_pt_br": "Envie um ticket de suporte via o Quick Help no Waze Support. Coloque 'Delete Waze account' como assunto/pergunta, então clique no link do e-mail. Complete preenchendo com seu usuário Waze e e-mail da conta.",
-        "notes_cat": "Enviï un 'ticket de suport' mitjançant el formulari 'Quick Help' que es troba a 'Waze Support'. Posi 'Delete Waze account' com assumpte/pergunta, a continuació cliqui a l'enllaç d' e-mail. Completi el procediment omplint el formulari amb el seu usuari de Waze i l'e-mail del compte.",
-        "notes_es": "Envíe un 'ticket de soporte' mediante el formulario 'Quick Help' que se encuentra en 'Waze Support'. Ponga 'Delete Waze account' como asunto/pregunta, después pulse el enlace de e-mail. Complete el procedimiento rellenando el formulario con su usuario de Waze y el e-mail de la cuenta. "
+        "url": "https://www.waze.com/dashboard/delete_account",
+        "difficulty": "easy",
     },
 
     {
