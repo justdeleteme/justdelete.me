@@ -2289,6 +2289,12 @@
         "notes": "To remove the account it's necessary to sumbit a request in https://springme.zendesk.com/hc/en-us/requests/new. In \"Problem\" field, select \"Account\" and \"Delete Account\".",
         "notes_pt_br": "Para remover a conta é necessário enviar um pedido de remoção em https://springme.zendesk.com/hc/en-us/requests/new. No campo \"Problem\", seleciona \"Account\" e depois \"Delete Account\"."
     },
+    
+    {
+        "name": "Springpad",
+        "url": "https://springpad.com/delete-account.action",
+        "difficulty": "easy"
+    },
 
     {
         "name": "Stack Overflow / Stack Exchange Accounts",
