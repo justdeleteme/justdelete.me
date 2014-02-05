@@ -1422,6 +1422,12 @@
     },
 
     {
+        "name": "Koding",
+        "url": "https://koding.com/Account/Delete",
+        "difficulty": "easy"
+    },
+
+    {
         "name": "Kotaku (Gawker Media)",
         "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
         "difficulty": "impossible",
