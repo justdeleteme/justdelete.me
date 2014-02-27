@@ -2785,5 +2785,12 @@
         "name": "Zurker",
         "url": "https://my.zurker.com/destroy",
         "difficulty": "easy"
+    },
+
+    {
+        "name": "Amazon AWS",
+        "url":  "https://portal.aws.amazon.com/gp/aws/manageYourAccount?#productToCancel",
+        "difficulty": "easy",
+        "notes": "must login before click."
     }
 ]
