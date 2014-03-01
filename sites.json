@@ -2873,5 +2873,15 @@
         "name": "Zurker",
         "url": "https://my.zurker.com/destroy",
         "difficulty": "easy"
+    },
+    
+    {
+        "name": "Zynga",
+        "url": "http://company.zynga.com/privacy/faq#remove-personal-information",
+        "difficulty": "hard",
+        "notes": "Send an e-mail to privacy@zynga.com, with 'Delete My Account' in the subject and first name, last name, e-mail address and Social Number User ID or Zynga ID (ZID) in the body of e-mail.",
+        "notes_pt_br": "É preciso enviar um e-mail para privacy@zynga.com, com o assunto 'Delete My Account' e primeiro nome e último nome, e-mail e Social Number User ID ou Zynga ID (ZID) no corpo do e-mail.",
+        "email": "privacy@zynga.com"
     }
+    
 ]
