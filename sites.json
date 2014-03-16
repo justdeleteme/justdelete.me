@@ -80,10 +80,11 @@
     },
 
     {
-        "name": „Amen“,
+        "name": "Amen",
         "url": "https://getamen.com/help#faq-delete-account",
-        "difficulty": „medium,
+        "difficulty": "medium",
         "notes": "An Amen account must be deleted via request per E-Mail to the following E-Mail address: feedback@getamen.com"
+        "email": "feedback@getamen.com"
     },
 
     {
