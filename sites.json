@@ -80,6 +80,13 @@
     },
 
     {
+        "name": „Amen“,
+        "url": "https://getamen.com/help#faq-delete-account",
+        "difficulty": „medium,
+        "notes": "An Amen account must be deleted via request per E-Mail to the following E-Mail address: feedback@getamen.com"
+    },
+
+    {
         "name": "Animal Crossing Community",
         "url": "http://www.animalcrossingcommunity.com/help_main.asp?HelpSectionID=5#Topic201",
         "difficulty": "impossible",
