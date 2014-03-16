@@ -2450,7 +2450,7 @@
     {
         "name": "SurveyMonkey",
         "url": "http://help.surveymonkey.com/contact-us?l=en_US",
-        "difficulty": "head",
+        "difficulty": "hard",
         "notes": "Select \"Login & account settings\" option and after select \"Deleting my account\" option. After submitting the request, just responding back the e-mail to confirm the deletion request.",
         "notes_pt_br": "Selecione a opção \"Login & account settings\" e depois selecione a opção \"Deleting my account\". Após enviar, basta responder de volta o e-mail para confirmar o pedido de remoção da conta."
     },
