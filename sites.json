@@ -2448,17 +2448,6 @@
     },
 
     {
-        "name": "StumbleUpon",
-        "url": "https://www.stumbleupon.com/settings/delete-account",
-        "difficulty": "easy",
-        "notes": "You can reactivate within 14 days. After that the account is deleted.",
-        "notes_it": "Puoi riattivare il tuo account entro 14 giorni. Dopodichè sarà cancellato.",
-        "notes_pt_br": "Você pode reativar em até 14 dias. Após este prazo sua conta é deletada.",
-        "notes_cat": "Pot reactivar-la en un termini de 14 dies. Desprès d'aquest temps el compte serà esborrat.",
-        "notes_es": "Puede reactivarla en un plazo de 14 días. Después de este tiempo la cuenta será borrada."
-    },
-
-    {
         "name": "SurveyMonkey",
         "url": "http://help.surveymonkey.com/contact-us?l=en_US",
         "difficulty": "head",
