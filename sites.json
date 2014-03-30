@@ -2570,7 +2570,8 @@
         "name": "Twitter",
         "url": "https://twitter.com/settings/accounts/confirm_deactivation",
         "difficulty": "easy",
-        "notes": "Your account is actually 'deactivated' before being deleted. Only after 30 days of remaining deactivated will it then be deleted. <a href='https://support.twitter.com/articles/15358-deactivating-your-account'>More details</a>"
+        "notes": "Your account is actually 'deactivated' before being deleted. Only after 30 days of remaining deactivated will it then be deleted. <a href='https://support.twitter.com/articles/106871-come-disattivare-l-account'>Altri dettagli</a>",
+        "notes_it": "Il tuo account verrà 'disabilitato' prima di venir rimosso. Se dopo 30 giorni è ancora disattivato esso verrà eliminato."
     },
 
     {
@@ -2705,7 +2706,7 @@
         "name": "Weather.com",
         "url": "http://registration.weather.com/ursa/profile/unsubscribe",
         "difficulty": "easy",
-        "notes": "Site uses the term \"unsubscribe\" to describe completely deleting an account."
+        "notes": "Site uses the term \"unsubscribe\" to describe completely deleting an account."       
     },
 
     {
@@ -2836,6 +2837,7 @@
         "url": "https://support.google.com/youtube/answer/55759",
         "difficulty": "impossible",
         "notes": "You can't delete your YouTube account without deleting your entire Google Account. But you can delete your channel.",
+        "notes_it": "Non puoi eliminare il tuoi account di YouTube senza eliminare anche il tuo account Google. Ma puoi eliminare il tuo canale.",
         "notes_cat": "No pots esborrar el teu compte de Youtube sense borrar tot el compte de Google, però pots borrar el teu canal.",
         "notes_fr": "Vous ne pouvez pas supprimer votre compte Youtube sans supprimer votre compte Google. Mais vous pouvez supprimer votre chaîne.",
         "notes_es": "No puedes borrar tu cuenta de Youtube sin borrar toda la cuenta de Google, pero puedes borrar tu canal."
