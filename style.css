@@ -305,6 +305,10 @@ button {
 	border: 1px solid #C5A65C;
 	background-color: #E8C674;
 }
+.banner-block .banner-block-half li .dot.special {
+	border: 1px solid #2F0069;
+	background-color: #8041CC;
+}
 .banner-block .banner-block-half li .dot.hard {
 	border: 1px solid #AC4949;
 	background-color: #CF5A5A;
