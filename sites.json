@@ -981,6 +981,13 @@
     },
 
     {
+        "name": "Gmail",
+        "url": "https://www.google.com/settings/datatools",
+        "difficulty": "easy",
+        "notes": "Login into your account →  Data Tools →  Delete Products →  Remove Gmail permanently "
+    },
+    
+    {
         "name": "GMX",
         "url": "http://www.gmx.net/",
         "difficulty": "impossible",
@@ -2498,6 +2505,13 @@
         "notes_es": "Deberá solicitar que borren su cuenta vía formulario."
     },
 
+    {
+        "name": "Topcoder",
+        "url": "http://www.topcoder.com/help/p=636/",
+        "difficulty": "hard",
+        "notes": "You can't delete your account, but you can contact them via email to deactivate it."    
+    },
+    
     {
         "name": "Topface",
         "url": "http://topface.com/delete-profile/",
