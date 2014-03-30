@@ -1429,6 +1429,12 @@
     },
 
     {
+        "name": "Koding",
+        "url": "https://koding.com/Account/Delete",
+        "difficulty": "easy"
+    },
+
+    {
         "name": "Kotaku (Gawker Media)",
         "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
         "difficulty": "impossible",
@@ -2295,6 +2301,12 @@
         "difficulty": "hard",
         "notes": "To remove the account it's necessary to sumbit a request in https://springme.zendesk.com/hc/en-us/requests/new. In \"Problem\" field, select \"Account\" and \"Delete Account\".",
         "notes_pt_br": "Para remover a conta é necessário enviar um pedido de remoção em https://springme.zendesk.com/hc/en-us/requests/new. No campo \"Problem\", seleciona \"Account\" e depois \"Delete Account\"."
+    },
+    
+    {
+        "name": "Springpad",
+        "url": "https://springpad.com/delete-account.action",
+        "difficulty": "easy"
     },
 
     {
