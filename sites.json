@@ -81,7 +81,7 @@
 
     {
         "name": "Amazon AWS",
-        "url":  "https://portal.aws.amazon.com/gp/aws/manageYourAccount?#productToCancel",
+        "url": "https://portal.aws.amazon.com/gp/aws/manageYourAccount?#productToCancel",
         "difficulty": "easy",
         "notes": "You must login before visiting the link."
     },
@@ -109,13 +109,6 @@
         "url": "https://account.app.net/settings/delete/",
         "difficulty": "easy"
     },
-    
-    {
-        "name": "Argyle Social",
-        "url": "http://app.argylesocial.com/contact_us",
-        "difficulty": "impossible",
-        "notes": "Response from support@argylesocial.com: We really don't have a way to delete accounts entirely. The account won't be usable by anyone else, so there won't be any security issues. One smart thing to do to make doubly sure that everything is secure is to go to any social media pages that Argyle was authorized to use, and remove Argyle's authorization. Hope that helps"
-    },
 
     {
         "name": "AppFog",
@@ -123,6 +116,13 @@
         "difficulty": "hard",
         "notes": "Remove all applications and services from your account, then request deletion by emailing customer services.",
         "email": "support@appfog.com"
+    },
+
+    {
+        "name": "Argyle Social",
+        "url": "http://app.argylesocial.com/contact_us",
+        "difficulty": "impossible",
+        "notes": "Response from support@argylesocial.com: We really don't have a way to delete accounts entirely. The account won't be usable by anyone else, so there won't be any security issues. One smart thing to do to make doubly sure that everything is secure is to go to any social media pages that Argyle was authorized to use, and remove Argyle's authorization. Hope that helps"
     },
 
     {
@@ -1661,14 +1661,13 @@
         "url": "http://www.mixcloud.com/myaccount/account/",
         "difficulty": "easy"
     },
-    
+
     {
         "name": "Mobify",
         "url": "http://www.mobify.com/contact/",
         "difficulty": "hard",
         "notes": "You have to send a message in order to remove your account."
     },
-    
 
     {
         "name": "Mojang",
@@ -2281,6 +2280,12 @@
     },
 
     {
+        "name": "Songkick",
+        "url": "http://www.songkick.com/settings/account-settings",
+        "difficulty": "easy"
+    },
+
+    {
         "name": "Sonico",
         "url": "http://www.sonico.com/tyc.php",
         "difficulty": "hard",
@@ -2298,13 +2303,7 @@
         "url": "http://soundcloud.com/settings/account#delete-user",
         "difficulty": "easy"
     },
-    
-    {
-        "name": "Songkick",
-        "url": "http://www.songkick.com/settings/account-settings",
-        "difficulty": "easy"
-    },
-    
+
     {
         "name": "SourceForge",
         "url": "https://sourceforge.net/account/remove",
@@ -2352,7 +2351,7 @@
         "notes": "To remove the account it's necessary to sumbit a request in https://springme.zendesk.com/hc/en-us/requests/new. In \"Problem\" field, select \"Account\" and \"Delete Account\".",
         "notes_pt_br": "Para remover a conta é necessário enviar um pedido de remoção em https://springme.zendesk.com/hc/en-us/requests/new. No campo \"Problem\", seleciona \"Account\" e depois \"Delete Account\"."
     },
-    
+
     {
         "name": "Springpad",
         "url": "https://springpad.com/delete-account.action",
@@ -2481,7 +2480,7 @@
         "notes": "It's not possible to remove your account, but you can remove your blogs.",
         "notes_pt_br": "Não é possível remover sua conta, mas você pode remover seus blogs."
     },
-    
+
     {
         "name": "TED",
         "url": "http://support.ted.com/customer/portal/emails/new",
