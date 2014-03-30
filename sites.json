@@ -1212,6 +1212,13 @@
     },
 
     {
+        "name": "imo.im",
+        "url": "https://imo.im/login",
+        "difficulty": "easy",
+        "notes": "You must login, go to your account settings and then click on the &lsquo;Delete Account&rsquo; link on the bottom left."
+    },
+
+    {
         "name": "InfiBot",
         "url": "https://infibot.com/",
         "difficulty": "hard",
