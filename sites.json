@@ -83,7 +83,7 @@
         "name": "Amazon AWS",
         "url":  "https://portal.aws.amazon.com/gp/aws/manageYourAccount?#productToCancel",
         "difficulty": "easy",
-        "notes": "must login before click."
+        "notes": "You must login before visiting the link."
     },
 
     {
