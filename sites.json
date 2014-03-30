@@ -80,6 +80,13 @@
     },
 
     {
+        "name": "Amazon AWS",
+        "url":  "https://portal.aws.amazon.com/gp/aws/manageYourAccount?#productToCancel",
+        "difficulty": "easy",
+        "notes": "must login before click."
+    },
+
+    {
         "name": "Animal Crossing Community",
         "url": "http://www.animalcrossingcommunity.com/help_main.asp?HelpSectionID=5#Topic201",
         "difficulty": "impossible",
