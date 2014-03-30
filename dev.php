@@ -73,7 +73,7 @@
 	$donate = $definitions->donate;
 	$sendmail = $definitions->sendmail;
 	$submit = $definitions->submit;
-        $popular = $definitions->popular;
+	$popular = $definitions->popular;
         
 	if ($lang == "en")
 	{
