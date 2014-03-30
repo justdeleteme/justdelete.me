@@ -104,6 +104,14 @@
     },
 
     {
+        "name": "AppFog",
+        "url": "https://groups.google.com/forum/#!topic/appfog-users/H9AkHjHFfZk",
+        "difficulty": "hard",
+        "notes": "Remove all applications and services from your account, then request deletion by emailing customer services.",
+        "email": "support@appfog.com"
+    },
+
+    {
         "name": "Artsy",
         "url": "http://artsy.net/user/delete",
         "difficulty": "easy"
