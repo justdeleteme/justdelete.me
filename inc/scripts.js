@@ -65,26 +65,50 @@ $(function(){
         $('input').val('');
     });
 
-    // Searching
+    // When the search field changes, update the hash
     $('input').keyup(function(){
-
-        if ($('.no-results').is(':visible')) {
-            $('.no-results').hide();
-        }
-
-        var term = $(this).val().toLowerCase();
-        var $sites = $('.sites section');
-
-        $sites.show().filter(function() {
-            var text = $(this).find('.site-header').text().replace(/\s+/g, ' ').toLowerCase();
-            return !~text.indexOf(term);
-        }).hide();
-
-        if ( ! $('.site-block').is(':visible')) {
-            $('.no-results').show();
-        }
+		window.location.hash = $(this).val();
     });
-    
+	
+	// Call updateSearch when hash changes
+	$(window).on('hashchange', function() {
+		updateSearch();
+	});
+	
+	// Search function
+	function updateSearch() {
+		if ($('.no-results').is(':visible')) {
+			$('.no-results').hide();
+		}
+		
+		var hash = document.location.hash.toLowerCase();
+		var term = hash.substr(1);
+		
+		var $sites = $('.sites section');
+
+		$sites.show().filter(function() {
+			var text = $(this).find('.site-header').text().replace(/\s+/g, ' ').toLowerCase();
+			return !~text.indexOf(term);
+		}).hide();
+
+		if ( ! $('.site-block').is(':visible')) {
+			$('.no-results').show();
+		}
+		
+		// Insert the term into the field
+		// (sometimes this is missed if the hash is changed directly)
+		$('#search').val(window.location.hash.substr(1));
+	}
+	
+	// Update search results on page load (if there is a hash)
+	if (window.location.hash !== "" && window.location.hash !== "#") {
+		// Insert the term into the field
+		$('#search').val(window.location.hash.substr(1));
+		
+		// Update the results
+		updateSearch();
+	}
+	
     $('.site a').prop('title', '');
 
     // jQuery ScrollTo plugin from http://lions-mark.com/jquery/scrollTo/
