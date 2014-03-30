@@ -1,12 +1,4 @@
 $(function(){
-    var webf1 = "http://webf1.soc.port.ac.uk/design/worksheet/";
-    if (document.referrer == webf1 ) {
-        $('.hello-webf1').show();
-        setTimeout(function() {
-            $('.hello-webf1').slideUp();
-        }, 3000);
-    }
-
     $('body').addClass('js-on');
 
     // A - Z Sorting
