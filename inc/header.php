@@ -15,12 +15,12 @@
 	<link rel="apple-touch-icon-precomposed" href="inc/icons/apple-touch-icon-120x120-precomposed.png">
 	<link rel="apple-touch-icon-precomposed" href="inc/icons/apple-touch-icon-144x144-precomposed.png">
 
-	<link rel="stylesheet" type="text/css" href="/style.css" />
+	<link rel="stylesheet" type="text/css" href="style.css" />
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-	<script>window.jQuery || document.write('<script src="/inc/jquery.js"><\/script>')</script>
-	<script src="/inc/scripts.js"></script>
-	<link type="text/css" rel="stylesheet" href="/inc/jquery.dropdown.css" />
-	<script type="text/javascript" src="/inc/jquery.dropdown.js"></script>
+	<script>window.jQuery || document.write('<script src="inc/jquery.js"><\/script>')</script>
+	<script src="inc/scripts.js"></script>
+	<link type="text/css" rel="stylesheet" href="inc/jquery.dropdown.css" />
+	<script type="text/javascript" src="inc/jquery.dropdown.js"></script>
 
 	<script type="text/javascript">
 	  var GoSquared = {};
@@ -49,14 +49,27 @@
 			<!-- begin language switcher -->
 			<span class="language-switch" href="#" data-dropdown="#dropdown-1" id="<?php echo $lang; ?>"><?php echo $full_name; ?></span>
 			<!-- end language switcher -->
-			<a href="#about" class="info">About</a>
-			<a href="/fake-identity-generator" class="id-gen">Fake Identity Generator</a>
-			<a href="#" class="banner">Chrome Extension</a>
+			<a href="#" class="info">About</a>
+			<a href="fake-identity-generator" class="id-gen">Fake Identity Generator</a>
+<<<<<<< HEAD
 		<?php else : ?>
-			<a href="/" class="home">Home</a>
-			<a href="/fake-identity-generator" class="id-gen current">Fake Identity Generator</a>
+			<a href="" class="home">Home</a>
+			<a href="fake-identity-generator" class="id-gen current">Fake Identity Generator</a>
+=======
+<<<<<<< other
+=======
+			<a href="#" class="banner">Chrome Extension</a>
+>>>>>>> b2370eb Resolving slashes problem.
+		<?php else : ?>
+			<a href="" class="home">Home</a>
+			<a href="fake-identity-generator" class="id-gen current">Fake Identity Generator</a>
+<<<<<<< other
+=======
 			<a target="_blank" href="https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf">Chrome Extension</a>
+>>>>>>> b2370eb Resolving slashes problem.
+>>>>>>> refs/remotes/origin/other
 		<?php endif; ?>
+		<a target="_blank" href="https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf">Chrome Extension</a>
 		<a target="_blank" href="https://docs.google.com/a/therobb.com/forms/d/1mhr3vaTni5U8PvOdp_NvQ6vKBxNTmJTeKP3VWRuioCE/viewform">Submit a site</a>
 		<a target="_blank" href="http://github.com/rmlewisuk/justdelete.me">Fork on GitHub</a>
 	</nav>

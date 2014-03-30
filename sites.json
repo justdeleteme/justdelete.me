@@ -1,5 +1,13 @@
 [
     {
+        "name": "000webhost",
+        "url": "http://members.000webhost.com",
+        "difficulty": "impossible",
+        "notes": "It's not possible to delete your account. The best you can do is delete your domains. Note: The site refers \"domains\" as \"accounts\".",
+        "notes_pt_br": "Não é possível deletar a sua conta. O máximo que você pode fazer é deletar seus domínios. Nota: O site se refere aos \"domínios\" como \"contas\"."
+    },
+
+    {
         "name": "4shared",
         "url": "http://www.4shared.com/web/account/settings#overview",
         "difficulty": "easy"
@@ -51,6 +59,14 @@
         "name": "Airbnb",
         "url": "https://www.airbnb.com/users/settings",
         "difficulty": "easy"
+    },
+
+    {
+        "name": "Akismet",
+        "url": "https://akismet.com/account",
+        "difficulty": "impossible",
+        "notes": "You can't remove your account, but you can cancel it.",
+        "notes_pt_br": "Você não consegue remover a sua conta, mas você pode cancelá-la."
     },
 
     {
@@ -228,7 +244,8 @@
         "notes": "The best you can do is archive all of your links. Go to the link you want to archive and click the 'x' in the upper right of the shortlink to archive the link. You can also make all of your shortlinks private.",
         "notes_cat": "El millor que pots fer es arxivar tots els teus enllaços. Vés al enllaç que vols arxivar i fés clic a la 'x' a la cantonada superior dreta per arxivar l'enllaç. També els pots fer privats.",
         "notes_es": "Lo mejor que puedes hacer es archivar los enlaces. Ves al enlace y haz clic en la 'x' de la esquina superior derecha para archivar el enlace. También los puedes hacer privados.",
-        "notes_it": "La cosa miglior che puoi fare è archiviare tutti i tuoi link. Seleziona il link che desideri archiviare e clicca la 'x' in alto a destra del collegamente per archiviarlo. Puoi anche rendere tutti i tuoi collegamenti privati"
+        "notes_it": "La cosa miglior che puoi fare è archiviare tutti i tuoi link. Seleziona il link che desideri archiviare e clicca la 'x' in alto a destra del collegamente per archiviarlo. Puoi anche rendere tutti i tuoi collegamenti privati",
+        "notes_pt_br": "O melhor que você pode fazer é armazenar todos os links. Vá ao link e clique no 'x' no canto superior direito para arquivar o link. Também pode fazer com que todos os seus links fiquem privados."
     },
 
     {
@@ -239,7 +256,8 @@
         "notes": "You can't delete your Blogger Account without deleting your entire Google Account. But you can delete your blog.",
         "notes_fr": "Vous ne pouvez pas supprimer votre compte Blogger sans supprimer votre compte Google, mais vous pouvez supprimer votre blog.",
         "notes_cat": "Hauries d'esborrar tot el compte de Google sencer, però si que pots eliminar el teu blog.",
-        "notes_es": "Tendrías que borrar toda cuenta de Google entera, pero si que puedes eliminar tu blog."
+        "notes_es": "Tendrías que borrar toda cuenta de Google entera, pero si que puedes eliminar tu blog.",
+        "notes_pt_br": "Não é possível remover sua conta no Blogger sem remover a sua conta no Google, mas você pode eliminar seus blogs."
     },
 
     {
@@ -349,7 +367,7 @@
 
     {
         "name": "CleverReach",
-        "url": "www.cleverreach.com",
+        "url": "http://www.cleverreach.com",
         "difficulty": "hard",
         "notes": "Email customer services to request deletion",
         "email": "info@cleverreach.de"
@@ -424,7 +442,9 @@
         "notes": "Sign in then visit https://coderwall.com/delete_account",
         "notes_fr": "Identifiez-vous puis visitez https://coderwall.com/delete_account",
         "notes_cat": "Identifica't al lloc web i entra https://coderwall.com/delete_account",
-        "notes_es": "Identifícate en el sitio web y entra en https://coderwall.com/delete_account"
+        "notes_es": "Identifícate en el sitio web y entra en https://coderwall.com/delete_account",
+        "notes_es": "Identifícate en el sitio web y entra en https://coderwall.com/delete_account",
+        "notes_pt_br": "Basta se logar no site e acessar https://coderwall.com/delete_account"
     },
 
     {
@@ -794,6 +814,14 @@
     },
 
     {
+        "name": "Flavors.me",
+        "url": "http://flavors.me/account/settings/",
+        "difficulty": "easy",
+        "notes": "In \"Subscription\" section, click in \"Delete Account\" button",
+        "notes_pt_br": "Na seção \"Subscription\", clique no botão \"Delete Account\""
+    },
+
+    {
         "name": "Flickr",
         "url": "http://www.flickr.com/profile_delete.gne",
         "difficulty": "easy"
@@ -931,6 +959,14 @@
     },
 
     {
+        "name": "GetSatisfaction",
+        "url": "https://getsatisfaction.com/me/edit",
+        "difficulty": "impossible",
+        "notes": "You can't remove your account, but you can deactivate it.",
+        "notes_pt_br": "Você não consegue remover a sua conta, mas você pode desativá-la."
+    },
+
+    {
         "name": "GitHub",
         "url": "https://github.com/settings/admin",
         "difficulty": "easy"
@@ -978,6 +1014,12 @@
         "notes_pt_br": "Contate a assistência ao cliente e peça a remoção.",
         "notes_cat": "Contacti amb assistència al client i demani que esborrin el compte.",
         "notes_es": "Contacte con asistencia al cliente y pida que borren su cuenta."
+    },
+
+    {
+        "name": "Gmail",
+        "url": "https://accounts.google.com/b/0/DeleteCaribouService",
+        "difficulty": "easy"
     },
 
     {
@@ -1029,6 +1071,12 @@
     },
 
     {
+        "name": "Google+",
+        "url": "https://plus.google.com/u/0/downgrade/",
+        "difficulty": "easy"
+    },
+
+    {
         "name": "GoPetition",
         "url": "http://www.gopetition.com/",
         "difficulty": "easy",
@@ -1076,6 +1124,7 @@
         "notes_fr": "Gravatar appartient à Wordpress, ce qui veut dire que vous ne pouvez pas supprimer votre compte.",
         "notes_cat": "No es pot esborrar el seu compte de Gravatar sense borrar tot el compte de WordPress.",
         "notes_es": "No se puede borrar su cuenta de Gravatar sin borrar todas las cuentas de WordPress."
+        "notes_pt_br": "Não é possível remover a sua conta no Gravatar sem remover a sua conta no WordPress."
     },
 
     {
@@ -1290,6 +1339,7 @@
         "url": "http://www.instructables.com/",
         "difficulty": "hard",
         "notes": "You have to email them (service@instructables.com) to get your account deleted",
+        "notes_pt_br": "É preciso enviar um e-mail para eles (service@instructables) para ter a sua conta removida.",
         "email": "service@instructables.com"
     },
 
@@ -1327,7 +1377,8 @@
         "notes_it": "Contatta il servizio clienti. Perderai l'accesso a qualsiasi file di cui non hai una copia sul computer.",
         "notes_de": "Kontaktiere den Kundenservice. Du wirst deinen Zugang zu allen Medien verlieren, die du nicht auf deinen Computer heruntergeladen hast.",
         "notes_cat": "Contacta amb el servei d'assistència. Perdrà l'accés a qualsevol contingut que no hagi descarregat al seu ordinador.",
-        "notes_es": "Contacte con el servicio de asistencia. Perderá el acceso a cualquier contenido que no haya descargado en su ordenador."
+        "notes_es": "Contacte con el servicio de asistencia. Perderá el acceso a cualquier contenido que no haya descargado en su ordenador.",
+        "notes_pt_br": "Entre em contato com o suporte. Você perderá o acesso a todos os arquivos que você não fez o download para o seu computador."
     },
 
     {
@@ -1412,6 +1463,12 @@
     {
         "name": "Khan Academy",
         "url": "https://www.khanacademy.org/settings",
+        "difficulty": "easy"
+    },
+    
+    {
+        "name": "Kickstarter",
+        "url": "https://www.kickstarter.com/profile/destroy",
         "difficulty": "easy"
     },
 
@@ -1553,7 +1610,8 @@
         "difficulty": "medium",
         "notes": "There are reports that LinkedIn continues to email people with a closed account. You may need to contact customer services to delete account instead of just closing it.",
         "notes_cat": "Hi han informes que diuen que LinkedIn segueix enviant correu electrònic a les persones amb comptes tancats. Podria ser necessari posar-se en contacte amb el servei al client per eliminar el compte en lloc de tancar-lo.",
-        "notes_es": "Hay informes que dicen que LinkedIn sigue enviando correo electrónico a las personas con cuentas cerradas. Podría ser necesario ponerse en contacto con el servicio al cliente para eliminar la cuenta en lugar de cerrarla."
+        "notes_es": "Hay informes que dicen que LinkedIn sigue enviando correo electrónico a las personas con cuentas cerradas. Podría ser necesario ponerse en contacto con el servicio al cliente para eliminar la cuenta en lugar de cerrarla.",
+        "notes_pt_br": "Há indícios de que o LinkedIn continua enviando e-mails para as pessoas que fecharam suas contas. Nesse caso, pode ser necessário que se entre em contato com o Serviço ao Cliente para remover a conta ao invés de fechá-la"
     },
 
     {
@@ -1761,6 +1819,7 @@
         "url": "http://www.neopets.com/help_search.phtml?help_id=4",
         "difficulty": "hard",
         "notes": "Send an email to the unsubscribe@neopets.com stating you wish to delete your account.",
+        "notes_pt_br": "Envie um e-mail para unsubscribe@neopets.com pedindo a remoção da conta.",
         "email": "unsubscribe@neopets.com"
     },
 
@@ -2029,6 +2088,14 @@
     },
 
     {
+        "name": "Polldaddy",
+        "url": "https://polldaddy.com/account/",
+        "difficulty": "easy",
+        "notes": "The WordPress.com account still stay active.",
+        "notes_pt_br": "A conta no WordPress.com ainda permanece ativa."
+    },
+
+    {
         "name": "Postcrossing",
         "url": "http://www.postcrossing.com/removal",
         "difficulty": "easy",
@@ -2088,7 +2155,8 @@
         "name": "RateYourMusic",
         "url": "http://rateyourmusic.com/account/delete",
         "difficulty": "impossible",
-        "notes": "After deleteing the account, it will be deactivated for 30 days before being deleted permanently. Messages, forum posts, and contributions stay on the site even after your account is deleted."
+        "notes": "After deleting the account, it will be deactivated for 30 days before being deleted permanently. Messages, forum posts, and contributions stay on the site even after your account is deleted.",
+        "notes_pt_br": "Após deletar a sua conta, ela permanecerá inativa por 30 dias antes de ser definitivamente deletada. No entanto, mensagens, posts nos fóruns e constribuições permanecem no site mesmo após a conta ter sido deletada."
     },
 
     {
@@ -2397,7 +2465,8 @@
         "notes_it": "La cancellazione non può essere annullata. Tutti i tuoi dati, contatti messaggi e foto verrano eliminati permanentemente.",
         "notes_de": "Die Löschung Ihres Eintrages kann nicht rückgängig gemacht werden. Alle Ihre Profildaten, Kontakte Nachrichten und Bilder werden unwiderruflich entfernt. Ihre Mitschüler und Kontakte können nicht mehr über StayFriends Kontakt zu Ihnen aufnehmen.",
         "notes_cat": "L'eliminació no pot ser anulada. Totes les dades del teu perfil, contactes, missatges i imatges seran eliminades permanentment. Ningú es podrà posar en contacte amb tu.",
-        "notes_es": "La eliminación no puede ser anulada. Todos los datos de tu perfil, contactos, mensajes e imágenes serán eliminadas permanentemente. Nadie podrá ponerse en contacto contigo."
+        "notes_es": "La eliminación no puede ser anulada. Todos los datos de tu perfil, contactos, mensajes e imágenes serán eliminadas permanentemente. Nadie podrá ponerse en contacto contigo.",
+        "notes_pt_br": "A remoção da conta não pode ser desfeita. Todos os dados do seu perfil, contato, mensagens e imagens serão eliminadas em definitivo. Ninguém conseguirá entrar em contato com você pelo StayFriends."
     },
 
     {
@@ -2570,7 +2639,8 @@
         "name": "Twitter",
         "url": "https://twitter.com/settings/accounts/confirm_deactivation",
         "difficulty": "easy",
-        "notes": "Your account is actually 'deactivated' before being deleted. Only after 30 days of remaining deactivated will it then be deleted. <a href='https://support.twitter.com/articles/15358-deactivating-your-account'>More details</a>"
+        "notes": "Your account is actually 'deactivated' before being deleted. Only after 30 days of remaining deactivated will it then be deleted. <a href='https://support.twitter.com/articles/15358-deactivating-your-account'>More details</a>",
+        "notes_pt_br": "Sua conta permanece inativa por 30 dias antes de ser definitivamente deletada. <a href='https://support.twitter.com/articles/15358-deactivating-your-account'>Mais detalhes</a>"
     },
 
     {
@@ -2606,6 +2676,14 @@
         "notes_es": "Para borrar su cuenta, deberá dejar de estar suscrito a todos los cursos."
     },
 
+    {
+        "name": "UOL Mais",
+        "url": "http://mais.perfil.uol.com.br/perfil_excluir.html",
+        "difficulty": "easy",
+        "notes": "Just check the checkbox and click in "Excluir Perfil" Button. Your BOL or UOL e-mail account still stay active, if you used it for register in service.",
+        "notes_pt_br": "Apenas seleciona o checkbox e clique no botão "Excluir Perfil". A sua conta de e-mail do UOL ou do BOL ainda permanece ativa, caso você a tenha usado para se cadastrar no serviço."
+    },
+    
     {
         "name": "Unroll.me",
         "url": "https://unroll.me/user/settings",
@@ -2652,6 +2730,14 @@
         "notes_pt_br": "Existe um botão à direita, logo abaixo do menu.",
         "notes_cat": "Hi ha un botò a la dreta, just a sota del menu.",
         "notes_es": "Hay un botón a la derecha, justo debajo del menú."
+    },
+
+    {
+        "name": "Videolog",
+        "url": "http://videolog.tv/user/<me>/account",
+        "difficulty": "easy"
+        "notes": "Just click in \"Cancelar minha conta\".",
+        "notes_pt_br": "Basta apenas clicar em \"Cancelar minha conta\"."
     },
 
     {
@@ -2733,7 +2819,8 @@
         "notes": "Menu →  Edit vCard →  Account management →  Delete everything (cannot be undone)",
         "notes_it": "Menu →  Modifica vCard →  Gestione Account →  Elimina tutto (non può essere annullato)",
         "notes_cat": "Menu →  Edit vCard →  Account management →  Delete everything (no es pot tornar endarrera)",
-        "notes_es": "Menu →  Edit vCard →  Account management →  Delete everything (no se puede volver atras)"
+        "notes_es": "Menu →  Edit vCard →  Account management →  Delete everything (no se puede volver atras)",
+        "notes_pt_br": "Menu →  Edit vCard →  Account management →  Delete everything (não pode ser desfeita)."
     },
 
     {
@@ -2838,7 +2925,8 @@
         "notes": "You can't delete your YouTube account without deleting your entire Google Account. But you can delete your channel.",
         "notes_cat": "No pots esborrar el teu compte de Youtube sense borrar tot el compte de Google, però pots borrar el teu canal.",
         "notes_fr": "Vous ne pouvez pas supprimer votre compte Youtube sans supprimer votre compte Google. Mais vous pouvez supprimer votre chaîne.",
-        "notes_es": "No puedes borrar tu cuenta de Youtube sin borrar toda la cuenta de Google, pero puedes borrar tu canal."
+        "notes_es": "No puedes borrar tu cuenta de Youtube sin borrar toda la cuenta de Google, pero puedes borrar tu canal.",
+        "notes_pt_br": "Não é possível deletar a sua conta no YouTube sem deletar a sua conta no Google, mas você pode deletar o seu canal."
     },
 
     {

@@ -93,14 +93,28 @@
 			<input type="text" id="search">
 			<a href="#">search</a>
 		</div>
+<<<<<<< HEAD
 
 		<div class="sort-container">
 			<button class="popular">Popular</button>
 	    	<button data-dropdown="#dropdown-2" class="az-sort">A - Z &#9660;</button>
-	    	<button data-dropdown="#dropdown-3" class="diff-sort">Difficulty &#9660;</button>
+	    	<button data-dropdown="#dropdown-3" class="diff-sort"><?php echo $difficulty; ?> &#9660;</button>
 	    	<button class="reset">reset</button>
 		</div>
 
+=======
+<<<<<<< other
+=======
+
+		<div class="sort-container">
+			<button class="popular">Popular</button>
+	    	<button data-dropdown="#dropdown-2" class="az-sort">A - Z &#9660;</button>
+	    	<button data-dropdown="#dropdown-3" class="diff-sort"><?php echo $difficulty; ?> &#9660;</button>
+	    	<button class="reset">reset</button>
+		</div>
+
+>>>>>>> edc9a81 Alter dev.php file
+>>>>>>> refs/remotes/origin/other
 	</div>
 	<section class="main">
 
@@ -288,7 +302,7 @@
 
 	<div id="dropdown-1" class="dropdown dropdown-tip has-icons">
 	    <ul class="dropdown-menu">
-	    	<li class="en"><a href="/">English</a></li>
+	    	<li class="en"><a href="index.html">English</a></li>
 	        <li class="it"><a href="it.html">Italiano</a></li>
 	    	<li class="de"><a href="de.html">Deutsch</a></li>
 	        <li class="fr"><a href="fr.html">Français</a></li>
@@ -345,10 +359,10 @@
 	<div id="dropdown-3" class="dropdown dropdown-tip">
 		<ul class="dropdown-menu">
 			<span class="diff-sort">
-				<li><a href="#">Easy</a></li>
-				<li><a href="#">Medium</a></li>
-				<li><a href="#">Hard</a></li>
-				<li><a href="#">Impossible</a></li>
+				<li><a href="#"><?php echo ucfirst($difficulty_easy); ?></a></li>
+				<li><a href="#"><?php echo ucfirst($difficulty_medium); ?></a></li>
+				<li><a href="#"><?php echo ucfirst($difficulty_hard); ?></a></li>
+				<li><a href="#"><?php echo ucfirst($difficulty_impossible); ?></a></li>
 			</span>
 		</ul>
 	</div>
