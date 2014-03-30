@@ -1624,7 +1624,7 @@
     {
         "name": "Mobify",
         "url": "http://www.mobify.com/contact/",
-        "difficulty": "hard"
+        "difficulty": "hard",
         "notes": "You have to send a message in order to remove your account."
     },
     
@@ -2427,9 +2427,9 @@
     
     {
         "name": "TED",
-        "url": "http://support.ted.com/customer/portal/emails/new"
+        "url": "http://support.ted.com/customer/portal/emails/new",
         "difficulty": "hard"
-    }
+    },
 
     {
         "name": "Ticketmaster",
@@ -2630,7 +2630,7 @@
     {
         "name": "Waze",
         "url": "https://www.waze.com/dashboard/delete_account",
-        "difficulty": "easy",
+        "difficulty": "easy"
     },
 
     {
