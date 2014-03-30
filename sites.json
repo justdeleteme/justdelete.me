@@ -1952,7 +1952,8 @@
     {
         "name": "PayPal",
         "url": "https://www.paypal.com/us/cgi-bin/webscr?cmd=_close-account",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "notes": "Log in. Click 'Profile' near the top of the page. Click 'My settings'. Click 'Close Account' in the 'Account type' section and follow the steps listed."
     },
 
     {
