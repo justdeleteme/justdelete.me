@@ -1021,6 +1021,13 @@
         "notes_cat": "A la barra superior, cliqui al 'seu nom', després cliqui a 'Delete Account' al final del quadre de diàleg.",
         "notes_es": "En la barra superior, haga clic en 'su nombre', después haga clic en 'Delete Account' al final del cuadro de diálogo."
     },
+    
+    {
+        "name": "Good.Co",
+        "url": "http://www.good.co/",
+        "difficulty": "medium",
+        "notes": "On the top bar, click on your photo, go to 'Settings', go to 'Miscellaneous' and then hit 'Cancel Account'.",
+     },
 
     {
         "name": "Goodreads",
@@ -1165,6 +1172,13 @@
         "url": "http://www.hi5.com/account_cancel.html",
         "difficulty": "easy"
     },
+    
+    {
+    	"name": "Hide My Ass Mail",
+    	"url": "http://www.hidemyass.com/anonymous-email/inbox/settings",
+    	"difficulty": "easy",
+    	"notes": "The website automatically deletes your account after a predetermined time"
+    }
 
     {
         "name": "HOL Virtual Hogwarts",
@@ -1961,6 +1975,12 @@
         "difficulty": "easy",
         "notes": "Log in. Click 'Profile' near the top of the page. Click 'My settings'. Click 'Close Account' in the 'Account type' section and follow the steps listed."
     },
+    
+    {
+    	"name": "PhishTank",
+    	"url": "https://www.phishtank.com/",
+    	"difficulty": "impossible"
+    },
 
     {
         "name": "Picasa",
@@ -2226,6 +2246,12 @@
         "notes_cat": "Seleccioni 'Please cancel my account'. Esculli un motiu i seleccioni 'close my shopify store'.",
         "notes_es": "Seleccione 'Please cancel my account'. Escoja un motivo y seleccione 'close my shopify store'."
     },
+    
+    {
+        "name": "showRSS",
+        "url": "http://showrss.info/",
+        "difficulty": "impossible"
+    },
 
     {
         "name": "Shutterfly",
@@ -2449,6 +2475,12 @@
         "notes_pt_br": "Mediante desativação, todas suas atividades serão deletadas e você será removido de todas as leaderboards. Strava manterá um arquivo de seus dados GPS como enviados a Strava, mas o arquivo não poderá ser usado para restaurar sua conta.",
         "notes_cat": "Mitjançant la desactivació, totes les activitats s'eliminaran i serà eliminat de totes les leaderboards. Strava mantindrà un arxiu amb les dades GPS que s'envien a Strava, però l'arxiu no es podrà utilitzar per restaurar el compte.",
         "notes_es": "Mediante la desactivación, todas las actividades se eliminarán y será eliminado de todas las leaderboards. Strava mantendrá un archivo con los datos GPS que se envían a Strava, pero el archivo no se podrá utilizar para restaurar la cuenta."
+    },
+    
+    {
+    	"name": "Skoob",
+    	"url": "http://www.skoob.com.br/usuario/excluir/",
+    	"difficulty": "easy"
     },
 
     {
@@ -2690,6 +2722,12 @@
         "name": "VK/ВКонтакте",
         "url": "http://vk.com/settings?act=deactivate",
         "difficulty": "easy"
+    },
+    
+    {
+    	"name": "Verduca",
+    	"url": "http://www.veduca.com.br",
+    	"difficulty": "impossible"
     },
 
     {
