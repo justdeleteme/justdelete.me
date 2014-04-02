@@ -6,6 +6,11 @@
 	box-sizing: border-box;
 }
 
+/* For RTL languages, English parts need to be LTR */
+.ltr{
+  direction: ltr;
+}
+
 body {
 	font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 	margin: 0;
