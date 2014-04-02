@@ -315,7 +315,7 @@
 	</div>
 
 	<div id="dropdown-2" class="dropdown dropdown-tip">
-		<ul class="dropdown-menu">
+		<ul class="dropdown-menu ltr">
 			<span class="alpha-sort">
 				<li><a href="#">a</a></li>
 				<li><a href="#">b</a></li>
