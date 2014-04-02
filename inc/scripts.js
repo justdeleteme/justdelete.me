@@ -24,7 +24,7 @@ $(function(){
         var $sites = $('.sites section');
 
         $sites.show().filter(function() {
-            var text = $(this).attr('class').toLowerCase();
+            var text = $(this).find('.site-difficulty').text().replace(/\s+/g, ' ').toLowerCase();
             return !~text.indexOf(term);
         }).hide();
 
