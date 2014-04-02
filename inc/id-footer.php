@@ -1,7 +1,7 @@
 	<section class="info-block">
 		<div class="info-container">
 			<footer>
-				<span><?php echo $footer ?></label>
+				<span><?php echo $footer ?></span>
 				<div class="share-buttons" id="share buttons">
 				<!-- Twitter -->
 					<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://justdelete.me">Tweet</a>
