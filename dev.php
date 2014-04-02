@@ -207,22 +207,22 @@
 				<h2><?php echo $translationcontrib; ?></h2>
 			
 				<ul class="contributors translate">
-		        	<li class="it"><a href="https://github.com/LorenzoRogai">Lorenzo Rogai</a></li>
-		    		<li class="de"><a href="http://www.erbloggt.de/">Konstantin Hinrichs</a>, <a href="http://www.floriankeller.de/">Florian Keller</a></li>
-		        	<li class="fr"><a href="https://github.com/buzzb0x">Ethan Ohayon</a></li>
-		        	<li class="fr"><a href="https://github.com/p1rox">Armand Vignat</a></li>
-		        	<li class="ru"><a href="https://github.com/morozd">morozd</a></li>
-		        	<li class="pt_br"><a href="https://github.com/mkbu95">Matheus Macabu</a></li>
-		        	<li class="cat"><a href="https://github.com/rockbdn">JP Queralt (+ Español)</a></li>
-		        	<li class="vi"><a href="https://github.com/giangnb">Giang Nguyen</a></li>
-		        	<li class="tr"><a href="https://github.com/MarioErmando">Erman Sayın</a></li>
-		        	<li class="ar"><a href="https://github.com/adahhane">Dahhane Ayyoub</a></li>
-		        	<li class="nl"><a href="https://github.com/mprins">Mark Prins</a></li>
-		        	<li class="fa"><a href="https://github.com/Arasteh">Mahmoud Arasteh Nasab</a></li>
-		        	<li class="zh-cn"><a href="https://github.com/Jonwei">Joe Shen</a></li>
-		        	<li class="id"><a href="https://github.com/rafeyu">Ramdziana Feri Y</a></li>
-		        	<li class="ro"><a href="https://github.com/teofilcojocariu">Teofil Cojocariu</a></li>
-
+					<li class="ar"><a href="https://github.com/adahhane">Dahhane Ayyoub</a></li>
+					<li class="cat"><a href="https://github.com/rockbdn">JP Queralt (+ Español)</a></li>
+					<li class="de"><a href="http://www.erbloggt.de/">Konstantin Hinrichs</a></li>
+					<li class="de"><a href="http://www.floriankeller.de/">Florian Keller</a></li>
+					<li class="fa"><a href="https://github.com/Arasteh">Mahmoud Arasteh Nasab</a></li>
+					<li class="fr"><a href="https://github.com/buzzb0x">Ethan Ohayon</a></li>
+					<li class="fr"><a href="https://github.com/p1rox">Armand Vignat</a></li>
+					<li class="id"><a href="https://github.com/rafeyu">Ramdziana Feri Y</a></li>
+					<li class="it"><a href="https://github.com/LorenzoRogai">Lorenzo Rogai</a></li>
+					<li class="nl"><a href="https://github.com/mprins">Mark Prins</a></li>
+					<li class="pt_br"><a href="https://github.com/mkbu95">Matheus Macabu</a></li>
+					<li class="ro"><a href="https://github.com/teofilcojocariu">Teofil Cojocariu</a></li>
+					<li class="ru"><a href="https://github.com/morozd">morozd</a></li>
+					<li class="tr"><a href="https://github.com/MarioErmando">Erman Sayın</a></li>
+					<li class="vi"><a href="https://github.com/giangnb">Giang Nguyen</a></li>
+					<li class="zh-cn"><a href="https://github.com/Jonwei">Joe Shen</a></li>
 				</ul>
 			</div><div class="info-block-half">
 				<h2><?php echo $morecontrib; ?></h2>
