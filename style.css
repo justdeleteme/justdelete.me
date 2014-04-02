@@ -29,6 +29,7 @@ nav {
 	width: 100%;
 	color: #000;
 	font-weight: bold;
+  direction: ltr;
 }
 
 nav a {
@@ -85,6 +86,10 @@ header h1 span {
 	background-color: #cf5a5a;
 	padding: 10px 0;
 	display: none;
+}
+
+#search{
+  direction: ltr;
 }
 
 button {
@@ -360,6 +365,7 @@ button {
 	color: white;
 	padding: 10px;
 	line-height: 1;
+  direction: ltr;
 }
 
 .site-block.easy .site-header {
@@ -457,6 +463,10 @@ button {
 
 .share-buttons {
 	float: right;
+}
+
+.share-buttons-rtl{
+  float: left;
 }
 
 @media only screen and (max-width: 1000px) {
