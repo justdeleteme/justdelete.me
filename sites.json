@@ -979,14 +979,14 @@
         "notes_cat": "Contacti amb assistència al client i demani que esborrin el compte.",
         "notes_es": "Contacte con asistencia al cliente y pida que borren su cuenta."
     },
-    
+
     {
-	"name": "Gmail",
-	"url": "https://www.google.com/settings/datatools",
-	"difficulty": "easy",
-	"notes": "Login into your account →  Data Tools →  Delete Products →  Remove Gmail permanently "
+        "name": "Gmail",
+        "url": "https://www.google.com/settings/datatools",
+        "difficulty": "easy",
+        "notes": "Login into your account →  Data Tools →  Delete Products →  Remove Gmail permanently "
     },
-	
+
     {
         "name": "GMX",
         "url": "http://www.gmx.net/",
@@ -1021,13 +1021,13 @@
         "notes_cat": "A la barra superior, cliqui al 'seu nom', després cliqui a 'Delete Account' al final del quadre de diàleg.",
         "notes_es": "En la barra superior, haga clic en 'su nombre', después haga clic en 'Delete Account' al final del cuadro de diálogo."
     },
-    
+
     {
         "name": "Good.Co",
         "url": "http://www.good.co/",
         "difficulty": "medium",
         "notes": "On the top bar, click on your photo, go to 'Settings', go to 'Miscellaneous' and then hit 'Cancel Account'."
-     },
+    },
 
     {
         "name": "Goodreads",
@@ -1172,12 +1172,12 @@
         "url": "http://www.hi5.com/account_cancel.html",
         "difficulty": "easy"
     },
-    
+
     {
-    	"name": "Hide My Ass Mail",
-    	"url": "http://www.hidemyass.com/anonymous-email/inbox/settings",
-    	"difficulty": "easy",
-    	"notes": "The website automatically deletes your account after a predetermined time"
+        "name": "Hide My Ass Mail",
+        "url": "http://www.hidemyass.com/anonymous-email/inbox/settings",
+        "difficulty": "easy",
+        "notes": "The website automatically deletes your account after a predetermined time"
     },
 
     {
@@ -1975,11 +1975,11 @@
         "difficulty": "easy",
         "notes": "Log in. Click 'Profile' near the top of the page. Click 'My settings'. Click 'Close Account' in the 'Account type' section and follow the steps listed."
     },
-    
+
     {
-    	"name": "PhishTank",
-    	"url": "https://www.phishtank.com/",
-    	"difficulty": "impossible"
+        "name": "PhishTank",
+        "url": "https://www.phishtank.com/",
+        "difficulty": "impossible"
     },
 
     {
@@ -2246,7 +2246,7 @@
         "notes_cat": "Seleccioni 'Please cancel my account'. Esculli un motiu i seleccioni 'close my shopify store'.",
         "notes_es": "Seleccione 'Please cancel my account'. Escoja un motivo y seleccione 'close my shopify store'."
     },
-    
+
     {
         "name": "showRSS",
         "url": "http://showrss.info/",
@@ -2269,6 +2269,12 @@
         "url": "http://www.simplemachines.org/community/index.php?action=profile;area=deleteaccount",
         "difficulty": "hard",
         "notes": "Enter your password to have your account marked for deletion by an administrator or moderator. You can do this for any other Simple Machines forums if the forum administrator allows."
+    },
+
+    {
+        "name": "Skoob",
+        "url": "http://www.skoob.com.br/usuario/excluir/",
+        "difficulty": "easy"
     },
 
     {
@@ -2476,12 +2482,6 @@
         "notes_cat": "Mitjançant la desactivació, totes les activitats s'eliminaran i serà eliminat de totes les leaderboards. Strava mantindrà un arxiu amb les dades GPS que s'envien a Strava, però l'arxiu no es podrà utilitzar per restaurar el compte.",
         "notes_es": "Mediante la desactivación, todas las actividades se eliminarán y será eliminado de todas las leaderboards. Strava mantendrá un archivo con los datos GPS que se envían a Strava, pero el archivo no se podrá utilizar para restaurar la cuenta."
     },
-    
-    {
-    	"name": "Skoob",
-    	"url": "http://www.skoob.com.br/usuario/excluir/",
-    	"difficulty": "easy"
-    },
 
     {
         "name": "StumbleUpon",
@@ -2538,10 +2538,10 @@
     },
 
     {
-	"name": "Topcoder",
-	"url": "http://www.topcoder.com/help/p=636/",
-	"difficulty": "hard",
-	"notes": "You can't delete your account, but you can contact them via email to deactivate it."    
+        "name": "Topcoder",
+        "url": "http://www.topcoder.com/help/p=636/",
+        "difficulty": "hard",
+        "notes": "You can't delete your account, but you can contact them via email to deactivate it."
     },
 
     {
@@ -2690,6 +2690,12 @@
     },
 
     {
+        "name": "Verduca",
+        "url": "http://www.veduca.com.br",
+        "difficulty": "impossible"
+    },
+
+    {
         "name": "Viadeo",
         "url": "http://www.viadeo.com/settings/account/?language=fr&ga_from=Fu:%2Fsettings%2Faccount%2F;Fb%3Amenu_box_right%3BFe%3AL1-account-settings%3B",
         "difficulty": "easy",
@@ -2723,12 +2729,6 @@
         "url": "http://vk.com/settings?act=deactivate",
         "difficulty": "easy"
     },
-    
-    {
-    	"name": "Verduca",
-    	"url": "http://www.veduca.com.br",
-    	"difficulty": "impossible"
-    },
 
     {
         "name": "WAYN",
@@ -2758,7 +2758,7 @@
         "name": "Weather.com",
         "url": "http://registration.weather.com/ursa/profile/unsubscribe",
         "difficulty": "easy",
-        "notes": "Site uses the term \"unsubscribe\" to describe completely deleting an account."       
+        "notes": "Site uses the term \"unsubscribe\" to describe completely deleting an account."
     },
 
     {
