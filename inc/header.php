@@ -1,5 +1,6 @@
+<?php $rtlCheckHeader	= ($rtl) ? ' dir="rtl"' : ''; ?>
 <!DOCTYPE HTML>
-<html lang="<?php echo $lang ?>">
+<html lang=<?php echo '"' . $lang . '"' . $rtlCheckHeader; ?>>
 <head>
 	<title><?php echo $title ?></title>
 	<meta charset="UTF-8">

@@ -1,7 +1,14 @@
-* {
+*,
+*:before,
+*:after {
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
+}
+
+/* For RTL languages, English parts need to be LTR */
+.ltr{
+	direction: ltr;
 }
 
 body {
@@ -22,6 +29,7 @@ nav {
 	width: 100%;
 	color: #000;
 	font-weight: bold;
+	direction: ltr;
 }
 
 nav a {
@@ -78,6 +86,10 @@ header h1 span {
 	background-color: #cf5a5a;
 	padding: 10px 0;
 	display: none;
+}
+
+#search{
+	direction: ltr;
 }
 
 button {
@@ -200,7 +212,7 @@ button {
 
 					REDESIGN BLOCK /start
 
-   ######################################################### */
+	 ######################################################### */
 
 .ribbon {
 	position: absolute;
@@ -353,6 +365,7 @@ button {
 	color: white;
 	padding: 10px;
 	line-height: 1;
+	direction: ltr;
 }
 
 .site-block.easy .site-header {
@@ -452,6 +465,10 @@ button {
 	float: right;
 }
 
+.share-buttons-rtl{
+	float: left;
+}
+
 @media only screen and (max-width: 1000px) {
 	.site-block {
 		width: 33%;
@@ -479,9 +496,9 @@ button {
 
 /* #########################################################
 
-					  REDESIGN BLOCK /end
+						REDESIGN BLOCK /end
 
-   ######################################################### */
+	 ######################################################### */
 
 
 
@@ -657,6 +674,7 @@ footer a:hover, .info-container a:hover {
 
 .contributors.translate {
 	list-style-type: none;
+	direction: ltr;
 }
 .contributors.translate LI > A {
 	padding-left: 30px;
