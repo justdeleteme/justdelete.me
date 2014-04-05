@@ -1589,6 +1589,12 @@
     },
 
     {
+        "name": "Lobsters",
+        "url": "https://lobste.rs/settings",
+        "difficulty": "easy"
+    },
+
+    {
         "name": "Lovefilm",
         "url": "https://www.lovefilm.com/account/cancel",
         "difficulty": "medium",
