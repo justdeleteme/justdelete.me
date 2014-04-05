@@ -4,10 +4,14 @@
 	if (isset($_GET['lang']))
 	{
 		$lang = $_GET['lang'];
+
+		// For Right-To-Left Languages
+		$rtl = ($lang == "fa" || $lang == "ar") ? true : false;
 	}
 	if ( !isset($lang))
 	{
 		$lang = "en";
+		$rtl = false;
 	}
 
 	$definitions = json_decode(file_get_contents('definitions.json'));
