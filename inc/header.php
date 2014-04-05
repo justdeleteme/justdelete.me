@@ -1,4 +1,7 @@
-<?php $rtlCheckHeader	= ($rtl) ? ' dir="rtl"' : ''; ?>
+<?php
+	$rtl = ($lang == "fa" || $lang == "ar") ? true : false;
+	$rtlCheckHeader	= ($rtl) ? ' dir="rtl"' : '';
+?>
 <!DOCTYPE HTML>
 <html lang=<?php echo '"' . $lang . '"' . $rtlCheckHeader; ?>>
 <head>
