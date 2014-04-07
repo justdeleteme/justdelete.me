@@ -2225,6 +2225,13 @@
         "notes_cat": "Pot reactivar-la en un termini de 14 dies. Desprès d'aquest temps el compte serà esborrat.",
         "notes_es": "Puede reactivarla en un plazo de 14 días. Después de este tiempo la cuenta será borrada."
     },
+    
+    {
+        "name": "SurveyMonkey",
+        "url": "http://help.surveymonkey.com/contact-us",
+        "difficulty": "medium",
+        "notes": "You have to contact them selecting the issue Login & account details and the issue details Deleting my account"
+    }
 
     {
         "name": "TeamViewer",
