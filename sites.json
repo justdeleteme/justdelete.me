@@ -143,6 +143,12 @@
         "notes_cat": "Demani l'eliminació del compte al servei d'atenció al client.",
         "notes_es": "Pida la eliminación de su cuenta al servicio de atención al cliente."
     },
+   
+    {
+        "name": "Asos",
+        "url": "http://asos-de.custhelp.com/app/askchangedetails",
+        "difficulty": "hard"
+    },
 
     {
         "name": "Assembla",
