@@ -1340,6 +1340,14 @@
     },
 
     {
+        "name": "issuu",
+        "url": "https://issuu.com/home/settings/billing",
+        "difficulty": "easy",
+        "notes": "Closing your account will delete your profile and all of your publications. There is no going back, so don't say we didn't warn you.",
+        "notes_fa": "با بستن حساب کاربریتان تمامی مجلات و اطلاعات شما حذف می‌شود. این اطلاعات غیز قابل بازگشت خواهند بود."
+    },
+
+    {
         "name": "iTunes / Apple ID",
         "url": "http://www.apple.com/support/itunes/contact/",
         "difficulty": "hard",
