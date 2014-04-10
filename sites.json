@@ -265,13 +265,19 @@
         "url": "https://secure.booking.com/login.en-us.html?tmpl=profile/delete_account",
         "difficulty": "easy"
     },
+    
+        {
+        "name": "Booking",
+        "url": "https://secure.booking.com/login.en-us.html?tmpl=profile/delete_account",
+        "difficulty": "easy"
+    },
 
     {
-        "name": "Booklooker",
-        "url": "https://secure.booklooker.de/pages/contact.php",
-        "difficulty": "hard",
-        "notes": "You need to request deletion of your data via the contact form after logging in.",
-        "notes_de": "Nach dem einloggen muss der Kundenservice zur Löschung kontaktiert werden."
+        "name": "BoerseBZ",
+        "url": "http://www.boerse.bz/profile.php?do=delacc",
+        "difficulty": "impossible",
+        "notes": "Accounts cannot be removed at this time",
+        "notes_de": "Deaktivierung von Accounts bis auf weiteres nicht möglich"
     },
 
     {
