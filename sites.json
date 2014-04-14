@@ -750,6 +750,14 @@
     },
 
     {
+        "name": "Experian",
+        "url": "https://www.experiandirect.com/triplealert/Message.aspx?PageTypeID=FAQ&WT.svl=faq&SiteVersionID=473&SiteID=100173&sc=657900&bcd=",
+        "difficulty": "hard",
+        "notes": "You have to call or email them. They respond to email quickly, however, so it is not that painful.",
+        "email": "support@experiandirect.com"
+    },
+
+    {
         "meta": "popular",
         "name": "Facebook",
         "url": "https://www.facebook.com/help/delete_account?rdrhc",
