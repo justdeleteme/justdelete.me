@@ -193,6 +193,16 @@
             "ask.fm"
         ]
     },
+
+    {
+        "name": "Asos",
+        "url": "http://asos-de.custhelp.com/app/askchangedetails",
+        "difficulty": "hard",
+        "domains": [
+            "www.asos.de",
+            "asos.de"
+        ]
+    },
     {
         "name": "Assembla",
         "url": "https://www.assembla.com/user/edit/edit_account_settings",
