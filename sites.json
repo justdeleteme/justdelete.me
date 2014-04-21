@@ -3254,6 +3254,7 @@
             "strava.com"
         ]
     },
+    
     {
         "name": "StumbleUpon",
         "url": "https://www.stumbleupon.com/settings/delete-account",
@@ -3268,6 +3269,17 @@
             "stumbleupon.com"
         ]
     },
+    
+    {
+        "name": "SurveyMonkey",
+        "url": "http://help.surveymonkey.com/contact-us",
+        "difficulty": "medium",
+        "notes": "You have to contact them selecting the issue Login & account details and the issue details Deleting my account",
+        "domains": [
+            "surveymonkey.com"
+        ]
+    },
+
     {
         "name": "Tagged",
         "url": "http://www.tagged.com/account_cancel.html",
