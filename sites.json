@@ -355,6 +355,17 @@
         ]
     },
     {
+        "name": "BoerseBZ",
+        "url": "http://www.boerse.bz/profile.php?do=delacc",
+        "difficulty": "impossible",
+        "notes": "Accounts cannot be removed at this time",
+        "notes_de": "Deaktivierung von Accounts bis auf weiteres nicht möglich",
+        "domains": [
+            "www.boerse.bz",
+            "boerse.bz"
+        ]
+    },
+    {
         "name": "Booking",
         "url": "https://secure.booking.com/login.en-us.html?tmpl=profile/delete_account",
         "difficulty": "easy",
