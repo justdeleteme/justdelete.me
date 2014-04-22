@@ -4,7 +4,6 @@
         "url": "http://www.4shared.com/web/account/settings#overview",
         "difficulty": "easy",
         "domains": [
-            "www.4shared.com",
             "4shared.com"
         ]
     },
@@ -66,7 +65,6 @@
         "url": "https://www.airbnb.com/users/settings",
         "difficulty": "easy",
         "domains": [
-            "www.airbnb.com",
             "airbnb.com"
         ]
     },
@@ -75,7 +73,6 @@
         "url": "http://www.albumreminder.com/usercenter/deleteaccount/",
         "difficulty": "easy",
         "domains": [
-            "www.albumreminder.com",
             "albumreminder.com"
         ]
     },
@@ -85,7 +82,6 @@
         "difficulty": "hard",
         "notes": "Despite what it says in their FAQ there is actually no automatic way to delete your account. But they do see to be happy to do it if you ask them - you can contact them via http://www.alibaba.com/help/contact-us.html - I cancelled my account via their online chat system.",
         "domains": [
-            "www.alibaba.com",
             "alibaba.com"
         ]
     },
@@ -101,7 +97,6 @@
         "notes_cat": "Per tancar el seu compte, contacti amb Amazon via e-mail (omplint aquest formulari de contacte) i demanant que es tanqui el seu compte.",
         "notes_es": "Para cerrar su cuenta, contacte con Amazon via e-mail (rellenando este formulario de contacto) y pidiendo que se cierre su cuenta.",
         "domains": [
-            "www.amazon.com",
             "amazon.com"
         ]
     },
@@ -126,7 +121,6 @@
         "notes_cat": "Nosaltres no 'esborrem' o 'finalitzem' comptes d'ACC. En el cas que no vulgui utilitzar més el lloc, pot esborrar totes les teves dades personals del seu perfil i evitar entrar més.",
         "notes_es": "Nosotros no 'borramos' o 'finalizamos' cuentas de ACC. En el supuesto que no quiera utilizar más el sitio, puede borrar toda su información personal de su perfil y evitar entrar más a su cuenta.",
         "domains": [
-            "www.animalcrossingcommunity.com",
             "animalcrossingcommunity.com"
         ]
     },
@@ -155,7 +149,6 @@
         "notes": "Remove all applications and services from your account, then request deletion by emailing customer services.",
         "email": "support@appfog.com",
         "domains": [
-            "www.appfog.com",
             "console.appfog.com",
             "appfog.com"
         ]
@@ -208,7 +201,6 @@
         "url": "https://www.assembla.com/user/edit/edit_account_settings",
         "difficulty": "easy",
         "domains": [
-            "www.assembla.com",
             "assembla.com"
         ]
     },
@@ -241,7 +233,6 @@
         "difficulty": "impossible",
         "notes": "It is not possible to delete your Barnes and Noble account.  The best you can do is delete any personal information that you have stored on their website.",
         "domains": [
-            "www.barnesandnoble.com",
             "barnesandnoble.com"
         ]
     },
@@ -285,7 +276,6 @@
         "notes": "To delete your account, please go into your 'Me' tab, visit account settings and hit the privacy tab. There, you'll have the option to delete.",
         "notes_nl": "Verwijder je account door in te loggen en op de 'Me' tab te klikken. Selecteer vervolgens de 'privacy tab' die je bij 'account settings' kunt vinden. Hier vind je de delete mogelijkheid",
         "domains": [
-            "www.behance.net",
             "behance.net"
         ]
     },
@@ -326,8 +316,7 @@
         "notes_cat": "Hauries d'esborrar tot el compte de Google sencer, però si que pots eliminar el teu blog.",
         "notes_es": "Tendrías que borrar toda cuenta de Google entera, pero si que puedes eliminar tu blog.",
         "domains": [
-            "blogger.com",
-            "www.blogger.com"
+            "blogger.com"
         ]
     },
     {
@@ -335,7 +324,6 @@
         "url": "https://www.blueapron.com/cancel_subscription",
         "difficulty": "easy",
         "domains": [
-            "www.blueapron.com",
             "blueapron.com"
         ]
     },
@@ -350,7 +338,6 @@
         "notes_cat": "Només pots desactivar el compte contactant amb l'Assistència al client. No podràs eliminar mai el compte, només desactivar-lo, els comptes desactivats són visibles al públic.",
         "notes_es": "Solo puedes desactivar la cuenta contactando con Assistència al client. No podrás eliminar nunca la cuenta, solo desactivarla, les cuentas desactivadas son visibles al público.",
         "domains": [
-            "www.bodybuilding.com",
             "bodybuilding.com"
         ]
     },
@@ -433,7 +420,6 @@
         "notes_cat": "Només cal clicar a 'Abschicken'",
         "notes_es": "Solo tienes que clicar en 'Abschicken'",
         "domains": [
-            "www.ress.at",
             "ress.at"
         ]
     },
@@ -443,7 +429,6 @@
         "difficulty": "impossible",
         "notes": "'There is no way to close or shut down an account.'",
         "domains": [
-            "www.callofduty.com",
             "callofduty.com"
         ]
     },
@@ -453,7 +438,6 @@
         "difficulty": "easy",
         "notes": "Must remove uploaded files first",
         "domains": [
-            "www.careerbuilder.com",
             "careerbuilder.com"
         ]
     },
@@ -462,7 +446,6 @@
         "url": "https://www.change.org/account_settings",
         "difficulty": "easy",
         "domains": [
-            "www.change.org",
             "change.org"
         ]
     },
@@ -492,7 +475,6 @@
         "notes": "Email customer services to request deletion",
         "email": "info@cleverreach.de",
         "domains": [
-            "www.cleverreach.com",
             "cleverreach.com"
         ]
     },
@@ -597,7 +579,6 @@
         "notes": "login. !! Your message which you have post will be kept for the readable of the forum !!",
         "notes_fr": "Logez vous. !! Les messages que vous avez postez seront gardé pour la lisibilité du forum !!",
         "domains": [
-            "www.commentcamarche.net",
             "commentcamarche.net"
         ]
     },
@@ -613,7 +594,6 @@
         "notes_cat": "No pot ser completament eliminat, la reactivació serà possible sempre. Ompli el formulari i seleccioni 'I understand. Please delete my profile.'.",
         "notes_es": "No se puede eliminar completamente, la reactivación será posible siempre. Rellene el formulario y seleccione 'I understand. Please delete my profile.'.",
         "domains": [
-            "www.couchsurfing.org",
             "couchsurfing.org"
         ]
     },
@@ -629,7 +609,6 @@
         "notes_cat": "Contacti amb l'assistència al client i demani que li esborrrin el compte.",
         "notes_es": "Contacte con asistencia al cliente y pide que te borren la cuenta.",
         "domains": [
-            "www.coursera.org",
             "coursera.org"
         ]
     },
@@ -646,7 +625,6 @@
         "notes_es": "Envie un e-mail a abuse@craigslist.org y pide que eliminen su cuenta.",
         "email": "abuse@craigslist.org",
         "domains": [
-            "www.craigslist.org",
             "craigslist.org"
         ]
     },
@@ -666,7 +644,6 @@
         "difficulty": "hard",
         "notes": "You can cancel by email but only if your membership includes insurance. Otherwise, an email cancellation will be ignored. You have to call 0800 561 0083 to cancel your account. This is the only way. More info here: http://experian.metafaq.com/help/CreditExpertBRS/Cancel_and_duration/CancelBRS",
         "domains": [
-            "www.creditexpert.co.uk",
             "creditexpert.co.uk"
         ]
     },
@@ -682,7 +659,6 @@
         "notes_cat": "Editi el seu compte i seleccioni 'Remove my account'.",
         "notes_es": "Edite su cuenta y seleccione 'Remove my account'.",
         "domains": [
-            "www.dailymile.com",
             "dailymile.com"
         ]
     },
@@ -693,7 +669,6 @@
         "notes": "You have to enter your mailadress and have to choose a 'why are you leaving' answer'. To verify this step you'll become a mail with a security code to fill into the form. After that your account is deleted.",
         "notes_de": "Nach Angabe der E-Mail-Adresse und der Auswahl eines Grunds der Löschung, erhält man per Mail einen Sicherheitscode. Dieser wird im Löschformular eingetragen und abgeschickt. Danach wird der Account unwiederbringlich gelöscht.",
         "domains": [
-            "www.dashlane.com",
             "dashlane.com"
         ]
     },
@@ -725,7 +700,6 @@
         "difficulty": "hard",
         "notes": "You cannot delete your Delta Skymiles account online.  You must contact them by mail in order to delete your account.",
         "domains": [
-            "www.delta.com",
             "delta.com"
         ]
     },
@@ -742,7 +716,6 @@
         "url": "https://www.desktoppr.co/settings",
         "difficulty": "easy",
         "domains": [
-            "www.desktoppr.co",
             "desktoppr.co"
         ]
     },
@@ -757,7 +730,6 @@
         "notes_cat": "Totes les seves dades son esborrades inmediatament. Els comptes poden ser reactivats abans de 30 dies, després d'aquest termini no podrà ser reactivat.",
         "notes_es": "Todos sus datos son borrados inmediatamente. Todas las cuentas pueden ser reactivadas antes de 30 dias, después de ese plazo no podrá ser recuperada.",
         "domains": [
-            "www.deviantart.com",
             "deviantart.com"
         ]
     },
@@ -772,7 +744,6 @@
         "notes_cat": "No hi ha cap informació al FAQ sobre la cancel·lació de comptes, l'operador telefonic diu que no es poden esborrar els comptes.",
         "notes_es": "No hay información en el FAQ sobre la cancelación de cuentas, el operador telefónico dice que no se pueden borrar las cuentas.",
         "domains": [
-            "www.paket.de",
             "paket.de"
         ]
     },
@@ -811,7 +782,6 @@
         "url": "http://www.dihitt.com/user/delete_profile",
         "difficulty": "easy",
         "domains": [
-            "www.dihitt.com",
             "dihitt.com"
         ]
     },
@@ -820,7 +790,6 @@
         "url": "http://www.discogs.com/users/delete",
         "difficulty": "easy",
         "domains": [
-            "www.discogs.com",
             "discogs.com"
         ]
     },
@@ -861,7 +830,6 @@
         "url": "https://www.dropbox.com/account/delete",
         "difficulty": "easy",
         "domains": [
-            "www.dropbox.com",
             "dropbox.com"
         ]
     },
@@ -887,7 +855,6 @@
         "url": "http://www.duolingo.com/settings/deactivate",
         "difficulty": "easy",
         "domains": [
-            "www.duolingo.com",
             "duolingo.com"
         ]
     },
@@ -949,7 +916,6 @@
         "notes_cat": "No té perqué esborrar el seu compte. Un compte antic sens ús ni cursos completats serà eliminat.",
         "notes_es": "No tiene porqué borrar la cuenta. Una cuenta antigua no usada y sin cursos completos será eliminado.",
         "domains": [
-            "www.edx.org",
             "edx.org"
         ]
     },
@@ -959,7 +925,6 @@
         "difficulty": "easy",
         "notes": "Select any reason for closing your profile. After that you have to complete the process by clicking a link in an email sent to you.",
         "domains": [
-            "www.endomondo.com",
             "endomondo.com"
         ]
     },
@@ -969,7 +934,6 @@
         "difficulty": "hard",
         "notes": "Create new Game Support ticket to request account removal.",
         "domains": [
-            "www.erepublik.com",
             "erepublik.com"
         ]
     },
@@ -983,7 +947,6 @@
         "notes_cat": "No pot tindre pagaments pendents amb Etsy o una entrega pendent. El seu e-mail continuarà als seus fitxers.",
         "notes_es": "No puede tener pagos pendientes con Etsy o una entrega pendiente. Su e-mail continuará en los ficheros.",
         "domains": [
-            "www.etsy.com",
             "etsy.com"
         ]
     },
@@ -992,7 +955,6 @@
         "url": "https://www.eventbrite.com/account-close",
         "difficulty": "easy",
         "domains": [
-            "www.eventbrite.com",
             "eventbrite.com"
         ]
     },
@@ -1007,7 +969,6 @@
         "notes_cat": "No pot eliminar un compte d'Evernote, només pot desactivar-la temporalment. La desactivaciò no esborra les seves dades, ho haurà de fer manualment, després sincronitzar i desactivar.",
         "notes_es": "No se puede eliminar una cuenta de Evernote, solo se puede desactivar la temporalmente. La desactivación no borra sus datos, lo deberá hacer manualmente, después sincronitzar y desactivar.",
         "domains": [
-            "www.evernote.com",
             "evernote.com"
         ]
     },
@@ -1023,7 +984,6 @@
         "notes_cat": "Pot esborrar el compte facilment, algunes dades com el chat o missatges en grup son guardades per sempre, com s'explica als termes de privacitat del lloc.",
         "notes_es": "Puede borrar la cuenta facilmente, algunos de los datos como el chat o mensajes en grupo son guardados para siempre, como se explica en los Terminos de privacidad del sitio.",
         "domains": [
-            "www.facebook.com",
             "facebook.com"
         ]
     },
@@ -1061,7 +1021,6 @@
         "url": "https://www.fitocracy.com/account/deletion/",
         "difficulty": "easy",
         "domains": [
-            "www.fitocracy.com",
             "fitocracy.com"
         ]
     },
@@ -1070,7 +1029,6 @@
         "url": "http://www.flickr.com/profile_delete.gne",
         "difficulty": "easy",
         "domains": [
-            "www.flickr.com",
             "flickr.com"
         ]
     },
@@ -1101,7 +1059,6 @@
         "notes_cat": "Per esborrar el seu compte no ha de pujar res en 3 dies.",
         "notes_es": "Para borrar su cuenta no debe subir nada en 3 días.",
         "domains": [
-            "www.fotka.pl",
             "fotka.pl"
         ]
     },
@@ -1133,7 +1090,6 @@
         "notes_cat": "Fixa't si el balanç del compte es positiu, si ho és envía un 'ticket' a l'assistencia demanant que tanquin el seu compte",
         "notes_es": "Fíjate si el balance de la cuenta es positivo, si lo es envíe un 'ticket' a la asistencia pidiendo que cierren su cuenta ",
         "domains": [
-            "www.freelancer.com",
             "freelancer.com"
         ]
     },
@@ -1217,7 +1173,6 @@
         "notes_cat": "Elimini qualsevol informació que vulgui que no apareixi al lloc web. Després seleccioni 'Account Settings' i 'Close Account'",
         "notes_es": "Elimine cualquier información que no quiera que aparezca en el sitio web. Luego seleccione 'Account Settings' y 'Close Account'",
         "domains": [
-            "www.geni.com",
             "geni.com"
         ]
     },
@@ -1294,7 +1249,6 @@
         "notes_cat": "Contacti amb assistència al client i demani que esborrin el compte.",
         "notes_es": "Contacte con asistencia al cliente y pida que borren su cuenta.",
         "domains": [
-            "www.glassdoor.com",
             "glassdoor.com"
         ]
     },
@@ -1318,7 +1272,6 @@
         "notes_cat": "Vosté no pot esborrar el seu compte, però pot desactivar-lo. (Start →  Mein Account →  Account stilllegen)",
         "notes_es": "Usted no puede borrar su cuenta, pero puede desactivarla. (Start →  Mein Account →  Account stilllegen)",
         "domains": [
-            "www.gmx.net",
             "gmx.net"
         ]
     },
@@ -1356,7 +1309,6 @@
         "difficulty": "medium",
         "notes": "On the top bar, click on your photo, go to 'Settings', go to 'Miscellaneous' and then hit 'Cancel Account'.",
         "domains": [
-            "www.good.co",
             "good.co"
         ]
     },
@@ -1365,7 +1317,6 @@
         "url": "http://www.goodreads.com/user/destroy",
         "difficulty": "easy",
         "domains": [
-            "www.goodreads.com",
             "goodreads.com"
         ]
     },
@@ -1391,7 +1342,6 @@
         "notes_cat": "Seleccioni un motiu per tancar el compte, només seran 2 clics",
         "notes_es": "Seleccione un motivo para cerrar la cuenta, solo serán 2 clics",
         "domains": [
-            "www.gopetition.com",
             "gopetition.com"
         ]
     },
@@ -1407,7 +1357,6 @@
         "notes_cat": "Seleccioni un motiu per tancar el compte, només seran 2 clics",
         "notes_es": "Seleccione un motivo para cerrar la cuenta, solo serán 2 clics",
         "domains": [
-            "www.gosquared.com",
             "gosquared.com"
         ]
     },
@@ -1418,7 +1367,6 @@
         "notes": "Send an email to arun@grailed.com and request deletion.",
         "email": "arun@grailed.com",
         "domains": [
-            "www.grailed.com",
             "grailed.com"
         ]
     },
@@ -1505,7 +1453,6 @@
         "difficulty": "impossible",
         "notes": "It is not possible to delete your Hack This Site account.  The best you can do is delete any personal information that you have stored on their website.",
         "domains": [
-            "www.hackthissite.org",
             "hackthissite.org"
         ]
     },
@@ -1543,7 +1490,6 @@
         "url": "http://www.hi5.com/account_cancel.html",
         "difficulty": "easy",
         "domains": [
-            "www.hi5.com",
             "hi5.com"
         ]
     },
@@ -1553,7 +1499,6 @@
         "difficulty": "easy",
         "notes": "The website automatically deletes your account after a predetermined time",
         "domains": [
-            "www.hidemyass.com",
             "hidemyass.com"
         ]
     },
@@ -1604,7 +1549,6 @@
         "url": "http://www.hypejar.com/settings/account",
         "difficulty": "easy",
         "domains": [
-            "www.hypejar.com",
             "hypejar.com"
         ]
     },
@@ -1627,7 +1571,6 @@
         "url": "http://www.icq.com/delete-account/",
         "difficulty": "easy",
         "domains": [
-            "www.icq.com",
             "icq.com"
         ]
     },
@@ -1721,7 +1664,6 @@
         "url": "https://www.instapaper.com/user/delete",
         "difficulty": "easy",
         "domains": [
-            "www.instapaper.com",
             "instapaper.com"
         ]
     },
@@ -1732,7 +1674,6 @@
         "notes": "You have to email them (service@instructables.com) to get your account deleted",
         "email": "service@instructables.com",
         "domains": [
-            "www.instructables.com",
             "instructables.com"
         ]
     },
@@ -1765,7 +1706,6 @@
         "difficulty": "easy",
         "notes": "Go to IRCCloud, sign in, click 'Settings', scroll down, enter your password in 'Delete your account', and confirm.",
         "domains": [
-            "www.irccloud.com",
             "irccloud.com"
         ]
     },
@@ -1780,7 +1720,6 @@
         "notes_cat": "Contacta amb el servei d'assistència. Perdrà l'accés a qualsevol contingut que no hagi descarregat al seu ordinador.",
         "notes_es": "Contacte con el servicio de asistencia. Perderá el acceso a cualquier contenido que no haya descargado en su ordenador.",
         "domains": [
-            "www.apple.com",
             "apple.com"
         ]
     },
@@ -1804,7 +1743,6 @@
         "difficulty": "easy",
         "notes": "Under 'Membership Management' click 'Remove my Profile'. Fill out the survey and submit to delete your profile.",
         "domains": [
-            "www.jdate.com",
             "jdate.com"
         ]
     },
@@ -1849,7 +1787,6 @@
         "notes_cat": "Entri al compte. Posi la seva contrassenya. Presioni 'delete'.",
         "notes_es": "Entre en la cuenta. Ponga su contraseña. Pulse 'delete'.",
         "domains": [
-            "www.jottacloud.com",
             "jottacloud.com"
         ]
     },
@@ -1882,7 +1819,6 @@
         "url": "http://www.justin.tv/user/close_account",
         "difficulty": "easy",
         "domains": [
-            "www.justin.tv",
             "justin.tv"
         ]
     },
@@ -1891,7 +1827,6 @@
         "url": "https://www.khanacademy.org/settings",
         "difficulty": "easy",
         "domains": [
-            "www.khanacademy.org",
             "khanacademy.org"
         ]
     },
@@ -1952,7 +1887,6 @@
         "difficulty": "hard",
         "notes": "You can close your account if you contact customer service either by phone or live chat",
         "domains": [
-            "www.kno.com",
             "kno.com"
         ]
     },
@@ -1997,7 +1931,6 @@
         "notes_cat": "La desactivació pot trigar 7 dies a eliminar les teves dades",
         "notes_es": "La desactivación puede tardar 7 días en eliminar sus datos",
         "domains": [
-            "www.last.fm",
             "last.fm"
         ]
     },
@@ -2033,7 +1966,6 @@
         "url": "http://www.librarything.de/editprofile/change",
         "difficulty": "easy",
         "domains": [
-            "www.librarything.de",
             "librarything.de"
         ]
     },
@@ -2087,7 +2019,6 @@
         "notes_cat": "Una vegada que hagi eliminat el seu Journal, tindrà 30 dies per tirar enderrera la decisiò. Després de 30 dies el seu contingut serà borrat permanentment i no es podrà recuperar.",
         "notes_es": "Una vez que haya eliminado su Journal, tendrá 30 días para cancelar la decisión. Después de 30 días su contenido será borrado permanentemente y no se podrá recuperar.",
         "domains": [
-            "www.livejournal.com",
             "livejournal.com"
         ]
     },
@@ -2109,7 +2040,6 @@
         "notes_cat": "Ha de tornar tots els discs físics, el seu compte estarà en “cancelament pendent” fins que es rebin els discs.",
         "notes_es": "Debe devolver todos los discos físicos, su cuenta estará en “cancelament pendiente” hasta que se reciban los discos.",
         "domains": [
-            "www.lovefilm.com",
             "lovefilm.com"
         ]
     },
@@ -2160,7 +2090,6 @@
         "url": "https://www.mediafire.com/myaccount/accountbilling.php",
         "difficulty": "easy",
         "domains": [
-            "www.mediafire.com",
             "mediafire.com"
         ]
     },
@@ -2177,7 +2106,6 @@
         "url": "http://www.meetup.com/account/remove/",
         "difficulty": "easy",
         "domains": [
-            "www.meetup.com",
             "meetup.com"
         ]
     },
@@ -2224,7 +2152,6 @@
         "url": "http://www.mixcloud.com/myaccount/account/",
         "difficulty": "easy",
         "domains": [
-            "www.mixcloud.com",
             "mixcloud.com"
         ]
     },
@@ -2234,7 +2161,6 @@
         "difficulty": "hard",
         "notes": "You have to send a message in order to remove your account.",
         "domains": [
-            "www.mobify.com",
             "mobify.com"
         ]
     },
@@ -2320,7 +2246,6 @@
         "url": "http://www.mylife.com/showDeleteAccount.do",
         "difficulty": "easy",
         "domains": [
-            "www.mylife.com",
             "mylife.com"
         ]
     },
@@ -2334,7 +2259,6 @@
         "notes_cat": "Malgrat que sembla que el seu compte hagi estat eliminat, podrà reactivar-lo, així que les seves dades no s'han esborrat del tot",
         "notes_es": "A pesar de que parece que su cuenta haya sido eliminada, podrá reactivarla, así que sus datos no se han borrado del todo",
         "domains": [
-            "www.myopenid.com",
             "myopenid.com"
         ]
     },
@@ -2363,7 +2287,6 @@
         "notes": "Send an email to the unsubscribe@neopets.com stating you wish to delete your account.",
         "email": "unsubscribe@neopets.com",
         "domains": [
-            "www.neopets.com",
             "neopets.com"
         ]
     },
@@ -2425,7 +2348,6 @@
         "url": "https://www.newsblur.com/profile/delete_account",
         "difficulty": "easy",
         "domains": [
-            "www.newsblur.com",
             "newsblur.com"
         ]
     },
@@ -2445,7 +2367,6 @@
         "difficulty": "easy",
         "notes": "You will see an option to delete your account just below the password reset option.",
         "domains": [
-            "www.nitrous.io",
             "nitrous.io"
         ]
     },
@@ -2455,7 +2376,6 @@
         "difficulty": "easy",
         "notes": "Check the box to confirm and then click 'Change'.",
         "domains": [
-            "www.noip.com",
             "noip.com"
         ]
     },
@@ -2469,7 +2389,6 @@
         "notes_cat": "Entri al seu compte, baixi fins a 'License Agreement', cliqui a 'Delete profile', marqui les caselles que desitgi, entri la seva clau i faci clic a 'Remove'.",
         "notes_es": "Entre en su cuenta, baje hasta 'License Agreement', pulse 'Delete profile', marque las casillas que desee, entre su contraseña  y haga clic en 'Remove'.",
         "domains": [
-            "www.odnoklassniki.ru",
             "odnoklassniki.ru"
         ]
     },
@@ -2483,7 +2402,6 @@
         "notes_cat": "Visiti la pàgina de paràmetres, i seleccioni 'Delete Account'",
         "notes_es": "Visite la página de parámetros, y seleccione 'Delete Account'",
         "domains": [
-            "www.okcupid.com",
             "okcupid.com"
         ]
     },
@@ -2498,7 +2416,6 @@
         "notes_cat": "Pot desactivar el seu compte amb l'enllaç. Però les dades no poden ser esborrades. Encara que contacti amb Atenció al client no esborraran les seves dades.",
         "notes_es": "Puede desactivar su cuenta con el enlace. Pero los datos no pueden ser borrados. Aunque contacte con atención al cliente no borrarán sus datos.",
         "domains": [
-            "www.onlinetvrecorder.com",
             "onlinetvrecorder.com"
         ]
     },
@@ -2521,8 +2438,7 @@
         "url": "https://accounts.google.com/DeleteService?service=orkut",
         "difficulty": "easy",
         "domains": [
-            "orkut.com",
-            "www.orkut.com"
+            "orkut.com"
         ]
     },
     {
@@ -2613,7 +2529,6 @@
         "difficulty": "easy",
         "notes": "Log in. Click 'Profile' near the top of the page. Click 'My settings'. Click 'Close Account' in the 'Account type' section and follow the steps listed.",
         "domains": [
-            "www.paypal.com",
             "paypal.com"
         ]
     },
@@ -2622,7 +2537,6 @@
         "url": "https://www.phishtank.com/",
         "difficulty": "impossible",
         "domains": [
-            "www.phishtank.com",
             "phishtank.com"
         ]
     },
@@ -2668,7 +2582,6 @@
         "url": "http://www.pixoona.com/dashboard#user/delete",
         "difficulty": "easy",
         "domains": [
-            "www.pixoona.com",
             "pixoona.com"
         ]
     },
@@ -2692,7 +2605,6 @@
         "notes_cat": "Completi el formulari d'eliminació del compte",
         "notes_es": "Complete el formulario de eliminación de la cuenta",
         "domains": [
-            "www.pof.com",
             "pof.com"
         ]
     },
@@ -2733,7 +2645,6 @@
         "notes_cat": "Entri al seu compte -> Cliqui a l'enllaç (les dades s'eliminen permanentment, no es pot revertir).",
         "notes_es": "Entre en su cuenta -> Clique en el enlace (los datos se eliminan permanentmente, noses puede revertir).",
         "domains": [
-            "www.postcrossing.com",
             "postcrossing.com"
         ]
     },
@@ -2760,7 +2671,6 @@
         "difficulty": "hard",
         "notes": "First deactivate your account. Log in, go to 'Settings', 'Privacy', and then 'Deactivate Account'. You can then e-mail privacy@quora.com if you want to completely delete your account.",
         "domains": [
-            "www.quora.com",
             "quora.com"
         ]
     },
@@ -2771,7 +2681,6 @@
         "notes": "Login, go to profil page, it's in tab 'my data' and click 'delete my account'.",
         "notes_fr": "logez vous, allez à la page du profil, c'est dans l'onglet 'mes données' et cliquez sur 'supprimer mon compte.'",
         "domains": [
-            "www.radio.fr",
             "radio.fr"
         ]
     },
@@ -2811,7 +2720,6 @@
         "url": "http://www.rdio.com/settings/advanced/",
         "difficulty": "easy",
         "domains": [
-            "www.rdio.com",
             "rdio.com"
         ]
     },
@@ -2826,7 +2734,6 @@
         "notes_cat": "No podrà esborrar el seu compte, pero es podrà desactivar.",
         "notes_es": "No podrá borrar su cuenta, pero se podrá desactivar.",
         "domains": [
-            "www.readability.com",
             "readability.com"
         ]
     },
@@ -2864,7 +2771,6 @@
         "url": "https://www.rememberthemilk.com/login/delete.rtm",
         "difficulty": "easy",
         "domains": [
-            "www.rememberthemilk.com",
             "rememberthemilk.com"
         ]
     },
@@ -2938,7 +2844,6 @@
         "url": "http://www.scribd.com/account_settings/preferences",
         "difficulty": "easy",
         "domains": [
-            "www.scribd.com",
             "scribd.com"
         ]
     },
@@ -2987,7 +2892,6 @@
         "notes_cat": "Contacti amb l'assistència al client per e-mail o chat i demani la supressió del compte.",
         "notes_es": "Contacte con la asistencia al cliente por e-mail o chat y pida la supresión de la cuenta.",
         "domains": [
-            "www.shutterfly.com",
             "shutterfly.com"
         ]
     },
@@ -2997,7 +2901,6 @@
         "difficulty": "hard",
         "notes": "Enter your password to have your account marked for deletion by an administrator or moderator. You can do this for any other Simple Machines forums if the forum administrator allows.",
         "domains": [
-            "www.simplemachines.org",
             "simplemachines.org"
         ]
     },
@@ -3006,7 +2909,6 @@
         "url": "http://www.skoob.com.br/usuario/excluir/",
         "difficulty": "easy",
         "domains": [
-            "www.skoob.com.br",
             "skoob.com.br"
         ]
     },
@@ -3058,7 +2960,6 @@
         "notes_cat": "Entri el seu nom d'usuari i contrasenya i faci clic a 'Delete'.",
         "notes_es": "Entre su nombre de usuario y contraseña y haga clic en 'Delete'.",
         "domains": [
-            "www.snapchat.com",
             "snapchat.com"
         ]
     },
@@ -3067,7 +2968,6 @@
         "url": "http://www.songkick.com/settings/account-settings",
         "difficulty": "easy",
         "domains": [
-            "www.songkick.com",
             "songkick.com"
         ]
     },
@@ -3083,7 +2983,6 @@
         "notes_es": "Envíe una petición para borrar su cuenta a legal@sonico.com.",
         "email": "legal@sonico.com",
         "domains": [
-            "www.sonico.com",
             "sonico.com"
         ]
     },
@@ -3140,7 +3039,6 @@
         "notes_cat": "Contacti amb l'assistència al client d'Spotify a través del formulari de contacte i demana el clausurament del compte.",
         "notes_es": "Contacte con asistencia al cliente de Spotify a través del formulario de contacto y pide el cierre de la cuenta.",
         "domains": [
-            "www.spotify.com",
             "spotify.com"
         ]
     },
@@ -3213,7 +3111,6 @@
         "notes_cat": "L'eliminació no pot ser anulada. Totes les dades del teu perfil, contactes, missatges i imatges seran eliminades permanentment. Ningú es podrà posar en contacte amb tu.",
         "notes_es": "La eliminación no puede ser anulada. Todos los datos de tu perfil, contactos, mensajes e imágenes serán eliminadas permanentemente. Nadie podrá ponerse en contacto contigo.",
         "domains": [
-            "www.stayfriends.de",
             "stayfriends.de"
         ]
     },
@@ -3239,7 +3136,6 @@
         "notes_de": "Um Deinen StepMap-Account zu löschen, teile uns dies bitte per E-Mail an info@stepmap.de mit und nenne uns Deinen Benutzernamen. Die Absenderadresse muss Deine E-Mail-Adresse sein, mit der Du Dich bei StepMap angemeldet hast.",
         "email": "info@stepmap.de",
         "domains": [
-            "www.stepmap.de",
             "stepmap.de"
         ]
     },
@@ -3248,7 +3144,6 @@
         "url": "http://www.stereomood.com/users/account",
         "difficulty": "easy",
         "domains": [
-            "www.stereomood.com",
             "stereomood.com"
         ]
     },
@@ -3271,7 +3166,6 @@
         "notes_cat": "Mitjançant la desactivació, totes les activitats s'eliminaran i serà eliminat de totes les leaderboards. Strava mantindrà un arxiu amb les dades GPS que s'envien a Strava, però l'arxiu no es podrà utilitzar per restaurar el compte.",
         "notes_es": "Mediante la desactivación, todas las actividades se eliminarán y será eliminado de todas las leaderboards. Strava mantendrá un archivo con los datos GPS que se envían a Strava, pero el archivo no se podrá utilizar para restaurar la cuenta.",
         "domains": [
-            "www.strava.com",
             "strava.com"
         ]
     },
@@ -3286,7 +3180,6 @@
         "notes_cat": "Pot reactivar-la en un termini de 14 dies. Desprès d'aquest temps el compte serà esborrat.",
         "notes_es": "Puede reactivarla en un plazo de 14 días. Después de este tiempo la cuenta será borrada.",
         "domains": [
-            "www.stumbleupon.com",
             "stumbleupon.com"
         ]
     },
@@ -3307,7 +3200,6 @@
         "difficulty": "easy",
         "notes": "You can reactivate at any time by logging in to your account.",
         "domains": [
-            "www.tagged.com",
             "tagged.com"
         ]
     },
@@ -3354,7 +3246,6 @@
         "notes_cat": "Haurà de sol·licitar que esborrin el seu compte via formulari.",
         "notes_es": "Deberá solicitar que borren su cuenta vía formulario.",
         "domains": [
-            "www.ticketmaster.com",
             "ticketmaster.com"
         ]
     },
@@ -3364,7 +3255,6 @@
         "difficulty": "hard",
         "notes": "You can't delete your account, but you can contact them via email to deactivate it.",
         "domains": [
-            "www.topcoder.com",
             "topcoder.com"
         ]
     },
@@ -3383,7 +3273,6 @@
         "notes": "you have to ask the staff to delete your account",
         "notes_fr": "Vous devez demander au staff pour supprimer votre compte",
         "domains": [
-            "www.t411.me",
             "t411.me"
         ]
     },
@@ -3428,7 +3317,6 @@
         "url": "https://www.tripit.com/account/delete",
         "difficulty": "easy",
         "domains": [
-            "www.tripit.com",
             "tripit.com"
         ]
     },
@@ -3437,7 +3325,6 @@
         "url": "http://www.tumblr.com/account/delete",
         "difficulty": "easy",
         "domains": [
-            "www.tumblr.com",
             "tumblr.com"
         ]
     },
@@ -3446,7 +3333,6 @@
         "url": "https://www.tweetdeck.com/api/account-delete/",
         "difficulty": "easy",
         "domains": [
-            "www.tweetdeck.com",
             "tweetdeck.com"
         ]
     },
@@ -3455,7 +3341,6 @@
         "url": "http://www.twitch.tv/user/close_account",
         "difficulty": "easy",
         "domains": [
-            "www.twitch.tv",
             "twitch.tv"
         ]
     },
@@ -3508,7 +3393,6 @@
         "notes_cat": "Per esborrar el seu compte, haurà de deixar d'estar subscrit a tots els cursos.",
         "notes_es": "Para borrar su cuenta, deberá dejar de estar suscrito a todos los cursos.",
         "domains": [
-            "www.udemy.com",
             "udemy.com"
         ]
     },
@@ -3526,7 +3410,6 @@
         "url": "https://www.ups.com/myups/deletereg",
         "difficulty": "easy",
         "domains": [
-            "www.ups.com",
             "ups.com"
         ]
     },
@@ -3541,7 +3424,6 @@
         "notes_cat": "Baixi fins al peu de la pàgina a 'Account Settings' i cliqui a 'Delete Account'",
         "notes_es": "Baje hasta el pie de la página en 'Account Settings' y pulse 'Delete Account",
         "domains": [
-            "www.ustream.tv",
             "ustream.tv"
         ]
     },
@@ -3564,7 +3446,6 @@
         "url": "http://www.veduca.com.br",
         "difficulty": "impossible",
         "domains": [
-            "www.veduca.com.br",
             "veduca.com.br"
         ]
     },
@@ -3579,7 +3460,6 @@
         "notes_cat": "Hi ha un botò a la dreta, just a sota del menu.",
         "notes_es": "Hay un botón a la derecha, justo debajo del menú.",
         "domains": [
-            "www.viadeo.com",
             "viadeo.com"
         ]
     },
@@ -3601,8 +3481,7 @@
         "notes_cat": "L'unica manera d'esborrar el seu compte de Vine sense esborrar el compte de Twitter es contactar amb Twitter via el seu formulari de contacte.",
         "notes_es": "La única manera de borrar su cuenta de Vine sin borrar la cuenta de Twitter es contactar con Twitter vía su formulario de contacto.",
         "domains": [
-            "support.twitter.com",
-            "twitter.com"
+            "vine.co"
         ]
     },
     {
@@ -3618,7 +3497,6 @@
         "url": "http://www.wayn.com/wayn.html?wci=unregister",
         "difficulty": "easy",
         "domains": [
-            "www.wayn.com",
             "wayn.com"
         ]
     },
@@ -3627,7 +3505,6 @@
         "url": "https://www.waze.com/dashboard/delete_account",
         "difficulty": "easy",
         "domains": [
-            "www.waze.com",
             "waze.com"
         ]
     },
@@ -3735,7 +3612,6 @@
         "notes_cat": "Cliqui a 'Delete Account' al final del panell d'opcions del compte.",
         "notes_es": "Clique en 'Delete Account' al final del panel de opciones de la cuenta.",
         "domains": [
-            "www.wunderlist.com",
             "wunderlist.com"
         ]
     },
@@ -3745,7 +3621,6 @@
         "difficulty": "impossible",
         "notes": "There is no way to delete your account, you can only make some information private and/or delete it.",
         "domains": [
-            "www.xfire.com",
             "xfire.com"
         ]
     },
@@ -3760,7 +3635,6 @@
         "notes_cat": "Seleccioni 'delete my profile' al final de la pàgina.",
         "notes_es": "Seleccione 'delete my profile' al final de la página.",
         "domains": [
-            "www.xing.com",
             "xing.com"
         ]
     },
@@ -3775,7 +3649,6 @@
         "notes_cat": "Fes clic a l'enllaç “Delete account” al final de la pàgina.",
         "notes_es": "Haz clic en “Delete account” al final de la página.",
         "domains": [
-            "www.xobni.com",
             "xobni.com"
         ]
     },
@@ -3809,7 +3682,6 @@
         "url": "http://www.yelp.co.uk/contact?topic=support&subtopic=close",
         "difficulty": "easy",
         "domains": [
-            "www.yelp.co.uk",
             "yelp.co.uk"
         ]
     },
@@ -3824,7 +3696,6 @@
         "notes_fr": "Vous ne pouvez pas supprimer votre compte Youtube sans supprimer votre compte Google. Mais vous pouvez supprimer votre chaîne.",
         "notes_es": "No puedes borrar tu cuenta de Youtube sin borrar toda la cuenta de Google, pero puedes borrar tu canal.",
         "domains": [
-            "www.youtube.com",
             "youtube.com"
         ]
     },
