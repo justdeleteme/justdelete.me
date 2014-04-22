@@ -2738,6 +2738,14 @@
         ]
     },
     {
+        "name": "ReadyForZero",
+        "url": "https://www.readyforzero.com/user/settings#readyforzero-account",
+        "difficulty": "easy",
+        "domains": [
+          "readyforzero.com"
+        ]
+    },
+    {
         "meta": "popular",
         "name": "Reddit",
         "url": "https://ssl.reddit.com/prefs/delete/",
