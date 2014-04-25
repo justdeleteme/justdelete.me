@@ -2166,8 +2166,9 @@
     {
         "name": "MisterWong",
         "url": "http://www.mister-wong.de",
+        "email": "support@mister-wong.de",
         "difficulty": "hard",
-        "notes": "You need to send an email to support@mister-wong.de and it may take up to 48 hours to process your request.",
+        "notes": "You need to send an email to support and it may take up to 48 hours to process your request.",
         "domains": [
             "mister-wong.de"
         ]
