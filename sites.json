@@ -2148,6 +2148,15 @@
         ]
     },
     {
+        "name": "MisterWong",
+        "url": "http://www.mister-wong.de",
+        "difficulty": "hard",
+        "notes": "You need to send an email to support@mister-wong.de and it may take up to 48 hours to process your request.",
+        "domains": [
+            "mister-wong.de"
+        ]
+    },
+    {
         "name": "MixCloud",
         "url": "http://www.mixcloud.com/myaccount/account/",
         "difficulty": "easy",
