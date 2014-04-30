@@ -351,10 +351,19 @@
 	<div id="dropdown-3" class="dropdown dropdown-tip">
 		<ul class="dropdown-menu">
 			<span class="diff-sort">
+        <?php
+          if ($lang != "zh-tw" && $lang != "zh-cn") {
+        ?>
                             <li><a href="#"><?php echo ucfirst($difficulty_easy); ?></a></li>
                             <li><a href="#"><?php echo ucfirst($difficulty_medium); ?></a></li>
                             <li><a href="#"><?php echo ucfirst($difficulty_hard); ?></a></li>
                             <li><a href="#"><?php echo ucfirst($difficulty_impossible); ?></a></li>
+        <?php } else { ?>
+                            <li><a href="#"><?php echo $difficulty_easy; ?></a></li>
+                            <li><a href="#"><?php echo $difficulty_medium; ?></a></li>
+                            <li><a href="#"><?php echo $difficulty_hard; ?></a></li>
+                            <li><a href="#"><?php echo $difficulty_impossible; ?></a></li>
+        <?php } ?>
 			</span>
 		</ul>
 	</div>
