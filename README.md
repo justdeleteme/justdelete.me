@@ -33,6 +33,14 @@ The sites, urls and additional notes are stored in `sites.json`. If you want to 
 
 If you want to translate the site see #164 and #165
 
+### Style guide for Spanish Translations
+
+Use guillemets (« ») for quoting statements that the website owner has published. Try to address the user as Tú instead of Usted. Write "haz clic" (hacer clic) instead of the verb "cliquear" or "clicar" because the former is the [RAE recommended way](http://lema.rae.es/dpd/srv/search?key=clic) of writing it.
+
+### Guía de estilo para las traducciones españolas
+
+Usa las comillas angulares (« ») para citar las declaraciones de los dueños de los sitios. Usa Tú en vez de Usted con los usarios. Escribe "haz clic" (hacer clic) en vez del verbo "cliquear" o "clicar" porque el primero oración es la manera que es [más recomendable según la RAE](http://lema.rae.es/dpd/srv/search?key=clic).
+
 Search functionality modified from [DevCenter.me](https://github.com/stevestreza/DevCenter.me).
 
 ##Licence
