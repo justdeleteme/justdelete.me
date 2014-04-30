@@ -3578,6 +3578,16 @@
         ]
     },
     {
+        "name": "whosay.com",
+        "url": "http://www.whosay.com/settings",
+        "difficulty": "easy",
+        "notes": "Just click 'Deactivate'.",
+        "notes_fa": "فقط روی 'Deactivate' کلیک کنید.",
+        "domains": [
+            "whosay.com"
+        ]
+    },
+    {
         "meta": "popular",
         "name": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Wikipedia:FAQ#How_do_I_change_my_username.2Fdelete_my_account.3F",
