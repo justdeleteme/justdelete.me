@@ -2232,6 +2232,18 @@
         ]
     },
     {
+        "name": "myJdownloader",
+        "url": "http://my.jdownloader.org/",
+        "difficulty": "medium",
+        "notes": "Go to your account settings (top right, click on your E-Mail-Adress) and select 'Delete Account'",
+        "notes_de": "Gehe zu deinen Account-Einstellungen (oben rechts, klicke auf deine E-Mail-Adresse) und wähle 'Delete Account' aus.",
+        "domains": [
+            "my.jdownloader.org",
+            "jdownloader.org"
+        ]
+        
+    },
+    {
         "name": "My Opera",
         "url": "https://my.opera.com/USERNAME/account/delete",
         "difficulty": "easy",
