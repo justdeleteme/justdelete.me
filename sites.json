@@ -442,6 +442,17 @@
         ]
     },
     {
+        "name": "cex.io",
+        "url": "https://support.cex.io/hc/en-us/articles/201516097-How-can-I-delete-my-account-from-CEX-IO-and-GHash-IO-",
+        "email": "support@cex.io", 
+        "difficulty": "hard",
+        "notes": "You can't delete your account without contacting them. You must set the subject to 'Delete Account'",
+        "notes_de": "Sie können Ihren Account nicht löschen ohne den Support zu kontaktieren. Sie müssen den Betreff auf 'Delete Account' setzen.",
+        "domains": [
+            "cex.io"    
+        ]
+    },
+    {
         "name": "Change.org",
         "url": "https://www.change.org/account_settings",
         "difficulty": "easy",
@@ -1192,6 +1203,17 @@
         ]
     },
     {
+        "name": "ghash.io",
+        "url": "https://support.cex.io/hc/en-us/articles/201516097-How-can-I-delete-my-account-from-CEX-IO-and-GHash-IO-",
+        "email": "support@cex.io", 
+        "difficulty": "hard",
+        "notes": "You can't delete your account without contacting them. You must set the subject to 'Delete Account'",
+        "notes_de": "Sie können Ihren Account nicht löschen ohne den Support zu kontaktieren. Sie müssen den Betreff auf 'Delete Account' setzen.",
+        "domains": [
+            "ghash.io"    
+        ]
+    },
+    {
         "name": "GitHub",
         "url": "https://github.com/settings/admin",
         "difficulty": "easy",
@@ -1615,6 +1637,17 @@
         "domains": [
             "imo.im"
         ]
+    },
+    {
+        "name": "Ingress",
+        "url": "https://www.ingress.com",
+        "difficulty": "impossible",
+        "notes": "You can't delete your Ingress Account without deleting your entire Google Account.",
+        "notes_de": "Sie können Ihren Ingress-Account nicht löschen ohne Ihren ganzen Google-Account zu löschen.",
+        "domains": [
+            "ingress.com"    
+        ]
+        
     },
     {
         "name": "InfiBot",
