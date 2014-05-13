@@ -1291,6 +1291,15 @@
         ]
     },
     {
+        "name": "Gogo",
+        "url": "http://custhelp.gogoinflight.com/",
+        "difficulty": "hard",
+        "notes": "Email customercare@gogoair.com and ask to have your account deleted.",
+        "domains": [
+            "gogoair.com"
+        ]
+    },
+    {
         "name": "Good Noows",
         "url": "http://goodnoows.com",
         "difficulty": "easy",
