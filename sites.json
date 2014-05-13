@@ -1048,6 +1048,15 @@
         ]
     },
     {
+        "name": "Flixster",
+        "url": "https://www.flixster.com/docs/privacy/",
+        "difficulty": "hard",
+        "notes": "Email privacy@flixster-inc.com and ask to have your account deleted.",
+        "domains": [
+            "flixster.com"
+        ]
+    },
+    {
         "name": "Forka",
         "url": "http://www.fotka.pl/ustawienia/konto_usun",
         "difficulty": "medium",
