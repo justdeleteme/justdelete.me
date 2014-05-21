@@ -802,6 +802,16 @@
         ]
     },
     {
+        "name": "DOWN",
+        "url": "https://bangwithfriends.zendesk.com/hc/en-us/articles/201441976-Deleting-Your-Account",
+        "difficulty": "medium",
+        "domains": [
+            "downapp.com"
+        ],
+        "notes": "You need to remove the App in your Facebook settings and mail feedback@downapp.com to delete your data.",
+        "email": "feedback@downapp.com"
+    },
+    {
         "name": "Draft",
         "url": "https://draftin.com/draft/users/edit",
         "difficulty": "easy",
