@@ -1831,6 +1831,14 @@
         ]
     },
     {
+        "name": "Kickstarter",
+        "url": "https://www.kickstarter.com/profile/destroy",
+        "difficulty": "easy",
+        "domains": [
+            "kickstarter.com"
+        ]
+    },
+    {
         "name": "Kik",
         "url": "https://kikinteractive.zendesk.com/entries/23593116-How-do-I-deactivate-my-account-",
         "difficulty": "impossible",
