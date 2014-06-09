@@ -1651,6 +1651,14 @@
         ]
     },
     {
+        "name": "Instacast Cloud",
+        "url": "http://instacastcloud.com/dashboard/dangerzone",
+        "difficulty": "easy",
+        "domains": [
+            "instacastcloud.com"
+        ]
+    },
+    {
         "meta": "popular",
         "name": "Instagram",
         "url": "https://instagram.com/accounts/remove/request",
