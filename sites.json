@@ -2955,6 +2955,12 @@
         ]
     },
     {
+        "name": "SlimTimer",
+        "url": "http://slimtimer.com/",
+        "difficulty": "hard",
+        "notes": "Email request required."
+    },
+    {
         "name": "Snapchat",
         "url": "http://www.snapchat.com/a/delete_account",
         "difficulty": "easy",
