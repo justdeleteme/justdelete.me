@@ -7,6 +7,7 @@
             "4shared.com"
         ]
     },
+
     {
         "name": "500px",
         "url": "https://500px.com/settings",
@@ -15,6 +16,7 @@
             "500px.com"
         ]
     },
+
     {
         "name": "9GAG",
         "url": "https://9gag.com/member/delete",
@@ -29,6 +31,7 @@
             "9gag.com"
         ]
     },
+
     {
         "name": "Abload",
         "url": "http://abload.de/settings.php",
@@ -37,6 +40,7 @@
             "abload.de"
         ]
     },
+
     {
         "name": "About.me",
         "url": "https://about.me/account",
@@ -45,6 +49,7 @@
             "about.me"
         ]
     },
+
     {
         "name": "Adobe",
         "url": "https://learn.adobe.com/wiki/display/wel/Delete+your+account",
@@ -60,6 +65,7 @@
             "adobe.com"
         ]
     },
+
     {
         "name": "Airbnb",
         "url": "https://www.airbnb.com/users/settings",
@@ -68,6 +74,7 @@
             "airbnb.com"
         ]
     },
+
     {
         "name": "Album Reminder",
         "url": "http://www.albumreminder.com/usercenter/deleteaccount/",
@@ -76,6 +83,7 @@
             "albumreminder.com"
         ]
     },
+
     {
         "name": "Alibaba",
         "url": "http://www.alibaba.com/help/contact-us.html",
@@ -85,6 +93,7 @@
             "alibaba.com"
         ]
     },
+
     {
         "name": "Amara",
         "url": "http://www.amara.org/profiles/account/",
@@ -95,6 +104,7 @@
             "amara.org"
         ]
     },
+
     {
         "name": "Amazon",
         "url": "https://www.amazon.com/gp/help/customer/contact-us/ref=cu_cf_email?ie=UTF8&mode=email#a",
@@ -110,6 +120,7 @@
             "amazon.com"
         ]
     },
+
     {
         "name": "Amazon AWS",
         "url": "https://portal.aws.amazon.com/gp/aws/manageYourAccount?#productToCancel",
@@ -120,6 +131,7 @@
             "amazon.com"
         ]
     },
+
     {
         "name": "Animal Crossing Community",
         "url": "http://www.animalcrossingcommunity.com/help_main.asp?HelpSectionID=5#Topic201",
@@ -134,6 +146,7 @@
             "animalcrossingcommunity.com"
         ]
     },
+
     {
         "name": "AOL / Instant Messenger",
         "url": "http://cancel.aol.com",
@@ -143,6 +156,7 @@
             "aol.com"
         ]
     },
+
     {
         "name": "App.net",
         "url": "https://account.app.net/settings/delete/",
@@ -152,6 +166,7 @@
             "app.net"
         ]
     },
+
     {
         "name": "AppFog",
         "url": "https://groups.google.com/forum/#!topic/appfog-users/H9AkHjHFfZk",
@@ -163,6 +178,7 @@
             "appfog.com"
         ]
     },
+
     {
         "name": "Argyle Social",
         "url": "http://app.argylesocial.com/contact_us",
@@ -173,6 +189,7 @@
             "argylesocial.com"
         ]
     },
+
     {
         "name": "Artsy",
         "url": "http://artsy.net/user/delete",
@@ -181,6 +198,7 @@
             "artsy.net"
         ]
     },
+
     {
         "name": "Ask.fm",
         "url": "http://ask.fm/feedbacks/new",
@@ -206,6 +224,7 @@
             "asos.de"
         ]
     },
+
     {
         "name": "Assembla",
         "url": "https://www.assembla.com/user/edit/edit_account_settings",
@@ -214,6 +233,7 @@
             "assembla.com"
         ]
     },
+
     {
         "name": "Bambuser",
         "url": "https://bambuser.com/settings",
@@ -228,6 +248,7 @@
             "bambuser.com"
         ]
     },
+
     {
         "name": "Bandcamp",
         "url": "https://bandcamp.com/settings?pane=fan",
@@ -237,6 +258,7 @@
             "bandcamp.com"
         ]
     },
+
     {
         "name": "Barnes and Noble",
         "url": "http://www.barnesandnoble.com/customerservice/contactus",
@@ -246,6 +268,7 @@
             "barnesandnoble.com"
         ]
     },
+
     {
         "name": "Basecamp",
         "url": "https://basecamp.com/help/guides/account/cancel",
@@ -255,6 +278,7 @@
             "basecamp.com"
         ]
     },
+
     {
         "name": "Battle.net",
         "url": "https://eu.battle.net/support/en/ticket/submit",
@@ -270,6 +294,7 @@
             "battle.net"
         ]
     },
+
     {
         "name": "BBC iD",
         "url": "https://ssl.bbc.co.uk/id/settings/delete",
@@ -279,6 +304,7 @@
             "bbc.co.uk"
         ]
     },
+
     {
         "name": "Behance",
         "url": "http://www.behance.net/account/privacy",
@@ -289,6 +315,7 @@
             "behance.net"
         ]
     },
+
     {
         "name": "Bitbucket",
         "url": "https://bitbucket.org/account/",
@@ -303,6 +330,7 @@
             "bitbucket.org"
         ]
     },
+
     {
         "name": "bitly",
         "url": "http://support.bitly.com/knowledgebase/articles/105373-how-do-i-delete-my-account-",
@@ -316,6 +344,7 @@
             "bitly.com"
         ]
     },
+
     {
         "meta": "popular",
         "name": "Blogger",
@@ -329,6 +358,7 @@
             "blogger.com"
         ]
     },
+
     {
         "name": "Blue Apron",
         "url": "https://www.blueapron.com/cancel_subscription",
@@ -337,6 +367,7 @@
             "blueapron.com"
         ]
     },
+
     {
         "name": "BoardGameGeek",
         "url": "http://www.boardgamegeek.com/geekaccount.php?action=requestdeletion",
@@ -347,6 +378,7 @@
             "boardgamegeek.com"
         ]
     },
+
     {
         "name": "BodyBuilding",
         "url": "http://www.bodybuilding.com/store/help/delete-bodyspace-account.htm",
@@ -361,6 +393,7 @@
             "bodybuilding.com"
         ]
     },
+
     {
         "name": "BoerseBZ",
         "url": "http://www.boerse.bz/profile.php?do=delacc",
@@ -372,6 +405,7 @@
             "boerse.bz"
         ]
     },
+
     {
         "name": "Booking",
         "url": "https://secure.booking.com/login.en-us.html?tmpl=profile/delete_account",
@@ -381,6 +415,7 @@
             "booking.com"
         ]
     },
+
     {
         "name": "Booklooker",
         "url": "https://secure.booklooker.de/pages/contact.php",
@@ -392,6 +427,7 @@
             "booklooker.de"
         ]
     },
+
     {
         "meta": "popular",
         "name": "Box",
@@ -402,6 +438,7 @@
             "box.com"
         ]
     },
+
     {
         "name": "Boxee",
         "url": "http://bbx.boxee.tv/user/delete",
@@ -411,6 +448,7 @@
             "boxee.tv"
         ]
     },
+
     {
         "name": "Buffer",
         "url": "https://bufferapp.com/app/account/leave",
@@ -419,6 +457,7 @@
             "bufferapp.com"
         ]
     },
+
     {
         "name": "BurstNET",
         "url": "http://burst.net/",
@@ -428,6 +467,7 @@
             "burst.net"
         ]
     },
+
     {
         "name": "C&M News by Rеss.at",
         "url": "http://www.ress.at/profil/profil_entfernen.php",
@@ -443,6 +483,7 @@
             "ress.at"
         ]
     },
+
     {
         "name": "Call of Duty (Activision)",
         "url": "http://www.callofduty.com/",
@@ -452,6 +493,7 @@
             "callofduty.com"
         ]
     },
+
     {
         "name": "CareerBuilder.com",
         "url": "http://www.careerbuilder.com/User/UserConfirmation.aspx",
@@ -461,17 +503,19 @@
             "careerbuilder.com"
         ]
     },
+
     {
         "name": "cex.io",
         "url": "https://support.cex.io/hc/en-us/articles/201516097-How-can-I-delete-my-account-from-CEX-IO-and-GHash-IO-",
-        "email": "support@cex.io", 
+        "email": "support@cex.io",
         "difficulty": "hard",
         "notes": "You can't delete your account without contacting them. You must set the subject to 'Delete Account'",
         "notes_de": "Sie können Ihren Account nicht löschen ohne den Support zu kontaktieren. Sie müssen den Betreff auf 'Delete Account' setzen.",
         "domains": [
-            "cex.io"    
+            "cex.io"
         ]
     },
+
     {
         "name": "Change.org",
         "url": "https://www.change.org/account_settings",
@@ -480,6 +524,7 @@
             "change.org"
         ]
     },
+
     {
         "name": "Channel 4",
         "url": "https://4id.channel4.com/account/remove",
@@ -489,6 +534,7 @@
             "channel4.com"
         ]
     },
+
     {
         "name": "Cinemagram",
         "url": "",
@@ -499,6 +545,7 @@
             "cinemagr.am"
         ]
     },
+
     {
         "name": "CleverReach",
         "url": "https://www.cleverreach.com",
@@ -509,6 +556,7 @@
             "cleverreach.com"
         ]
     },
+
     {
         "name": "ClickAndBuy",
         "url": "https://customer.eu.clickandbuy.com/surfer/spring/settings-terminateaccount-flow",
@@ -520,6 +568,7 @@
             "clickandbuy.com"
         ]
     },
+
     {
         "name": "CloudApp",
         "url": "http://my.cl.ly/account/delete",
@@ -529,6 +578,7 @@
             "cl.ly"
         ]
     },
+
     {
         "name": "CloudMagic",
         "url": "https://cloudmagic.com/a/v2/preferences",
@@ -537,6 +587,7 @@
             "cloudmagic.com"
         ]
     },
+
     {
         "name": "Cnet",
         "url": "https://cbsi.secure.force.com/CBSi/submitcase?template=template_cnet&referer=cnet.com&cfs=SFS_1",
@@ -545,8 +596,9 @@
         "domains": [
             "cnet.com",
             "http://download.cnet.com"
-            ]
+        ]
     },
+
     {
         "name": "Code Red",
         "url": "https://cne.coderedweb.com",
@@ -562,6 +614,7 @@
             "coderedweb.com"
         ]
     },
+
     {
         "name": "Code School",
         "url": "http://help.codeschool.com/kb/codeschool-faqs/account-questions",
@@ -578,6 +631,7 @@
             "codeschool.com"
         ]
     },
+
     {
         "name": "Codecademy",
         "url": "http://help.codecademy.com/customer/portal/articles/1394081-how-do-i-delete-my-account-",
@@ -592,6 +646,7 @@
             "codecademy.com"
         ]
     },
+
     {
         "name": "Codepen",
         "url": "http://blog.codepen.io/documentation/faq/how-do-i-delete-my-account/",
@@ -601,6 +656,7 @@
             "codepen.io"
         ]
     },
+
     {
         "name": "Coderwall",
         "url": "https://coderwall.com/delete_account",
@@ -613,6 +669,7 @@
             "coderwall.com"
         ]
     },
+
     {
         "name": "Comment ça marche",
         "url": "http://www.commentcamarche.net/communaute/remove.php3",
@@ -623,6 +680,7 @@
             "commentcamarche.net"
         ]
     },
+
     {
         "name": "Couchsurfing",
         "url": "https://www.couchsurfing.org/delete_profile.html?delete=1",
@@ -638,6 +696,7 @@
             "couchsurfing.org"
         ]
     },
+
     {
         "name": "Coursera",
         "url": "https://www.coursera.org/about/contact",
@@ -653,6 +712,7 @@
             "coursera.org"
         ]
     },
+
     {
         "name": "Craigslist",
         "url": "http://www.craigslist.org/about/help/user_accounts",
@@ -669,6 +729,7 @@
             "craigslist.org"
         ]
     },
+
     {
         "name": "CrashPlan",
         "url": "http://support.crashplan.com/",
@@ -679,6 +740,7 @@
             "crashplan.com"
         ]
     },
+
     {
         "name": "CreditExpert",
         "url": "https://www.creditexpert.co.uk/",
@@ -688,6 +750,7 @@
             "creditexpert.co.uk"
         ]
     },
+
     {
         "name": "Daily Mile",
         "url": "http://www.dailymile.com/account/settings/edit",
@@ -703,6 +766,7 @@
             "dailymile.com"
         ]
     },
+
     {
         "name": "Dashlane",
         "url": "https://www.dashlane.com/deleteaccount",
@@ -713,6 +777,7 @@
             "dashlane.com"
         ]
     },
+
     {
         "name": "Deadspin (Gawker Media)",
         "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
@@ -727,6 +792,7 @@
             "kinja.com"
         ]
     },
+
     {
         "name": "Delicious",
         "url": "https://delicious.com/settings/deactivate",
@@ -735,6 +801,7 @@
             "delicious.com"
         ]
     },
+
     {
         "name": "Delta Airlines (SkyMiles)",
         "url": "http://www.delta.com/content/www/en_US/support/talk-to-us/skymiles.html",
@@ -744,6 +811,7 @@
             "delta.com"
         ]
     },
+
     {
         "name": "Desktoply",
         "url": "http://desktop.ly/settings",
@@ -752,6 +820,7 @@
             "desktop.ly"
         ]
     },
+
     {
         "name": "Desktoppr",
         "url": "https://www.desktoppr.co/settings",
@@ -760,6 +829,7 @@
             "desktoppr.co"
         ]
     },
+
     {
         "name": "DeviantArt",
         "url": "https://www.deviantart.com/settings/deactivation",
@@ -774,6 +844,7 @@
             "deviantart.com"
         ]
     },
+
     {
         "name": "DHL (Paket.de)",
         "url": "https://www.paket.de/pkp/appmanager/pkp/desktop?_nfpb=true&_nfxr=false&_pageLabel=pkp_portal_page_footer_cah_faqs",
@@ -788,6 +859,7 @@
             "paket.de"
         ]
     },
+
     {
         "name": "Diaspora",
         "url": "https://diasp.eu/user/edit#close_account_pane",
@@ -803,6 +875,7 @@
             "diasp.eu"
         ]
     },
+
     {
         "name": "Digg",
         "url": "http://digg.com/contact",
@@ -818,6 +891,7 @@
             "digg.com"
         ]
     },
+
     {
         "name": "diHITT",
         "url": "http://www.dihitt.com/user/delete_profile",
@@ -826,6 +900,7 @@
             "dihitt.com"
         ]
     },
+
     {
         "name": "Discogs",
         "url": "http://www.discogs.com/users/delete",
@@ -834,6 +909,7 @@
             "discogs.com"
         ]
     },
+
     {
         "name": "Disqus",
         "url": "http://disqus.com/pages/dashboard/#account",
@@ -842,6 +918,7 @@
             "disqus.com"
         ]
     },
+
     {
         "name": "DOWN",
         "url": "https://bangwithfriends.zendesk.com/hc/en-us/articles/201441976-Deleting-Your-Account",
@@ -852,6 +929,7 @@
         "notes": "You need to remove the App in your Facebook settings and mail feedback@downapp.com to delete your data.",
         "email": "feedback@downapp.com"
     },
+
     {
         "name": "Draft",
         "url": "https://draftin.com/draft/users/edit",
@@ -860,6 +938,7 @@
             "draftin.com"
         ]
     },
+
     {
         "name": "Dribbble",
         "url": "http://dribbble.com/account",
@@ -868,6 +947,7 @@
             "dribbble.com"
         ]
     },
+
     {
         "name": "drone.io",
         "url": "https://drone.io/admin",
@@ -876,6 +956,7 @@
             "drone.io"
         ]
     },
+
     {
         "name": "Dropbox",
         "url": "https://www.dropbox.com/account/delete",
@@ -884,6 +965,7 @@
             "dropbox.com"
         ]
     },
+
     {
         "name": "Droplr",
         "url": "https://droplr.com/settings",
@@ -892,6 +974,7 @@
             "droplr.com"
         ]
     },
+
     {
         "name": "Dropmark",
         "url": "http://support.dropmark.com/customer/portal/questions/564826-deleting-my-account",
@@ -901,6 +984,7 @@
             "dropmark.com"
         ]
     },
+
     {
         "name": "Duolingo",
         "url": "http://www.duolingo.com/settings/deactivate",
@@ -909,6 +993,7 @@
             "duolingo.com"
         ]
     },
+
     {
         "name": "Dwolla",
         "url": "http://help.dwolla.com/customer/portal/articles/269223-how-can-i-delete-my-dwolla-account-",
@@ -924,6 +1009,7 @@
             "dwolla.com"
         ]
     },
+
     {
         "name": "EA Origin",
         "url": "https://help.ea.com/en/contact-us/ask",
@@ -940,6 +1026,7 @@
             "ea.com"
         ]
     },
+
     {
         "name": "Easel",
         "url": "https://www.easel.io/users/edit#cancellation",
@@ -948,6 +1035,7 @@
             "easel.io"
         ]
     },
+
     {
         "meta": "popular",
         "name": "eBay",
@@ -964,18 +1052,20 @@
             "ebay.com"
         ]
     },
+
     {
         "name": "eDreams",
         "url": "http://www.edreams.com/edreams/english/about/copyright.jhtml",
         "difficulty": "impossible",
         "notes": "FAQ states that account can be deleted upon request, but e-mails requesting it are completely ignored.",
         "notes_pt_br": "FAQ diz que a conta pode ser deletada mediante requisição, mas e-mails que requerem isso são sumariamente ignorados.",
-         "domains": [
+        "domains": [
             "edreams.co.uk",
             "edreams.net",
             "edreams.pt"
         ]
     },
+
     {
         "name": "EdX",
         "url": "https://www.edx.org/student-faq",
@@ -990,6 +1080,7 @@
             "edx.org"
         ]
     },
+
     {
         "name": "Endomondo",
         "url": "https://www.endomondo.com/?wicket:interface=:15::::",
@@ -999,6 +1090,7 @@
             "endomondo.com"
         ]
     },
+
     {
         "name": "eRepublik",
         "url": "http://www.erepublik.com/en/contact/none/none",
@@ -1008,6 +1100,7 @@
             "erepublik.com"
         ]
     },
+
     {
         "name": "Etsy",
         "url": "http://www.etsy.com/help/article/53",
@@ -1021,6 +1114,7 @@
             "etsy.com"
         ]
     },
+
     {
         "name": "Eventbrite",
         "url": "https://www.eventbrite.com/account-close",
@@ -1029,6 +1123,7 @@
             "eventbrite.com"
         ]
     },
+
     {
         "name": "Eventful",
         "url": "http://support.eventful.com/entries/25351895-How-do-I-cancel-delete-my-account-",
@@ -1038,6 +1133,7 @@
             "eventful.com"
         ]
     },
+
     {
         "name": "Evernote",
         "url": "https://www.evernote.com/Deactivate.action",
@@ -1052,6 +1148,7 @@
             "evernote.com"
         ]
     },
+
     {
         "name": "Experian",
         "url": "https://www.experiandirect.com/triplealert/Message.aspx?PageTypeID=FAQ&WT.svl=faq&SiteVersionID=473&SiteID=100173&sc=657900&bcd=",
@@ -1075,6 +1172,7 @@
             "facebook.com"
         ]
     },
+
     {
         "name": "Feedly",
         "url": "https://getsatisfaction.com/feedly/topics/how_do_i_delete_my_feedly_account",
@@ -1090,6 +1188,7 @@
             "getsatisfaction.com"
         ]
     },
+
     {
         "name": "Finanzblick",
         "url": "https://finanzblick.de/webapp",
@@ -1104,6 +1203,7 @@
             "finanzblick.de"
         ]
     },
+
     {
         "name": "Fitocracy",
         "url": "https://www.fitocracy.com/account/deletion/",
@@ -1112,6 +1212,7 @@
             "fitocracy.com"
         ]
     },
+
     {
         "name": "Flickr",
         "url": "http://www.flickr.com/profile_delete.gne",
@@ -1120,6 +1221,7 @@
             "flickr.com"
         ]
     },
+
     {
         "name": "Flipboard",
         "url": "https://flipboard.com/support/",
@@ -1135,6 +1237,7 @@
             "flipboard.com"
         ]
     },
+
     {
         "name": "Flixster",
         "url": "https://www.flixster.com/docs/privacy/",
@@ -1144,6 +1247,7 @@
             "flixster.com"
         ]
     },
+
     {
         "name": "Forka",
         "url": "http://www.fotka.pl/ustawienia/konto_usun",
@@ -1159,6 +1263,7 @@
             "fotka.pl"
         ]
     },
+
     {
         "name": "Forrst",
         "url": "http://forrst.com/settings",
@@ -1167,6 +1272,7 @@
             "forrst.com"
         ]
     },
+
     {
         "meta": "popular",
         "name": "Foursquare",
@@ -1176,6 +1282,7 @@
             "foursquare.com"
         ]
     },
+
     {
         "name": "Freelancer",
         "url": "http://www.freelancer.com/report/contact.php",
@@ -1190,6 +1297,7 @@
             "freelancer.com"
         ]
     },
+
     {
         "name": "Freenode",
         "url": "https://ezcrypt.it/ML4n#ej6rorotmsxq7jF8ViyGjTVh",
@@ -1204,6 +1312,7 @@
             "ezcrypt.it"
         ]
     },
+
     {
         "name": "FriendFeed",
         "url": "https://friendfeed.com/account/delete",
@@ -1212,6 +1321,7 @@
             "friendfeed.com"
         ]
     },
+
     {
         "name": "Gamespot",
         "url": "https://gamespot.custhelp.com/app/ask",
@@ -1228,6 +1338,7 @@
             "custhelp.com"
         ]
     },
+
     {
         "name": "Gauges",
         "url": "http://get.gaug.es/tos/",
@@ -1244,6 +1355,7 @@
             "gaug.es"
         ]
     },
+
     {
         "name": "Gawker (Gawker Media)",
         "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
@@ -1259,6 +1371,7 @@
             "kinja.com"
         ]
     },
+
     {
         "name": "Geni",
         "url": "http://www.geni.com/account_settings",
@@ -1273,6 +1386,7 @@
             "geni.com"
         ]
     },
+
     {
         "name": "Geocaching",
         "url": "http://support.groundspeak.com/index.php?pg=kb.page&id=102",
@@ -1288,17 +1402,19 @@
             "groundspeak.com"
         ]
     },
+
     {
         "name": "ghash.io",
         "url": "https://support.cex.io/hc/en-us/articles/201516097-How-can-I-delete-my-account-from-CEX-IO-and-GHash-IO-",
-        "email": "support@cex.io", 
+        "email": "support@cex.io",
         "difficulty": "hard",
         "notes": "You can't delete your account without contacting them. You must set the subject to 'Delete Account'",
         "notes_de": "Sie können Ihren Account nicht löschen ohne den Support zu kontaktieren. Sie müssen den Betreff auf 'Delete Account' setzen.",
         "domains": [
-            "ghash.io"    
+            "ghash.io"
         ]
     },
+
     {
         "name": "GitHub",
         "url": "https://github.com/settings/admin",
@@ -1307,6 +1423,7 @@
             "github.com"
         ]
     },
+
     {
         "name": "Gitorious",
         "url": "https://gitorious.org",
@@ -1315,6 +1432,7 @@
             "gitorious.org"
         ]
     },
+
     {
         "name": "Gizmodo (Gawker Media)",
         "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
@@ -1330,6 +1448,7 @@
             "kinja.com"
         ]
     },
+
     {
         "name": "Glassboard",
         "url": "http://glassboard.com/support/",
@@ -1345,6 +1464,7 @@
             "glassboard.com"
         ]
     },
+
     {
         "name": "Glassdoor",
         "url": "http://www.glassdoor.com/about/contact_input.htm?opt=cc",
@@ -1360,6 +1480,7 @@
             "glassdoor.com"
         ]
     },
+
     {
         "name": "Gmail",
         "url": "https://www.google.com/settings/datatools",
@@ -1369,6 +1490,7 @@
             "mail.google.com"
         ]
     },
+
     {
         "name": "GMX",
         "url": "http://www.gmx.net/",
@@ -1383,6 +1505,7 @@
             "gmx.net"
         ]
     },
+
     {
         "meta": "popular",
         "name": "GoDaddy",
@@ -1398,6 +1521,7 @@
             "godaddy.com"
         ]
     },
+
     {
         "name": "Gogo",
         "url": "http://custhelp.gogoinflight.com/",
@@ -1407,6 +1531,7 @@
             "gogoair.com"
         ]
     },
+
     {
         "name": "Good Noows",
         "url": "http://goodnoows.com",
@@ -1420,6 +1545,7 @@
             "goodnoows.com"
         ]
     },
+
     {
         "name": "Good.Co",
         "url": "http://www.good.co/",
@@ -1429,6 +1555,7 @@
             "good.co"
         ]
     },
+
     {
         "name": "Goodreads",
         "url": "http://www.goodreads.com/user/destroy",
@@ -1437,6 +1564,7 @@
             "goodreads.com"
         ]
     },
+
     {
         "meta": "popular",
         "name": "Google",
@@ -1447,6 +1575,7 @@
             "google.co.uk"
         ]
     },
+
     {
         "name": "GoPetition",
         "url": "http://www.gopetition.com/",
@@ -1462,6 +1591,7 @@
             "gopetition.com"
         ]
     },
+
     {
         "name": "GoSquared",
         "url": "https://www.gosquared.com/home/account/close",
@@ -1477,6 +1607,7 @@
             "gosquared.com"
         ]
     },
+
     {
         "name": "Grailed",
         "url": "http://www.grailed.com/",
@@ -1487,6 +1618,7 @@
             "grailed.com"
         ]
     },
+
     {
         "name": "Grammarly",
         "url": "https://ed.grammarly.com/accounts/me",
@@ -1496,6 +1628,7 @@
             "grammarly.com"
         ]
     },
+
     {
         "name": "Gravatar",
         "url": "http://gravatar.com",
@@ -1508,6 +1641,7 @@
             "gravatar.com"
         ]
     },
+
     {
         "name": "Grindr",
         "url": "http://help.grindr.com/entries/21377499-All-Devices-Clear-Your-Grindr-Profile",
@@ -1523,6 +1657,7 @@
             "grindr.com"
         ]
     },
+
     {
         "name": "Grooveshark",
         "url": "http://grooveshark.com/#!/settings/account",
@@ -1531,6 +1666,7 @@
             "grooveshark.com"
         ]
     },
+
     {
         "meta": "popular",
         "name": "Groupon",
@@ -1541,6 +1677,7 @@
             "groupon.com"
         ]
     },
+
     {
         "name": "Gumroad",
         "url": "https://gumroad.com/",
@@ -1555,6 +1692,7 @@
             "gumroad.com"
         ]
     },
+
     {
         "name": "Gumtree",
         "url": "https://my.gumtree.com/manage/details/deactivate",
@@ -1564,6 +1702,7 @@
             "gumtree.com"
         ]
     },
+
     {
         "name": "Hack This Site",
         "url": "https://www.hackthissite.org/forums/viewtopic.php?f=9&t=4800&sid=7edb515c2462108e30ddec760c2ddfebv",
@@ -1573,6 +1712,7 @@
             "hackthissite.org"
         ]
     },
+
     {
         "name": "Hacker News",
         "url": "http://jacquesmattheij.com/The+Unofficial+HN+FAQ#deleteaccount",
@@ -1587,6 +1727,7 @@
             "jacquesmattheij.com"
         ]
     },
+
     {
         "name": "Heroku",
         "url": "https://dashboard.heroku.com/account",
@@ -1602,6 +1743,7 @@
             "heroku.com"
         ]
     },
+
     {
         "name": "Hi5",
         "url": "http://www.hi5.com/account_cancel.html",
@@ -1610,6 +1752,7 @@
             "hi5.com"
         ]
     },
+
     {
         "name": "Hide My Ass Mail",
         "url": "http://www.hidemyass.com/anonymous-email/inbox/settings",
@@ -1619,14 +1762,16 @@
             "hidemyass.com"
         ]
     },
+
     {
         "name": "HighBeam Research",
         "url": "http://www.highbeam.com/Account/Cancel",
         "difficulty": "easy",
         "domains": [
-          "highbeam.com"
+            "highbeam.com"
         ]
     },
+
     {
         "name": "HOL Virtual Hogwarts",
         "url": "http://hol.org.uk/profile.php?view=quithol",
@@ -1642,6 +1787,7 @@
             "hol.org.uk"
         ]
     },
+
     {
         "name": "Hostelsclub",
         "url": "http://www.hostelsclub.com/",
@@ -1652,7 +1798,7 @@
             "hostelsclub.com"
         ]
     },
-    
+
     {
         "name": "Hot or Not",
         "url": "http://hotornot.com",
@@ -1662,6 +1808,7 @@
             "hotornot.com"
         ]
     },
+
     {
         "meta": "popular",
         "name": "Hotmail",
@@ -1672,11 +1819,13 @@
             "live.com"
         ]
     },
+
     {
         "name": "Huddle",
         "url": "https://huddle.zendesk.com/hc/en-us/articles/200124703-How-do-I-cancel-my-Huddle-account-",
         "difficulty": "hard"
     },
+
     {
         "name": "Hulu",
         "url": "https://secure.hulu.com/users/delete",
@@ -1686,6 +1835,7 @@
             "hulu.com"
         ]
     },
+
     {
         "name": "Hypejar",
         "url": "http://www.hypejar.com/settings/account",
@@ -1694,6 +1844,7 @@
             "hypejar.com"
         ]
     },
+
     {
         "name": "Iceber.gs",
         "url": "https://iceber.gs/home",
@@ -1708,6 +1859,7 @@
             "iceber.gs"
         ]
     },
+
     {
         "name": "ICQ",
         "url": "http://www.icq.com/delete-account/",
@@ -1716,6 +1868,7 @@
             "icq.com"
         ]
     },
+
     {
         "name": "IFTTT",
         "url": "https://ifttt.com/settings/deactivate",
@@ -1724,6 +1877,7 @@
             "ifttt.com"
         ]
     },
+
     {
         "name": "ImageShack",
         "url": "http://imageshack.us/prefs/",
@@ -1732,6 +1886,7 @@
             "imageshack.us"
         ]
     },
+
     {
         "name": "IMDb",
         "url": "https://secure.imdb.com/register-imdb/delete",
@@ -1741,6 +1896,7 @@
             "imdb.com"
         ]
     },
+
     {
         "name": "Imgur",
         "url": "http://imgur.com/account/settings",
@@ -1749,6 +1905,7 @@
             "imgur.com"
         ]
     },
+
     {
         "name": "imo.im",
         "url": "https://imo.im/login",
@@ -1758,17 +1915,7 @@
             "imo.im"
         ]
     },
-    {
-        "name": "Ingress",
-        "url": "https://www.ingress.com",
-        "difficulty": "impossible",
-        "notes": "You can't delete your Ingress Account without deleting your entire Google Account.",
-        "notes_de": "Sie können Ihren Ingress-Account nicht löschen ohne Ihren ganzen Google-Account zu löschen.",
-        "domains": [
-            "ingress.com"    
-        ]
-        
-    },
+
     {
         "name": "InfiBot",
         "url": "https://infibot.com/",
@@ -1779,6 +1926,18 @@
             "infibot.com"
         ]
     },
+
+    {
+        "name": "Ingress",
+        "url": "https://www.ingress.com",
+        "difficulty": "impossible",
+        "notes": "You can't delete your Ingress Account without deleting your entire Google Account.",
+        "notes_de": "Sie können Ihren Ingress-Account nicht löschen ohne Ihren ganzen Google-Account zu löschen.",
+        "domains": [
+            "ingress.com"
+        ]
+    },
+
     {
         "name": "InnoGames",
         "url": "http://goodbye.innogames.com/",
@@ -1788,6 +1947,7 @@
             "innogames.com"
         ]
     },
+
     {
         "name": "Instacanvas",
         "url": "http://feedback.instacanv.as/knowledgebase/articles/117760-how-do-i-cancel-my-gallery-",
@@ -1803,6 +1963,7 @@
             "instacanv.as"
         ]
     },
+
     {
         "name": "Instacast Cloud",
         "url": "http://instacastcloud.com/dashboard/dangerzone",
@@ -1811,6 +1972,7 @@
             "instacastcloud.com"
         ]
     },
+
     {
         "meta": "popular",
         "name": "Instagram",
@@ -1820,6 +1982,7 @@
             "instagram.com"
         ]
     },
+
     {
         "name": "Instapaper",
         "url": "https://www.instapaper.com/user/delete",
@@ -1828,6 +1991,7 @@
             "instapaper.com"
         ]
     },
+
     {
         "name": "Instructables",
         "url": "http://www.instructables.com/",
@@ -1838,6 +2002,7 @@
             "instructables.com"
         ]
     },
+
     {
         "name": "Internetometer",
         "url": "http://internetometer.com/",
@@ -1847,6 +2012,7 @@
             "internetometer.com"
         ]
     },
+
     {
         "name": "IO9 (Gawker Media)",
         "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
@@ -1861,6 +2027,7 @@
             "kinja.com"
         ]
     },
+
     {
         "name": "IRCCloud",
         "url": "https://www.irccloud.com/",
@@ -1870,6 +2037,7 @@
             "irccloud.com"
         ]
     },
+
     {
         "name": "issuu",
         "url": "https://issuu.com/home/settings/billing",
@@ -1892,6 +2060,7 @@
             "apple.com"
         ]
     },
+
     {
         "name": "Jalopnik (Gawker Media)",
         "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
@@ -1906,6 +2075,7 @@
             "kinja.com"
         ]
     },
+
     {
         "name": "JDate.com",
         "url": "http://www.jdate.com/",
@@ -1915,6 +2085,7 @@
             "jdate.com"
         ]
     },
+
     {
         "name": "Jezebel (Gawker Media)",
         "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
@@ -1929,6 +2100,7 @@
             "kinja.com"
         ]
     },
+
     {
         "name": "JoliCloud / JoliDrive",
         "url": "https://drive.jolicloud.com/#/settings/account",
@@ -1944,6 +2116,7 @@
             "jolicloud.com"
         ]
     },
+
     {
         "name": "Jottacloud",
         "url": "https://www.jottacloud.com/account/delete",
@@ -1959,6 +2132,7 @@
             "jottacloud.com"
         ]
     },
+
     {
         "name": "JS Bin",
         "url": "https://github.com/remy/jsbin/issues/1010",
@@ -1968,6 +2142,7 @@
             "jsbin.com"
         ]
     },
+
     {
         "name": "jsFiddle",
         "url": "http://doc.jsfiddle.net/meta/channels.html?highlight=contact",
@@ -1983,6 +2158,7 @@
             "jsfiddle.net"
         ]
     },
+
     {
         "name": "Justin.tv",
         "url": "http://www.justin.tv/user/close_account",
@@ -1991,6 +2167,7 @@
             "justin.tv"
         ]
     },
+
     {
         "name": "Khan Academy",
         "url": "https://www.khanacademy.org/settings",
@@ -1999,6 +2176,7 @@
             "khanacademy.org"
         ]
     },
+
     {
         "name": "Kickstarter",
         "url": "https://www.kickstarter.com/profile/destroy",
@@ -2007,6 +2185,7 @@
             "kickstarter.com"
         ]
     },
+
     {
         "name": "Kik",
         "url": "https://kikinteractive.zendesk.com/entries/23593116-How-do-I-deactivate-my-account-",
@@ -2021,6 +2200,7 @@
             "zendesk.com"
         ]
     },
+
     {
         "name": "Kinja (Gawker Media)",
         "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
@@ -2035,6 +2215,7 @@
             "kinja.com"
         ]
     },
+
     {
         "name": "Kippt",
         "url": "https://kippt.com/accounts/delete/",
@@ -2044,6 +2225,7 @@
             "kippt.com"
         ]
     },
+
     {
         "name": "Klout",
         "url": "http://klout.com/#/edit-settings/optout",
@@ -2058,6 +2240,7 @@
             "klout.com"
         ]
     },
+
     {
         "name": "Kno",
         "url": "http://www.kno.com/help/customerService",
@@ -2067,6 +2250,7 @@
             "kno.com"
         ]
     },
+
     {
         "name": "Koding",
         "url": "https://koding.com/Account/Delete",
@@ -2075,6 +2259,7 @@
             "koding.com"
         ]
     },
+
     {
         "name": "Kotaku (Gawker Media)",
         "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
@@ -2089,6 +2274,7 @@
             "kinja.com"
         ]
     },
+
     {
         "name": "Krrb",
         "url": "http://krrb.com/settings/disable-account",
@@ -2097,6 +2283,7 @@
             "krrb.com"
         ]
     },
+
     {
         "name": "Last.fm",
         "url": "http://www.last.fm/settings/account",
@@ -2111,6 +2298,7 @@
             "last.fm"
         ]
     },
+
     {
         "name": "LastPass",
         "url": "https://lastpass.com/delete_account.php",
@@ -2119,6 +2307,7 @@
             "lastpass.com"
         ]
     },
+
     {
         "name": "League of Legends",
         "url": "https://support.leagueoflegends.com/entries/461131-Disabling-Your-Account",
@@ -2130,6 +2319,7 @@
             "leagueoflegends.com"
         ]
     },
+
     {
         "name": "Letterboxd",
         "url": "http://letterboxd.com/user/disableaccount/",
@@ -2138,6 +2328,7 @@
             "letterboxd.com"
         ]
     },
+
     {
         "name": "LibraryThing",
         "url": "http://www.librarything.de/editprofile/change",
@@ -2146,6 +2337,7 @@
             "librarything.de"
         ]
     },
+
     {
         "name": "Libre.fm",
         "url": "http://libre.fm/user-edit.php#",
@@ -2159,6 +2351,7 @@
             "libre.fm"
         ]
     },
+
     {
         "name": "Lifehacker (Gawker Media)",
         "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
@@ -2173,6 +2366,7 @@
             "kinja.com"
         ]
     },
+
     {
         "meta": "popular",
         "name": "LinkedIn",
@@ -2186,6 +2380,7 @@
             "linkedin.com"
         ]
     },
+
     {
         "name": "LiveJournal",
         "url": "http://www.livejournal.com/accountstatus.bml",
@@ -2199,6 +2394,7 @@
             "livejournal.com"
         ]
     },
+
     {
         "name": "Lobsters",
         "url": "https://lobste.rs/settings",
@@ -2207,6 +2403,7 @@
             "lobste.rs"
         ]
     },
+
     {
         "name": "Lovefilm",
         "url": "https://www.lovefilm.com/account/cancel",
@@ -2220,6 +2417,7 @@
             "lovefilm.com"
         ]
     },
+
     {
         "name": "Lumi",
         "url": "https://lumi.do/account/privacy/delete/user",
@@ -2228,6 +2426,7 @@
             "lumi.do"
         ]
     },
+
     {
         "name": "MailChimp",
         "url": "http://kb.mailchimp.com/article/how-do-i-close-my-account",
@@ -2242,6 +2441,7 @@
             "mailchimp.com"
         ]
     },
+
     {
         "meta": "popular",
         "name": "Match",
@@ -2253,6 +2453,7 @@
             "match.com"
         ]
     },
+
     {
         "name": "McAfee",
         "url": "http://home.mcafee.com/supportpages/unsub.aspx",
@@ -2262,6 +2463,7 @@
             "mcafee.com"
         ]
     },
+
     {
         "name": "MediaFire",
         "url": "https://www.mediafire.com/myaccount/accountbilling.php",
@@ -2270,6 +2472,7 @@
             "mediafire.com"
         ]
     },
+
     {
         "name": "Medium",
         "url": "https://medium.com/me/settings",
@@ -2278,6 +2481,7 @@
             "medium.com"
         ]
     },
+
     {
         "name": "Meetup",
         "url": "http://www.meetup.com/account/remove/",
@@ -2286,6 +2490,7 @@
             "meetup.com"
         ]
     },
+
     {
         "name": "MePergunte",
         "url": "http://mepergunte.com/perfil/configuracoes/excluir/",
@@ -2294,6 +2499,7 @@
             "mepergunte.com"
         ]
     },
+
     {
         "name": "Microsoft Account",
         "url": "https://account.live.com/closeaccount.aspx",
@@ -2303,6 +2509,7 @@
             "live.com"
         ]
     },
+
     {
         "name": "Microsoft Office 365",
         "url": "http://office.com/myaccount",
@@ -2311,6 +2518,7 @@
             "office.com"
         ]
     },
+
     {
         "name": "Mint",
         "url": "https://mint.com",
@@ -2324,6 +2532,7 @@
             "mint.com"
         ]
     },
+
     {
         "name": "MisterWong",
         "url": "http://www.mister-wong.de",
@@ -2335,6 +2544,7 @@
             "mister-wong.de"
         ]
     },
+
     {
         "name": "MixCloud",
         "url": "http://www.mixcloud.com/myaccount/account/",
@@ -2343,6 +2553,7 @@
             "mixcloud.com"
         ]
     },
+
     {
         "name": "Mobify",
         "url": "http://www.mobify.com/contact/",
@@ -2352,6 +2563,7 @@
             "mobify.com"
         ]
     },
+
     {
         "name": "Mojang",
         "url": "https://account.mojang.com/me/settings",
@@ -2366,6 +2578,7 @@
             "mojang.com"
         ]
     },
+
     {
         "name": "Monster",
         "url": "http://my.monster.com/Account/CancelMembership",
@@ -2375,6 +2588,7 @@
             "monster.com"
         ]
     },
+
     {
         "name": "Moped",
         "url": "https://secure.moped.com/account/support",
@@ -2385,6 +2599,7 @@
             "moped.com"
         ]
     },
+
     {
         "name": "Morningstar",
         "url": "http://socialize.morningstar.com/feedback/feedbackform.asp",
@@ -2395,6 +2610,7 @@
             "morningstar.com"
         ]
     },
+
     {
         "name": "Moviepilot.de",
         "url": "http://www.moviepilot.de/users/null/edit_membership",
@@ -2403,6 +2619,7 @@
             "moviepilot.de"
         ]
     },
+
     {
         "name": "Mozilla Persona",
         "url": "https://login.persona.org/",
@@ -2417,6 +2634,7 @@
             "persona.org"
         ]
     },
+
     {
         "name": "Multiplay.co.uk",
         "url": "https://multiplay.com/contactus/",
@@ -2427,18 +2645,7 @@
             "multiplay.com"
         ]
     },
-    {
-        "name": "myJdownloader",
-        "url": "http://my.jdownloader.org/",
-        "difficulty": "easy",
-        "notes": "Go to your account settings (top right, click on your E-Mail-Adress) and select 'Delete Account'",
-        "notes_de": "Gehe zu deinen Account-Einstellungen (oben rechts, klicke auf deine E-Mail-Adresse) und wähle 'Delete Account' aus.",
-        "domains": [
-            "my.jdownloader.org",
-            "jdownloader.org"
-        ]
-        
-    },
+
     {
         "name": "My Opera",
         "url": "https://my.opera.com/USERNAME/account/delete",
@@ -2449,6 +2656,19 @@
             "opera.com"
         ]
     },
+
+    {
+        "name": "myJdownloader",
+        "url": "http://my.jdownloader.org/",
+        "difficulty": "easy",
+        "notes": "Go to your account settings (top right, click on your E-Mail-Adress) and select 'Delete Account'",
+        "notes_de": "Gehe zu deinen Account-Einstellungen (oben rechts, klicke auf deine E-Mail-Adresse) und wähle 'Delete Account' aus.",
+        "domains": [
+            "my.jdownloader.org",
+            "jdownloader.org"
+        ]
+    },
+
     {
         "name": "MyLife.com",
         "url": "http://www.mylife.com/showDeleteAccount.do",
@@ -2457,6 +2677,7 @@
             "mylife.com"
         ]
     },
+
     {
         "name": "MyOpenID",
         "url": "https://www.myopenid.com/delete",
@@ -2470,6 +2691,7 @@
             "myopenid.com"
         ]
     },
+
     {
         "name": "MySpace",
         "url": "https://new.myspace.com/settings/profile",
@@ -2479,6 +2701,7 @@
             "myspace.com"
         ]
     },
+
     {
         "name": "NaNoWriMo",
         "url": "https://nanowrimo.org/account_settings",
@@ -2488,6 +2711,7 @@
             "nanowrimo.org"
         ]
     },
+
     {
         "name": "Neopets",
         "url": "http://www.neopets.com/help_search.phtml?help_id=4",
@@ -2498,6 +2722,7 @@
             "neopets.com"
         ]
     },
+
     {
         "meta": "popular",
         "name": "Netflix",
@@ -2513,6 +2738,7 @@
             "netflix.com"
         ]
     },
+
     {
         "name": "Netlog",
         "url": "http://en.netlog.com/go/login",
@@ -2527,6 +2753,7 @@
             "netlog.com"
         ]
     },
+
     {
         "name": "New Relic",
         "url": "",
@@ -2537,6 +2764,7 @@
             "newrelic.com"
         ]
     },
+
     {
         "name": "New York Times",
         "url": "https://myaccount.nytimes.com/membercenter/help.html",
@@ -2551,6 +2779,7 @@
             "nytimes.com"
         ]
     },
+
     {
         "name": "NewsBlur",
         "url": "https://www.newsblur.com/profile/delete_account",
@@ -2559,6 +2788,7 @@
             "newsblur.com"
         ]
     },
+
     {
         "name": "Nike+",
         "url": "https://secure-nikeplus.nike.com/plus/settings/",
@@ -2569,6 +2799,7 @@
             "nike.com"
         ]
     },
+
     {
         "name": "Nitrous.IO",
         "url": "https://www.nitrous.io/app#/account_settings",
@@ -2578,6 +2809,7 @@
             "nitrous.io"
         ]
     },
+
     {
         "name": "NoIP",
         "url": "http://www.noip.com/members/account/delete.php",
@@ -2587,6 +2819,7 @@
             "noip.com"
         ]
     },
+
     {
         "name": "Odnoklassniki",
         "url": "http://www.odnoklassniki.ru/regulations",
@@ -2600,6 +2833,7 @@
             "odnoklassniki.ru"
         ]
     },
+
     {
         "name": "OkCupid",
         "url": "https://www.okcupid.com/settings",
@@ -2613,6 +2847,7 @@
             "okcupid.com"
         ]
     },
+
     {
         "name": "OnlineTVRecorder.com",
         "url": "http://www.onlinetvrecorder.com/v2/index.php?go=account&do=cancel",
@@ -2627,6 +2862,7 @@
             "onlinetvrecorder.com"
         ]
     },
+
     {
         "name": "OpenDNS",
         "url": "http://forums.opendns.com/comments.php?DiscussionID=8326",
@@ -2641,6 +2877,7 @@
             "opendns.com"
         ]
     },
+
     {
         "name": "Orkut",
         "url": "https://accounts.google.com/DeleteService?service=orkut",
@@ -2649,6 +2886,7 @@
             "orkut.com"
         ]
     },
+
     {
         "name": "Outlook",
         "url": "https://account.live.com/CloseAccount.aspx",
@@ -2658,6 +2896,7 @@
             "live.com"
         ]
     },
+
     {
         "name": "Overstock",
         "url": "https://help.overstock.com/app/contact_page",
@@ -2668,6 +2907,7 @@
             "overstock.com"
         ]
     },
+
     {
         "name": "Pandora",
         "url": "http://help.pandora.com/customer/portal/articles/24624-cancel-account",
@@ -2682,6 +2922,7 @@
             "pandora.com"
         ]
     },
+
     {
         "name": "Pastebin",
         "url": "http://pastebin.com/profile",
@@ -2696,6 +2937,7 @@
             "pastebin.com"
         ]
     },
+
     {
         "name": "Path",
         "url": "https://path.com",
@@ -2709,6 +2951,7 @@
             "path.com"
         ]
     },
+
     {
         "name": "Patrick-Krempf-Reminder",
         "url": "http://reminder.patrickkempf.de/manage.php?do=delaccount",
@@ -2718,6 +2961,7 @@
             "patrickkempf.de"
         ]
     },
+
     {
         "name": "Paukd",
         "url": "https://paukd.com",
@@ -2731,6 +2975,7 @@
             "paukd.com"
         ]
     },
+
     {
         "name": "PayPal",
         "url": "https://www.paypal.com/us/cgi-bin/webscr?cmd=_close-account",
@@ -2740,6 +2985,7 @@
             "paypal.com"
         ]
     },
+
     {
         "name": "PhishTank",
         "url": "https://www.phishtank.com/",
@@ -2748,6 +2994,7 @@
             "phishtank.com"
         ]
     },
+
     {
         "name": "Picasa",
         "url": "http://picasaweb.google.com/",
@@ -2762,6 +3009,7 @@
             "picasa.google.com"
         ]
     },
+
     {
         "name": "Pingdom",
         "url": "https://my.pingdom.com/account/cancel/confirm",
@@ -2771,6 +3019,7 @@
             "pingdom.com"
         ]
     },
+
     {
         "meta": "popular",
         "name": "Pinterest",
@@ -2785,6 +3034,7 @@
             "pinterest.com"
         ]
     },
+
     {
         "name": "Pixoona",
         "url": "http://www.pixoona.com/dashboard#user/delete",
@@ -2793,6 +3043,7 @@
             "pixoona.com"
         ]
     },
+
     {
         "name": "Playstation Network",
         "url": "https://support.us.playstation.com/app/contact_options",
@@ -2803,6 +3054,7 @@
             "playstation.com"
         ]
     },
+
     {
         "name": "Plenty of Fish",
         "url": "http://www.pof.com/deleteaccount.aspx",
@@ -2816,6 +3068,7 @@
             "pof.com"
         ]
     },
+
     {
         "name": "Pocket",
         "url": "http://getpocket.com/account_deletion/",
@@ -2824,6 +3077,7 @@
             "getpocket.com"
         ]
     },
+
     {
         "name": "Podio",
         "url": "https://podio.com/settings/account",
@@ -2833,6 +3087,7 @@
             "podio.com"
         ]
     },
+
     {
         "name": "Points.com",
         "url": "http://questions.points.com/entries/20026692-How-do-I-cancel-my-account-",
@@ -2843,6 +3098,7 @@
             "points.com"
         ]
     },
+
     {
         "name": "Postcrossing",
         "url": "http://www.postcrossing.com/removal",
@@ -2856,6 +3112,7 @@
             "postcrossing.com"
         ]
     },
+
     {
         "name": "Prezi",
         "url": "https://prezi.com/profile/delete_user_account/",
@@ -2865,6 +3122,7 @@
             "prezi.com"
         ]
     },
+
     {
         "name": "Pushover",
         "url": "https://pushover.net/settings/delete_account",
@@ -2873,6 +3131,7 @@
             "pushover.net"
         ]
     },
+
     {
         "name": "Quora",
         "url": "http://www.quora.com/Quora-product/How-do-I-delete-my-Quora-account",
@@ -2882,6 +3141,7 @@
             "quora.com"
         ]
     },
+
     {
         "name": "radio.fr",
         "url": "http://www.radio.fr/#%2Fkonto_loeschen.jsf",
@@ -2892,6 +3152,7 @@
             "radio.fr"
         ]
     },
+
     {
         "name": "Rainforest QA",
         "url": "https://app.rainforestqa.com/settings",
@@ -2906,6 +3167,7 @@
             "rainforestqa.com"
         ]
     },
+
     {
         "name": "Raptr",
         "url": "http://raptr.com/account/deactivation",
@@ -2914,6 +3176,7 @@
             "raptr.com"
         ]
     },
+
     {
         "name": "RateYourMusic",
         "url": "http://rateyourmusic.com/account/delete",
@@ -2923,6 +3186,7 @@
             "rateyourmusic.com"
         ]
     },
+
     {
         "name": "Rdio",
         "url": "http://www.rdio.com/settings/advanced/",
@@ -2931,6 +3195,7 @@
             "rdio.com"
         ]
     },
+
     {
         "meta": "popular",
         "name": "Readability",
@@ -2945,14 +3210,16 @@
             "readability.com"
         ]
     },
+
     {
         "name": "ReadyForZero",
         "url": "https://www.readyforzero.com/user/settings#readyforzero-account",
         "difficulty": "easy",
         "domains": [
-          "readyforzero.com"
+            "readyforzero.com"
         ]
     },
+
     {
         "meta": "popular",
         "name": "Reddit",
@@ -2968,6 +3235,7 @@
             "reddit.com"
         ]
     },
+
     {
         "name": "Redditgifts",
         "url": "http://redditgifts.com/privacy/",
@@ -2982,6 +3250,7 @@
             "redditgifts.com"
         ]
     },
+
     {
         "name": "Remember The Milk",
         "url": "https://www.rememberthemilk.com/login/delete.rtm",
@@ -2990,6 +3259,7 @@
             "rememberthemilk.com"
         ]
     },
+
     {
         "name": "Rotten Tomatoes",
         "url": "http://flixster.desk.com/customer/portal/articles/169347-how-do-i-cancel-my-account-",
@@ -3004,6 +3274,7 @@
             "desk.com"
         ]
     },
+
     {
         "name": "Rovio",
         "url": "https://account.rovio.com/",
@@ -3018,6 +3289,7 @@
             "rovio.com"
         ]
     },
+
     {
         "name": "Runescape",
         "url": "http://services.runescape.com/m=rswiki/en/Account_Help",
@@ -3028,6 +3300,7 @@
             "runescape.com"
         ]
     },
+
     {
         "name": "RunKeeper",
         "url": "http://runkeeper.com/I-Love-RunKeeper",
@@ -3041,6 +3314,7 @@
             "runkeeper.com"
         ]
     },
+
     {
         "name": "ScanMyServer",
         "url": "https://scanmyserver.com/?suspend=1",
@@ -3055,6 +3329,7 @@
             "scanmyserver.com"
         ]
     },
+
     {
         "name": "Scribd",
         "url": "http://www.scribd.com/account_settings/preferences",
@@ -3063,6 +3338,7 @@
             "scribd.com"
         ]
     },
+
     {
         "name": "Scriptogr.am",
         "url": "http://scriptogr.am/dashboard/#settings",
@@ -3076,6 +3352,7 @@
             "scriptogr.am"
         ]
     },
+
     {
         "name": "Shopify",
         "url": "http://shopify.com/admin/settings/account",
@@ -3090,6 +3367,7 @@
             "shopify.com"
         ]
     },
+
     {
         "name": "showRSS",
         "url": "http://showrss.info/",
@@ -3098,6 +3376,7 @@
             "showrss.info"
         ]
     },
+
     {
         "name": "Shutterfly",
         "url": "http://www.shutterfly.com/about/contact_details.jsp",
@@ -3111,6 +3390,7 @@
             "shutterfly.com"
         ]
     },
+
     {
         "name": "Simple Machines",
         "url": "http://www.simplemachines.org/community/index.php?action=profile;area=deleteaccount",
@@ -3120,6 +3400,7 @@
             "simplemachines.org"
         ]
     },
+
     {
         "name": "Skoob",
         "url": "http://www.skoob.com.br/usuario/excluir/",
@@ -3128,6 +3409,7 @@
             "skoob.com.br"
         ]
     },
+
     {
         "meta": "popular",
         "name": "Skype",
@@ -3143,6 +3425,7 @@
             "skype.com"
         ]
     },
+
     {
         "name": "Slashdot",
         "url": "http://slashdot.org/faq/accounts.shtml",
@@ -3151,6 +3434,7 @@
             "slashdot.org"
         ]
     },
+
     {
         "name": "Slideshare",
         "url": "http://help.slideshare.com/entries/57912-How-do-I-delete-my-SlideShare-account-",
@@ -3165,12 +3449,14 @@
             "slideshare.com"
         ]
     },
+
     {
         "name": "SlimTimer",
         "url": "http://slimtimer.com/",
         "difficulty": "hard",
         "notes": "Email request required."
     },
+
     {
         "name": "Snapchat",
         "url": "http://www.snapchat.com/a/delete_account",
@@ -3185,6 +3471,7 @@
             "snapchat.com"
         ]
     },
+
     {
         "name": "Songkick",
         "url": "http://www.songkick.com/settings/account-settings",
@@ -3193,6 +3480,7 @@
             "songkick.com"
         ]
     },
+
     {
         "name": "Sonico",
         "url": "http://www.sonico.com/tyc.php",
@@ -3208,6 +3496,7 @@
             "sonico.com"
         ]
     },
+
     {
         "name": "Soundcloud",
         "url": "http://soundcloud.com/settings/account#delete-user",
@@ -3216,6 +3505,7 @@
             "soundcloud.com"
         ]
     },
+
     {
         "name": "SourceForge",
         "url": "https://sourceforge.net/account/remove",
@@ -3229,6 +3519,7 @@
             "sourceforge.net"
         ]
     },
+
     {
         "name": "Speaker Deck",
         "url": "https://speakerdeck.com/tos",
@@ -3242,6 +3533,7 @@
             "speakerdeck.com"
         ]
     },
+
     {
         "name": "Splitwise",
         "url": "https://secure.splitwise.com/account/settings",
@@ -3251,6 +3543,7 @@
             "splitwise.com"
         ]
     },
+
     {
         "name": "Spotify",
         "url": "https://www.spotify.com/se/about-us/contact/contact-spotify-support/?contact",
@@ -3264,6 +3557,7 @@
             "spotify.com"
         ]
     },
+
     {
         "meta": "popular",
         "name": "Spring.me",
@@ -3276,6 +3570,7 @@
             "zendesk.com"
         ]
     },
+
     {
         "name": "Springpad",
         "url": "https://springpad.com/delete-account.action",
@@ -3284,6 +3579,7 @@
             "springpad.com"
         ]
     },
+
     {
         "name": "Stack Overflow / Stack Exchange Accounts",
         "url": "http://stackoverflow.com/help/deleting-account",
@@ -3297,6 +3593,7 @@
             "stackoverflow.com"
         ]
     },
+
     {
         "name": "Starbucks",
         "url": "http://customerservice.starbucks.com/app/contact/ask_starbucks_website/",
@@ -3311,6 +3608,7 @@
             "starbucks.com"
         ]
     },
+
     {
         "name": "Startnext",
         "url": "http://faq.startnext.de/Nutzerprofil/id/Wie+kann+ich+mein+Startnext-Profil+loeschen+-26/modul/Nutzerprofil+%26+Registrierung/aid/18",
@@ -3323,6 +3621,7 @@
             "startnext.de"
         ]
     },
+
     {
         "name": "StayFriends.de",
         "url": "http://www.stayfriends.de/j/ViewController?action=accountSettings&delEnabled=true",
@@ -3336,6 +3635,7 @@
             "stayfriends.de"
         ]
     },
+
     {
         "name": "Steam",
         "url": "https://support.steampowered.com/newticket.php",
@@ -3350,6 +3650,7 @@
             "steampowered.com"
         ]
     },
+
     {
         "name": "StepMap",
         "url": "http://www.stepmap.de/profil.php",
@@ -3361,6 +3662,7 @@
             "stepmap.de"
         ]
     },
+
     {
         "name": "Stereomood",
         "url": "http://www.stereomood.com/users/account",
@@ -3369,6 +3671,7 @@
             "stereomood.com"
         ]
     },
+
     {
         "name": "Storify",
         "url": "http://storify.com/settings#account",
@@ -3378,6 +3681,7 @@
             "storify.com"
         ]
     },
+
     {
         "name": "Strava",
         "url": "https://www.strava.com/settings/privacy",
@@ -3391,7 +3695,7 @@
             "strava.com"
         ]
     },
-    
+
     {
         "name": "StumbleUpon",
         "url": "https://www.stumbleupon.com/settings/delete-account",
@@ -3405,7 +3709,7 @@
             "stumbleupon.com"
         ]
     },
-    
+
     {
         "name": "SurveyMonkey",
         "url": "http://help.surveymonkey.com/contact-us",
@@ -3425,6 +3729,7 @@
             "tagged.com"
         ]
     },
+
     {
         "name": "TeamViewer",
         "url": "https://login.teamviewer.com/",
@@ -3439,6 +3744,7 @@
             "teamviewer.com"
         ]
     },
+
     {
         "name": "Technorati",
         "url": "http://technorati.com",
@@ -3449,6 +3755,7 @@
             "technorati.com"
         ]
     },
+
     {
         "name": "TED",
         "url": "http://support.ted.com/customer/portal/articles/143809-i-d-like-to-delete-my-account",
@@ -3460,6 +3767,7 @@
             "ted.com"
         ]
     },
+
     {
         "name": "Ticketmaster",
         "url": "http://www.ticketmaster.com/h/help.html?tm_link=tm_i_help",
@@ -3473,6 +3781,7 @@
             "ticketmaster.com"
         ]
     },
+
     {
         "name": "Topcoder",
         "url": "http://www.topcoder.com/help/p=636/",
@@ -3482,6 +3791,7 @@
             "topcoder.com"
         ]
     },
+
     {
         "name": "Topface",
         "url": "http://topface.com/delete-profile/",
@@ -3490,6 +3800,7 @@
             "topface.com"
         ]
     },
+
     {
         "name": "Torrent 411",
         "url": "https://www.t411.me/contactstaff/",
@@ -3500,6 +3811,7 @@
             "t411.me"
         ]
     },
+
     {
         "name": "Trakt",
         "url": "http://trakt.tv/settings/data",
@@ -3508,6 +3820,7 @@
             "trakt.tv"
         ]
     },
+
     {
         "name": "Transifex",
         "url": "http://support.transifex.com/customer/portal/articles/1052765-how-can-i-delete-my-account-",
@@ -3522,6 +3835,7 @@
             "transifex.com"
         ]
     },
+
     {
         "name": "Trello",
         "url": "https://trello.com/your/account",
@@ -3536,6 +3850,7 @@
             "trello.com"
         ]
     },
+
     {
         "name": "TripIt",
         "url": "https://www.tripit.com/account/delete",
@@ -3544,6 +3859,7 @@
             "tripit.com"
         ]
     },
+
     {
         "name": "Tumblr",
         "url": "http://www.tumblr.com/account/delete",
@@ -3552,6 +3868,7 @@
             "tumblr.com"
         ]
     },
+
     {
         "name": "Tweetdeck",
         "url": "https://www.tweetdeck.com/api/account-delete/",
@@ -3560,6 +3877,7 @@
             "tweetdeck.com"
         ]
     },
+
     {
         "name": "Twitch",
         "url": "http://www.twitch.tv/user/close_account",
@@ -3568,6 +3886,7 @@
             "twitch.tv"
         ]
     },
+
     {
         "meta": "popular",
         "name": "Twitter",
@@ -3579,6 +3898,7 @@
             "twitter.com"
         ]
     },
+
     {
         "name": "Ubuntu One",
         "url": "https://one.ubuntu.com/help/faq/how-can-i-delete-my-account/",
@@ -3593,6 +3913,7 @@
             "ubuntu.com"
         ]
     },
+
     {
         "name": "Udacity",
         "url": "http://forums.udacity.com/answer_link/100044663/",
@@ -3607,6 +3928,7 @@
             "udacity.com"
         ]
     },
+
     {
         "name": "Udemy",
         "url": "https://www.udemy.com/user/edit-danger-zone/",
@@ -3620,6 +3942,7 @@
             "udemy.com"
         ]
     },
+
     {
         "name": "Unroll.me",
         "url": "https://unroll.me/user/settings",
@@ -3629,6 +3952,7 @@
             "unroll.me"
         ]
     },
+
     {
         "name": "UPS",
         "url": "https://www.ups.com/myups/deletereg",
@@ -3637,6 +3961,7 @@
             "ups.com"
         ]
     },
+
     {
         "name": "Ustream",
         "url": "http://www.ustream.tv/account/preferences",
@@ -3651,6 +3976,7 @@
             "ustream.tv"
         ]
     },
+
     {
         "name": "Valleywag (Gawker Media)",
         "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
@@ -3665,6 +3991,7 @@
             "kinja.com"
         ]
     },
+
     {
         "name": "Verduca",
         "url": "http://www.veduca.com.br",
@@ -3673,6 +4000,7 @@
             "veduca.com.br"
         ]
     },
+
     {
         "name": "Viadeo",
         "url": "http://www.viadeo.com/settings/account/?language=fr&ga_from=Fu:%2Fsettings%2Faccount%2F;Fb%3Amenu_box_right%3BFe%3AL1-account-settings%3B",
@@ -3687,6 +4015,7 @@
             "viadeo.com"
         ]
     },
+
     {
         "name": "Vimeo",
         "url": "https://vimeo.com/settings/goodbye/forever",
@@ -3695,6 +4024,7 @@
             "vimeo.com"
         ]
     },
+
     {
         "name": "Vine",
         "url": "https://support.twitter.com/forms/vine",
@@ -3708,6 +4038,7 @@
             "vine.co"
         ]
     },
+
     {
         "name": "VK/ВКонтакте",
         "url": "http://vk.com/settings?act=deactivate",
@@ -3716,6 +4047,7 @@
             "vk.com"
         ]
     },
+
     {
         "name": "WAYN",
         "url": "http://www.wayn.com/wayn.html?wci=unregister",
@@ -3724,6 +4056,7 @@
             "wayn.com"
         ]
     },
+
     {
         "name": "Waze",
         "url": "https://www.waze.com/dashboard/delete_account",
@@ -3732,6 +4065,7 @@
             "waze.com"
         ]
     },
+
     {
         "name": "We the People",
         "url": "https://petitions.whitehouse.gov/",
@@ -3747,6 +4081,7 @@
             "whitehouse.gov"
         ]
     },
+
     {
         "name": "Weather.com",
         "url": "http://registration.weather.com/ursa/profile/unsubscribe",
@@ -3757,6 +4092,7 @@
             "weather.com"
         ]
     },
+
     {
         "name": "WEB.DE",
         "url": "https://kundencenter.web.de/",
@@ -3766,6 +4102,7 @@
             "web.de"
         ]
     },
+
     {
         "name": "WhatsApp",
         "url": "https://whatsapp.zendesk.com/entries/21119703-How-do-I-delete-my-account-",
@@ -3781,6 +4118,7 @@
             "zendesk.com"
         ]
     },
+
     {
         "name": "whistle.im",
         "url": "https://whistle.im/browser#vcard",
@@ -3793,6 +4131,7 @@
             "whistle.im"
         ]
     },
+
     {
         "name": "whosay.com",
         "url": "http://www.whosay.com/settings",
@@ -3803,6 +4142,7 @@
             "whosay.com"
         ]
     },
+
     {
         "meta": "popular",
         "name": "Wikipedia",
@@ -3819,6 +4159,7 @@
             "wikipedia.org"
         ]
     },
+
     {
         "meta": "popular",
         "name": "WordPress.com",
@@ -3835,6 +4176,7 @@
             "wordpress.com"
         ]
     },
+
     {
         "name": "Wunderlist",
         "url": "https://www.wunderlist.com/#/preferences/account",
@@ -3849,6 +4191,7 @@
             "wunderlist.com"
         ]
     },
+
     {
         "name": "Xfire",
         "url": "http://www.xfire.com/faq#1",
@@ -3858,6 +4201,7 @@
             "xfire.com"
         ]
     },
+
     {
         "name": "Xing",
         "url": "https://www.xing.com/help/help-and-faqs-2/general-stuff-55/xing-memberships-153/general-stuff-803/canceling-free-basic-membership-185",
@@ -3872,6 +4216,7 @@
             "xing.com"
         ]
     },
+
     {
         "name": "Xobni",
         "url": "https://www.xobni.com/account/settings",
@@ -3886,6 +4231,7 @@
             "xobni.com"
         ]
     },
+
     {
         "meta": "popular",
         "name": "Yahoo!",
@@ -3896,6 +4242,7 @@
             "yahoo.com"
         ]
     },
+
     {
         "name": "Yatado",
         "url": "http://about.yatedo.com/manage-your-digital-id/",
@@ -3910,6 +4257,7 @@
             "yatedo.com"
         ]
     },
+
     {
         "meta": "popular",
         "name": "Yelp",
@@ -3919,6 +4267,7 @@
             "yelp.co.uk"
         ]
     },
+
     {
         "meta": "popular",
         "name": "YouTube",
@@ -3933,6 +4282,7 @@
             "youtube.com"
         ]
     },
+
     {
         "name": "Zattoo",
         "url": "https://zattoo.com/account/delete",
@@ -3941,6 +4291,7 @@
             "zattoo.com"
         ]
     },
+
     {
         "name": "Zoho",
         "url": "https://accounts.zoho.com/u/h#setting/closeaccount",
@@ -3950,6 +4301,7 @@
             "zoho.com"
         ]
     },
+
     {
         "name": "Zootool",
         "url": "http://zootool.com/delete",
@@ -3958,6 +4310,7 @@
             "zootool.com"
         ]
     },
+
     {
         "name": "Zurker",
         "url": "https://my.zurker.com/destroy",
