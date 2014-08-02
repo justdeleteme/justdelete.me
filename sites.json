@@ -86,6 +86,16 @@
         ]
     },
     {
+        "name": "Amara",
+        "url": "http://www.amara.org/profiles/account/",
+        "difficulty": "easy",
+        "notes": "Just head to the account page and click the red button 'Delete your account' at the bottom left of the page.",
+        "notes_pt_br": "Apenas vá para a página de sua conta e clique no botão 'Delete your account' no canto inferior esquerdo da página.",
+        "domains": [
+            "amara.org"
+        ]
+    },
+    {
         "name": "Amazon",
         "url": "https://www.amazon.com/gp/help/customer/contact-us/ref=cu_cf_email?ie=UTF8&mode=email#a",
         "difficulty": "hard",
@@ -325,6 +335,16 @@
         "difficulty": "easy",
         "domains": [
             "blueapron.com"
+        ]
+    },
+    {
+        "name": "BoardGameGeek",
+        "url": "http://www.boardgamegeek.com/geekaccount.php?action=requestdeletion",
+        "difficulty": "easy",
+        "notes": "Log-in and use the link provided to request account deletion.",
+        "notes_pt_br": "Faça login e use o link fornecido para requerir que a conta seja excluída.",
+        "domains": [
+            "boardgamegeek.com"
         ]
     },
     {
@@ -3431,8 +3451,10 @@
     },
     {
         "name": "TED",
-        "url": "http://support.ted.com/customer/portal/emails/new",
+        "url": "http://support.ted.com/customer/portal/articles/143809-i-d-like-to-delete-my-account",
         "difficulty": "hard",
+        "notes": "TED has to be contacted via e-mail for account deletion requests",
+        "notes_pt_br": "O TED tem de ser contactado por e-mail para pedidos de remoção de conta",
         "domains": [
             "support.ted.com",
             "ted.com"
