@@ -1536,10 +1536,22 @@
         "notes_pt_br": "Você pode remover as informações e manualmente sair do HOL, mas sua conta é permanente.",
         "notes_cat": "Pot esborrar la seva informaciò i manualment sortir d'HOL, però el seu compte es permanent.",
         "notes_es": "Puede borrar su informacion y manualmente salir de HOL, pero su cuenta es permanente.",
+        "notes_de": "Sie können Ihre daten manuell löschen und HOL schließen, aber Ihre Daten bleiben gespeichert",
         "domains": [
             "hol.org.uk"
         ]
     },
+    {
+        "name": "Hostelsclub",
+        "url": "http://www.hostelsclub.com/",
+        "difficulty": "impossible",
+        "notes": "You can remove every information from your account or if you signed up using a social network disconnect it.",
+        "notes_de": "Du kannst persönliche Daten Löschen. Wenn du Soziale Netzwerke zum Anmelden benutzt hast kannst du die Verbindung zu diesen trennen.",
+        "domains": [
+            "hostelsclub.com"
+        ]
+    },
+    
     {
         "name": "Hot or Not",
         "url": "http://hotornot.com",
