@@ -1560,6 +1560,11 @@
         ]
     },
     {
+        "name": "Huddle",
+        "url": "https://huddle.zendesk.com/hc/en-us/articles/200124703-How-do-I-cancel-my-Huddle-account-",
+        "difficulty": "hard"
+    },
+    {
         "name": "Hulu",
         "url": "https://secure.hulu.com/users/delete",
         "difficulty": "easy",
@@ -2999,6 +3004,12 @@
             "help.slideshare.com",
             "slideshare.com"
         ]
+    },
+    {
+        "name": "SlimTimer",
+        "url": "http://slimtimer.com/",
+        "difficulty": "hard",
+        "notes": "Email request required."
     },
     {
         "name": "Snapchat",
