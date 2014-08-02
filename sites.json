@@ -2301,6 +2301,14 @@
         ]
     },
     {
+        "name": "Moviepilot.de",
+        "url": "http://www.moviepilot.de/users/null/edit_membership",
+        "difficulty": "easy",
+        "domains": [
+            "moviepilot.de"
+        ]
+    },
+    {
         "name": "Mozilla Persona",
         "url": "https://login.persona.org/",
         "difficulty": "easy",
