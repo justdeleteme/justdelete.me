@@ -2294,7 +2294,7 @@
     {
         "name": "myJdownloader",
         "url": "http://my.jdownloader.org/",
-        "difficulty": "medium",
+        "difficulty": "easy",
         "notes": "Go to your account settings (top right, click on your E-Mail-Adress) and select 'Delete Account'",
         "notes_de": "Gehe zu deinen Account-Einstellungen (oben rechts, klicke auf deine E-Mail-Adresse) und wähle 'Delete Account' aus.",
         "domains": [
