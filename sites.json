@@ -1519,6 +1519,14 @@
         ]
     },
     {
+        "name": "HighBeam Research",
+        "url": "http://www.highbeam.com/Account/Cancel",
+        "difficulty": "easy",
+        "domains": [
+          "highbeam.com"
+        ]
+    },
+    {
         "name": "HOL Virtual Hogwarts",
         "url": "http://hol.org.uk/profile.php?view=quithol",
         "difficulty": "impossible",
