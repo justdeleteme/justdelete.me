@@ -224,6 +224,7 @@
 					<li class="tr"><a href="https://github.com/MarioErmando">Erman Sayın</a></li>
 					<li class="vi"><a href="https://github.com/giangnb">Giang Nguyen</a></li>
 					<li class="zh-cn"><a href="https://github.com/Jonwei">Joe Shen</a></li>
+					<li class="pl"><a href="https://github.com/Halamix2">Piotr Halama</a></li>
 				</ul>
 			</div><div class="info-block-half">
 				<h2><?php echo $morecontrib; ?></h2>
@@ -310,6 +311,7 @@
 	        <li class="zh-cn"><a href="zh-cn.html">中国的</a></li>
 	        <li class="id"><a href="id.html">Indonesia</a></li>
 	        <li class="ro"><a href="ro.html">Român</a></li>
+	        <li class="pl"><a href="pl.html">Polski</a></li>
 	        <li class="dropdown-divider"></li>
 	        <li class="help"><a target="_blank" href="https://github.com/rmlewisuk/justdelete.me/issues/164"><?php echo $help_translate; ?></a></li>
 	    </ul>
