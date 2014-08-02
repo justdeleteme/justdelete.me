@@ -15,6 +15,7 @@
 		'tr',
 		'vi',
 		'zh-cn',
+		'zh-tw',
 		'ro',
 		'pl'
 	);
@@ -73,6 +74,9 @@
 			$full_name = "Tiếng Việt";
 		}
 		if ($lang == "zh-cn") {
+			$full_name = "中国的";
+		}
+		if ($lang == "zh-tw") {
 			$full_name = "中国的";
 		}
 		if ($lang == "ro") {
