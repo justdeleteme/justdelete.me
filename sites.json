@@ -519,7 +519,7 @@
     },
     {
         "name": "Cnet",
-        "url": "https://cbsi.secure.force.com/CBSi/submitcase?template=template_cnet&referer=cnet.com&cfs=SFS_1"
+        "url": "https://cbsi.secure.force.com/CBSi/submitcase?template=template_cnet&referer=cnet.com&cfs=SFS_1",
         "difficulty": "hard",
         "notes": "You have to ask the support to maybe get your account delete. Chose the category CNET Redigstration",
         "domains": [
