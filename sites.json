@@ -945,6 +945,18 @@
         ]
     },
     {
+        "name": "eDreams",
+        "url": "http://www.edreams.com/edreams/english/about/copyright.jhtml",
+        "difficulty": "impossible",
+        "notes": "FAQ states that account can be deleted upon request, but e-mails requesting it are completely ignored.",
+        "notes_pt_br": "FAQ diz que a conta pode ser deletada mediante requisição, mas e-mails que requerem isso são sumariamente ignorados.",
+         "domains": [
+            "edreams.co.uk",
+            "edreams.net",
+            "edreams.pt"
+        ]
+    },
+    {
         "name": "EdX",
         "url": "https://www.edx.org/student-faq",
         "difficulty": "impossible",
