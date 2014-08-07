@@ -310,7 +310,7 @@
 	        <li class="ar"><a href="ar.html">العربية</a></li>
 	        <li class="fa"><a href="fa.html">فارسی</a></li>
 	        <li class="zh-cn"><a href="zh-cn.html">中国的</a></li>
-	        <li class="zh-tw"><a href="zh-tw.html">中国的 (traditional)</a></li>
+	        <li class="zh-tw"><a href="zh-tw.html">正體中文</a></li>
 	        <li class="id"><a href="id.html">Indonesia</a></li>
 	        <li class="ro"><a href="ro.html">Român</a></li>
 	        <li class="pl"><a href="pl.html">Polski</a></li>
