@@ -3740,6 +3740,17 @@
             "tagged.com"
         ]
     },
+    
+    {
+        "name": "Tango",
+        "url": "http://support.tango.me/entries/23534011-How-do-I-delete-my-Tango-account-",
+        "difficulty": "medium",
+        "notes": "In order to delete your account, you have to fill out the form.",
+        "domains": [
+            "tango.me",
+            "support.tango.me"
+        ]
+    },
 
     {
         "name": "TeamViewer",
@@ -4321,7 +4332,7 @@
             "zootool.com"
         ]
     },
-
+    
     {
         "name": "Zurker",
         "url": "https://my.zurker.com/destroy",
