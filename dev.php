@@ -164,6 +164,17 @@
 		</section>
 	</section>
 	<span id="about">about anchor</span>
+	<section class="adsense">
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+			<!-- JDM -->
+			<ins class="adsbygoogle"
+			     style="display:inline-block;width:728px;height:90px"
+			     data-ad-client="ca-pub-9778304973218149"
+			     data-ad-slot="6251902116"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>	
+	</section>
 	<section class="info-block">
 		<div class="info-container">
 
