@@ -130,7 +130,8 @@ $(function(){
     });
 
     $('.info').click(function(e) {
-     $('body').scrollTo('.info-block');
+        e.preventDefault();
+     $('body').scrollTo('.about');
     });
 
     // create the keys and konami variables

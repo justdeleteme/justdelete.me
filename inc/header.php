@@ -53,18 +53,24 @@
 			<!-- begin language switcher -->
 			<span class="language-switch" href="#" data-dropdown="#dropdown-1" id="<?php echo $lang; ?>"><?php echo $full_name; ?></span>
 			<!-- end language switcher -->
-			<a href="#about" class="info">About</a>
+			<a href="#" class="info">About</a>
 			<a href="/fake-identity-generator" class="id-gen">Fake Identity Generator</a>
-			<a href="#" class="banner">Chrome Extension</a>
 		<?php else : ?>
 			<a href="/" class="home">Home</a>
 			<a href="/fake-identity-generator" class="id-gen current">Fake Identity Generator</a>
 			<a target="_blank" href="https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf">Chrome Extension</a>
 		<?php endif; ?>
-		<a target="_blank" href="http://github.com/rmlewisuk/justdelete.me">Fork on GitHub</a>
 	</nav>
 
 	<header>
 		<h1>just<span>delete</span>.me</h1>
 		<p class="tagline"><?php echo $tagline ?></p>
+
+		<p>
+			<a href="#" class="button banner">Chrome Extension</a>
+
+			<a class="button">Fork&nbsp;on&nbsp;GitHub</a>
+
+			<a class="button" href="https://twitter.com/intent/tweet?text=Just+Delete+Me+-+A+directory+of+direct+links+to+delete+your+account+from+web+services.+http%3A%2F%2Fjustdelete.me">Tweet JDM</a>
+		</p>
 	</header>

@@ -101,8 +101,8 @@
 
 		<div class="sort-container">
 			<button class="popular"><?php echo $popular; ?></button>
-	    	<button data-dropdown="#dropdown-2" class="az-sort">A - Z &#9660;</button>
-	    	<button data-dropdown="#dropdown-3" class="diff-sort"><?php echo $difficulty; ?> &#9660;</button>
+	    	<button data-dropdown="#dropdown-2" class="az-sort">A - Z</button>
+	    	<button data-dropdown="#dropdown-3" class="diff-sort"><?php echo $difficulty; ?></button>
 	    	<button class="reset">reset</button>
 		</div>
 
@@ -175,7 +175,7 @@
 			(adsbygoogle = window.adsbygoogle || []).push({});
 		</script>	
 	</section>
-	<section class="info-block">
+	<section class="info-block about">
 		<div class="info-container">
 
 			<div class="info-block-half">
