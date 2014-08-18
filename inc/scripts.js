@@ -126,6 +126,7 @@ $(function(){
     // Banner scroll to bottom
 
     $('.banner').click(function(e) {
+        e.preventDefault();
      $('body').scrollTo('.banner-block');
     });
 
