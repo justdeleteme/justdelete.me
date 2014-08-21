@@ -3635,14 +3635,14 @@
 
     {
         "name": "StatusCake",
-        "difficulty": "hard",
-        "notes": "You have to write an Email from your registered mail address to the Support.",
-        "email": "support@statuscake.com",
+        "difficulty": "easy",
+		"url": "https://www.statuscake.com/App/User.php",
+        "notes": "Under 'Account' scroll down and click the red button 'Remove Account'",
         "domains": [
             "statuscake.com"
         ]
     },
-
+	
     {
         "name": "StayFriends.de",
         "url": "http://www.stayfriends.de/j/ViewController?action=accountSettings&delEnabled=true",
