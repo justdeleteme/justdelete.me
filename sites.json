@@ -2416,6 +2416,16 @@
     },
 
     {
+    	"name": "LoseIt",
+    	"url": "http://www.loseit.com/#Settings:Account%20Information^Account%20Information",
+    	"difficulty": "easy",
+    	"notes": "Click “Close account”.",
+    	"domains": [
+    		"loseit.com"
+    	]
+    },
+
+    {
         "name": "Lovefilm",
         "url": "https://www.lovefilm.com/account/cancel",
         "difficulty": "medium",
