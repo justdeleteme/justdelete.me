@@ -2875,6 +2875,16 @@
     },
 
     {
+        "name": "OnLive",
+        "url": "https://support.onlive.com/requests/new",
+        "difficulty": "impossible",
+        "notes": "It's possible to close your account if you request it, but it's not possible to delete it.",
+        "domains": [
+            "onlive.com"
+        ]
+    },
+
+    {
         "name": "OpenDNS",
         "url": "http://forums.opendns.com/comments.php?DiscussionID=8326",
         "difficulty": "hard",
