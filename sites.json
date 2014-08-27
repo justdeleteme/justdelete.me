@@ -902,6 +902,16 @@
             "digg.com"
         ]
     },
+    
+    {
+        "name": "DigitalOcean",
+        "url": "https://cloud.digitalocean.com/settings/account",
+        "difficulty": "easy",
+        "notes": "Check the \"Deactivate Account\" box in the settings.",
+        "domains": [
+            "digitalocean.com"
+        ]
+    },
 
     {
         "name": "diHITT",
