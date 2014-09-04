@@ -1738,6 +1738,16 @@
             "jacquesmattheij.com"
         ]
     },
+    
+    {
+        "name": "HelloWallet",
+        "url": "https://my.hellowallet.com/#MySettings",
+        "difficulty": "easy",
+        "notes": "Click 'Cancel My Membership' on the above URL and confirm.",
+        "domains": [
+            "hellowallet.com"
+        ]
+    }
 
     {
         "name": "Heroku",
