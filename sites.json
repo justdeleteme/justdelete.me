@@ -4255,6 +4255,16 @@
     },
 
     {
+        "name": "Yammer",
+        "url": "https://www.yammer.com/mozillians/account/display_options",
+        "difficulty": "easy",
+        "notes": "On the above URL, click the 'Delete your Yammer account' link in the topright and confirm.",
+        "domains": [
+            "yammer.com"
+        ]
+    },
+
+    {
         "name": "Yatado",
         "url": "http://about.yatedo.com/manage-your-digital-id/",
         "difficulty": "medium",
