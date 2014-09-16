@@ -2392,6 +2392,13 @@
         ]
     },
 
+     {
+        "name": "Linuxcounter",
+        "url": "https://linuxcounter.net/deleteaccount/profile.html",
+        "difficulty": "easy",
+        "notes": "Login -> Profile -> Delete account -> Yes"
+    },
+
     {
         "name": "LiveJournal",
         "url": "http://www.livejournal.com/accountstatus.bml",
