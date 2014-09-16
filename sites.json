@@ -3011,6 +3011,14 @@
             "paypal.com"
         ]
     },
+ 
+     {
+        "name": "Personello Germany",
+        "url": "http://de.personello.com/mypersonello/index/feedback",
+        "difficulty": "hard",
+        "notes": "It is necessary to contact the support, for example through 'Mein Konto' -> 'Meinung abgeben'.",
+        "notes_de": "Es ist nötig den Support zu kontaktieren oder über das Webinterface seine Meinung abzugeben unter 'Mein Konto' -> 'Meinung abgeben'"
+    },
 
     {
         "name": "PhishTank",
