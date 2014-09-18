@@ -2824,6 +2824,15 @@
     },
 
     {
+        "name": "Netvibes",
+        "url": "http://www.netvibes.com/account/unsubscribe",
+        "difficulty": "easy",
+        "domains": [
+            "netvibes.com"
+        ]
+    },
+
+    {
         "name": "New Relic",
         "url": "",
         "difficulty": "hard",
