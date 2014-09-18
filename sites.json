@@ -1798,7 +1798,7 @@
         "domains": [
             "hellowallet.com"
         ]
-    }
+    },
 
     {
         "name": "Heroku",
