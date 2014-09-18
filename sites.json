@@ -4067,6 +4067,16 @@
     },
 
     {
+        "name": "Usersnap",
+        "url": "https://usersnap.com/contact",
+        "difficulty": "medium",
+        "notes": "Send an e-mail to help@usersnap.com with a subject 'Delete my account'",
+        "domains": [
+            "usersnap.com"
+        ]
+    },
+    
+    {
         "name": "Ustream",
         "url": "http://www.ustream.tv/account/preferences",
         "difficulty": "easy",
