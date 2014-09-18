@@ -77,7 +77,7 @@
 			$full_name = "中国的";
 		}
 		if ($lang == "zh-tw") {
-			$full_name = "中国的";
+			$full_name = "正體中文";
 		}
 		if ($lang == "ro") {
 			$full_name = "Român";
