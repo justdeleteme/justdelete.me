@@ -4187,20 +4187,20 @@
     },
 
     {
+        "name": "Veduca",
+        "url": "http://www.veduca.com.br",
+        "difficulty": "impossible",
+        "domains": [
+            "veduca.com.br"
+        ]
+    },
+
+    {
         "name": "Velo Hero",
         "url": "http://app.velohero.com/settings/terminate",
         "difficulty": "easy",
         "domains": [
             "velohero.com"
-        ]
-    },
-
-    {
-        "name": "Verduca",
-        "url": "http://www.veduca.com.br",
-        "difficulty": "impossible",
-        "domains": [
-            "veduca.com.br"
         ]
     },
 
