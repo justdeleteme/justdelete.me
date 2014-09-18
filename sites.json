@@ -26,7 +26,7 @@
         "notes_it": "Logga il tuo account, vai su parameters, clicca Delete my account. Conferma cliccando I want to delete my account. E ancora cliccando Delete my 9GAG account.",
         "notes_pt_br": "Faça login em sua conta, vá em parâmetros, clique em Delete my account. Confirme clicando em I want to delete my account. E novamente em Delete my 9GAG account.",
         "notes_cat": "Entra al teu compte, ves a paràmetres, fés clic a 'Delete my account'. Confirma clicant a 'I want to delete my account'. I novament a 'Delete my 9GAG account'.",
-        "notes_es": "Entra en tu cuenta, ve a parámetros, haz clic en 'Delete my account'. Confirma haciendo clic en 'I want to delete my account'. I de nuevo en 'Delete my 9GAG account'.",        
+        "notes_es": "Entra en tu cuenta, ve a parámetros, haz clic en 'Delete my account'. Confirma haciendo clic en 'I want to delete my account'. I de nuevo en 'Delete my 9GAG account'.",
         "notes_pl": "Zaloguj się na swoje konto, przejdź do ustawień, kliknij Delete my account. Potwierdź klikając I want to delete my account. Następnie wprowadź swoje hasło i kliknij Delete my 9GAG account.",
         "domains": [
             "9gag.com"
@@ -936,7 +936,7 @@
             "digg.com"
         ]
     },
-    
+
     {
         "name": "DigitalOcean",
         "url": "https://cloud.digitalocean.com/settings/account",
@@ -1064,8 +1064,8 @@
             "dwolla.com"
         ]
     },
- 
-     {
+
+    {
         "name": "DynDNS",
         "url": "https://account.dyn.com/profile/close.html",
         "difficulty": "easy"
@@ -1142,17 +1142,16 @@
             "edx.org"
         ]
     },
-    
-    
+
     {
         "name": "Ello",
-		"url": "https://ello.co/delete-account",
-		"difficulty": "easy",
-		"notes": "Quoted from Ello: By deleting your account you remove your personal information from Ello. Your account cannot be restored.",
-		"notes_de": "Zitiert von Ello: Wenn Sie Ihren Account löschen, entfernen Sie alle persönlichen Informationen von Ello. Ihr Account kann nicht wiederhergestellt werden.",
-		"domains": [
-			"ello.co"
-		]
+        "url": "https://ello.co/delete-account",
+        "difficulty": "easy",
+        "notes": "Quoted from Ello: By deleting your account you remove your personal information from Ello. Your account cannot be restored.",
+        "notes_de": "Zitiert von Ello: Wenn Sie Ihren Account löschen, entfernen Sie alle persönlichen Informationen von Ello. Ihr Account kann nicht wiederhergestellt werden.",
+        "domains": [
+            "ello.co"
+        ]
     },
 
     {
@@ -1334,6 +1333,15 @@
     },
 
     {
+        "name": "Forrst",
+        "url": "http://forrst.com/settings",
+        "difficulty": "easy",
+        "domains": [
+            "forrst.com"
+        ]
+    },
+
+    {
         "name": "Fotka",
         "url": "http://www.fotka.pl/ustawienia/konto_usun",
         "difficulty": "medium",
@@ -1347,15 +1355,6 @@
         "notes_pl": "Aby usunąć swoje konto, nie możesz dodawać żadnych treści przez co najmniej trzy dni.",
         "domains": [
             "fotka.pl"
-        ]
-    },
-
-    {
-        "name": "Forrst",
-        "url": "http://forrst.com/settings",
-        "difficulty": "easy",
-        "domains": [
-            "forrst.com"
         ]
     },
 
@@ -1816,7 +1815,7 @@
             "jacquesmattheij.com"
         ]
     },
-    
+
     {
         "name": "HelloWallet",
         "url": "https://my.hellowallet.com/#MySettings",
@@ -2517,13 +2516,13 @@
     },
 
     {
-    	"name": "LoseIt",
-    	"url": "http://www.loseit.com/#Settings:Account%20Information^Account%20Information",
-    	"difficulty": "easy",
-    	"notes": "Click “Close account”.",
-    	"domains": [
-    		"loseit.com"
-    	]
+        "name": "LoseIt",
+        "url": "http://www.loseit.com/#Settings:Account%20Information^Account%20Information",
+        "difficulty": "easy",
+        "notes": "Click “Close account”.",
+        "domains": [
+            "loseit.com"
+        ]
     },
 
     {
@@ -2553,12 +2552,11 @@
         "name": "MailChimp",
         "url": "http://kb.mailchimp.com/article/how-do-i-close-my-account",
         "difficulty": "medium",
-        "notes": "Account Settings → Account Settings Drop-down → Close my account → Type DELETE and press Delete Account button.",
+        "notes": "Account Settings → Account Settings Drop-down → Close my account → Wpisz DELETE i kliknij Delete Account.",
         "notes_it": "Account Settings → Account Settings Drop-down → Close my account → Digita DELETE e premi il pulsante Delete Account.",
         "notes_pt_br": "Account Settings → Account Settings Drop-down → Close my account → Digite DELETE e pressione o botão Delete Account.",
         "notes_cat": "Account Settings → Account Settings Drop-down → Close my account → Marca DELETE i presioni el botó 'Delete Account'.",
         "notes_es": "Account Settings → Account Settings Drop-down → Close my account → Marca DELETE y presiona el botón 'Delete Account'.",
-        "notes": "Account Settings → Account Settings Drop-down → Close my account → Wpisz DELETE i kliknij Delete Account.",
         "domains": [
             "kb.mailchimp.com",
             "mailchimp.com"
@@ -3008,6 +3006,14 @@
     },
 
     {
+        "name": "Open Shift",
+        "url": "https://www.openshift.com/faq/how-do-i-delete-my-account",
+        "difficulty": "impossible",
+        "notes": "You can't delete your account including all data, only a 'soft delete' is possible where you can always re-enable your account. To achieve this, write an email to the support openshift@redhat.com",
+        "notes_de": "Es ist nicht möglich das Konto mit allen Daten zu löschen, es ist nur ein 'weiches Löschen' möglich, bei dem es immer die Möglichkeit des Wieder-Aktivierens gibt. Um das zu Erreichen, muss eine Email an den Support openshift@redhat.com verfasst werden."
+    },
+
+    {
         "name": "OpenDNS",
         "url": "http://forums.opendns.com/comments.php?DiscussionID=8326",
         "difficulty": "hard",
@@ -3020,14 +3026,6 @@
             "forums.opendns.com",
             "opendns.com"
         ]
-    },
-
-    {
-        "name": "Open Shift",
-        "url": "https://www.openshift.com/faq/how-do-i-delete-my-account",
-        "difficulty": "impossible",
-        "notes": "You can't delete your account including all data, only a 'soft delete' is possible where you can always re-enable your account. To achieve this, write an email to the support openshift@redhat.com",
-        "notes_de": "Es ist nicht möglich das Konto mit allen Daten zu löschen, es ist nur ein 'weiches Löschen' möglich, bei dem es immer die Möglichkeit des Wieder-Aktivierens gibt. Um das zu Erreichen, muss eine Email an den Support openshift@redhat.com verfasst werden."
     },
 
     {
@@ -3129,8 +3127,8 @@
             "paypal.com"
         ]
     },
- 
-     {
+
+    {
         "name": "Personello Germany",
         "url": "http://de.personello.com/mypersonello/index/feedback",
         "difficulty": "hard",
@@ -3729,7 +3727,7 @@
         "url": "https://springme.zendesk.com/hc/en-us/articles/200234190-How-to-disable-your-Spring-me-account",
         "difficulty": "medium",
         "notes": "Your account can't be deleted. It can be disabled using the link, but your data will stay inactive on servers.",
-		"notes_de": "Dein Account kann nicht gelöscht werden. Er kann deaktiviert werden, aber deine Daten werden inaktiv auf den Servern bleiben.",
+        "notes_de": "Dein Account kann nicht gelöscht werden. Er kann deaktiviert werden, aber deine Daten werden inaktiv auf den Servern bleiben.",
         "domains": [
             "springme.zendesk.com",
             "zendesk.com"
@@ -3790,13 +3788,13 @@
     {
         "name": "StatusCake",
         "difficulty": "easy",
-		"url": "https://www.statuscake.com/App/User.php",
+        "url": "https://www.statuscake.com/App/User.php",
         "notes": "Under 'Account' scroll down and click the red button 'Remove Account'",
         "domains": [
             "statuscake.com"
         ]
     },
-	
+
     {
         "name": "StayFriends.de",
         "url": "http://www.stayfriends.de/j/ViewController?action=accountSettings&delEnabled=true",
@@ -3904,7 +3902,7 @@
             "tagged.com"
         ]
     },
-    
+
     {
         "name": "Tango",
         "url": "http://support.tango.me/entries/23534011-How-do-I-delete-my-Tango-account-",
@@ -4157,7 +4155,7 @@
             "usersnap.com"
         ]
     },
-    
+
     {
         "name": "Ustream",
         "url": "http://www.ustream.tv/account/preferences",
@@ -4526,7 +4524,7 @@
             "zootool.com"
         ]
     },
-    
+
     {
         "name": "Zurker",
         "url": "https://my.zurker.com/destroy",
