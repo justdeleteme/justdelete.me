@@ -350,12 +350,9 @@
 
     {
         "name": "bitly",
-        "url": "http://support.bitly.com/knowledgebase/articles/105373-how-do-i-delete-my-account-",
-        "difficulty": "impossible",
-        "notes": "The best you can do is archive all of your links. Go to the link you want to archive and click the 'x' in the upper right of the shortlink to archive the link. You can also make all of your shortlinks private.",
-        "notes_cat": "El millor que pots fer es arxivar tots els teus enllaços. Vés al enllaç que vols arxivar i fés clic a la 'x' a la cantonada superior dreta per arxivar l'enllaç. També els pots fer privats.",
-        "notes_es": "Lo mejor que puedes hacer es archivar los enlaces. Ves al enlace y haz clic en la 'x' de la esquina superior derecha para archivar el enlace. También los puedes hacer privados.",
-        "notes_it": "La cosa miglior che puoi fare è archiviare tutti i tuoi link. Seleziona il link che desideri archiviare e clicca la 'x' in alto a destra del collegamente per archiviarlo. Puoi anche rendere tutti i tuoi collegamenti privati",
+        "url": "https://bitly.com/a/deactivate_account",
+        "difficulty": "Easy",
+        "notes": "Select why you are deleting your account. Your account will be deleted but all your shortlinks will remain.",
         "domains": [
             "support.bitly.com",
             "bitly.com"
