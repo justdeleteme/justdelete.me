@@ -1064,6 +1064,12 @@
             "dwolla.com"
         ]
     },
+ 
+     {
+        "name": "DynDNS",
+        "url": "https://account.dyn.com/profile/close.html",
+        "difficulty": "easy"
+    },
 
     {
         "name": "EA Origin",
@@ -2481,6 +2487,13 @@
     },
 
     {
+        "name": "Linuxcounter",
+        "url": "https://linuxcounter.net/deleteaccount/profile.html",
+        "difficulty": "easy",
+        "notes": "Login -> Profile -> Delete account -> Yes"
+    },
+
+    {
         "name": "LiveJournal",
         "url": "http://www.livejournal.com/accountstatus.bml",
         "difficulty": "medium",
@@ -3010,6 +3023,14 @@
     },
 
     {
+        "name": "Open Shift",
+        "url": "https://www.openshift.com/faq/how-do-i-delete-my-account",
+        "difficulty": "impossible",
+        "notes": "You can't delete your account including all data, only a 'soft delete' is possible where you can always re-enable your account. To achieve this, write an email to the support openshift@redhat.com",
+        "notes_de": "Es ist nicht möglich das Konto mit allen Daten zu löschen, es ist nur ein 'weiches Löschen' möglich, bei dem es immer die Möglichkeit des Wieder-Aktivierens gibt. Um das zu Erreichen, muss eine Email an den Support openshift@redhat.com verfasst werden."
+    },
+
+    {
         "name": "Outlook",
         "url": "https://account.live.com/CloseAccount.aspx",
         "difficulty": "easy",
@@ -3107,6 +3128,14 @@
         "domains": [
             "paypal.com"
         ]
+    },
+ 
+     {
+        "name": "Personello Germany",
+        "url": "http://de.personello.com/mypersonello/index/feedback",
+        "difficulty": "hard",
+        "notes": "It is necessary to contact the support, for example through 'Mein Konto' -> 'Meinung abgeben'.",
+        "notes_de": "Es ist nötig den Support zu kontaktieren oder über das Webinterface seine Meinung abzugeben unter 'Mein Konto' -> 'Meinung abgeben'"
     },
 
     {
