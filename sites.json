@@ -1122,7 +1122,7 @@
 		"url": "https://ello.co/delete-account",
 		"difficulty": "easy",
 		"notes": "Quoted from Ello: By deleting your account you remove your personal information from Ello. Your account cannot be restored.",
-		"notes_de" "Zitiert von Ello: Wenn Sie Ihren Account löschen, entfernen Sie alle persönlichen Informationen von Ello. Ihr Account kann nicht wiederhergestellt werden.",
+		"notes_de": "Zitiert von Ello: Wenn Sie Ihren Account löschen, entfernen Sie alle persönlichen Informationen von Ello. Ihr Account kann nicht wiederhergestellt werden.",
 		"domains": [
 			"ello.co"
 		]
