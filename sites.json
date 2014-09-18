@@ -26,7 +26,8 @@
         "notes_it": "Logga il tuo account, vai su parameters, clicca Delete my account. Conferma cliccando I want to delete my account. E ancora cliccando Delete my 9GAG account.",
         "notes_pt_br": "Faça login em sua conta, vá em parâmetros, clique em Delete my account. Confirme clicando em I want to delete my account. E novamente em Delete my 9GAG account.",
         "notes_cat": "Entra al teu compte, ves a paràmetres, fés clic a 'Delete my account'. Confirma clicant a 'I want to delete my account'. I novament a 'Delete my 9GAG account'.",
-        "notes_es": "Entra en tu cuenta, ve a parámetros, haz clic en 'Delete my account'. Confirma haciendo clic en 'I want to delete my account'. I de nuevo en 'Delete my 9GAG account'.",
+        "notes_es": "Entra en tu cuenta, ve a parámetros, haz clic en 'Delete my account'. Confirma haciendo clic en 'I want to delete my account'. I de nuevo en 'Delete my 9GAG account'.",        
+        "notes_pl": "Zaloguj się na swoje konto, przejdź do ustawień, kliknij Delete my account. Potwierdź klikając I want to delete my account. Następnie wprowadź swoje hasło i kliknij Delete my 9GAG account.",
         "domains": [
             "9gag.com"
         ]
@@ -60,6 +61,7 @@
         "notes_pt_br": "Você deve ligar para eles para deletar sua conta. De maneira alternativa, você pode enviá-los um e-mail.",
         "notes_cat": "S'ha de posar en cotacte amb ells. Mitjançant telèfon o e-mail.",
         "notes_es": "Se tiene que poner en contacto con ellos. Mediante teléfono o e-mail.",
+        "notes_pl": "Możesz zadzwonić lub wysłać email z prośbą o usunięcie konta.",
         "domains": [
             "learn.adobe.com",
             "adobe.com"
@@ -127,6 +129,7 @@
         "notes_pt_br": "Para fechar sua conta, contate Amazon por e-mail (usando este modelo de contato) e requira que sua conta seja fechada.",
         "notes_cat": "Per tancar el seu compte, contacti amb Amazon via e-mail (omplint aquest formulari de contacte) i demanant que es tanqui el seu compte.",
         "notes_es": "Para cerrar su cuenta, contacte con Amazon via e-mail (rellenando este formulario de contacto) y pidiendo que se cierre su cuenta.",
+        "notes_pl": "Skontakuj się z Amazonem za pomocą formularza kontaktowego i poproś o usunięcie swojego konta.",
         "domains": [
             "amazon.com"
         ]
@@ -221,6 +224,7 @@
         "notes_pt_br": "Peça para que seja deletada pela assistência ao cliente.",
         "notes_cat": "Demani l'eliminació del compte al servei d'atenció al client.",
         "notes_es": "Pida la eliminación de su cuenta al servicio de atención al cliente.",
+        "notes_pl": "Skontakuj się z obsługą i poproś o usunięcie swojego konta.",
         "domains": [
             "ask.fm"
         ]
@@ -285,6 +289,7 @@
         "url": "https://basecamp.com/help/guides/account/cancel",
         "difficulty": "easy",
         "notes": "Data will be permanantly deleted after 30 days.",
+        "notes_pl": "Twoje dane zostaną całkowicie usunięte po upływie 30 dni.",
         "domains": [
             "basecamp.com"
         ]
@@ -337,6 +342,7 @@
         "notes_pt_br": "No menu lateral, clique em 'Delete Account' e na página de confirmação clique em 'Delete Account', todos os repositórios e contas serão imediatamente excluídos.",
         "notes_cat": "Al menú lateral, cliqui a 'Delete Account', a la pagina de confirmació cliqui 'Delete Account', tots els comptes i repositoris serán cancel·lats",
         "notes_es": "En el menú lateral, haga clic en 'Delete Account', y en la página de confirmación pulse 'Delete Account', todas sus cuentas y repositorios serán cancelados.",
+        "notes_pl": "W menu bocznym kliknij 'Delete Account' i potwierdź klikając przycisk 'Delete Account', wszystkie repozytoria i konto zostaną natychmiast usunięte.",
         "domains": [
             "bitbucket.org"
         ]
@@ -365,6 +371,7 @@
         "notes_fr": "Vous ne pouvez pas supprimer votre compte Blogger sans supprimer votre compte Google, mais vous pouvez supprimer votre blog.",
         "notes_cat": "Hauries d'esborrar tot el compte de Google sencer, però si que pots eliminar el teu blog.",
         "notes_es": "Tendrías que borrar toda cuenta de Google entera, pero si que puedes eliminar tu blog.",
+        "notes_pl": "Nie ma możliwosći usunięcia konta w usłudze Blogger bez usuwania całego konta Google. Możesz jedynie usunąć swój blog.",
         "domains": [
             "blogger.com"
         ]
@@ -385,6 +392,7 @@
         "difficulty": "easy",
         "notes": "Log-in and use the link provided to request account deletion.",
         "notes_pt_br": "Faça login e use o link fornecido para requerir que a conta seja excluída.",
+        "notes_pl": "Zaloguj się i użyj podanego odnośnika, aby usunąc swoje konto.",
         "domains": [
             "boardgamegeek.com"
         ]
@@ -433,6 +441,7 @@
         "difficulty": "hard",
         "notes": "You need to request deletion of your data via the contact form after logging in.",
         "notes_de": "Nach dem einloggen muss der Kundenservice zur Löschung kontaktiert werden.",
+        "notes_pl": "Poproś o usunięcie swoich danych za pomocą formularza kontaktowego.",
         "domains": [
             "secure.booklooker.de",
             "booklooker.de"
@@ -490,6 +499,7 @@
         "notes_pt_br": "Apenas clique em 'Abschicken'",
         "notes_cat": "Només cal clicar a 'Abschicken'",
         "notes_es": "Solo tienes que clicar en 'Abschicken'",
+        "notes_pl": "Wystarczy, że klikniesz 'Abschicken'",
         "domains": [
             "ress.at"
         ]
@@ -522,6 +532,7 @@
         "difficulty": "hard",
         "notes": "You can't delete your account without contacting them. You must set the subject to 'Delete Account'",
         "notes_de": "Sie können Ihren Account nicht löschen ohne den Support zu kontaktieren. Sie müssen den Betreff auf 'Delete Account' setzen.",
+        "notes_pl": "Nie ma możliwości usunięcia konta bez kontaktu z obsługą. W temacie wpisz wiadomości 'Delete Account'",
         "domains": [
             "cex.io"
         ]
@@ -676,6 +687,7 @@
         "notes_fr": "Identifiez-vous puis visitez https://coderwall.com/delete_account",
         "notes_cat": "Identifica't al lloc web i entra https://coderwall.com/delete_account",
         "notes_es": "Identifícate en el sitio web y entra en https://coderwall.com/delete_account",
+        "notes_pl": "Zaloguj się i przejdź do https://coderwall.com/delete_account",
         "domains": [
             "coderwall.com"
         ]
@@ -719,6 +731,7 @@
         "notes_pt_br": "Contate o suporte e peça que eles deletem sua conta.",
         "notes_cat": "Contacti amb l'assistència al client i demani que li esborrrin el compte.",
         "notes_es": "Contacte con asistencia al cliente y pide que te borren la cuenta.",
+        "notes_pl": "Skontaktuj się z obsługą i poproś o usunięcie swojego konta.",
         "domains": [
             "coursera.org"
         ]
@@ -851,6 +864,7 @@
         "notes_pt_br": "Todos os dados são apagados imediatamente. Contas podem ser reativadas em até 30 dias, após este prazo não poderão mais ser recuperadas.",
         "notes_cat": "Totes les seves dades son esborrades inmediatament. Els comptes poden ser reactivats abans de 30 dies, després d'aquest termini no podrà ser reactivat.",
         "notes_es": "Todos sus datos son borrados inmediatamente. Todas las cuentas pueden ser reactivadas antes de 30 dias, después de ese plazo no podrá ser recuperada.",
+        "notes_pl": "Wszystkie Twoje dane zostana natychmiast usunięte. Jeśli zmienisz zdanie, możesz reaktywować swoje konto w ciągu 30 dni.",
         "domains": [
             "deviantart.com"
         ]
@@ -882,6 +896,7 @@
         "notes_pt_br": "Clique em 'close my account' e confirme com sua senha.",
         "notes_cat": "Cliqui a 'close my account' i confirmi-ho amb la seva contrasenya.",
         "notes_es": "Haga clic en 'close my account' y confirmelo con su contraseña.",
+        "notes_pl": "Kliknij 'close my account' i potwierdź podając swoje hasło.",
         "domains": [
             "diasp.eu"
         ]
@@ -898,6 +913,7 @@
         "notes_pt_br": "Contate a assistência ao cliente da Digg e peça que sua conta seja fechada.",
         "notes_cat": "Contacti amb l'assistència al client de Digg i demani que es clausuri el seu compte.",
         "notes_es": "Contacte con asistencia al cliente de Digg y pida que se clausure su cuenta.",
+        "notes_pl": "Skontaktuj się z obsługą techniczną i poproś o usunięcie swojego konta",
         "domains": [
             "digg.com"
         ]
@@ -1032,6 +1048,7 @@
         "notes_pt_br": "Contate a assistência ao cliente e peça que sua conta seja deletada. Se você estiver fora dos EUA você deve fazer isso pelo telefone.",
         "notes_cat": "Contacti amb assistència al client i demani que es clausuri el seu compte. Si vius fora dels EEUU ho hauràs de fer per telèfon.",
         "notes_es": "Contacte con asistencia al cliente y pida que se cierre su cuenta. Si vives fuera de EEUU deberás hacerlo por teléfono.",
+        "notes_pl": "Skontaktuj się z obsługą techniczną i poproś o usunięcie konta.",
         "domains": [
             "help.ea.com",
             "ea.com"
@@ -1179,6 +1196,7 @@
         "notes_pt_br": "Você pode deletar sua conta facilmente, porém dados de conversas ficarão armazenados para sempre, como explicitado na Privacidade do site.",
         "notes_cat": "Pot esborrar el compte facilment, algunes dades com el chat o missatges en grup son guardades per sempre, com s'explica als termes de privacitat del lloc.",
         "notes_es": "Puede borrar la cuenta facilmente, algunos de los datos como el chat o mensajes en grupo son guardados para siempre, como se explica en los Terminos de privacidad del sitio.",
+        "notes_pl": "Możesz usunąć swoje konto, ale zgodnie z polityką prywatności wszystkie dane razem z wiadomościami zostaną w bazie danych na zawsze.",
         "domains": [
             "facebook.com"
         ]
@@ -1195,6 +1213,7 @@
         "notes_pt_br": "Envie um e-mail para a assistência ao cliente para pedir a remoção.",
         "notes_cat": "Enviï un e-mail a l'assistència al client per demanar l'eliminació del compte.",
         "notes_es": "Envie un e-mail a la asistencia al cliente para pedir la eliminación de la cuenta.",
+        "notes_pl": "Skontaktuj się z obsługą techniczną i poproś o usunięcie konta.",
         "domains": [
             "getsatisfaction.com"
         ]
@@ -1260,7 +1279,7 @@
     },
 
     {
-        "name": "Forka",
+        "name": "Fotka",
         "url": "http://www.fotka.pl/ustawienia/konto_usun",
         "difficulty": "medium",
         "notes": "To delete your account, you must not post anything for at least three days.",
@@ -1270,6 +1289,7 @@
         "notes_pt_br": "Para deletar sua conta, você deve postar nada por pelo menos três dias.",
         "notes_cat": "Per esborrar el seu compte no ha de pujar res en 3 dies.",
         "notes_es": "Para borrar su cuenta no debe subir nada en 3 días.",
+        "notes_pl": "Aby usunąć swoje konto, nie możesz dodawać żadnych treści przez co najmniej trzy dni.",
         "domains": [
             "fotka.pl"
         ]
@@ -1319,6 +1339,7 @@
         "notes_pt_br": "/msg NickServ DROP apelido senha",
         "notes_cat": "/msg NickServ DROP nom_usuari contrasenya",
         "notes_es": "/msg NickServ DROP nombre_usuario contraseña",
+        "notes_pl": "/msg NickServ DROP nick hasło",
         "domains": [
             "ezcrypt.it"
         ]
@@ -1497,6 +1518,7 @@
         "url": "https://www.google.com/settings/datatools",
         "difficulty": "easy",
         "notes": "Login into your account →  Data Tools →  Delete Products →  Remove Gmail permanently ",
+        "notes_pl": "Zaloguj się na swoje konto → Zarządzanie danymi → Usuń usługi → Usuń usługę Gmail na stałe",
         "domains": [
             "mail.google.com"
         ]
@@ -1648,6 +1670,7 @@
         "notes_fr": "Gravatar appartient à Wordpress, ce qui veut dire que vous ne pouvez pas supprimer votre compte.",
         "notes_cat": "No es pot esborrar el seu compte de Gravatar sense borrar tot el compte de WordPress.",
         "notes_es": "No se puede borrar su cuenta de Gravatar sin borrar todas las cuentas de WordPress.",
+        "notes_pl": "Nie ma możliwości usunięcia konta Gravatar bez usunięcia całego konta WordPress.",
         "domains": [
             "gravatar.com"
         ]
@@ -1749,6 +1772,7 @@
         "notes_pt_br": "Link “Close your account...” no final da página.",
         "notes_cat": "Clica a l'enllaç “Close your account...” al final de la pàgina.",
         "notes_es": "Clica en el enlace “Close your account...” al final de la página.",
+        "notes_pl": "Na dole strony kliknij 'Close your account', podaj hasło i zatwierdź przyciskiem.",
         "domains": [
             "dashboard.heroku.com",
             "heroku.com"
@@ -1944,6 +1968,7 @@
         "difficulty": "impossible",
         "notes": "You can't delete your Ingress Account without deleting your entire Google Account.",
         "notes_de": "Sie können Ihren Ingress-Account nicht löschen ohne Ihren ganzen Google-Account zu löschen.",
+        "notes_pl": "Nie ma możliwosći usunięcia konta Ingress bez usuwania całego konta Google.",
         "domains": [
             "ingress.com"
         ]
@@ -1969,6 +1994,7 @@
         "notes_pt_br": "Envie um e-mail com seu usuário e e-mail para a assistência ao cliente e eles deletarão sua conta.",
         "notes_cat": "Enviï un e-mail amb el seu nom d'usuari i e-mail a l'assistència al client i ells esborraran el seu compte.",
         "notes_es": "Envíe un e-mail con su nombre de usuario y e-mail a la asistencia al cliente y ellos borrarán su cuenta.",
+        "notes_pl": "Prześlij swój adres email i nazwę użytkownika do obsługi, a oni usuną Twoje konto.",
         "domains": [
             "feedback.instacanv.as",
             "instacanv.as"
@@ -2067,6 +2093,7 @@
         "notes_de": "Kontaktiere den Kundenservice. Du wirst deinen Zugang zu allen Medien verlieren, die du nicht auf deinen Computer heruntergeladen hast.",
         "notes_cat": "Contacta amb el servei d'assistència. Perdrà l'accés a qualsevol contingut que no hagi descarregat al seu ordinador.",
         "notes_es": "Contacte con el servicio de asistencia. Perderá el acceso a cualquier contenido que no haya descargado en su ordenador.",
+        "notes_pl": "Skontaktuj się z obsługą techniczną. Stracisz dostęp do wszystkich plików, których nie pobrałeś na swoje urządzenie.",
         "domains": [
             "apple.com"
         ]
@@ -2139,6 +2166,7 @@
         "notes_pt_br": "Logue-se. Digite sua senha. Pressione 'delete'.",
         "notes_cat": "Entri al compte. Posi la seva contrassenya. Presioni 'delete'.",
         "notes_es": "Entre en la cuenta. Ponga su contraseña. Pulse 'delete'.",
+        "notes_pl": "Zaloguj się, podaj swoje hasło i kliknij 'delete'.",
         "domains": [
             "jottacloud.com"
         ]
@@ -2305,6 +2333,7 @@
         "notes_pt_br": "Pode levar até 7 dias para deletar seus dados.",
         "notes_cat": "La desactivació pot trigar 7 dies a eliminar les teves dades",
         "notes_es": "La desactivación puede tardar 7 días en eliminar sus datos",
+        "notes_pl": "Twoje dane zostaną usunięte po upływie 7 dni.",
         "domains": [
             "last.fm"
         ]
@@ -2447,6 +2476,7 @@
         "notes_pt_br": "Account Settings → Account Settings Drop-down → Close my account → Digite DELETE e pressione o botão Delete Account.",
         "notes_cat": "Account Settings → Account Settings Drop-down → Close my account → Marca DELETE i presioni el botó 'Delete Account'.",
         "notes_es": "Account Settings → Account Settings Drop-down → Close my account → Marca DELETE y presiona el botón 'Delete Account'.",
+        "notes": "Account Settings → Account Settings Drop-down → Close my account → Wpisz DELETE i kliknij Delete Account.",
         "domains": [
             "kb.mailchimp.com",
             "mailchimp.com"
@@ -2640,6 +2670,7 @@
         "notes_pt_br": "Link “Cancel your account” no final da página.",
         "notes_cat": "“Cancel your account” al final de la pàgina.",
         "notes_es": "“Cancel your account” al final de la página.",
+        "notes_pl": "Kliknij “Cancel your account” na dole strony.",
         "domains": [
             "login.persona.org",
             "persona.org"
@@ -2662,6 +2693,7 @@
         "url": "https://my.opera.com/USERNAME/account/delete",
         "difficulty": "easy",
         "notes": "Replace <code>USERNAME</code> with your My Opera username in the URL.",
+        "notes_pl": "W podanym odnośniku zastąp <code>USERNAME</code> swoją nazwą użytkownika w usłudze My Opera",
         "domains": [
             "my.opera.com",
             "opera.com"
@@ -2944,6 +2976,7 @@
         "notes_pt_br": "Você pode remover seus pastes, mas não há um link para remover sua conta.",
         "notes_cat": "Pot esborrar els seus 'pastes', però no hi ha cap enllaç per esborrar el compte.",
         "notes_es": "Puede borrar sus 'pastes', pero no hay ningún enlace para borrar la cuenta.",
+        "notes_pl": "Nie ma możliwości usunięcia konta, możesz tylko usunąć dodane przez siebie treści.",
         "domains": [
             "pastebin.com"
         ]
@@ -3015,6 +3048,7 @@
         "notes_pt_br": "Você não pode deletar sua conta Picasa sem deletar toda sua Conta Google.",
         "notes_cat": "No pot esborrar el seu compte a Picasa sense esborrar el seu compte de Google.",
         "notes_es": "No puede borrar su cuenta en Picasa sin borrar su cuenta de Google.",
+        "notes_pl": "Nie ma możliwosći usunięcia konta w usłudze Picasa Web Albums bez usuwania całego konta Google.",
         "domains": [
             "picasaweb.google.com",
             "picasa.google.com"
@@ -3217,6 +3251,7 @@
         "notes_pt_br": "Você não pode deletar sua conta, mas você pode desativá-la.",
         "notes_cat": "No podrà esborrar el seu compte, pero es podrà desactivar.",
         "notes_es": "No podrá borrar su cuenta, pero se podrá desactivar.",
+        "notes_pl": "Nie możesz usunąć swojego konta, ale możesz je deaktywować.",
         "domains": [
             "readability.com"
         ]
@@ -3564,6 +3599,7 @@
         "notes_pt_br": "Contate a assistência ao cliente da Spotify através do formulário de contato e peça o fechamento da sua conta.",
         "notes_cat": "Contacti amb l'assistència al client d'Spotify a través del formulari de contacte i demana el clausurament del compte.",
         "notes_es": "Contacte con asistencia al cliente de Spotify a través del formulario de contacto y pide el cierre de la cuenta.",
+        "notes_pl": "Skontaktuj się z obsługą techniczną poprzez formularz kontaktowy i poproś o usunięcie konta.",
         "domains": [
             "spotify.com"
         ]
@@ -4289,6 +4325,7 @@
         "notes_cat": "No pots esborrar el teu compte de Youtube sense borrar tot el compte de Google, però pots borrar el teu canal.",
         "notes_fr": "Vous ne pouvez pas supprimer votre compte Youtube sans supprimer votre compte Google. Mais vous pouvez supprimer votre chaîne.",
         "notes_es": "No puedes borrar tu cuenta de Youtube sin borrar toda la cuenta de Google, pero puedes borrar tu canal.",
+        "notes_pl": "Nie ma możliwosći usunięcia konta w usłudze YouTube bez usuwania całego konta Google. Możesz jedynie usunąć swój kanał.",
         "domains": [
             "youtube.com"
         ]
