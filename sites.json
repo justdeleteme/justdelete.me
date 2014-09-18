@@ -1241,6 +1241,15 @@
     },
 
     {
+        "name": "Flattr",
+        "url": "https://flattr.com/deleteaccount",
+        "difficulty": "easy",
+        "domains": [
+            "flattr.com"
+        ]
+    },
+
+    {
         "name": "Flickr",
         "url": "http://www.flickr.com/profile_delete.gne",
         "difficulty": "easy",
