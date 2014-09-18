@@ -3505,6 +3505,16 @@
     },
 
     {
+        "name": "Sigfig",
+        "url": "https://support.sigfig.com/hc/en-us/articles/202586434-How-do-I-completely-delete-my-account-",
+        "difficulty": "hard",
+        "notes": "Contact customer service by email and request deletion.",
+        "domains": [
+            "sigfig.com"
+        ]
+    },
+
+    {
         "name": "Simple Machines",
         "url": "http://www.simplemachines.org/community/index.php?action=profile;area=deleteaccount",
         "difficulty": "hard",
