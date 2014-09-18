@@ -3670,6 +3670,16 @@
     },
 
     {
+        "name": "StatusCake",
+        "difficulty": "easy",
+		"url": "https://www.statuscake.com/App/User.php",
+        "notes": "Under 'Account' scroll down and click the red button 'Remove Account'",
+        "domains": [
+            "statuscake.com"
+        ]
+    },
+	
+    {
         "name": "StayFriends.de",
         "url": "http://www.stayfriends.de/j/ViewController?action=accountSettings&delEnabled=true",
         "difficulty": "easy",
