@@ -351,7 +351,7 @@
     {
         "name": "bitly",
         "url": "https://bitly.com/a/deactivate_account",
-        "difficulty": "Easy",
+        "difficulty": "easy",
         "notes": "Select why you are deleting your account. Your account will be deleted but all your shortlinks will remain.",
         "domains": [
             "support.bitly.com",
