@@ -3010,15 +3010,6 @@
     },
 
     {
-        "name": "Orkut",
-        "url": "https://accounts.google.com/DeleteService?service=orkut",
-        "difficulty": "easy",
-        "domains": [
-            "orkut.com"
-        ]
-    },
-
-    {
         "name": "Outlook",
         "url": "https://account.live.com/CloseAccount.aspx",
         "difficulty": "easy",
