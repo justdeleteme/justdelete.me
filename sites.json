@@ -3709,7 +3709,7 @@
         "url": "https://springme.zendesk.com/hc/en-us/articles/200234190-How-to-disable-your-Spring-me-account",
         "difficulty": "medium",
         "notes": "Your account can't be deleted. It can be disabled using the link, but your data will stay inactive on servers.",
-		"notes_de" "Dein Account kann nicht gelöscht werden. Er kann deaktiviert werden, aber deine Daten werden inaktiv auf den Servern bleiben."
+		"notes_de": "Dein Account kann nicht gelöscht werden. Er kann deaktiviert werden, aber deine Daten werden inaktiv auf den Servern bleiben.",
         "domains": [
             "springme.zendesk.com",
             "zendesk.com"
