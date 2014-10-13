@@ -3144,6 +3144,12 @@
             "phishtank.com"
         ]
     },
+    
+    {
+        "name": "Photobucket",
+        "url": "http://s113.photobucket.com/settings/status#",
+        "difficulty": "easy"
+    },
 
     {
         "name": "Picasa",
