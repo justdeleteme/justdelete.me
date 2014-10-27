@@ -21,8 +21,8 @@
 	"guidehard": "<span class=\"red\">Schwer</span> - Kann nicht gelöscht werden, ohne den jeweiligen Support zu kontaktieren",
 	"guideimpossible": "<span class=\"black\">Unmöglich</span> - Kann nicht gelöscht werden",
 	"translationcontrib": "Übersetzungshelfer",
-	"morecontrib": "Weitere Helfer",
-	"viewcontrib": "View all contributors",
+	"morecontrib": "Weitere Unterstützer",
+	"viewcontrib": "Alle Unterstützer",
 	"extension": "Google Chrome-Erweiterung",
 	"extensionguide": "Punkte-Anleitung der Erweiterung",
 	"extensionp1": "Unser Freund <a target=\"_blank\" href=\"http://mikerogers.io\">Mike Rogers</a> hat uns geholfen, eine großartige Google Chrome-Erweiterung für JustDelete.me zu erstellen.",
@@ -38,5 +38,5 @@
 	"donate": "Hosting kostet Geld. Wenn du JustDelete.me magst, denke bitte über eine Spende nach.",
 	"sendmail": "E-mail senden",
 	"submit": "Seite eintragen",
-	"popular": "Popular"
+	"popular": "Beliebt"
 }
