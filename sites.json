@@ -2379,6 +2379,17 @@
     },
 
     {
+        "name": "Kraken",
+        "url": "https://support.kraken.com/hc/en-us/articles/203727206-How-can-I-delete-my-Kraken-account-",
+        "difficulty": "hard",
+        "notes": "To close your account, you need to submit a request to support, which may take up to 24 hours to process.",
+        "domains": [
+            "kraken.com",
+            "support.kraken.com"
+        ]
+    },
+
+    {
         "name": "Krrb",
         "url": "http://krrb.com/settings/disable-account",
         "difficulty": "easy",
