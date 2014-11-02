@@ -1817,6 +1817,16 @@
     },
 
     {
+        "name": "HelloFax",
+        "url": "https://www.hellofax.com/home/myAccount",
+        "difficulty": "easy",
+        "notes": "Click \"Delete my account\" and follow the instructions that appear.",
+        "domains": [
+            "hellofax.com"
+            ]
+    },
+
+    {
         "name": "HelloWallet",
         "url": "https://my.hellowallet.com/#MySettings",
         "difficulty": "easy",
