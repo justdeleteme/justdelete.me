@@ -1249,18 +1249,10 @@
 
     {
         "name": "Feedly",
-        "url": "https://getsatisfaction.com/feedly/topics/how_do_i_delete_my_feedly_account",
-        "difficulty": "hard",
-        "notes": "Email customer support to request deletion.",
-        "notes_fr": "Contactez le support pour supprimer votre compte.",
-        "notes_it": "Contatta il servizio clienti via email per richiedere la cancellazione.",
-        "notes_de": "Schreibe eine mail an den Kundensupport um die Löschung zu beantragen",
-        "notes_pt_br": "Envie um e-mail para a assistência ao cliente para pedir a remoção.",
-        "notes_cat": "Enviï un e-mail a l'assistència al client per demanar l'eliminació del compte.",
-        "notes_es": "Envie un e-mail a la asistencia al cliente para pedir la eliminación de la cuenta.",
-        "notes_pl": "Skontaktuj się z obsługą techniczną i poproś o usunięcie konta.",
+        "url": "https://feedly.com/#erase",
+        "difficulty": "easy",
         "domains": [
-            "getsatisfaction.com"
+            "feedly.com"
         ]
     },
 
