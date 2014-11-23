@@ -650,6 +650,14 @@
         "url": "https://lastpass.com/delete_account.php",
         "difficulty": "easy"
     },
+    
+    {
+        "name": "LeetGamerZ",
+        "url": "http://www.leetgamerz.net/fr/user/deleteUser",
+        "difficulty": "easy"
+        "note": "You should delete or leave all of your teams before."
+    },
+
 
     {
         "name": "Letterboxd",
