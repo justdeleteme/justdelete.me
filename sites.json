@@ -660,7 +660,7 @@
     {
         "name": "LeetGamerZ",
         "url": "http://www.leetgamerz.net/fr/user/deleteUser",
-        "difficulty": "easy"
+        "difficulty": "easy",
         "note": "You should delete or leave all of your teams before."
     },
 
