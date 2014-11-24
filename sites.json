@@ -291,12 +291,6 @@
         "difficulty": "impossible",
         "notes": "There's no need to delete your account. An old, unused edX account with no course completions associated with it will disappear."
     },
-    
-    {
-        "name": "Ello",
-        "url": "https://ello.co/delete-account",
-        "difficulty": "easy",
-    },
 
     {
         "name": "Etsy",
