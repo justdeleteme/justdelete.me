@@ -12,7 +12,7 @@ The sites, urls and additional notes are stored in `sites.json`. If you want to 
 	- `hard`: Sites that require you to contact customer services or those that don't allow automatic or easy account deletion
 	- `impossible`: For sites where it's basically impossible to totally delete your account, even if you contact them
 - `notes`: *(optional)* Notes will be shown when someone hovers on that service. Notes may include additional information you might need to delete your account (e.g. Skype) or consequences of deleting your account (e.g. iTunes).
-- 'email': *(optional)* If you have to send an email to a company to cancel your account, add the email address here. We'll do the rest.
+- `email`: *(optional)* If you have to send an email to a company to cancel your account, add the email address here. We'll do the rest.
 
 ##Contribution checklist
 
@@ -27,3 +27,11 @@ The sites, urls and additional notes are stored in `sites.json`. If you want to 
 ##Translation
 
 If you want to translate the site see #164 and #165
+
+### Stylesheet for Spanish Translations
+
+Use guillemets (« ») for quoting statements that the website owner has published. Try to address the user as Tú instead of Usted. Write "haz clic" (hacer clic) instead of the verb "cliquear" or "clicar" because the former is the [RAE recommended way](http://lema.rae.es/dpd/srv/search?key=clic) of writing it.
+
+### Guía de estilo para las traducciones españolas
+
+Usa las comillas angulares (« ») para citar las declaraciones de los dueños de los sitios. Usa Tú en vez de Usted con los usarios. Escribe "haz clic" (hacer clic) en vez del verbo "cliquear" o "clicar" porque el primero oración es la manera que es [más recomendable según la RAE](http://lema.rae.es/dpd/srv/search?key=clic).

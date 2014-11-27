@@ -2,3 +2,5 @@
 !.gitignore
 *~
 /nbproject/
+/stats/
+static-id-gen.php

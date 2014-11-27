@@ -1,18 +1,14 @@
 $(function(){
-
     $('body').addClass('js-on');
 
-    $('input').keyup(function(){
-
-        if ($('.no-results').is(':visible')) {
-            $('.no-results').hide();
-        }
-
-        var term = $(this).val().toLowerCase();
+    // A - Z Sorting
+    $('.alpha-sort a').click(function(e){
+        e.preventDefault();
+        var term = $(this).text();
         var $sites = $('.sites section');
 
         $sites.show().filter(function() {
-            var text = $(this).find('a').text().replace(/\s+/g, ' ').toLowerCase();
+            var text = $(this).find('.site-header').text().replace(/\s+/g, ' ').toLowerCase().substr(1,1);
             return !~text.indexOf(term);
         }).hide();
 
@@ -20,7 +16,91 @@ $(function(){
             $('.no-results').show();
         }
     });
-    
+
+    // Difficulty sorting
+    $('.diff-sort a').click(function(e){
+        e.preventDefault();
+        var term = $(this).text().toLowerCase();
+        var $sites = $('.sites section');
+
+        $sites.show().filter(function() {
+            var text = $(this).find('.site-difficulty').text().replace(/\s+/g, ' ').toLowerCase();
+            return !~text.indexOf(term);
+        }).hide();
+
+        if ( ! $('.site-block').is(':visible')) {
+            $('.no-results').show();
+        }
+    });
+
+    // Popular sorting
+    $('button.popular').click(function(e){
+        e.preventDefault();
+        var term = "popular";
+        var $sites = $('.sites section');
+
+        $sites.show().filter(function() {
+            var text = $(this).find('.meta').text().replace(/\s+/g, ' ').toLowerCase();
+            return !~text.indexOf(term);
+        }).hide();
+
+        if ( ! $('.site-block').is(':visible')) {
+            $('.no-results').show();
+        }
+    });
+
+    // Clear search and sorting
+    $('button.reset').click(function(e){
+        var $sites = $('.sites section');
+        $sites.show();
+        $('.no-results').hide();
+        $('input').val('');
+    });
+
+    // When the search field changes, update the hash
+    $('input').keyup(function(){
+		window.location.hash = $(this).val();
+    });
+	
+	// Call updateSearch when hash changes
+	$(window).on('hashchange', function() {
+		updateSearch();
+	});
+	
+	// Search function
+	function updateSearch() {
+		if ($('.no-results').is(':visible')) {
+			$('.no-results').hide();
+		}
+		
+		var hash = document.location.hash.toLowerCase();
+		var term = hash.substr(1);
+		
+		var $sites = $('.sites section');
+
+		$sites.show().filter(function() {
+			var text = $(this).find('.site-header').text().replace(/\s+/g, ' ').toLowerCase();
+			return !~text.indexOf(term);
+		}).hide();
+
+		if ( ! $('.site-block').is(':visible')) {
+			$('.no-results').show();
+		}
+		
+		// Insert the term into the field
+		// (sometimes this is missed if the hash is changed directly)
+		$('#search').val(window.location.hash.substr(1));
+	}
+	
+	// Update search results on page load (if there is a hash)
+	if (window.location.hash !== "" && window.location.hash !== "#") {
+		// Insert the term into the field
+		$('#search').val(window.location.hash.substr(1));
+		
+		// Update the results
+		updateSearch();
+	}
+	
     $('.site a').prop('title', '');
 
     // jQuery ScrollTo plugin from http://lions-mark.com/jquery/scrollTo/
@@ -46,11 +126,13 @@ $(function(){
     // Banner scroll to bottom
 
     $('.banner').click(function(e) {
+        e.preventDefault();
      $('body').scrollTo('.banner-block');
     });
 
     $('.info').click(function(e) {
-     $('body').scrollTo('.info-block');
+        e.preventDefault();
+     $('body').scrollTo('.about');
     });
 
     // create the keys and konami variables
