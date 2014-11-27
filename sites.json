@@ -712,6 +712,16 @@
     },
 
     {
+        "name": "Coinbase",
+        "url": "https://www.coinbase.com/settings/cancel",
+        "difficulty": "easy",
+        "notes": "Sign in then visit https://www.coinbase.com/settings/cancel",
+        "domains": [
+            "coinbase.com"
+        ]
+    },
+
+    {
         "name": "Comment ça marche",
         "url": "http://www.commentcamarche.net/communaute/remove.php3",
         "difficulty": "medium",
