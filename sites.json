@@ -1872,6 +1872,15 @@
     },
 
     {
+        "name": "Hi-Rez Studios",
+        "url": "https://hi-rez.custhelp.com/app/answers/detail/a_id/249/~/removing-your-account",
+        "difficulty": "impossible",
+        "domains": [
+            "hirezstudios.com"
+        ]
+    },
+
+    {
         "name": "HOL Virtual Hogwarts",
         "url": "http://hol.org.uk/profile.php?view=quithol",
         "difficulty": "impossible",
