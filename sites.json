@@ -975,6 +975,15 @@
     },
 
     {
+        "name": "Douban",
+        "url": "http://www.douban.com/accounts/suicide/",
+        "difficulty": "easy",
+        "domains": [
+            "douban.com"
+        ]
+    },
+
+    {
         "name": "DOWN",
         "url": "https://bangwithfriends.zendesk.com/hc/en-us/articles/201441976-Deleting-Your-Account",
         "difficulty": "medium",
