@@ -2845,7 +2845,15 @@
             "neopets.com"
         ]
     },
-
+    {
+        "name": "Neteller",
+        "url": "https://help.neteller.com/app/answers/detail/a_id/2332/",
+        "difficulty": "hard",
+        "notes": "You'll need to call Neteller and verify your ownership to close your account.",
+        "domains": [
+            "neteller.com"
+        ]
+    },
     {
         "meta": "popular",
         "name": "Netflix",
@@ -2876,7 +2884,6 @@
             "netlog.com"
         ]
     },
-
     {
         "name": "Netvibes",
         "url": "http://www.netvibes.com/account/unsubscribe",
