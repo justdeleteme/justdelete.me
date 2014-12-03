@@ -3065,6 +3065,19 @@
     },
 
     {
+        "name": "Parkmobile",
+        "url": "https://parkmobile.zendesk.com/hc/en-us/articles/203299300-How-do-I-cancel-my-account-",
+        "difficulty": "hard",
+        "email": "helpdesk@parkmobileglobal.com",
+        "notes": "To cancel your account, send an e-mail message request to the Parkmobile Help Desk at helpdesk@parkmobileglobal.com and include your name, mobile number, license plate number, and/or the last 4 digits of the card we have on file for you. After the Help Desk cancels your account, you will receive a confirmation e-mail message.",
+        "domains": [
+            "parkmobile.us",
+            "parkmobile.com",
+            "parkmobile.zendesk.com"
+        ]
+    },
+
+    {
         "name": "Pastebin",
         "url": "http://pastebin.com/profile",
         "difficulty": "impossible",
