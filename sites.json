@@ -1756,6 +1756,17 @@
     },
 
     {
+        "name": "GrubHub",
+        "url": "https://www.grubhub.com/legal/",
+        "difficulty": "hard",
+        "notes": "Privacy Policy Letter D: Account e-mail addresses cannot be deleted. However, an Account may be closed and GrubHub will cause the corresponding e-mail address to be scrambled.",
+        "email": "accounts@grubhub.com",
+        "domains": [
+            "grubhub.com"
+        ]
+    },
+
+    {
         "meta": "popular",
         "name": "Groupon",
         "url": "https://groupon.com/customer_support",
