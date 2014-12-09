@@ -1331,6 +1331,16 @@
             "flixster.com"
         ]
     },
+    
+    {
+        "name": "Foodspotting",
+        "url": "http://www.foodspotting.com/settings",
+        "difficulty": "medium",
+        "notes": "Account can only be disabled, not deleted.",
+        "domains": [
+            "foodspotting.com"
+        ]
+    },
 
     {
         "name": "Forrst",
