@@ -2701,6 +2701,17 @@
     },
 
     {
+        "name": "Moonpig",
+        "url": "https://photobox-mp.custhelp.com/",
+        "difficulty": "hard",
+        "notes": "Contact customer services and they'll respond in 24-48 hours. Not to mention the ways they try to hide you removing your card details. If you want to remove your card details, do the following: The easiest way to do this would be to go to the My Account page then click on the ‘Add Moonpig Prepay Credit’ link, click on the Buy link and your saved card details will be shown onscreen. Click on the ‘Remove Card’ option.",
+        "domains": [
+            "moonpig.com",
+            "moonpig.co.uk"
+        ]
+    },
+
+    {
         "name": "Monster",
         "url": "http://my.monster.com/Account/CancelMembership",
         "difficulty": "easy",
