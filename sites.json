@@ -2701,6 +2701,16 @@
     },
 
     {
+        "name": "Monster",
+        "url": "http://my.monster.com/Account/CancelMembership",
+        "difficulty": "easy",
+        "domains": [
+            "my.monster.com",
+            "monster.com"
+        ]
+    },
+
+    {
         "name": "Moonpig",
         "url": "https://photobox-mp.custhelp.com/",
         "difficulty": "hard",
@@ -2708,16 +2718,6 @@
         "domains": [
             "moonpig.com",
             "moonpig.co.uk"
-        ]
-    },
-
-    {
-        "name": "Monster",
-        "url": "http://my.monster.com/Account/CancelMembership",
-        "difficulty": "easy",
-        "domains": [
-            "my.monster.com",
-            "monster.com"
         ]
     },
 
