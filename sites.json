@@ -4374,6 +4374,16 @@
         ]
     },
 
+{
+        "name": "Wix",
+        "url": "http://www.wix.com/support/html5/billing/premium-plans/faq/cancel-account-20",
+        "difficulty": "easy",
+        "notes": "'Delete any built sites and subscribtions then follow the link to a deletion request form. Email is sent straght away with a link to confirm the deletion",
+        "domains": [
+            "wix.com"
+        ]
+    },
+
     {
         "meta": "popular",
         "name": "WordPress.com",
