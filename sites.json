@@ -215,16 +215,8 @@
 
     {
         "name": "Ask.fm",
-        "url": "http://ask.fm/feedbacks/new",
-        "difficulty": "hard",
-        "notes": "Request deletion from customer services.",
-        "notes_fr": "Demandez la suppresion du compte par le support du site.",
-        "notes_it": "Richiedi la cancellazione al servizio clienti",
-        "notes_de": "Beantrage die Löschung beim Support.",
-        "notes_pt_br": "Peça para que seja deletada pela assistência ao cliente.",
-        "notes_cat": "Demani l'eliminació del compte al servei d'atenció al client.",
-        "notes_es": "Pida la eliminación de su cuenta al servicio de atención al cliente.",
-        "notes_pl": "Skontakuj się z obsługą i poproś o usunięcie swojego konta.",
+        "url": "http://ask.fm/account/settings/optout",
+        "difficulty": "easy",
         "domains": [
             "ask.fm"
         ]
