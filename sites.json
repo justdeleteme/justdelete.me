@@ -3138,6 +3138,15 @@
             "paypal.com"
         ]
     },
+	{
+        "name": "PCPartPicker",
+        "url": "http://pcpartpicker.com/contact/",
+        "difficulty": "hard",
+        "notes": "I had to contact via email, but they then immediately deleted my account",
+        "domains": [
+            "pcpartpicker.com"
+        ]
+    },
 
     {
         "name": "Personello Germany",
