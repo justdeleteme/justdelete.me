@@ -3139,6 +3139,17 @@
         ]
     },
 
+	{
+		"name": "the perfect shave",
+		"url": "https://www.perfect-shave.de/einstellungen",
+		"difficulty": "easy",
+		"notes": "Click on 'Konto löschen' and then on 'Mein Konto jetzt unwiederruflich löschen'",
+		"notes_de": "Klicke auf 'Konto löschen' und dann auf 'Mein Konto jetzt unwiederruflich löschen",
+		"domains":  [
+			"perfect-shave.de"
+		]
+	},
+	
     {
         "name": "Personello Germany",
         "url": "http://de.personello.com/mypersonello/index/feedback",
