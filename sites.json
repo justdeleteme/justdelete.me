@@ -534,6 +534,15 @@
     },
 
     {
+        "name": "CafePress",
+        "url": "https://members.cafepress.com/account/closeaccount.aspx",
+        "difficulty": "easy",
+        "domains": [
+            "cafepress.com"
+        ]
+    },
+
+    {
         "name": "Call of Duty (Activision)",
         "url": "http://www.callofduty.com/",
         "difficulty": "impossible",
