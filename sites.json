@@ -2030,6 +2030,16 @@
     },
 
     {
+        "name": "Indiegogo",
+        "url": "https://www.indiegogo.com",
+        "difficulty": "easy",
+        "notes": "Go to “My Settings”, scroll down to the bottom, and click the “Delete” button.",
+        "domains": [
+            "indiegogo.com"
+        ]
+    },
+
+    {
         "name": "InfiBot",
         "url": "https://infibot.com/",
         "difficulty": "hard",
