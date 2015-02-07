@@ -407,6 +407,16 @@
     },
 
     {
+        "name": "BodBot",
+        "url": "http://www.bodbot.com/Account_Settings.html",
+        "difficulty": "easy",
+        "notes": "Click the “Delete My Account” link.",
+        "domains": [
+            "bodbot.com"
+        ]
+    },
+
+    {
         "name": "BodyBuilding",
         "url": "http://www.bodybuilding.com/store/help/delete-bodyspace-account.htm",
         "difficulty": "impossible",
