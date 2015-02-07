@@ -2540,6 +2540,15 @@
     },
 
     {
+        "name": "Lumosity",
+        "url": "https://www.lumosity.com/app/v4/settings/account_deletion/new",
+        "difficulty": "easy",
+        "domains": [
+            "lumosity.com"
+        ]
+    },
+
+    {
         "name": "LoseIt",
         "url": "http://www.loseit.com/#Settings:Account%20Information^Account%20Information",
         "difficulty": "easy",
