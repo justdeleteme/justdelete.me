@@ -1787,14 +1787,9 @@
 
     {
         "name": "Gumroad",
-        "url": "https://gumroad.com/",
-        "difficulty": "hard",
-        "notes": "No page explaining how to delete your account. You have to contact support directly (link at the bottom of the page) and they'll do it for you.",
-        "notes_fr": "Aucune page n'explique comment supprimer votre compte. Vous devez contacter le support et ils le feront pour vous.",
-        "notes_it": "Nessuna pagina spiega come eliminare l'account. Devi contattare il supporto direttamente (il link si trova in fondo alla pagina) e lo faranno al posto tuo.",
-        "notes_pt_br": "Não há uma página explicando como deletar sua conta. Você terá de contatar o suporte diretamente (link no final da página) e eles irão deletá-la para você.",
-        "notes_cat": "No s'explica com eliminar el compte. Haurà de contactar directament amb el servei d'assistència (link al final de la pàgina) i ells li borraran el compte.",
-        "notes_es": "No se explica cómo eliminar la cuenta. Deberá contactar directamente con el servicio de asistencia (link al final de la página) y ellos le borran la cuenta.",
+        "url": "https://gumroad.com/settings",
+        "difficulty": "easy",
+        "notes": "There is a link at the bottom of the Settings page to delete your account.",
         "domains": [
             "gumroad.com"
         ]
