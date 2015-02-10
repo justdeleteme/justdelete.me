@@ -4095,6 +4095,15 @@
     },
 
     {
+        "name": "TypePad",
+        "url": "https://www.typepad.com/secure/account/cancel-account",
+        "difficulty": "easy",
+        "domains": [
+            "typepad.com"
+        ]
+    },
+
+    {
         "name": "Ubuntu One",
         "url": "https://one.ubuntu.com/help/faq/how-can-i-delete-my-account/",
         "difficulty": "hard",
