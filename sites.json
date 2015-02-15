@@ -596,6 +596,16 @@
     },
 
     {
+        "name": "CiteULike",
+        "url": "http://wiki.citeulike.org/index.php/Accounts#How_do_I_delete_my_account.3F",
+        "difficulty": "impossible",
+        "notes": "We don't delete old accounts.",
+        "domains": [
+            "citeulike.org"
+        ]
+    },
+
+    {
         "name": "CleverReach",
         "url": "https://www.cleverreach.com",
         "difficulty": "hard",
