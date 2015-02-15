@@ -3438,6 +3438,16 @@
     },
 
     {
+        "name": "RescueTime",
+        "url": "https://www.rescuetime.com/settings",
+        "difficulty": "easy",
+        "notes": "Use the 'Delete your account' link in the lower right-hand corner."
+        "domains": [
+            "rescuetime.com"
+        ]
+    },
+
+    {
         "name": "Riffle",
         "url": "https://riffle.uservoice.com/knowledgebase/articles/244346-delete-your-account",
         "difficulty": "easy",
