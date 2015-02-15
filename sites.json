@@ -3551,6 +3551,16 @@
     },
 
     {
+        "name": "Shutterstock",
+        "url": "http://submit.shutterstock.com/privacy.mhtml",
+        "difficulty": "hard",
+        "notes": "If you wish to delete your account or request that we no longer use your information to provide you services contact us at Support@Shutterstock.com.",
+        "domains": [
+            "shutterstock.com"
+        ]
+    },
+
+    {
         "name": "showRSS",
         "url": "http://showrss.info/",
         "difficulty": "impossible",
