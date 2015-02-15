@@ -3924,6 +3924,16 @@
     },
 
     {
+        "name": "Swagbucks",
+        "url": "http://www.swagbucks.com/account/settings#tab=account",
+        "difficulty": "easy",
+        "notes": "Use the 'Cancel My Account' link on your Account Settings page. Requires email confirmation.",
+        "domains": [
+            "swagbucks.com"
+        ]
+    },
+
+    {
         "name": "Tagged",
         "url": "http://www.tagged.com/account_cancel.html",
         "difficulty": "easy",
