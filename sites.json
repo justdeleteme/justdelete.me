@@ -3438,6 +3438,16 @@
     },
 
     {
+        "name": "Riffle",
+        "url": "https://riffle.uservoice.com/knowledgebase/articles/244346-delete-your-account",
+        "difficulty": "easy",
+        "notes": "On your profile page, click 'Edit Profile' and use the 'Cancel account' button."
+        "domains": [
+            "riffle.com"
+        ]
+    },
+
+    {
         "name": "Rotten Tomatoes",
         "url": "http://flixster.desk.com/customer/portal/articles/169347-how-do-i-cancel-my-account-",
         "difficulty": "hard",
