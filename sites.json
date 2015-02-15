@@ -3295,6 +3295,15 @@
     },
 
     {
+        "name": "Potluck",
+        "url": "https://www.potluck.it/settings",
+        "difficulty": "easy",
+        "domains": [
+            "potluck.it"
+        ]
+    },
+
+    {
         "name": "Prezi",
         "url": "https://prezi.com/profile/delete_user_account/",
         "difficulty": "easy",
