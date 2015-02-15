@@ -576,6 +576,15 @@
     },
 
     {
+        "name": "Cheddar",
+        "url": "https://cheddarapp.com/account",
+        "difficulty": "easy",
+        "domains": [
+            "cheddarapp.com"
+        ]
+    },
+
+    {
         "name": "Cinemagram",
         "url": "",
         "difficulty": "impossible",
