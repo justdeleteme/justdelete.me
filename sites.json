@@ -3394,6 +3394,15 @@
     },
 
     {
+        "name": "Readernaut",
+        "difficulty": "easy",
+        "notes": "Go to your profile page, and use the 'Delete Your Account' button.",
+        "domains": [
+            "readernaut.com"
+        ]
+    },
+
+    {
         "name": "ReadyForZero",
         "url": "https://www.readyforzero.com/user/settings#readyforzero-account",
         "difficulty": "easy",
