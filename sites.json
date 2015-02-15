@@ -3407,11 +3407,6 @@
         "name": "Reddit",
         "url": "https://ssl.reddit.com/prefs/delete/",
         "difficulty": "easy",
-        "notes": "Increase your productivity by over 5 times with this one trick they don't want you to know about!",
-        "notes_it": "Incrementa la tua produttività di oltre 5 volte con questi consigli che loro non vogliono farti sapere!",
-        "notes_pt_br": "Aumente sua produtividade em 5 vezes com este truque que eles não querem que você saiba!",
-        "notes_cat": "Augmenti la seva productivitat fins a 5 vegades amb aquest truc que ningú en vol sentir a parlar!",
-        "notes_es": "Aumente su productividad hasta 5 veces con este truco del que nadie quiere oír hablar!",
         "domains": [
             "ssl.reddit.com",
             "reddit.com"
