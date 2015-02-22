@@ -4544,5 +4544,16 @@
             "my.zurker.com",
             "zurker.com"
         ]
+    },
+    
+    {
+        "name": "Gadu-Gadu",
+        "url": "http://www.gg.pl/pomoc/ustawienia-moje-konto-profil/",
+        "difficulty": "easy",
+        "notes": "You will find option to remove your account under Profile - My Account tab, after log in. Removed GG account number is going back to available numbers for new users.",
+        "notes_pl": "Po zalogowaniu się do konta w zakładce Moje konto - Profil znajduje się opcja usuń konto. Usunięty numer GG wraca do puli numerów dostępnych dla nowych użytkowników.",
+        "domains": [
+            "www.gg.pl"
+        ]
     }
 ]
