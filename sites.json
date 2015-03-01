@@ -1280,6 +1280,16 @@
     },
 
     {
+        "name": "Fitbit",
+        "url": "https://www.fitbit.com/",
+        "difficulty": "hard",
+        "notes": "To delete or deactivate your account, contact Fitbit by email via the contact form.",
+        "domains": [
+            "fitbit.com"
+        ]
+    },
+
+    {
         "name": "Fitocracy",
         "url": "https://www.fitocracy.com/account/deletion/",
         "difficulty": "easy",
