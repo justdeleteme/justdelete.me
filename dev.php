@@ -101,8 +101,8 @@
 
 		<div class="sort-container">
 			<button class="popular"><?php echo $popular; ?></button>
-	    	<button data-dropdown="#dropdown-2" class="az-sort">A - Z &#9660;</button>
-	    	<button data-dropdown="#dropdown-3" class="diff-sort"><?php echo $difficulty; ?> &#9660;</button>
+	    	<button data-dropdown="#dropdown-2" class="az-sort">A - Z</button>
+	    	<button data-dropdown="#dropdown-3" class="diff-sort"><?php echo $difficulty; ?></button>
 	    	<button class="reset">reset</button>
 		</div>
 
@@ -164,7 +164,18 @@
 		</section>
 	</section>
 	<span id="about">about anchor</span>
-	<section class="info-block">
+	<section class="adsense">
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+			<!-- JDM -->
+			<ins class="adsbygoogle"
+			     style="display:inline-block;width:728px;height:90px"
+			     data-ad-client="ca-pub-9778304973218149"
+			     data-ad-slot="6251902116"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>	
+	</section>
+	<section class="info-block about">
 		<div class="info-container">
 
 			<div class="info-block-half">
@@ -224,6 +235,8 @@
 					<li class="tr"><a href="https://github.com/MarioErmando">Erman Sayın</a></li>
 					<li class="vi"><a href="https://github.com/giangnb">Giang Nguyen</a></li>
 					<li class="zh-cn"><a href="https://github.com/Jonwei">Joe Shen</a></li>
+					<li class="zh-tw"><a href="https://github.com/CalvertYang">Calvert</a></li>
+					<li class="pl"><a href="https://github.com/Halamix2">Piotr Halama</a></li>
 				</ul>
 			</div><div class="info-block-half">
 				<h2><?php echo $morecontrib; ?></h2>
@@ -308,8 +321,10 @@
 	        <li class="ar"><a href="ar.html">العربية</a></li>
 	        <li class="fa"><a href="fa.html">فارسی</a></li>
 	        <li class="zh-cn"><a href="zh-cn.html">中国的</a></li>
+	        <li class="zh-tw"><a href="zh-tw.html">正體中文</a></li>
 	        <li class="id"><a href="id.html">Indonesia</a></li>
 	        <li class="ro"><a href="ro.html">Român</a></li>
+	        <li class="pl"><a href="pl.html">Polski</a></li>
 	        <li class="dropdown-divider"></li>
 	        <li class="help"><a target="_blank" href="https://github.com/rmlewisuk/justdelete.me/issues/164"><?php echo $help_translate; ?></a></li>
 	    </ul>
@@ -351,10 +366,19 @@
 	<div id="dropdown-3" class="dropdown dropdown-tip">
 		<ul class="dropdown-menu">
 			<span class="diff-sort">
+        <?php
+          if ($lang != "zh-tw" && $lang != "zh-cn") {
+        ?>
                             <li><a href="#"><?php echo ucfirst($difficulty_easy); ?></a></li>
                             <li><a href="#"><?php echo ucfirst($difficulty_medium); ?></a></li>
                             <li><a href="#"><?php echo ucfirst($difficulty_hard); ?></a></li>
                             <li><a href="#"><?php echo ucfirst($difficulty_impossible); ?></a></li>
+        <?php } else { ?>
+                            <li><a href="#"><?php echo $difficulty_easy; ?></a></li>
+                            <li><a href="#"><?php echo $difficulty_medium; ?></a></li>
+                            <li><a href="#"><?php echo $difficulty_hard; ?></a></li>
+                            <li><a href="#"><?php echo $difficulty_impossible; ?></a></li>
+        <?php } ?>
 			</span>
 		</ul>
 	</div>

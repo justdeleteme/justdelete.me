@@ -55,17 +55,22 @@
 			<!-- end language switcher -->
 			<a href="#about" class="info">About</a>
 			<a href="/fake-identity-generator" class="id-gen">Fake Identity Generator</a>
-			<a href="#" class="banner">Chrome Extension</a>
 		<?php else : ?>
 			<a href="/" class="home">Home</a>
 			<a href="/fake-identity-generator" class="id-gen current">Fake Identity Generator</a>
 			<a target="_blank" href="https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf">Chrome Extension</a>
 		<?php endif; ?>
-		<a target="_blank" href="https://docs.google.com/a/therobb.com/forms/d/1mhr3vaTni5U8PvOdp_NvQ6vKBxNTmJTeKP3VWRuioCE/viewform">Submit a site</a>
-		<a target="_blank" href="http://github.com/rmlewisuk/justdelete.me">Fork on GitHub</a>
 	</nav>
 
 	<header>
 		<h1>just<span>delete</span>.me</h1>
 		<p class="tagline"><?php echo $tagline ?></p>
+
+		<p>
+			<a href="#extension" class="button banner">Chrome Extension</a>
+
+			<a class="button" href="http://github.com/rmlewisuk/justdelete.me">Fork&nbsp;on&nbsp;GitHub</a>
+
+			<a class="button" href="https://twitter.com/intent/tweet?text=Just+Delete+Me+-+A+directory+of+direct+links+to+delete+your+account+from+web+services.+http%3A%2F%2Fjustdelete.me">Tweet JDM</a>
+		</p>
 	</header>

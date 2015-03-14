@@ -15,7 +15,9 @@
 		'tr',
 		'vi',
 		'zh-cn',
-		'ro'
+		'zh-tw',
+		'ro',
+		'pl'
 	);
 
 	include 'contrib.php';
@@ -74,8 +76,14 @@
 		if ($lang == "zh-cn") {
 			$full_name = "中国的";
 		}
+		if ($lang == "zh-tw") {
+			$full_name = "正體中文";
+		}
 		if ($lang == "ro") {
 			$full_name = "Român";
+		}
+		if ($lang == "pl") {
+			$full_name = "Polski";
 		}
 
 		include ('dev.php');
