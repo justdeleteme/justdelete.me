@@ -957,6 +957,15 @@
     },
 
     {
+        "name": "Diigo",
+        "url": "https://www.diigo.com/",
+        "difficulty": "easy",
+        "domains": [
+            "diigo.com"
+        ]
+    },
+
+    {
         "name": "Discogs",
         "url": "http://www.discogs.com/users/delete",
         "difficulty": "easy",
