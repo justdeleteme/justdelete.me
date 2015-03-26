@@ -3678,6 +3678,19 @@
             "soundcloud.com"
         ]
     },
+    
+    {
+        "name": "soup.io",
+        "url": "http://www.soup.io/about",
+        "difficulty": "hard",
+        "notes": "Put 'delete me' in the description box on your profile and mail team@soup.io with your soup URL and request a deletion",
+        "notes_de": "Füge 'delete me' in die Beschreibungsbox auf deinem Profil ein und sende eine E-Mail an team@soup.io, die deine soup-URL und eine Löschaufforderung beinhalten.",
+        "notes_fr": "Insère 'delete me' à la place pour la description à ton profil et envoie un e-mail à team@soup.io avec ton soup URL et une demande de suppression.",
+	    "email": "team@soup.io",
+        "domains": [
+            "http://www.soup.io/"
+        ]
+    },
 
     {
         "name": "SourceForge",
