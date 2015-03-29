@@ -3054,6 +3054,7 @@
         "url": "http://www.odnoklassniki.ru/regulations",
         "difficulty": "easy",
         "notes": "Login to your account, scroll License Agreement down, click Delete profile, check any boxes you want, enter password and press Remove button.",
+        "notes_fr": "Connectez-vous, faites défiler le contrat, cliquez sur « Delete profile », cochez les cases que vous voulez, entrez votre mot de passe et cliquez sur « Remove ».",
         "notes_it": "Fai il login, scorri il contratto, premi Delete profile, fai il tick sulle caselle che vuoi, inserisci la password e premi il pulsante Remove.",
         "notes_pt_br": "Faça login em sua conta, vá até o License Agreement, clique em Delete profile, marque as caixas que você quiser, digite sua senha e pressione o botão Remove.",
         "notes_cat": "Entri al seu compte, baixi fins a 'License Agreement', cliqui a 'Delete profile', marqui les caselles que desitgi, entri la seva clau i faci clic a 'Remove'.",
