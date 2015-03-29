@@ -2930,6 +2930,7 @@
         "url": "http://www.neopets.com/help_search.phtml?help_id=4",
         "difficulty": "hard",
         "notes": "Send an email to the unsubscribe@neopets.com stating you wish to delete your account.",
+        "notes_fr": "Envoyez un e-mail à unsubscribe@neopets.com, en déclarant que vous voulez supprimer votre compte.",
         "email": "unsubscribe@neopets.com",
         "domains": [
             "neopets.com"
