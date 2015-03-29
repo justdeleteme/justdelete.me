@@ -3329,6 +3329,7 @@
         "url": "http://www.pof.com/deleteaccount.aspx",
         "difficulty": "easy",
         "notes": "Fill out the deletion form",
+        "notes_fr": "Completez le formulaire de suppression",
         "notes_it": "Completa il form per l'eliminazione.",
         "notes_pt_br": "Preencha o formulário de remoção",
         "notes_cat": "Completi el formulari d'eliminació del compte",
