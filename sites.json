@@ -590,6 +590,7 @@
         "url": "",
         "difficulty": "impossible",
         "notes": "According to the app you can email feedback@cinemagr.am for questions. Unfortunatly removal requests aren't replied to.",
+        "notes_fr": "Selon l'appli, vous pouvez envoyer un e-mail à feedback@cinemagr.am pour poser des questions. Malheureusement, les demandes des suppressions des comptes ne reçoivent pas de réponse.",
         "notes_nl": "Volgens de app kun je emailen naar feedback@cinemagr.am voor vragen. Helaas wordt er niet gereageerd op dit account.",
         "domains": [
             "cinemagr.am"
