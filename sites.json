@@ -547,6 +547,7 @@
         "url": "http://www.careerbuilder.com/User/UserConfirmation.aspx",
         "difficulty": "easy",
         "notes": "Must remove uploaded files first",
+        "notes_fr": "Il faut supprimer les fichiers téléchargés avant de supprimer votre compte.",
         "domains": [
             "careerbuilder.com"
         ]
