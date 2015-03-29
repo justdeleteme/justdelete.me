@@ -602,6 +602,7 @@
         "url": "https://www.cleverreach.com",
         "difficulty": "hard",
         "notes": "Email customer services to request deletion",
+        "notes_fr": "Envoyez un e-mail au service clients pour demander la suppression de votre compte.",
         "email": "info@cleverreach.de",
         "domains": [
             "cleverreach.com"
