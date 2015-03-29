@@ -3353,6 +3353,7 @@
         "url": "https://podio.com/settings/account",
         "difficulty": "easy",
         "notes": "Log in to your account, press the delete button and type the phrase asked.",
+        "notes_fr": "Connectez-vous, appuyez le bouton « delete », et tapez la phrase demandée.",
         "domains": [
             "podio.com"
         ]
