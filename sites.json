@@ -3156,6 +3156,7 @@
         "url": "http://help.pandora.com/customer/portal/articles/24624-cancel-account",
         "difficulty": "hard",
         "notes": "You have to email support from the email associated with your account. If you do not have access to that, you need to provide the email address, birth year, and zip code on the account.",
+        "notes_fr": "Vous devez envoyer un e-mail au support de l'adresse associé au compte. Si vous n'avez pas accès à l'adresse, il faut que vous donnez l'adresse, votre année de naissance et votre code postale.",
         "notes_it": "Devi spedire un email al supporto usando l'email associata al tuo account. Se non hai accesso all'email, puoi fornire l'email, l'anno di nascita e il codice postale dell'account.",
         "notes_pt_br": "Você terá de enviar um e-mail para o suporte com o e-mail associado a sua conta. Se você não tiver acesso a isto, você precisa especificar seu e-mail, ano de nascimento e código postal da conta.",
         "notes_cat": "Has d'enviar un e-mail a l'assistència al client amb el compte d'email associat al compte de Pandora. Si no té accès al e-mail, haurà d'informar de l'email amb el que s'ha registrat, l'any de neixement i Codi Postal associat al compte.",
