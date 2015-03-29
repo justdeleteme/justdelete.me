@@ -2309,6 +2309,7 @@
         "url": "http://doc.jsfiddle.net/meta/channels.html?highlight=contact",
         "difficulty": "hard",
         "notes": "Please send a request to support@jsfiddle.net if you'd like your account to be deleted. <a href='https://github.com/jsfiddle/jsfiddle-issues/issues/237'>More here</a>",
+        "notes_fr": "Veuillez envoyer votre demande au support à support@jsfiddle.net si vous voulez qu'on supprime votre compte. <a href='https://github.com/jsfiddle/jsfiddle-issues/issues/237'>En lisez plus ici</a>.",
         "notes_it": "Spedisci una email a support@jsfiddle.net se desideri che il tuo account sia cancellato <a href='https://github.com/jsfiddle/jsfiddle-issues/issues/237'>More here</a>",
         "notes_pt_br": "Envie um pedido para support@jsfiddle.net se você deseja que sua conta seja deletada. <a href='https://github.com/jsfiddle/jsfiddle-issues/issues/237'>Mais aqui</a>",
         "notes_cat": "Enviï un mail a support@jsfiddle.net per demanar que eliminin el seu compte. <a href='https://github.com/jsfiddle/jsfiddle-issues/issues/237'>Més aquí</a>",
