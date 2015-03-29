@@ -1809,6 +1809,7 @@
         "url": "https://groupon.com/customer_support",
         "difficulty": "hard",
         "notes": "According to Groupon's privacy statement, you have to contact support directly and ask them to delete your account.",
+        "notes_fr": "Selon le politique de confidentialité de Groupon, vous devez contacter le support du site directement pour demander la suppresion de votre compte.",
         "domains": [
             "groupon.com"
         ]
