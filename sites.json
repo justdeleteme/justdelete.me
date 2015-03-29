@@ -341,6 +341,7 @@
         "url": "http://www.behance.net/account/privacy",
         "difficulty": "easy",
         "notes": "To delete your account, please go into your 'Me' tab, visit account settings and hit the privacy tab. There, you'll have the option to delete.",
+        "notes_fr": "Pour supprimer votre compte, veuillez ouvrir le menu étiqueté « Me ». Ensuite, cliquez « Account Settings », et puis « Privacy ». Là, il y aura le choix de supprimer votre compte.",
         "notes_nl": "Verwijder je account door in te loggen en op de 'Me' tab te klikken. Selecteer vervolgens de 'privacy tab' die je bij 'account settings' kunt vinden. Hier vind je de delete mogelijkheid",
         "domains": [
             "behance.net"
