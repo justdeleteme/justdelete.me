@@ -3431,8 +3431,8 @@
         "name": "radio.fr",
         "url": "http://www.radio.fr/#%2Fkonto_loeschen.jsf",
         "difficulty": "easy",
-        "notes": "Login, go to profil page, it's in tab 'my data' and click 'delete my account'.",
-        "notes_fr": "logez vous, allez à la page du profil, c'est dans l'onglet 'mes données' et cliquez sur 'supprimer mon compte.'",
+        "notes": "Login, go to profile page, it's in tab 'my data' and click 'delete my account'.",
+        "notes_fr": "Connectez-vous, allez à la page du profil, c'est dans l'onglet 'mes données' et cliquez sur 'supprimer mon compte.'",
         "domains": [
             "radio.fr"
         ]
