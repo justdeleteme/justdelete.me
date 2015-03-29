@@ -2395,6 +2395,7 @@
         "url": "http://klout.com/#/edit-settings/optout",
         "difficulty": "medium",
         "notes": "It can take up to 180 days for all your data to be removed from the system.",
+        "notes_fr": "La suppression totale de votre compte peut prendre 180 jours.",
         "notes_it": "La cancellazione dei dati dal sistema può richiedere fino a 180 giorni.",
         "notes_de": "Es kann bis zu 180 Tage dauern, bis all deine Daten aus dem System entfernt sind",
         "notes_pt_br": "Pode levar até 180 dias para que todos os seus dados sejam removidos do sistema.",
