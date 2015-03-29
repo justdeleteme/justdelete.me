@@ -1502,6 +1502,7 @@
         "url": "http://www.geni.com/account_settings",
         "difficulty": "medium",
         "notes": "Delete any of the information you would like removed from the site. Then select 'Account Settings' and 'Close Account'",
+        "notes_fr": "Supprimez toutes les informations que vous voulez enlever du site. Puis, cliquer sur « Account Settings » et puis « Close Account ».",
         "notes_de": "Lösche die Informationen, die du entfernt haben möchtest, von der Seite. Dann wähle 'Account Settings' und 'Close Account'",
         "notes_it": "Elimina qualsiasi informazione che desideri sia rimossa. Quindi seleziona 'Account Settings' e 'Close Account'",
         "notes_pt_br": "Delete qualquer informação que você deseja ser removida do site. Então selecione 'Account Settings' e 'Close Account'",
