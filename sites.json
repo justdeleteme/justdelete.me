@@ -1953,6 +1953,7 @@
         "url": "http://hotornot.com",
         "difficulty": "easy",
         "notes": "Sign in to your account, go to the 'Account' options in your settings and delete your profile. See also 'Can I deactivate or delete my Profile?' on http://hotornot.com/privacy/",
+        "notes_fr": "Connectez-vous, allez dans les paramatres du compte et supprimez votre profil. Voyez aussi l'article « Can I deactivate or delete my Profile? » de http://hotornot.com/privacy/",
         "domains": [
             "hotornot.com"
         ]
