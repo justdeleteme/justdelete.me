@@ -3084,6 +3084,7 @@
         "url": "http://www.onlinetvrecorder.com/v2/index.php?go=account&do=cancel",
         "difficulty": "impossible",
         "notes": "You can deactivate your account with the link. But the data isn't deleted. Even if you contact the support they don't delete your data.",
+        "notes_fr": "Vous pouvez désactiver votre compte avec le lien. Cependant, les données ne sont pas supprimées. Même si vous contactez le support du site, il ne supprime pas vos données.",
         "notes_it": "Puoi disattivare il tuo account. Ma i dati non saranno cancellati neanche se contatti il supporto.",
         "notes_de": "Du kannst deinen Account mit dem Link deaktivieren, aber deine Daten werden nicht gelöscht. Auch wenn du den Support kontaktierst, können sie deine Daten nicht löschen.",
         "notes_pt_br": "Você pode desativar sua conta neste link. Mas os dados não são deletados. Mesmo se você contatar o suporte eles não irão apagar seus dados.",
