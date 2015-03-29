@@ -2163,6 +2163,7 @@
         "url": "http://internetometer.com/",
         "difficulty": "impossible",
         "notes": "Site provides no user account management interface or account deletion options. Email sent to internets@technoized.com was never replied to.",
+        "notes_fr": "Le site n'offre pas d'option de suppresion des comptes. Un e-mail envoyé à internets@technoized.com n'a jamais réçu une réponse.",
         "domains": [
             "internetometer.com"
         ]
