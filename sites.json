@@ -2812,6 +2812,7 @@
         "url": "http://socialize.morningstar.com/feedback/feedbackform.asp",
         "difficulty": "hard",
         "notes": "Fill out the feedback form, asking them to delete your account. Be sure to specify that you’re not just unsubscribing from e-mail but that you want your account deleted entirely.",
+        "notes_fr": "Completez le formulaire d'opinion en les demandant de supprimer votre compte. Soyez sûr que vous supprime votre compte totalement.",
         "domains": [
             "socialize.morningstar.com",
             "morningstar.com"
