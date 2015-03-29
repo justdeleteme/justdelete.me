@@ -1272,6 +1272,7 @@
         "url": "https://www.facebook.com/help/delete_account?rdrhc",
         "difficulty": "medium",
         "notes": "While you can delete your account easily, some of the data including messages, are there to stay forever, just as stated in the website's privacy policy.",
+        "notes_fr": "Bien que vous puissiez supprimer votre compte facilement, quelques données y compris les messages restent pour jamais, comme déclaré dans le politique de confidentialité.",
         "notes_it": "Mentre puoi eliminare il tuo account facilmente, qualche dato come le chat o i messaggi di gruppo rimarranno nei loro database, come scritto sul loro sito nella pagina Privacy",
         "notes_de": "Während du deinen Account leicht löschen kannst, bleiben einige deiner Daten dauerhaft. z.B. Chat- und Gruppennachrichten. Dies ist so in den Datenschutzbestimmungen bestimmt.",
         "notes_pt_br": "Você pode deletar sua conta facilmente, porém dados de conversas ficarão armazenados para sempre, como explicitado na Privacidade do site.",
