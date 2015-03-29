@@ -3144,6 +3144,7 @@
         "url": "https://help.overstock.com/app/contact_page",
         "difficulty": "hard",
         "notes": "You must contact support directly and ask them to invalidate your account.  However, your transaction data may not be deleted from their records.",
+        "notes_fr": "Vous devez contactez le support directement pour leur demander d'invalider votre compte. Cependant, vos donnéés des transcations ne peuvent pas être supprimées.",
         "domains": [
             "help.overstock.com",
             "overstock.com"
