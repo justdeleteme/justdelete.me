@@ -2895,6 +2895,7 @@
         "url": "https://www.myopenid.com/delete",
         "difficulty": "impossible",
         "notes": "Although it seems the account is deleted, you can reactivate so likely the data has not been deleted at all.",
+        "notes_fr": "Bien qu'il paraît que le compte est supprimé, vous pouvez le réactivé donc il n'est pas probable que les données soient supprimées du tout.",
         "notes_it": "Anche se pare che l'account sia cancellato, puoi riattivarlo quindi i dati non sono stati cancellati.",
         "notes_pt_br": "Apesar de parecer que sua conta foi deletada, você pode reativá-la então provavelmente os dados não foram removidos.",
         "notes_cat": "Malgrat que sembla que el seu compte hagi estat eliminat, podrà reactivar-lo, així que les seves dades no s'han esborrat del tot",
