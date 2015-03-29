@@ -508,6 +508,7 @@
         "url": "http://burst.net/",
         "difficulty": "impossible",
         "notes": "Support staff refuses to delete accounts due to 'accounting purposes'",
+        "notes_fr": "Le personnel refuse de supprimer les comptes.",
         "domains": [
             "burst.net"
         ]
