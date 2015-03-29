@@ -3488,6 +3488,7 @@
         "url": "https://www.readability.com/account/delete",
         "difficulty": "impossible",
         "notes": "You can't delete your account, but you can deactivate it.",
+        "notes_fr": "Vous ne pouvez pas supprimer votre compte, mais vous pouvez le désactiver.",
         "notes_it": "Non puoi eliminare il tuo account ma puoi disattivarlo.",
         "notes_pt_br": "Você não pode deletar sua conta, mas você pode desativá-la.",
         "notes_cat": "No podrà esborrar el seu compte, pero es podrà desactivar.",
