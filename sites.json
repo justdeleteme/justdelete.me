@@ -1683,6 +1683,7 @@
         "url": "http://www.good.co/",
         "difficulty": "medium",
         "notes": "On the top bar, click on your photo, go to 'Settings', go to 'Miscellaneous' and then hit 'Cancel Account'.",
+        "notes_fr": "Dans le menu en haut, cliquez sur votre photo, allez dans vos parametres, allez dans le menu « Miscellaneous » et puis cliquez sur « Cancel Account ».",
         "domains": [
             "good.co"
         ]
