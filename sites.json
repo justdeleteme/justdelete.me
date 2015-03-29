@@ -865,6 +865,7 @@
         "url": "http://www.delta.com/content/www/en_US/support/talk-to-us/skymiles.html",
         "difficulty": "hard",
         "notes": "You cannot delete your Delta Skymiles account online.  You must contact them by mail in order to delete your account.",
+        "notes_fr": "Vouz ne pouvez pas supprimer votre compte Delta Skymiles en ligne. Il faut que vous les contacter par la poste pour supprimer votre compte.",
         "domains": [
             "delta.com"
         ]
