@@ -2565,6 +2565,7 @@
         "url": "http://www.livejournal.com/accountstatus.bml",
         "difficulty": "medium",
         "notes": "Once you delete your journal you have 30 days to undelete it, in case you change your mind. After 30 days, the journal will be permanently deleted and there will be no way to recover it.",
+        "notes_fr": "Quand vous supprimez votre Journal vous avez 30 jours pour le restaurer, au cas où vous changez votre avis. Après les 30 jours, le Journal est supprimé définitivement.",
         "notes_it": "Una volta eliminato il tuo Journal hai 30 giorni per recuperarlo, nel caso cambiassi idea. Dopo 30 giorni, il tuo Journal sarà permanentemente cancellato e non ci sarà modo di recuperarlo.",
         "notes_pt_br": "Uma vez que você tenha deletado seu jornal você tem 30 dias para desfazer a remoção, caso você mude de ideia. Após 30 dias, o seu jornal permanecerá deletado e não haverá como recuperá-lo.",
         "notes_cat": "Una vegada que hagi eliminat el seu Journal, tindrà 30 dies per tirar enderrera la decisiò. Després de 30 dies el seu contingut serà borrat permanentment i no es podrà recuperar.",
