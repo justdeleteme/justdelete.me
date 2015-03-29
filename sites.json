@@ -614,6 +614,7 @@
         "url": "https://customer.eu.clickandbuy.com/surfer/spring/settings-terminateaccount-flow",
         "difficulty": "easy",
         "notes": "Login to your account, then click 'delete account' on the page.",
+        "notes_fr": "Connectez-vous et cliquez sur « delete account ».",
         "notes_de": "Logge dich in deinen Account ein und klicke auf der Seite auf 'Account löschen'.",
         "domains": [
             "customer.eu.clickandbuy.com",
