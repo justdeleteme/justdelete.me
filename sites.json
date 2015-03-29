@@ -2512,6 +2512,7 @@
         "url": "http://libre.fm/user-edit.php#",
         "difficulty": "easy",
         "notes": "Click 'Profile', then 'Edit', then 'Show advanced settings', and finally check the 'Delete my account' checkbox.",
+        "notes_fr": "Cliquez sur « Profile », puis « Edit », puis « Show advanced settings », et enfin cochez la case « Delete my account ».",
         "notes_it": "Clicca 'Profile', quindi 'Edit', quindi 'Show advanced settings', e per ultimo fai un tick su 'Delete my account'",
         "notes_pt_br": "Clique em 'Profile', então 'Edit', então 'Show advanced settings', e finalmente marque a caixa 'Delete my account'.",
         "notes_cat": "Cliqui a 'Profile', després 'Edit', 'Show advanced settings', i finalment marqui 'Delete my account'.",
