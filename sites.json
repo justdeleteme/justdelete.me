@@ -3376,6 +3376,7 @@
         "url": "http://www.postcrossing.com/removal",
         "difficulty": "easy",
         "notes": "Log into your account -> Click the link (data fully deleted, not possible to revert this).",
+        "notes_fr": "Connectez-vous -> Appuyez le lien (toutes les données sont supprimées définitivement).",
         "notes_it": "Entra nel tuo account -> Clicca il link (informazioni completamente eliminate, operazione non reversibile).",
         "notes_pt_br": "Faça login em sua conta -> Clique no link (dados totalmente apagados, não é possível reverter).",
         "notes_cat": "Entri al seu compte -> Cliqui a l'enllaç (les dades s'eliminen permanentment, no es pot revertir).",
