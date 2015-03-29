@@ -303,6 +303,7 @@
         "url": "https://basecamp.com/help/guides/account/cancel",
         "difficulty": "easy",
         "notes": "Data will be permanantly deleted after 30 days.",
+        "notes_fr": "Les données seront supprimés définitivement dans 30 jours.",
         "notes_pl": "Twoje dane zostaną całkowicie usunięte po upływie 30 dni.",
         "domains": [
             "basecamp.com"
