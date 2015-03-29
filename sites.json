@@ -3188,6 +3188,7 @@
         "url": "https://path.com",
         "difficulty": "medium",
         "notes": "You cannot delete your account from the website. Open the iOS/Android app, go to settings → about → disable account → delete account.",
+        "notes_fr": "Vous ne pouvez pas supprimer votre compte su site web. Ouvrez l'appli iOS/Androis, allez dans les parametres → about → disable account → delete account.",
         "notes_it": "Non puoi cancellare il tuou account. Apri l'app iOS/Android, vai su go to settings → about → disable account → delete account.",
         "notes_pt_br": "Você não pode deletar sua conta do site. Abra o aplicativo iOS/Android, vá em settings → about → disable account → delete account.",
         "notes_cat": "No podrà esborrar el seu compte de la web. Obri l'aplicació d'iOS/Android, vagi a settings → about → disable account → delete account.",
