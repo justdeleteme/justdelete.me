@@ -729,8 +729,8 @@
         "name": "Comment ça marche",
         "url": "http://www.commentcamarche.net/communaute/remove.php3",
         "difficulty": "medium",
-        "notes": "login. !! Your message which you have post will be kept for the readable of the forum !!",
-        "notes_fr": "Logez vous. !! Les messages que vous avez postez seront gardé pour la lisibilité du forum !!",
+        "notes": "Your messages will remain on the forums.",
+        "notes_fr": "Vos messages seront guardés.",
         "domains": [
             "commentcamarche.net"
         ]
