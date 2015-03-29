@@ -2833,6 +2833,7 @@
         "url": "https://login.persona.org/",
         "difficulty": "easy",
         "notes": "“Cancel your account” link at the bottom of the page.",
+        "notes_fr": "Cliquez le lien « Cancel your account » au bas de la page.",
         "notes_it": "“Cancel your account” in fondo alla pagina.",
         "notes_pt_br": "Link “Cancel your account” no final da página.",
         "notes_cat": "“Cancel your account” al final de la pàgina.",
