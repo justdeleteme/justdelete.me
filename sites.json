@@ -791,6 +791,7 @@
         "url": "http://support.crashplan.com/",
         "difficulty": "hard",
         "notes": "Start a live chat session and a representative will delete your account.",
+        "notes_fr": "Démarrez une session Live Chat et un représentant supprimera votre compte.",
         "domains": [
             "support.crashplan.com",
             "crashplan.com"
