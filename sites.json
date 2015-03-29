@@ -3069,6 +3069,7 @@
         "url": "https://www.okcupid.com/settings",
         "difficulty": "easy",
         "notes": "Visit your settings page, and select 'Delete Account'",
+        "notes_fr": "Visitez vos paramatres et selectionnez « Delete Account ».",
         "notes_it": "Visita la pagina impostazioni, quindi seleziona 'Delete Account'",
         "notes_pt_br": "Visite a sua página de configurações, e selecione 'Delete Account'",
         "notes_cat": "Visiti la pàgina de paràmetres, i seleccioni 'Delete Account'",
