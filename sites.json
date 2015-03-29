@@ -2959,6 +2959,7 @@
         "url": "http://en.netlog.com/go/login",
         "difficulty": "easy",
         "notes": "Select 'settings', then 'account', then 'delete'.",
+        "notes_fr": "Selectionnez « Settings », puis « Account », puis « Delete ».",
         "notes_it": "Seleziona 'settings', quindi 'account' e infine 'delete'.",
         "notes_pt_br": "Selecione 'settings', então 'account', e 'delete'.",
         "notes_cat": "Seleccioni 'settings', a continuació 'account' i 'delete'.",
