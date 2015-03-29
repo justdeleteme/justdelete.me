@@ -3296,6 +3296,17 @@
             "postcrossing.com"
         ]
     },
+    
+    {
+        "name": "Prey",
+        "url": "https://panel.preyproject.com/settings/account",
+        "difficulty": "easy",
+        "notes": "Log into your account -> Click 'Need to close your account?' near the bottom of the page -> Confirm deletion",
+        "notes_fr": "Connectez-vous -> Cliquez sur « Need to close your account? » au bas de la page -> Confirmez la suppression de votre compte",
+        "domains": [
+            "https://preyproject.com/"
+        ]
+    },
 
     {
         "name": "Prezi",
