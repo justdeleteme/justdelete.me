@@ -2850,6 +2850,7 @@
         "url": "https://multiplay.com/contactus/",
         "difficulty": "hard",
         "notes": "You have to contact Multiplay by their contact us page.",
+        "notes_fr": "Vous devez contactez Multiplay par le formulaire de contact.",
         "notes_es": "Tienes que contactar a Multiplay a través de su página contactanos.",
         "domains": [
             "multiplay.com"
