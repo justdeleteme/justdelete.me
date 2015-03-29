@@ -1192,6 +1192,7 @@
         "url": "https://www.endomondo.com/?wicket:interface=:15::::",
         "difficulty": "easy",
         "notes": "Select any reason for closing your profile. After that you have to complete the process by clicking a link in an email sent to you.",
+        "notes_fr": "Selectionnez une raison pour la suppression de votre compte. Puis, vouz pourrez terminer le processus en cliquant sur un lien que vous recevrez par e-mail.",
         "domains": [
             "endomondo.com"
         ]
