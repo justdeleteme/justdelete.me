@@ -690,6 +690,7 @@
         "url": "http://help.codecademy.com/customer/portal/articles/1394081-how-do-i-delete-my-account-",
         "difficulty": "easy",
         "notes": "Simply click the \"I understand delete my account.\" button.",
+        "notes_fr": "Il faut simplement confirmer que vous voulez supprimmer votre compte.",
         "notes_it": "Per ragioni di sicurezza, dobbiamo verificare che queste richieste ci arrivino dall'email che è registrata sul tuo account Codacademy",
         "notes_pt_br": "Por razões de segurança, nós precisaremos verificar se estes pedidos vêm do endereço de e-mail que está na sua conta no Codecademy.",
         "notes_cat": "Per raons de seguretat, necessitem verificar si aquestes peticions provenen des de l'e-mail lligat al seu compte de Codecademy.",
