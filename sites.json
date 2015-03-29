@@ -3402,6 +3402,7 @@
         "url": "https://prezi.com/profile/delete_user_account/",
         "difficulty": "easy",
         "notes": "Log into your account -> Click the link -> Enter your password and click on Delete Account.",
+        "notes_fr": "Connectez-vous -> Cliquez sur le lien -> Entrez votre mot de passe et cliquez sur « Delete Account ».",
         "domains": [
             "prezi.com"
         ]
