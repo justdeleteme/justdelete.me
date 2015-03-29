@@ -454,6 +454,7 @@
         "url": "https://secure.booklooker.de/pages/contact.php",
         "difficulty": "hard",
         "notes": "You need to request deletion of your data via the contact form after logging in.",
+        "notes_fr": "Il faut demander la suppression de votre compte par le support du site, après vous vous connectez.",
         "notes_de": "Nach dem einloggen muss der Kundenservice zur Löschung kontaktiert werden.",
         "notes_pl": "Poproś o usunięcie swoich danych za pomocą formularza kontaktowego.",
         "domains": [
