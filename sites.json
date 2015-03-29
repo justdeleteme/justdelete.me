@@ -2151,6 +2151,7 @@
         "url": "http://www.instructables.com/",
         "difficulty": "hard",
         "notes": "You have to email them (service@instructables.com) to get your account deleted",
+        "notes_fr": "Vous devez envoyer un e-mail à service@instructables.com pour demander la suppresion de votre compte.",
         "email": "service@instructables.com",
         "domains": [
             "instructables.com"
