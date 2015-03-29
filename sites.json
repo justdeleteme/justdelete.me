@@ -3213,6 +3213,7 @@
         "url": "https://paukd.com",
         "difficulty": "easy",
         "notes": "Login to your account, go to settings (small gear next to your username), click Delete my account. You'll receive a confirmation link via e-mail.",
+        "notes_fr": "Connectez-vous, allez dans les parametres (petit rouage à coté de votre nom), cliquez sur « Delete my account ». Vous recevrez une confirmation par e-mail.",
         "notes_it": "Entra nel tuo account, vai in impostazioni (piccolo ingranaggio affianco al tuo username9, clicca Elimina il mio account. Riceverai un link di conferma via e-mail.",
         "notes_pt_br": "Faça login em sua conta, vá em configurações (pequena engrenagem próximo ao seu usuário), clique Delete my acccount. Você receberá um link de confirmação por e-mail.",
         "notes_cat": "S'ha d'entrar al compte, anar als paràmetres (el petit engranatge al costat del teu nom d'usuari), cliqui a 'Delete my account'. Rebrà un e-mail confirmant l'acció.",
