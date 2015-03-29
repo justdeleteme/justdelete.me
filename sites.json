@@ -3929,6 +3929,7 @@
         "url": "http://faq.startnext.de/Nutzerprofil/id/Wie+kann+ich+mein+Startnext-Profil+loeschen+-26/modul/Nutzerprofil+%26+Registrierung/aid/18",
         "difficulty": "hard",
         "notes": "You have to write an Email to the Support. Your activites will be anonymized.",
+        "notes_fr": "Vous devez écrire un e-mail au support.",
         "notes_de": "Es ist erforderlich, eine Email an den Support zu schreiben. Alle Aktivitäten werden anonymisiert.",
         "email": "support@startnext.de",
         "domains": [
