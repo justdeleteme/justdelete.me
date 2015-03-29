@@ -4028,6 +4028,7 @@
         "url": "https://www.stumbleupon.com/settings/delete-account",
         "difficulty": "easy",
         "notes": "You can reactivate within 14 days. After that the account is deleted.",
+        "notes_fr": "Vous pouvez réactiver pour 14 jours. Après le compte est supprimé.",
         "notes_it": "Puoi riattivare il tuo account entro 14 giorni. Dopodichè sarà cancellato.",
         "notes_pt_br": "Você pode reativar em até 14 dias. Após este prazo sua conta é deletada.",
         "notes_cat": "Pot reactivar-la en un termini de 14 dies. Desprès d'aquest temps el compte serà esborrat.",
