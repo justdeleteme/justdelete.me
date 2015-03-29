@@ -3032,6 +3032,7 @@
         "url": "https://www.nitrous.io/app#/account_settings",
         "difficulty": "easy",
         "notes": "You will see an option to delete your account just below the password reset option.",
+        "notes_fr": "Vous verrez un choix de supprimer votre compte juste en dessus des options du mot de passe.",
         "domains": [
             "nitrous.io"
         ]
