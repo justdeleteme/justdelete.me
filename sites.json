@@ -3043,6 +3043,7 @@
         "url": "http://www.noip.com/members/account/delete.php",
         "difficulty": "easy",
         "notes": "Check the box to confirm and then click 'Change'.",
+        "notes_fr": "Cochez la case pour confirmer, puis cliquez « Change ».",
         "domains": [
             "noip.com"
         ]
