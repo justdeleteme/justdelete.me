@@ -3821,6 +3821,7 @@
         "url": "https://sourceforge.net/account/remove",
         "difficulty": "medium",
         "notes": "Data created by the user such as posts and tickets will remain and be attributed to the account, even if deleted. The username will not become available.",
+        "notes_fr": "Les données crées par l'utilisateur resteront, même après la suppression du compte. Le pseudo ne devient pas disponbile.",
         "notes_it": "I dati creati dall'utente come post e ticket rimarranno attribuiti all'account, anche se cancellato. L'username non sarà più disponibile.",
         "notes_pt_br": "Dados criads pelo usuário como posts e tickets se manterão atribuídos à conta, mesmo que deletada. O usuário não se tornará disponível.",
         "notes_cat": "Les dades creades per l'usuari, com els posts i tickets es mantindran atribuits al compte, inclús si es eliminada. El nom d'usuari no estarà disponible.",
