@@ -1518,6 +1518,7 @@
         "url": "http://support.groundspeak.com/index.php?pg=kb.page&id=102",
         "difficulty": "medium",
         "notes": "You must email support from the registered email to remove this account. Any outstanding Premium Memberships will not be refunded",
+        "notes_fr": "Il faut que vous contactez par e-mail le support du site avec l'adresse e-mail enregistré pour supprimer votre compte. Les adhésions sont perdus.",
         "notes_it": "Devi spedire una email al servizio clienti dall'email con cui ti sei registrato. Non prevedono nessun rimborso per i membri Premium",
         "notes_de": "Du musst den Support von der E-Mail-Adresse aus kontaktieren, die registriert ist. Dann beantreage die Löschung. Eine bestehende Premium-Mitgliedschaft wird nicht erstattet.",
         "notes_pt_br": "Você deve enviar um e-mail ao suporte do seu e-mail registrado para remover a conta. Qualquer tipo de Premium Membership não será ressarcida",
