@@ -3455,6 +3455,16 @@
             "rememberthemilk.com"
         ]
     },
+    
+    {
+        "name": "Roblox",
+        "url": "https://en.help.roblox.com/hc/en-us/articles/203313050-How-Do-I-Delete-My-Account-",
+        "difficulty": "impossible",
+        "notes": "Not possible. 'We currently do not have a feature for players to delete their accounts. If you no longer wish to play on your account, it will remain inactive until you're ready to play again.'",
+        "domains": [
+            "http://www.roblox.com/"
+        ]
+    },
 
     {
         "name": "Rotten Tomatoes",
