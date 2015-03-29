@@ -536,6 +536,7 @@
         "url": "http://www.callofduty.com/",
         "difficulty": "impossible",
         "notes": "'There is no way to close or shut down an account.'",
+        "notes_fr": "Il n'y a pas de façon de supprimer les comptes.",
         "domains": [
             "callofduty.com"
         ]
