@@ -2995,6 +2995,7 @@
         "url": "https://myaccount.nytimes.com/membercenter/help.html",
         "difficulty": "hard",
         "notes": "Use the form to write to customer services and ask them to close your account.",
+        "notes_fr": "Vous pouvez utilisez le formulaire pour écrire au service clients et pour leur demander de supprimer votre compte.",
         "notes_it": "Usa il modulo per scrivere all'assistenza clienti e chiedere la chiusura del tuo account.",
         "notes_pt_br": "Use o formulário para escrever à assistência ao cliente e peça-os para fechar sua conta.",
         "notes_cat": "Utilitzi el formulari per escriure a l'assistència al client i demar-lis la clausura del compte.",
