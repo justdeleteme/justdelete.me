@@ -1124,6 +1124,7 @@
         "url": "http://cgi1.ebay.com/ws/eBayISAPI.dll?CloseAccount",
         "difficulty": "easy",
         "notes": "A few survey questions will be asked prior to account deletion.",
+        "notes_fr": "Quelques questions d'opinion sera demandées avant la suppression du compte.",
         "notes_de": "Ein paar Fragen werden dir vor dem Löschen gestellt.",
         "notes_it": "Ti sarà chiesto di compilare qualche questionario prima che l'account sia eliminato",
         "notes_pt_br": "Algumas perguntas serão feitas antes de deletar sua conta.",
