@@ -2061,6 +2061,7 @@
         "url": "https://imo.im/login",
         "difficulty": "easy",
         "notes": "You must login, go to your account settings and then click on the &lsquo;Delete Account&rsquo; link on the bottom left.",
+        "notes_fr": "Connectez-vous, allez dans vos parametres puis cliquez sur « Delete Account » en bas à gauche.",
         "domains": [
             "imo.im"
         ]
