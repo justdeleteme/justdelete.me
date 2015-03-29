@@ -3443,6 +3443,7 @@
         "url": "https://app.rainforestqa.com/settings",
         "difficulty": "easy",
         "notes": "Login, go to the settings page and click 'I want to delete my account'.",
+        "notes_fr": "Connectez-vous, allez dans les parametres et cliquez sur « I want to delete my account ».",
         "notes_it": "Entra, recati nella pagina impostazioni e clicca 'Voglio eliminare il mio account'.",
         "notes_pt_br": "Faça login, vá na página de configurações e clique 'I want to delete my account'.",
         "notes_cat": "Entri al seu compte, vagi a la pàgina de configuració i cliqui a 'I want to delete my account'.",
