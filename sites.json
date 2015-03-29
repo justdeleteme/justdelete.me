@@ -1582,6 +1582,7 @@
         "url": "http://glassboard.com/support/",
         "difficulty": "hard",
         "notes": "Use the support email address to ask them to close your account.",
+        "notes_fr": "Utilisez l'adresse e-mail du support du site pour les contacter en demandant la suppresion de votre compte.",
         "notes_de": "Nutze die Support-Mail-Adresse und beantrage die Löschung dort.",
         "notes_it": "Usa l'email del supporto per richiedere la cancellazione del tuo account.",
         "notes_pt_br": "Use o e-mail de suporte para pedir que encerrem sua conta.",
