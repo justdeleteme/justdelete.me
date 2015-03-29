@@ -2072,6 +2072,7 @@
         "url": "https://infibot.com/",
         "difficulty": "hard",
         "notes": "Email customer support. Requests are handled within 48 hours.",
+        "notes_fr": "Contactez le support du site. Les demandes sont gérés pendant 48 heures.",
         "email": "customersupport@infibot.com",
         "domains": [
             "infibot.com"
