@@ -3138,6 +3138,17 @@
             "paypal.com"
         ]
     },
+    
+    {
+        "name": "Peak",
+        "url": "http://www.peak.net/",
+        "difficulty": "hard",
+        "notes": "You must send an e-mail to support@peak.net requesting deletion. You will then receive a response from support asking for feedback and to confirm the deletion. The next e-mail you receive from support will notify you that your account has been deleted.",
+        "notes_fr": "Il faut que vous demandez la suppression de votre compte dans un e-mail que vous envoyez à support@peak.net. Vous recevrez une réponse qui demande à la fois vos impressions de l'appli et une confirmation de la suppression. L'e-mail prochain que vous recevrez vous notifiera la suppression de votre compte.",
+        "domains": [
+            "http://www.peak.net/"
+        ]
+    },
 
     {
         "name": "Personello Germany",
