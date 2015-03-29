@@ -188,6 +188,7 @@
         "url": "https://groups.google.com/forum/#!topic/appfog-users/H9AkHjHFfZk",
         "difficulty": "hard",
         "notes": "Remove all applications and services from your account, then request deletion by emailing customer services.",
+        "notes_fr": "Enlevez toutes les applications et tous les services de votre compte, puis demandez la suppression de votre compte en envoyant un e-mail au service clients.",
         "email": "support@appfog.com",
         "domains": [
             "console.appfog.com",
