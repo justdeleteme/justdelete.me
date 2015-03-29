@@ -1746,6 +1746,7 @@
         "url": "http://www.grailed.com/",
         "difficulty": "hard",
         "notes": "Send an email to arun@grailed.com and request deletion.",
+        "notes_fr": "Envoyez un e-mail à arun@grailed.com pour demander la suppression de votre compte.",
         "email": "arun@grailed.com",
         "domains": [
             "grailed.com"
