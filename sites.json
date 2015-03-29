@@ -2763,6 +2763,7 @@
         "url": "https://account.mojang.com/me/settings",
         "difficulty": "easy",
         "notes": "If you have registered a Mojang account and would like to delete your account, please visit your account settings page. Please be aware that if your account is deleted, you will no longer be able to log into Mojang services, and will not be able to purchase future Mojang games.",
+        "notes_fr": "Si vous avez créé un compte Mojang et vous voulez le supprimer, veuillez visitez vos parametres. Sachez que si vous supprimez votre compte, vous ne pourrez plus vous connecter aux services Mojang, et vous ne pourrez plus acheter les jeux de Mojang à l'avenir.",
         "notes_it": "Se desideri cancellare il tuo account, visita la pagina impostazioni. Se elimini il tuo account, non potrai piu loggare nei servizi Mojang, e non potrai piu acquistare dei giochi Mojang in futuro.",
         "notes_pt_br": "Se você registrou uma conta Mojango e gostaria de deletá-la, visite a página de configurações da conta. Lembre-se de que se sua conta for deletada, você não poderá mais fazer login nos serviços Mojang, e não poderá adquirir futuros jogos da Mojang.",
         "notes_cat": "Si vostè es va registrar a Mojang i ara vol esborrar el seu compte, visiti la página de configuració del compte. Tingui en compte que si l'elimina no podrà entrar més amb els serveis de Mojang i no podrà adquirir futurs jocs de Mojang.",
