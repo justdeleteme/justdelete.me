@@ -3364,6 +3364,7 @@
         "url": "http://questions.points.com/entries/20026692-How-do-I-cancel-my-account-",
         "difficulty": "hard",
         "notes": "Must contact support through Contanct form or online chat.",
+        "notes_fr": "Il faut contacter le support via le formulaire de contact ou le tchat en ligne.",
         "domains": [
             "questions.points.com",
             "points.com"
