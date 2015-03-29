@@ -1247,6 +1247,7 @@
         "url": "https://www.evernote.com/Deactivate.action",
         "difficulty": "impossible",
         "notes": "You cannot delete your Evernote account, just deactivate it temporarily. Deactivation does not remove your data so you will have to manually delete all notes and personal info, perform a sync and then deactivate the account.",
+        "notes_fr": "Vous ne pouvez pas supprimer votre compte Evernote, seulement le désactiver temporairement. La désactivation ne supprime pas vos données donc vous devrez les supprimer manuellement avant de syncroniser, puis vous pourrez réaliser la désactivation du compte.",
         "notes_it": "Non puoi eliminare il tuo account Evernote, solo disattivarlo temporaneamente. La disattivazione non cancella nessuno dei tuoi dati quindi dovrai cancellarli manualmente prima di effettuare la disattivazione.",
         "notes_de": "Du kannst deinen Evernote-Account nicht löschen, du kannst ihn nur temporär deaktivieren. Deaktivierung löscht nicht deine Daten, deshalb musst du manuell jede Notiz und persönliche Information löschen. Schließe dann eine Synchronisation ab und deaktiviere deinen Account dann.",
         "notes_pt_br": "Você não pode deletar sua conta Evernote, apenas desativá-la temporariamente. Desativação não remove seus dados então você terá que remover manualmente todas suas informações, realizar uma sincronização e então desativar sua conta.",
