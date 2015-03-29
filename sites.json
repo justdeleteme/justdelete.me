@@ -3118,6 +3118,7 @@
         "url": "http://forums.opendns.com/comments.php?DiscussionID=8326",
         "difficulty": "hard",
         "notes": "You must open a ticket to completely get your account deleted at http://www.opendns.com/support/contact/",
+        "notes_fr": "Vous devez ouvrir un ticket de support pour supprimer totalement votre compte à http://www.opendns.com/support/contact/",
         "notes_it": "Devi aprire un ticket alla pagina http://www.opendns.com/support/contact/ per eliminare completamente il tuo account",
         "notes_pt_br": "Você deve abrir um ticket para ter sua conta completamente apagada em http://www.opendns.com/support/contact/",
         "notes_cat": "Hauría d'enviar un 'ticket' para que s'elimini completament el compte http://www.opendns.com/support/contact/",
