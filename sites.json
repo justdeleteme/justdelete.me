@@ -431,6 +431,7 @@
         "url": "http://www.boerse.bz/profile.php?do=delacc",
         "difficulty": "impossible",
         "notes": "Accounts cannot be removed at this time",
+        "notes_fr": "Les comptes ne peuvent pas être supprimés en ce moment.",
         "notes_de": "Deaktivierung von Accounts bis auf weiteres nicht möglich",
         "domains": [
             "www.boerse.bz",
