@@ -250,6 +250,33 @@
     },
 
     {
+        "name": "AutoScout24",
+        "url": "https://accounts.autoscout24.com/Delete",
+        "difficulty": "easy",
+        "domains": [
+            "autoscout24.com",
+            "accounts.autoscout24.com",
+            "autoscout24.at",
+            "autoscout24.be",
+            "autoscout24.es",
+            "autoscout24.de",
+            "autoscout24.fr",
+            "autoscout24.it",
+            "autoscout24.lu",
+            "autoscout24.nl",
+            "autoscout24.bg",
+            "autoscout24.cz",
+            "autoscout24.eu",
+            "autoscout24.hr",
+            "autoscout24.ro",
+            "autoscout24.se",
+            "autoscout24.com.tr",
+            "autoscout24.com.ua",
+            "autoscout24.net",
+        ]
+    },
+
+    {
         "name": "Badoo",
         "url": "http://badoo.com/settings/",
         "difficulty": "easy",
