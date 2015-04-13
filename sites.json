@@ -657,17 +657,12 @@
 
     {
         "name": "Code School",
-        "url": "http://help.codeschool.com/kb/codeschool-faqs/account-questions",
-        "difficulty": "medium",
-        "notes": "Start a private discussion with them and they will 'take care of it'.",
-        "notes_fr": "Posez leur la question pour qu'ils vous prennent en charge.",
-        "notes_it": "Inizia una discussione privata con loro e se ne occuperanno loro",
-        "notes_de": "Starte eine private Diskussion mit ihnen und sie 'Kümmern sich drum'.",
-        "notes_pt_br": "Inicie uma discussão privada com eles e eles irão 'cuidar disso'.",
-        "notes_cat": "Comenci una discusió privada amb ells i 'procuraran fer-ho'.",
-        "notes_es": "Empiece una discusión privada con ellos y 'procurarán hacerlo.",
+        "url": "https://www.codeschool.com/account/edit",
+        "difficulty": "easy",
+        "notes": "Go to your Profile, at the bottom you will find a 'Delete Account' button.",
+        "notes_fr": "Allez dans votre Profil, en bas vous trouverez un bouton 'Delete Account'.",
         "domains": [
-            "help.codeschool.com",
+            "support.codeschool.com",
             "codeschool.com"
         ]
     },
