@@ -7,6 +7,16 @@
             "4shared.com"
         ]
     },
+    
+    {
+        "name": "Nearpod",
+        "url": "http://www.nearpod.com/contact/",
+        "difficulty": "hard",
+        "notes": "Requires to fill out contact form. Will still get Promotional emails until you also unsubscribe from them"
+        "domains": [
+            "nearpod.com"
+        ]
+    },
 
     {
         "name": "500px",
