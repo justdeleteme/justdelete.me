@@ -1981,7 +1981,7 @@
     {
         "name": "Huddle",
         "url": "https://huddle.zendesk.com/hc/en-us/articles/200124703-How-do-I-cancel-my-Huddle-account-",
-        "difficulty": "hard"
+        "difficulty": "hard",
         "domains": [
             "huddle.com"    
         ]
