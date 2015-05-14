@@ -3328,6 +3328,17 @@
             "picasa.google.com"
         ]
     },
+    
+    {
+        "name": "Pinboard",
+        "url": "https://pinboard.in/faq/#close_account",
+        "difficulty": "hard",
+        "notes": "Send us an e-mail from the address that you have registered - we take care of it.",
+        "email": "support@pinboard.in",
+        "domains": [
+            "pinboard.in"
+        ]
+    },
 
     {
         "name": "Pingdom",
