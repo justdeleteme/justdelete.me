@@ -658,15 +658,8 @@
 
     {
         "name": "Code School",
-        "url": "https://codeschool.reamaze.com/kb/general/how-do-i-delete-my-code-school-account",
-        "difficulty": "medium",
-        "notes": "Start a private discussion with them and they will 'take care of it'.",
-        "notes_fr": "Posez leur la question pour qu'ils vous prennent en charge.",
-        "notes_it": "Inizia una discussione privata con loro e se ne occuperanno loro",
-        "notes_de": "Starte eine private Diskussion mit ihnen und sie 'Kümmern sich drum'.",
-        "notes_pt_br": "Inicie uma discussão privada com eles e eles irão 'cuidar disso'.",
-        "notes_cat": "Comenci una discusió privada amb ells i 'procuraran fer-ho'.",
-        "notes_es": "Empiece una discusión privada con ellos y 'procurarán hacerlo.",
+        "url": "https://codeschool.com/account/edit",
+        "difficulty": "easy",
         "domains": [
             "help.codeschool.com",
             "codeschool.com"
