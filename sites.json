@@ -2832,6 +2832,16 @@
             "multiplay.com"
         ]
     },
+    
+    {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/account/edit",
+        "difficulty": "easy",
+        "notes": "Click on delete my account at the bottom of the page",
+        "domains": [
+            "musicbrainz.org"
+        ]
+    },
 
     {
         "name": "My Opera",
