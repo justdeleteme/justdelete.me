@@ -88,10 +88,10 @@
 			$full_name = "Polski";
 		}
 		if ($lang == 'sk') {
-			$full_name = "Slovakian"
+			$full_name = "Slovakian";
 		}
 		if ($lang == 'sr') {
-			$full_name = "српски"
+			$full_name = "српски";
 		}
 
 		include ('dev.php');
