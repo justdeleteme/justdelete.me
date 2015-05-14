@@ -2294,6 +2294,15 @@
         ]
     },
 
+   {
+        "name": "Jolla Account",
+        "url": "https://account.jolla.com/profile/settings/confirm_delete_profile",
+        "difficulty": "easy",
+        "domains": [
+            "jolla.com"
+        ]
+    },
+
     {
         "name": "Jottacloud",
         "url": "https://www.jottacloud.com/account/delete",
