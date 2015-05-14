@@ -3891,6 +3891,16 @@
     },
 
     {
+        "name": "Replay Poker",
+        "url": "https://www.replaypoker.com/settings/deactivate",
+        "difficulty": "easy",
+        "notes": "Please enter a reason for deactivating your account and then click 'Deactivate' after you're finished.",
+        "domains": [
+            "replaypoker.com"
+        ]
+    },
+
+    {
         "name": "Rotten Tomatoes",
         "url": "http://flixster.desk.com/customer/portal/articles/169347-how-do-i-cancel-my-account-",
         "difficulty": "hard",
