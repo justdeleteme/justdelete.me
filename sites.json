@@ -3732,6 +3732,16 @@
             "prezi.com"
         ]
     },
+    
+    {
+        "name": "Prosper",
+        "url": "https://www.prosper.com/secure/account/borrower/close_account.aspx",
+        "difficulty": "easy",
+        "notes": "Log into your account -> Click the link -> Click on Close My Account Now.",
+        "domains": [
+            "prosper.com"
+        ]
+    },
 
     {
         "name": "Pushover",
