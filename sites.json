@@ -251,6 +251,16 @@
     },
 
     {
+        "name": "Backblaze",
+        "url": "https://secure.backblaze.com/user_account.htm",
+        "difficulty": "impossible",
+        "notes": "Accounts cannot be deleted, even when contacting customer service. User account credentials will be permanently retained by Backblaze.",
+        "domains": [
+            "backblaze.com"
+        ]
+    },
+
+    {
         "name": "Badoo",
         "url": "http://badoo.com/settings/",
         "difficulty": "easy",
