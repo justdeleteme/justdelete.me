@@ -3627,6 +3627,16 @@
     },
 
     {
+        "name": "Slack",
+        "url": "https://my.slack.com/account/settings",
+        "difficulty": "easy",
+        "notes": "If you are the Slack team's primary owner you will need to either delete the team or transfer its ownership before deleting your account",
+        "domains": [
+            "slack.com"
+        ]
+    },
+    
+    {
         "name": "Slashdot",
         "url": "http://slashdot.org/faq/accounts.shtml",
         "difficulty": "impossible",
