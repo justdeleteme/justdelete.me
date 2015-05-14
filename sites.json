@@ -1213,6 +1213,12 @@
             "ebay.com"
         ]
     },
+    {
+	"name": "Edpuzzle"
+	"url": "edpuzzle.com"
+	"difficulty": "medium"
+	"notes": "click on the contrat popup on the bottom of the screen and fill out the form, an admin will email asking for your username and will then delete it"
+    },
 
     {
         "name": "eDreams",
@@ -2836,6 +2842,16 @@
         "domains": [
             "lumi.do"
         ]
+    },
+
+    {
+	"name": "Lumosity"
+	"url": "https://www.lumosity.com/app/v4/settings"
+	"difficulty": "easy"
+	"notes": "Click the delete button on the bottom of the page"
+	"domains": [
+	    "lumosity.com"
+	]
     },
 
     {
