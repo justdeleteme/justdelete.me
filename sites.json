@@ -3149,11 +3149,11 @@
         "name": "Path",
         "url": "https://path.com",
         "difficulty": "medium",
-        "notes": "You cannot delete your account from the website. Open the iOS/Android app, go to settings → about → disable account → delete account.",
-        "notes_it": "Non puoi cancellare il tuou account. Apri l'app iOS/Android, vai su go to settings → about → disable account → delete account.",
-        "notes_pt_br": "Você não pode deletar sua conta do site. Abra o aplicativo iOS/Android, vá em settings → about → disable account → delete account.",
-        "notes_cat": "No podrà esborrar el seu compte de la web. Obri l'aplicació d'iOS/Android, vagi a settings → about → disable account → delete account.",
-        "notes_es": "No podrá borrar su cuenta de la web. Abra la aplicación de iOS/Android, vaya a settings → about → disable account → delete account.",
+        "notes": "You cannot delete your account from the website. Open the iOS/Android app, go to settings → account → disable account → delete account.",
+        "notes_it": "Non puoi cancellare il tuou account. Apri l'app iOS/Android, vai su go to settings → account → disable account → delete account.",
+        "notes_pt_br": "Você não pode deletar sua conta do site. Abra o aplicativo iOS/Android, vá em settings → account → disable account → delete account.",
+        "notes_cat": "No podrà esborrar el seu compte de la web. Obri l'aplicació d'iOS/Android, vagi a settings → account → disable account → delete account.",
+        "notes_es": "No podrá borrar su cuenta de la web. Abra la aplicación de iOS/Android, vaya a settings → account → disable account → delete account.",
         "domains": [
             "path.com"
         ]
