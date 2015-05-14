@@ -422,6 +422,16 @@
     },
 
     {
+        "name": "BodBot",
+        "url": "http://www.bodbot.com/Account_Settings.html",
+        "difficulty": "easy",
+        "notes": "Click the “Delete My Account” link.",
+        "domains": [
+            "bodbot.com"
+        ]
+    },
+
+    {
         "name": "BodyBuilding",
         "url": "http://www.bodybuilding.com/store/help/delete-bodyspace-account.htm",
         "difficulty": "impossible",
@@ -535,6 +545,15 @@
         "notes_pl": "Wystarczy, że klikniesz 'Abschicken'",
         "domains": [
             "ress.at"
+        ]
+    },
+
+    {
+        "name": "CafePress",
+        "url": "https://members.cafepress.com/account/closeaccount.aspx",
+        "difficulty": "easy",
+        "domains": [
+            "cafepress.com"
         ]
     },
 
@@ -1808,14 +1827,9 @@
 
     {
         "name": "Gumroad",
-        "url": "https://gumroad.com/",
-        "difficulty": "hard",
-        "notes": "No page explaining how to delete your account. You have to contact support directly (link at the bottom of the page) and they'll do it for you.",
-        "notes_fr": "Aucune page n'explique comment supprimer votre compte. Vous devez contacter le support et ils le feront pour vous.",
-        "notes_it": "Nessuna pagina spiega come eliminare l'account. Devi contattare il supporto direttamente (il link si trova in fondo alla pagina) e lo faranno al posto tuo.",
-        "notes_pt_br": "Não há uma página explicando como deletar sua conta. Você terá de contatar o suporte diretamente (link no final da página) e eles irão deletá-la para você.",
-        "notes_cat": "No s'explica com eliminar el compte. Haurà de contactar directament amb el servei d'assistència (link al final de la pàgina) i ells li borraran el compte.",
-        "notes_es": "No se explica cómo eliminar la cuenta. Deberá contactar directamente con el servicio de asistencia (link al final de la página) y ellos le borran la cuenta.",
+        "url": "https://gumroad.com/settings",
+        "difficulty": "easy",
+        "notes": "There is a link at the bottom of the Settings page to delete your account.",
         "domains": [
             "gumroad.com"
         ]
@@ -2104,6 +2118,16 @@
         "notes": "You must login, go to your account settings and then click on the &lsquo;Delete Account&rsquo; link on the bottom left.",
         "domains": [
             "imo.im"
+        ]
+    },
+
+    {
+        "name": "Indiegogo",
+        "url": "https://www.indiegogo.com",
+        "difficulty": "easy",
+        "notes": "Go to “My Settings”, scroll down to the bottom, and click the “Delete” button.",
+        "domains": [
+            "indiegogo.com"
         ]
     },
 
@@ -2635,6 +2659,15 @@
         "difficulty": "easy",
         "domains": [
             "lobste.rs"
+        ]
+    },
+
+    {
+        "name": "Lumosity",
+        "url": "https://www.lumosity.com/app/v4/settings/account_deletion/new",
+        "difficulty": "easy",
+        "domains": [
+            "lumosity.com"
         ]
     },
 
