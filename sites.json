@@ -727,10 +727,12 @@
 
     {
         "name": "Code School",
-        "url": "https://codeschool.com/account/edit",
+        "url": "https://www.codeschool.com/account/edit",
         "difficulty": "easy",
+        "notes": "Go to your Profile, at the bottom you will find a 'Delete Account' button.",
+        "notes_fr": "Allez dans votre Profil, en bas vous trouverez un bouton 'Delete Account'.",
         "domains": [
-            "help.codeschool.com",
+            "support.codeschool.com",
             "codeschool.com"
         ]
     },
