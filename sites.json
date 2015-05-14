@@ -2594,6 +2594,15 @@
     },
 
     {
+        "name": "Launchpad",
+        "url": "https://help.launchpad.net/YourAccount/Closing",
+        "difficulty": "easy",
+        "domains": [
+            "launchpad.net"
+        ]
+    },
+
+    {
         "name": "League of Legends",
         "url": "https://support.leagueoflegends.com/entries/461131-Disabling-Your-Account",
         "difficulty": "impossible",
