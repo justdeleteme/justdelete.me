@@ -610,6 +610,15 @@
     },
 
     {
+        "name": "Cheddar",
+        "url": "https://cheddarapp.com/account",
+        "difficulty": "easy",
+        "domains": [
+            "cheddarapp.com"
+        ]
+    },
+
+    {
         "name": "Cinemagram",
         "url": "",
         "difficulty": "impossible",
@@ -617,6 +626,16 @@
         "notes_nl": "Volgens de app kun je emailen naar feedback@cinemagr.am voor vragen. Helaas wordt er niet gereageerd op dit account.",
         "domains": [
             "cinemagr.am"
+        ]
+    },
+
+    {
+        "name": "CiteULike",
+        "url": "http://wiki.citeulike.org/index.php/Accounts#How_do_I_delete_my_account.3F",
+        "difficulty": "impossible",
+        "notes": "We don't delete old accounts.",
+        "domains": [
+            "citeulike.org"
         ]
     },
 
@@ -3502,6 +3521,15 @@
     },
 
     {
+        "name": "Potluck",
+        "url": "https://www.potluck.it/settings",
+        "difficulty": "easy",
+        "domains": [
+            "potluck.it"
+        ]
+    },
+
+    {
         "name": "Prezi",
         "url": "https://prezi.com/profile/delete_user_account/",
         "difficulty": "easy",
@@ -3611,6 +3639,15 @@
     },
 
     {
+        "name": "Readernaut",
+        "difficulty": "easy",
+        "notes": "Go to your profile page, and use the 'Delete Your Account' button.",
+        "domains": [
+            "readernaut.com"
+        ]
+    },
+
+    {
         "name": "ReadyForZero",
         "url": "https://www.readyforzero.com/user/settings#readyforzero-account",
         "difficulty": "easy",
@@ -3624,11 +3661,6 @@
         "name": "Reddit",
         "url": "https://ssl.reddit.com/prefs/delete/",
         "difficulty": "easy",
-        "notes": "Increase your productivity by over 5 times with this one trick they don't want you to know about!",
-        "notes_it": "Incrementa la tua produttività di oltre 5 volte con questi consigli che loro non vogliono farti sapere!",
-        "notes_pt_br": "Aumente sua produtividade em 5 vezes com este truque que eles não querem que você saiba!",
-        "notes_cat": "Augmenti la seva productivitat fins a 5 vegades amb aquest truc que ningú en vol sentir a parlar!",
-        "notes_es": "Aumente su productividad hasta 5 veces con este truco del que nadie quiere oír hablar!",
         "domains": [
             "ssl.reddit.com",
             "reddit.com"
@@ -3656,6 +3688,26 @@
         "difficulty": "easy",
         "domains": [
             "rememberthemilk.com"
+        ]
+    },
+
+    {
+        "name": "RescueTime",
+        "url": "https://www.rescuetime.com/settings",
+        "difficulty": "easy",
+        "notes": "Use the 'Delete your account' link in the lower right-hand corner."
+        "domains": [
+            "rescuetime.com"
+        ]
+    },
+
+    {
+        "name": "Riffle",
+        "url": "https://riffle.uservoice.com/knowledgebase/articles/244346-delete-your-account",
+        "difficulty": "easy",
+        "notes": "On your profile page, click 'Edit Profile' and use the 'Cancel account' button."
+        "domains": [
+            "riffle.com"
         ]
     },
 
@@ -3774,6 +3826,16 @@
         "notes_es": "Seleccione 'Please cancel my account'. Escoja un motivo y seleccione 'close my shopify store'.",
         "domains": [
             "shopify.com"
+        ]
+    },
+
+    {
+        "name": "Shutterstock",
+        "url": "http://submit.shutterstock.com/privacy.mhtml",
+        "difficulty": "hard",
+        "notes": "If you wish to delete your account or request that we no longer use your information to provide you services contact us at Support@Shutterstock.com.",
+        "domains": [
+            "shutterstock.com"
         ]
     },
 
@@ -4170,6 +4232,16 @@
     },
 
     {
+        "name": "Swagbucks",
+        "url": "http://www.swagbucks.com/account/settings#tab=account",
+        "difficulty": "easy",
+        "notes": "Use the 'Cancel My Account' link on your Account Settings page. Requires email confirmation.",
+        "domains": [
+            "swagbucks.com"
+        ]
+    },
+
+    {
         "name": "Tagged",
         "url": "http://www.tagged.com/account_cancel.html",
         "difficulty": "easy",
@@ -4356,6 +4428,15 @@
         "notes_it": "Il tuo account verrà 'disabilitato' prima di venir rimosso. Se dopo 30 giorni è ancora disattivato esso verrà eliminato.",
         "domains": [
             "twitter.com"
+        ]
+    },
+
+    {
+        "name": "TypePad",
+        "url": "https://www.typepad.com/secure/account/cancel-account",
+        "difficulty": "easy",
+        "domains": [
+            "typepad.com"
         ]
     },
 
