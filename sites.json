@@ -4548,7 +4548,7 @@
 
     {
         "name": "WhatsApp",
-        "url": "https://whatsapp.zendesk.com/entries/21119703-How-do-I-delete-my-account-",
+        "url": "https://www.whatsapp.com/faq/search/?q=how%20do%20I%20delete%20my%20account?&p=desktop",
         "difficulty": "medium",
         "notes": "From the app: Settings → Account → Delete your account.",
         "notes_fr": "Depuis l'app: Réglages -> Compte -> Supprimer mon compte.",
@@ -4557,8 +4557,7 @@
         "notes_cat": "Des de l'aplicació: Settings → Account → Delete your account.",
         "notes_es": "Desde la aplicación: Settings → Account → Delete your account.",
         "domains": [
-            "whatsapp.zendesk.com",
-            "zendesk.com"
+            "whatsapp.com",
         ]
     },
 
