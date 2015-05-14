@@ -326,7 +326,8 @@
 	        <li class="ro"><a href="ro.html">Român</a></li>
 	        <li class="pl"><a href="pl.html">Polski</a></li>
 	        <li class="sk"><a href="sk.html">Slovenčina</a></li>
-	        <li class="dropdown-divider"></li>
+	        <li class="srb"><a href="srb.html">српски</a></li>
+	        <!-- <li class="dropdown-divider"></li> -->
 	    </ul>
 	</div>
 
