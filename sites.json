@@ -1281,6 +1281,24 @@
             "endomondo.com"
         ]
     },
+    
+    {
+        "name": "Envato",
+        "url": "https://help.market.envato.com/hc/en-us/articles/202500394-How-Do-I-Close-My-Account-",
+        "difficulty": "hard",
+        "notes": "You have to send them a request to delete the account using the contact form.",
+        "domains": [
+            "envato.com",
+            "themeforest.net",
+            "codecanyon.net",
+            "videohive.net",
+            "audiojungle.net",
+            "graphicriver.net",
+            "photodune.net",
+            "3docean.net",
+            "activeden.net"            
+        ]
+    },
 
     {
         "name": "eRepublik",
