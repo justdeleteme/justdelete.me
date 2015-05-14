@@ -19,7 +19,7 @@
 		'ro',
 		'pl',
 		'sk',
-		'srb'
+		'sr'
 	);
 
 	include 'contrib.php';
@@ -86,6 +86,12 @@
 		}
 		if ($lang == "pl") {
 			$full_name = "Polski";
+		}
+		if ($lang == 'sk') {
+			$full_name = "Slovakian"
+		}
+		if ($lang == 'sr') {
+			$full_name = "српски"
 		}
 
 		include ('dev.php');
