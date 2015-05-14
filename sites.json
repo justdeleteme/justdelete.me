@@ -1966,6 +1966,36 @@
     },
 
     {
+        "name": "i use this (iPhone)",
+        "url": "http://iphone.iusethis.com/user/delete_user",
+        "difficulty": "easy",
+        "notes": "Deleting this account will also delete your Mac and Windows accounts on 'i use this', if you have them set up.",
+        "domains": [
+            "iphone.iusethis.com",
+        ]
+    },
+
+    {
+        "name": "i use this (Mac)",
+        "url": "http://osx.iusethis.com/user/delete_user",
+        "difficulty": "easy",
+        "notes": "Deleting this account will also delete your iPhone and Windows accounts on 'i use this', if you have them set up.",
+        "domains": [
+            "osx.iusethis.com",
+        ]
+    },
+
+    {
+        "name": "i use this (Windows)",
+        "url": "http://windows.iusethis.com/user/delete_user",
+        "difficulty": "easy",
+        "notes": "Deleting this account will also delete your iPhone and Mac accounts on 'i use this', if you have them set up.",
+        "domains": [
+            "windows.iusethis.com",
+        ]
+    },
+
+    {
         "name": "Iceber.gs",
         "url": "https://iceber.gs/home",
         "difficulty": "easy",
