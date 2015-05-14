@@ -3543,7 +3543,17 @@
             "runescape.com"
         ]
     },
-
+    
+    {
+        "name": "Runtastic",
+        "url": "https://help.runtastic.com/hc/en-us/articles/200370082-Delete-Account-Cancel-Membership",
+        "difficulty": "easy",
+        "notes": "To delete your account go to Runtastic.com & log in, click on the arrow on the right side of your user name, click on "Settings", click on "Login Data" on the left hand side, click on "Delete my account" at the bottom",
+        "domains": [
+            "runtastic.com"
+        ]
+    },
+    
     {
         "name": "RunKeeper",
         "url": "http://runkeeper.com/I-Love-RunKeeper",
