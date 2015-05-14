@@ -1963,7 +1963,7 @@
         "difficulty": "easy",
         "notes": "Deleting this account will also delete your Mac and Windows accounts on 'i use this', if you have them set up.",
         "domains": [
-            "iphone.iusethis.com",
+            "iphone.iusethis.com"
         ]
     },
 
@@ -1973,7 +1973,7 @@
         "difficulty": "easy",
         "notes": "Deleting this account will also delete your iPhone and Windows accounts on 'i use this', if you have them set up.",
         "domains": [
-            "osx.iusethis.com",
+            "osx.iusethis.com"
         ]
     },
 
@@ -1983,7 +1983,7 @@
         "difficulty": "easy",
         "notes": "Deleting this account will also delete your iPhone and Mac accounts on 'i use this', if you have them set up.",
         "domains": [
-            "windows.iusethis.com",
+            "windows.iusethis.com"
         ]
     },
 
