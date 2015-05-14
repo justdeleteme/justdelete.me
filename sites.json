@@ -386,6 +386,7 @@
         "url": "https://bitly.com/a/deactivate_account",
         "difficulty": "easy",
         "notes": "Select why you are deleting your account. Your account will be deleted but all your shortlinks will remain.",
+        "notes_pl": "Wybierz, dlaczego chcesz usunąć konto. Twoje konto zostanie usunięte, ale wszystkie twoje skrócone linki zostaną na serwerze.",
         "domains": [
             "support.bitly.com",
             "bitly.com"
