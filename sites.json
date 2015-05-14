@@ -331,6 +331,7 @@
         "notes_pt_br": "A Assistência ao Cliente irá pedir que você envie uma carta assinada confirmando os seus desejos, os detalhes de sua conta e uma cópia autenticada de identificação (passaporte, carteira de motorista) para o escritório da região de sua conta.",
         "notes_cat": "L'Assistencia al Client li demanarà que envii una carta firmada confirmant els seus desitjos, els detalls de la seva conta i una copia d'identificació legal (Passaport, DNI...).",
         "notes_es": "La asistencia al cliente le pedirá que envie una carta firmada confirmando sus deseos, los detalles de la cuenta y una copia de una identificación legal (Pasaporte, DNI...).",
+        "notes_pl": "Dział wsparcia wymaga wysłania pisemnego potwierdzenia chęci usunięcia konta, wraz ze szczegółami konta użytkownika oraz kopii jednego z dokumentów potwierdzających tożsamość (paszport, prawo jazdy).",
         "domains": [
             "eu.battle.net",
             "battle.net"
@@ -394,7 +395,7 @@
         "notes_fr": "Vous ne pouvez pas supprimer votre compte Blogger sans supprimer votre compte Google, mais vous pouvez supprimer votre blog.",
         "notes_cat": "Hauries d'esborrar tot el compte de Google sencer, però si que pots eliminar el teu blog.",
         "notes_es": "Tendrías que borrar toda cuenta de Google entera, pero si que puedes eliminar tu blog.",
-        "notes_pl": "Nie ma możliwosći usunięcia konta w usłudze Blogger bez usuwania całego konta Google. Możesz jedynie usunąć swój blog.",
+        "notes_pl": "Nie ma możliwości usunięcia konta w usłudze Blogger bez usuwania całego konta Google. Możesz jedynie usunąć swój blog.",
         "domains": [
             "blogger.com"
         ]
@@ -562,6 +563,7 @@
         "url": "http://www.callofduty.com/",
         "difficulty": "impossible",
         "notes": "'There is no way to close or shut down an account.'",
+        "notes_pl": "Nie ma możliwości zamknięcia konta.",
         "domains": [
             "callofduty.com"
         ]
@@ -1282,6 +1284,7 @@
         "notes_pt_br": "Você não pode deletar sua conta Evernote, apenas desativá-la temporariamente. Desativação não remove seus dados então você terá que remover manualmente todas suas informações, realizar uma sincronização e então desativar sua conta.",
         "notes_cat": "No pot eliminar un compte d'Evernote, només pot desactivar-la temporalment. La desactivaciò no esborra les seves dades, ho haurà de fer manualment, després sincronitzar i desactivar.",
         "notes_es": "No se puede eliminar una cuenta de Evernote, solo se puede desactivar la temporalmente. La desactivación no borra sus datos, lo deberá hacer manualmente, después sincronitzar y desactivar.",
+        "notes_pl": "Nie możesz usunąć konta tylko je tymczasowo zdeaktywować. Deaktywacja nie usuwa żadnych danych - należy to zrobić samemu.",
         "domains": [
             "evernote.com"
         ]
@@ -1472,6 +1475,17 @@
         "difficulty": "easy",
         "domains": [
             "friendfeed.com"
+        ]
+    },
+    
+    {
+        "name": "Gadu-Gadu",
+        "url": "http://www.gg.pl/pomoc/ustawienia-moje-konto-profil/",
+        "difficulty": "easy",
+        "notes": "You will find option to remove your account under Profile - My Account tab, after log in. Removed GG account number is going back to available numbers for new users.",
+        "notes_pl": "Po zalogowaniu się do konta w zakładce Moje konto - Profil znajduje się opcja usuń konto. Usunięty numer GG wraca do puli numerów dostępnych dla nowych użytkowników.",
+        "domains": [
+            "www.gg.pl"
         ]
     },
 
@@ -2155,6 +2169,7 @@
         "url": "https://infibot.com/",
         "difficulty": "hard",
         "notes": "Email customer support. Requests are handled within 48 hours.",
+        "notes_pl": "Napisz mail do działu obsługi. Zgłoszenia są obsługiwane w ciągu 48 godzin.",
         "email": "customersupport@infibot.com",
         "domains": [
             "infibot.com"
@@ -2167,7 +2182,7 @@
         "difficulty": "impossible",
         "notes": "You can't delete your Ingress Account without deleting your entire Google Account.",
         "notes_de": "Sie können Ihren Ingress-Account nicht löschen ohne Ihren ganzen Google-Account zu löschen.",
-        "notes_pl": "Nie ma możliwosći usunięcia konta Ingress bez usuwania całego konta Google.",
+        "notes_pl": "Nie ma możliwości usunięcia konta Ingress bez usuwania całego konta Google.",
         "domains": [
             "ingress.com"
         ]
@@ -2582,7 +2597,7 @@
         "name": "League of Legends",
         "url": "https://support.leagueoflegends.com/entries/461131-Disabling-Your-Account",
         "difficulty": "impossible",
-        "notes": "Accounts may be disabled, but some data will be retained. E-mail support@riotgames.com with the subject  \"Account Deactivation\" and include your username, summoner name, server and email used when registering the account in your ticket",
+        "notes": "Accounts may be disabled, but some data will be retained. E-mail support@riotgames.com with the subject \"Account Deactivation\" and include your username, summoner name, server and email used when registering the account in your ticket",
         "email": "support@riotgames.com",
         "domains": [
             "support.leagueoflegends.com",
@@ -3695,7 +3710,7 @@
         "name": "RescueTime",
         "url": "https://www.rescuetime.com/settings",
         "difficulty": "easy",
-        "notes": "Use the 'Delete your account' link in the lower right-hand corner."
+        "notes": "Use the 'Delete your account' link in the lower right-hand corner.",
         "domains": [
             "rescuetime.com"
         ]
@@ -3705,7 +3720,7 @@
         "name": "Riffle",
         "url": "https://riffle.uservoice.com/knowledgebase/articles/244346-delete-your-account",
         "difficulty": "easy",
-        "notes": "On your profile page, click 'Edit Profile' and use the 'Cancel account' button."
+        "notes": "On your profile page, click 'Edit Profile' and use the 'Cancel account' button.",
         "domains": [
             "riffle.com"
         ]
@@ -4674,7 +4689,7 @@
         "notes_cat": "Des de l'aplicació: Settings → Account → Delete your account.",
         "notes_es": "Desde la aplicación: Settings → Account → Delete your account.",
         "domains": [
-            "whatsapp.com",
+            "whatsapp.com"
         ]
     },
 
