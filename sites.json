@@ -7,7 +7,6 @@
             "4shared.com"
         ]
     },
-    
 
     {
         "name": "500px",
@@ -1215,11 +1214,12 @@
             "ebay.com"
         ]
     },
+
     {
-	"name": "Edpuzzle",
-	"url": "edpuzzle.com",
-	"difficulty": "medium",
-	"notes": "click on the contrat popup on the bottom of the screen and fill out the form, an admin will email asking for your username and will then delete it"
+        "name": "Edpuzzle",
+        "url": "edpuzzle.com",
+        "difficulty": "medium",
+        "notes": "click on the contrat popup on the bottom of the screen and fill out the form, an admin will email asking for your username and will then delete it"
     },
 
     {
@@ -1250,7 +1250,7 @@
             "edx.org"
         ]
     },
-    
+
     {
         "name": "Elevate",
         "url": "http://elevateapp.com/",
@@ -1283,7 +1283,7 @@
             "endomondo.com"
         ]
     },
-    
+
     {
         "name": "Envato",
         "url": "https://help.market.envato.com/hc/en-us/articles/202500394-How-Do-I-Close-My-Account-",
@@ -1298,7 +1298,7 @@
             "graphicriver.net",
             "photodune.net",
             "3docean.net",
-            "activeden.net"            
+            "activeden.net"
         ]
     },
 
@@ -1475,7 +1475,7 @@
             "flixster.com"
         ]
     },
-    
+
     {
         "name": "Foodspotting",
         "url": "http://www.foodspotting.com/settings",
@@ -1562,7 +1562,7 @@
             "friendfeed.com"
         ]
     },
-    
+
     {
         "name": "Gadu-Gadu",
         "url": "http://www.gg.pl/pomoc/ustawienia-moje-konto-profil/",
@@ -1932,17 +1932,6 @@
     },
 
     {
-        "name": "GrubHub",
-        "url": "https://www.grubhub.com/legal/",
-        "difficulty": "hard",
-        "notes": "Privacy Policy Letter D: Account e-mail addresses cannot be deleted. However, an Account may be closed and GrubHub will cause the corresponding e-mail address to be scrambled.",
-        "email": "accounts@grubhub.com",
-        "domains": [
-            "grubhub.com"
-        ]
-    },
-
-    {
         "meta": "popular",
         "name": "Groupon",
         "url": "https://groupon.com/customer_support",
@@ -1951,6 +1940,17 @@
         "notes_fr": "Selon le politique de confidentialité de Groupon, vous devez contacter le support du site directement pour demander la suppresion de votre compte.",
         "domains": [
             "groupon.com"
+        ]
+    },
+
+    {
+        "name": "GrubHub",
+        "url": "https://www.grubhub.com/legal/",
+        "difficulty": "hard",
+        "notes": "Privacy Policy Letter D: Account e-mail addresses cannot be deleted. However, an Account may be closed and GrubHub will cause the corresponding e-mail address to be scrambled.",
+        "email": "accounts@grubhub.com",
+        "domains": [
+            "grubhub.com"
         ]
     },
 
@@ -2038,6 +2038,15 @@
     },
 
     {
+        "name": "Hi-Rez Studios",
+        "url": "https://hi-rez.custhelp.com/app/answers/detail/a_id/249/~/removing-your-account",
+        "difficulty": "impossible",
+        "domains": [
+            "hirezstudios.com"
+        ]
+    },
+
+    {
         "name": "Hi5",
         "url": "http://www.hi5.com/account_cancel.html",
         "difficulty": "easy",
@@ -2062,15 +2071,6 @@
         "difficulty": "easy",
         "domains": [
             "highbeam.com"
-        ]
-    },
-
-    {
-        "name": "Hi-Rez Studios",
-        "url": "https://hi-rez.custhelp.com/app/answers/detail/a_id/249/~/removing-your-account",
-        "difficulty": "impossible",
-        "domains": [
-            "hirezstudios.com"
         ]
     },
 
@@ -2128,7 +2128,7 @@
         "url": "https://huddle.zendesk.com/hc/en-us/articles/200124703-How-do-I-cancel-my-Huddle-account-",
         "difficulty": "hard",
         "domains": [
-            "huddle.com"    
+            "huddle.com"
         ]
     },
 
@@ -2474,7 +2474,7 @@
         ]
     },
 
-   {
+    {
         "name": "Jolla Account",
         "url": "https://account.jolla.com/profile/settings/confirm_delete_profile",
         "difficulty": "easy",
@@ -2822,15 +2822,6 @@
     },
 
     {
-        "name": "Lumosity",
-        "url": "https://www.lumosity.com/app/v4/settings/account_deletion/new",
-        "difficulty": "easy",
-        "domains": [
-            "lumosity.com"
-        ]
-    },
-
-    {
         "name": "LoseIt",
         "url": "http://www.loseit.com/#Settings:Account%20Information^Account%20Information",
         "difficulty": "easy",
@@ -2861,6 +2852,15 @@
         "difficulty": "easy",
         "domains": [
             "lumi.do"
+        ]
+    },
+
+    {
+        "name": "Lumosity",
+        "url": "https://www.lumosity.com/app/v4/settings/account_deletion/new",
+        "difficulty": "easy",
+        "domains": [
+            "lumosity.com"
         ]
     },
 
@@ -3102,7 +3102,7 @@
             "multiplay.com"
         ]
     },
-    
+
     {
         "name": "MusicBrainz",
         "url": "https://musicbrainz.org/account/edit",
@@ -3180,6 +3180,7 @@
             "nanowrimo.org"
         ]
     },
+
     {
         "name": "Nearpod",
         "url": "http://www.nearpod.com/contact/",
@@ -3511,7 +3512,7 @@
         ]
     },
 
-	{
+    {
         "name": "PCPartPicker",
         "url": "http://pcpartpicker.com/contact/",
         "difficulty": "hard",
@@ -3520,7 +3521,7 @@
             "pcpartpicker.com"
         ]
     },
-    
+
     {
         "name": "Peak",
         "url": "http://www.peak.net/",
@@ -3532,17 +3533,6 @@
         ]
     },
 
-	{
-		"name": "the perfect shave",
-		"url": "https://www.perfect-shave.de/einstellungen",
-		"difficulty": "easy",
-		"notes": "Click on 'Konto löschen' and then on 'Mein Konto jetzt unwiederruflich löschen'",
-		"notes_de": "Klicke auf 'Konto löschen' und dann auf 'Mein Konto jetzt unwiederruflich löschen",
-		"domains":  [
-			"perfect-shave.de"
-		]
-	},
-	
     {
         "name": "Personello Germany",
         "url": "http://de.personello.com/mypersonello/index/feedback",
@@ -3559,7 +3549,7 @@
             "phishtank.com"
         ]
     },
-    
+
     {
         "name": "Photobucket",
         "url": "http://s113.photobucket.com/settings/status#",
@@ -3582,7 +3572,7 @@
             "picasa.google.com"
         ]
     },
-    
+
     {
         "name": "Pinboard",
         "url": "https://pinboard.in/faq/#close_account",
@@ -3655,7 +3645,7 @@
         ]
     },
 
-	{
+    {
         "name": "Plex.tv",
         "url": "https://plex.tv/users/edit",
         "difficulty": "easy",
@@ -3664,7 +3654,7 @@
             "plex.tv"
         ]
     },
-	
+
     {
         "name": "Pocket",
         "url": "http://getpocket.com/account_deletion/",
@@ -3711,7 +3701,16 @@
             "postcrossing.com"
         ]
     },
-    
+
+    {
+        "name": "Potluck",
+        "url": "https://www.potluck.it/settings",
+        "difficulty": "easy",
+        "domains": [
+            "potluck.it"
+        ]
+    },
+
     {
         "name": "Prey",
         "url": "https://panel.preyproject.com/settings/account",
@@ -3720,15 +3719,6 @@
         "notes_fr": "Connectez-vous -> Cliquez sur « Need to close your account? » au bas de la page -> Confirmez la suppression de votre compte",
         "domains": [
             "https://preyproject.com/"
-        ]
-    },
-
-    {
-        "name": "Potluck",
-        "url": "https://www.potluck.it/settings",
-        "difficulty": "easy",
-        "domains": [
-            "potluck.it"
         ]
     },
 
@@ -3751,7 +3741,7 @@
             "pushover.net"
         ]
     },
-    
+
     {
         "name": "put.io",
         "url": "https://put.io/payment/billing",
@@ -3896,14 +3886,14 @@
             "rememberthemilk.com"
         ]
     },
-    
+
     {
-        "name": "Roblox",
-        "url": "https://en.help.roblox.com/hc/en-us/articles/203313050-How-Do-I-Delete-My-Account-",
-        "difficulty": "impossible",
-        "notes": "Not possible. 'We currently do not have a feature for players to delete their accounts. If you no longer wish to play on your account, it will remain inactive until you're ready to play again.'",
+        "name": "Replay Poker",
+        "url": "https://www.replaypoker.com/settings/deactivate",
+        "difficulty": "easy",
+        "notes": "Please enter a reason for deactivating your account and then click 'Deactivate' after you're finished.",
         "domains": [
-            "http://www.roblox.com/"
+            "replaypoker.com"
         ]
     },
 
@@ -3928,12 +3918,12 @@
     },
 
     {
-        "name": "Replay Poker",
-        "url": "https://www.replaypoker.com/settings/deactivate",
-        "difficulty": "easy",
-        "notes": "Please enter a reason for deactivating your account and then click 'Deactivate' after you're finished.",
+        "name": "Roblox",
+        "url": "https://en.help.roblox.com/hc/en-us/articles/203313050-How-Do-I-Delete-My-Account-",
+        "difficulty": "impossible",
+        "notes": "Not possible. 'We currently do not have a feature for players to delete their accounts. If you no longer wish to play on your account, it will remain inactive until you're ready to play again.'",
         "domains": [
-            "replaypoker.com"
+            "http://www.roblox.com/"
         ]
     },
 
@@ -3977,17 +3967,7 @@
             "runescape.com"
         ]
     },
-    
-    {
-        "name": "Runtastic",
-        "url": "https://help.runtastic.com/hc/en-us/articles/200370082-Delete-Account-Cancel-Membership",
-        "difficulty": "easy",
-        "notes": "To delete your account go to Runtastic.com & log in, click on the arrow on the right side of your user name, click on \"Settings\", click on \"Login Data\" on the left hand side, click on \"Delete my account\" at the bottom",
-        "domains": [
-            "runtastic.com"
-        ]
-    },
-    
+
     {
         "name": "RunKeeper",
         "url": "http://runkeeper.com/I-Love-RunKeeper",
@@ -3999,6 +3979,16 @@
         "notes_es": "Después de pulsar el botón, deberá entrar la contraseña y completar el 'captcha', pulsar otro botón y confirmar en la ventana de diálogo.",
         "domains": [
             "runkeeper.com"
+        ]
+    },
+
+    {
+        "name": "Runtastic",
+        "url": "https://help.runtastic.com/hc/en-us/articles/200370082-Delete-Account-Cancel-Membership",
+        "difficulty": "easy",
+        "notes": "To delete your account go to Runtastic.com & log in, click on the arrow on the right side of your user name, click on \"Settings\", click on \"Login Data\" on the left hand side, click on \"Delete my account\" at the bottom",
+        "domains": [
+            "runtastic.com"
         ]
     },
 
@@ -4056,16 +4046,6 @@
     },
 
     {
-        "name": "Shutterstock",
-        "url": "http://submit.shutterstock.com/privacy.mhtml",
-        "difficulty": "hard",
-        "notes": "If you wish to delete your account or request that we no longer use your information to provide you services contact us at Support@Shutterstock.com.",
-        "domains": [
-            "shutterstock.com"
-        ]
-    },
-
-    {
         "name": "showRSS",
         "url": "http://showrss.info/",
         "difficulty": "impossible",
@@ -4086,6 +4066,16 @@
         "notes_es": "Contacte con la asistencia al cliente por e-mail o chat y pida la supresión de la cuenta.",
         "domains": [
             "shutterfly.com"
+        ]
+    },
+
+    {
+        "name": "Shutterstock",
+        "url": "http://submit.shutterstock.com/privacy.mhtml",
+        "difficulty": "hard",
+        "notes": "If you wish to delete your account or request that we no longer use your information to provide you services contact us at Support@Shutterstock.com.",
+        "domains": [
+            "shutterstock.com"
         ]
     },
 
@@ -4144,7 +4134,7 @@
             "slack.com"
         ]
     },
-    
+
     {
         "name": "Slashdot",
         "url": "http://slashdot.org/faq/accounts.shtml",
@@ -4177,6 +4167,15 @@
     },
 
     {
+        "name": "SmartRecruiters",
+        "url": "http://help.smartrecruiters.com/customer/portal/articles/1498239-how-can-i-close-my-account-",
+        "difficulty": "difficult",
+        "domains": [
+            "smartrecruiters.com"
+        ]
+    },
+
+    {
         "name": "Snapchat",
         "url": "http://www.snapchat.com/a/delete_account",
         "difficulty": "easy",
@@ -4188,15 +4187,6 @@
         "notes_es": "Entre su nombre de usuario y contraseña y haga clic en 'Delete'.",
         "domains": [
             "snapchat.com"
-        ]
-    },
-
-    {
-        "name": "SmartRecruiters",
-        "url": "http://help.smartrecruiters.com/customer/portal/articles/1498239-how-can-i-close-my-account-",
-        "difficulty": "difficult",
-        "domains": [
-            "smartrecruiters.com"
         ]
     },
 
@@ -4233,7 +4223,7 @@
             "soundcloud.com"
         ]
     },
-    
+
     {
         "name": "soup.io",
         "url": "http://www.soup.io/about",
@@ -4241,7 +4231,7 @@
         "notes": "Put 'delete me' in the description box on your profile and mail team@soup.io with your soup URL and request a deletion",
         "notes_de": "Füge 'delete me' in die Beschreibungsbox auf deinem Profil ein und sende eine E-Mail an team@soup.io, die deine soup-URL und eine Löschaufforderung beinhalten.",
         "notes_fr": "Insère 'delete me' à la place pour la description à ton profil et envoie un e-mail à team@soup.io avec ton soup URL et une demande de suppression.",
-	    "email": "team@soup.io",
+        "email": "team@soup.io",
         "domains": [
             "http://www.soup.io/"
         ]
@@ -4545,6 +4535,17 @@
         "domains": [
             "support.ted.com",
             "ted.com"
+        ]
+    },
+
+    {
+        "name": "the perfect shave",
+        "url": "https://www.perfect-shave.de/einstellungen",
+        "difficulty": "easy",
+        "notes": "Click on 'Konto löschen' and then on 'Mein Konto jetzt unwiederruflich löschen'",
+        "notes_de": "Klicke auf 'Konto löschen' und dann auf 'Mein Konto jetzt unwiederruflich löschen",
+        "domains": [
+            "perfect-shave.de"
         ]
     },
 
@@ -4971,7 +4972,7 @@
         ]
     },
 
-{
+    {
         "name": "Wix",
         "url": "http://www.wix.com/support/html5/billing/premium-plans/faq/cancel-account-20",
         "difficulty": "easy",
@@ -5115,10 +5116,9 @@
         "url": "https://support.google.com/youtube/answer/55759",
         "difficulty": "impossible",
         "notes": "You can't delete your YouTube account without deleting your entire Google Account. But you can delete your channel.",
-        "notes_fr": "Vous ne pouvez pas supprimer votre compte YouTube sans supprimer votre compte Google. Cela dit, vous pouvez supprimer votre chaîne.",
+        "notes_fr": "Vous ne pouvez pas supprimer votre compte Youtube sans supprimer votre compte Google. Mais vous pouvez supprimer votre chaîne.",
         "notes_it": "Non puoi eliminare il tuoi account di YouTube senza eliminare anche il tuo account Google. Ma puoi eliminare il tuo canale.",
         "notes_cat": "No pots esborrar el teu compte de Youtube sense borrar tot el compte de Google, però pots borrar el teu canal.",
-        "notes_fr": "Vous ne pouvez pas supprimer votre compte Youtube sans supprimer votre compte Google. Mais vous pouvez supprimer votre chaîne.",
         "notes_es": "No puedes borrar tu cuenta de Youtube sin borrar toda la cuenta de Google, pero puedes borrar tu canal.",
         "notes_pl": "Nie ma możliwosći usunięcia konta w usłudze YouTube bez usuwania całego konta Google. Możesz jedynie usunąć swój kanał.",
         "domains": [

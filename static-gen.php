@@ -88,7 +88,7 @@
 			$full_name = "Polski";
 		}
 		if ($lang == 'sk') {
-			$full_name = "Slovakian";
+			$full_name = "Slovak";
 		}
 		if ($lang == 'sr') {
 			$full_name = "српски";
