@@ -62,6 +62,7 @@
         "notes_cat": "S'ha de posar en cotacte amb ells. Mitjançant telèfon o e-mail.",
         "notes_es": "Se tiene que poner en contacto con ellos. Mediante teléfono o e-mail.",
         "notes_pl": "Możesz zadzwonić lub wysłać email z prośbą o usunięcie konta.",
+        "notes_ar": "يجب عليك أن تتصل بهم لكي تحذف حسابك او أن ترسل لهم بريد الكتروني",
         "domains": [
             "learn.adobe.com",
             "adobe.com"
