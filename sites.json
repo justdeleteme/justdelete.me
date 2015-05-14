@@ -3231,6 +3231,16 @@
         ]
     },
 
+	{
+        "name": "Plex.tv",
+        "url": "https://plex.tv/users/edit",
+        "difficulty": "easy",
+        "notes": "Under 'Danger Zone', click 'Delete your account'.",
+        "domains": [
+            "plex.tv"
+        ]
+    },
+	
     {
         "name": "Pocket",
         "url": "http://getpocket.com/account_deletion/",
