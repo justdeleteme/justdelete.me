@@ -3734,6 +3734,15 @@
     },
 
     {
+        "name": "SmartRecruiters",
+        "url": "http://help.smartrecruiters.com/customer/portal/articles/1498239-how-can-i-close-my-account-",
+        "difficulty": "difficult",
+        "domains": [
+            "smartrecruiters.com"
+        ]
+    },
+
+    {
         "name": "Songkick",
         "url": "http://www.songkick.com/settings/account-settings",
         "difficulty": "easy",
