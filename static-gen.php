@@ -17,7 +17,8 @@
 		'zh-cn',
 		'zh-tw',
 		'ro',
-		'pl'
+		'pl',
+		'sk'
 	);
 
 	include 'contrib.php';

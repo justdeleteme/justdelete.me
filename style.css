@@ -729,6 +729,7 @@ footer a:hover, .info-container a:hover {
 .dropdown .ro A, .ro A { background-image: url(inc/icons/flags/ro16.png); }
 .dropdown .pl A, .pl A { background-image: url(inc/icons/flags/pl16.png); }
 .dropdown .zh-tw A, .zh-tw A { background-image: url(inc/icons/flags/tw16.png); }
+.dropdown .sk A, .sk A { background-image: url(inc/icons/flags/sk16.png); }
 
 #en { 
 	background-image: url(./inc/icons/flags/en24.png);
@@ -834,6 +835,12 @@ footer a:hover, .info-container a:hover {
 
 #pl {
 	background-image: url(./inc/icons/flags/pl24.png);
+	background-repeat:no-repeat;
+	background-position: left center;
+}
+
+#sk {
+	background-image: url(./inc/icons/flags/sk24.png);
 	background-repeat:no-repeat;
 	background-position: left center;
 }
