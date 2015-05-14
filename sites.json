@@ -3476,7 +3476,7 @@
         "name": "put.io",
         "url": "https://put.io/payment/billing",
         "difficulty": "easy",
-        "notes": "Click Destroy my account completely, then click Delete everything."
+        "notes": "Click Destroy my account completely, then click Delete everything.",
         "domains": [
             "put.io"
         ]
