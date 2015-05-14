@@ -4412,6 +4412,16 @@
     },
 
     {
+        "name": "WolframAlpha.com",
+        "url": "http://www.wolframalpha.com/fbfaqs.html",
+        "difficulty": "hard",
+        "notes": "For the immediate future, send a message to info@wolframalpha.com, and your Wolfram ID will be deleted manually.",
+        "domains": [
+            "wolframalpha.com"
+        ]
+    },
+
+    {
         "meta": "popular",
         "name": "WordPress.com",
         "url": "http://en.support.wordpress.com/deleting-accounts/",
