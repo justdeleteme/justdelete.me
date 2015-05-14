@@ -1771,6 +1771,17 @@
     },
 
     {
+        "name": "GrubHub",
+        "url": "https://www.grubhub.com/legal/",
+        "difficulty": "hard",
+        "notes": "Privacy Policy Letter D: Account e-mail addresses cannot be deleted. However, an Account may be closed and GrubHub will cause the corresponding e-mail address to be scrambled.",
+        "email": "accounts@grubhub.com",
+        "domains": [
+            "grubhub.com"
+        ]
+    },
+
+    {
         "meta": "popular",
         "name": "Groupon",
         "url": "https://groupon.com/customer_support",
@@ -2424,6 +2435,17 @@
         "difficulty": "easy",
         "domains": [
             "koding.com"
+        ]
+    },
+
+    {
+        "name": "Kongregate",
+        "url": "http://www.kongregate.com/forums/7/topics/241772?page=1#posts-5207538",
+        "difficulty": "hard",
+        "notes": "You are unable to remove an account, but they can permanently ban your account upon request. They will remove stored information upon request as well, such as e-mail address, developer payment information, and stored payment information.",
+        "email": "support@kongregate.com",
+        "domains": [
+            "kongregate.com"
         ]
     },
 
@@ -4696,6 +4718,17 @@
         "domains": [
             "my.zurker.com",
             "zurker.com"
+        ]
+    },
+
+    {
+        "name": "Zynga",
+        "url": "https://zynga.com/privacy/faqs",
+        "difficulty": "hard",
+        "notes": "Place Delete My Account in the subject line and include your first name, last name, e-mail address and user ID number for the SNS from which you access our games (if applicable) in the body of the e-mail.",
+        "email": "mailto:privacy@zynga.com?subject=Delete My Account",
+        "domains": [
+            "zynga.com",
         ]
     }
 ]
