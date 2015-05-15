@@ -155,6 +155,7 @@
         "difficulty": "easy",
         "notes": "You must login before visiting the link.",
         "notes_fr": "Il faut que vous vous connectez avant d'utiliser le lien.",
+        "notes_pl": "Musisz się zalogować przed wejściem w link.",
         "domains": [
             "portal.aws.amazon.com",
             "amazon.com"
