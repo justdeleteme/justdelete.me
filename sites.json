@@ -1023,6 +1023,7 @@
         "url": "https://cloud.digitalocean.com/settings/account",
         "difficulty": "easy",
         "notes": "Check the \"Deactivate Account\" box in the settings.",
+        "notes_pl": "Zaznacz pole \"Deactivate Account\" w ustawieniach.",
         "domains": [
             "digitalocean.com"
         ]
