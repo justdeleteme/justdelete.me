@@ -4917,6 +4917,17 @@
     },
 
     {
+        "name": "WhatPulse",
+        "url": "http://whatpulse.org/my/#home",
+        "difficulty": "easy",
+        "notes": "When logged into the website, select \"My WhatPulse\" from the navigation bar, then click \"Unregister from WhatPulse\" towards the bottom of the page. This will permanently delete the account.",
+        "notes_es": "Logeados en el sitio web, seleccione \"Mi whatpulse\" de la barra de navegación, haga clic en \"Unregister from WhatPulse\" hacia la parte inferior de la página. Esto eliminará permanentemente la cuenta.",
+        "domains": [
+            "whatpulse.org"
+        ]
+    },
+    
+    {
         "name": "WhatsApp",
         "url": "https://www.whatsapp.com/faq/search/?q=how%20do%20I%20delete%20my%20account?&p=desktop",
         "difficulty": "medium",
