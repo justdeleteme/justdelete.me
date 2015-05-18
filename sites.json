@@ -1390,6 +1390,15 @@
     },
 
     {
+        "name": "Facile.it",
+        "url": "https://www.facile.it/cancellazione/",
+        "difficulty": "easy",
+        "domains": [
+            "facile.it"
+        ]
+    },
+
+    {
         "name": "Feedly",
         "url": "https://feedly.com/#erase",
         "difficulty": "easy",
