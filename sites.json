@@ -3434,6 +3434,17 @@
     },
 
     {
+        "name": "Pantheon",
+        "url": "https://dashboard.pantheon.io/#account/delete/Delete",
+        "difficulty": "easy",
+        "notes": "In order to delete an account, you first have to delete all active Sites, or transfer the ownership.",
+        "notes_de": "Um den Account löschen zu können, müssen Sie zunächst alle aktiven Webseiten löschen, oder diese an jemand anderen übertragen.",
+        "domains": [
+            "pantheon.io"
+        ]
+    },
+
+    {
         "name": "Parkmobile",
         "url": "https://parkmobile.zendesk.com/hc/en-us/articles/203299300-How-do-I-cancel-my-account-",
         "difficulty": "hard",
