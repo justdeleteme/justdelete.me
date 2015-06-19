@@ -681,7 +681,9 @@
     {
         "name": "CloudApp",
         "url": "http://my.cl.ly/account/delete",
-        "difficulty": "easy",
+        "email": "support@getcloudapp.com",
+        "difficulty": "hard",
+        "notes": "The site claims that you must call their support line (888-988-5036, ext 1), but they deactivated my account over email.",
         "domains": [
             "my.cl.ly",
             "cl.ly"
