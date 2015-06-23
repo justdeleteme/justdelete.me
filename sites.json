@@ -1657,6 +1657,18 @@
             "groundspeak.com"
         ]
     },
+	
+	{
+        "name": "GFace",
+        "url": "https://crytek.kayako.com/Tickets/Submit",
+        "difficulty": "hard",
+        "notes": "You can't delete your account without contacting them. You must submit a ticket and set the subject to 'Delete Account'",
+        "notes_de": "Sie können Ihren Account nicht löschen ohne den Support zu kontaktieren. Sie müssen ein Ticket eröffnen und den Betreff auf 'Delete Account' setzen.",
+        "domains": [
+            "gface.com",
+			"crytek.kayako.com"
+        ]
+    },
 
     {
         "name": "ghash.io",
