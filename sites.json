@@ -4189,8 +4189,20 @@
             "snapchat.com"
         ]
     },
-
-    {
+    
+	{
+        "name": "Soluto",
+        "url": "https://support.soluto.com/requests/new",
+        "difficulty": "hard",
+		"notes": "You need to create a support ticket and set the subject to Delete Account.",
+		"notes_de": "Du musst ein Support Ticket erstellen und den Betreff zu Delete Account setzen.",
+        "domains": [
+            "soluto.com",
+			"support.soluto.com"
+        ]
+    },
+	
+	{
         "name": "Songkick",
         "url": "http://www.songkick.com/settings/account-settings",
         "difficulty": "easy",
