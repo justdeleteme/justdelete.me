@@ -2880,7 +2880,18 @@
             "mailchimp.com"
         ]
     },
-
+	
+	{
+        "name": "Mapbox",
+        "url": "https://www.mapbox.com/account/billing/",
+        "difficulty": "easy",
+        "notes": "Enter Password -> Scroll to bottom -> Click 'Delete Account'",
+		"notes_de": "Passwort eingeben -> An das Ende der Seite scrollen -> 'Delete Account' klicken",
+        "domains": [
+            "mapbox.com",
+        ]
+    },
+	
     {
         "meta": "popular",
         "name": "Match",
