@@ -1999,6 +1999,16 @@
             "jacquesmattheij.com"
         ]
     },
+	
+		{
+        "name": "hackpad",
+        "difficulty": "easy",
+        "notes": "Your account can be easily deleted in account settings. Click "Leave hackpad".",
+        "notes_de": "Dein Account kann ganz leicht von den Account Einstellungen aus gelöscht werden. Klicke einfach auf "Leave hackpad".",
+        "domains": [
+            "hackpad.com"
+        ]
+    },
 
     {
         "name": "HelloFax",
