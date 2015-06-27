@@ -9,6 +9,16 @@
     },
 
     {
+        "name": "TinyDeal",
+        "url": "http://help.tinydeal.com/contact-us",
+        "difficulty": "hard",
+        "notes": "Contact customer service in order to get your account deleted.",
+        "domains": [
+            "tinydeal.com"
+        ]
+    },
+
+    {
         "name": "500px",
         "url": "https://500px.com/settings",
         "difficulty": "easy",
