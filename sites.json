@@ -265,6 +265,17 @@
             "audiomack.com"
         ]
     },
+    
+    {
+        "name": "Awdio.com",
+        "url": "http://www.awdio.com/pages/privacy-policy",
+        "difficulty": "hard",
+        "notes": "Remove all songs from your account, then request deletion by emailing customer services.",
+        "email": "support@awdio.com",
+        "domains": [
+            "awdio.com"
+        ]
+    },
 
     {
         "name": "Backblaze",
