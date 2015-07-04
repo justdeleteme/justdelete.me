@@ -353,6 +353,16 @@
     },
 
     {
+        "name": "Beamly",
+        "url": "http://au.beamly.com/account/delete",
+        "difficulty": "easy",
+        "notes": "To delete your account, login and then next to your name select the drop down and go to 'Settings' once there scroll to the bottom of the page and select 'delete your account'.",
+        "domains": [
+            "beamly.com"
+        ]
+    },
+
+    {
         "name": "Behance",
         "url": "http://www.behance.net/account/privacy",
         "difficulty": "easy",
