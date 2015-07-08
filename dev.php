@@ -325,8 +325,9 @@
 	        <li class="id"><a href="id.html">Indonesia</a></li>
 	        <li class="ro"><a href="ro.html">Român</a></li>
 	        <li class="pl"><a href="pl.html">Polski</a></li>
-	        <li class="dropdown-divider"></li>
-	        <li class="help"><a target="_blank" href="https://github.com/rmlewisuk/justdelete.me/issues/164"><?php echo $help_translate; ?></a></li>
+	        <li class="sk"><a href="sk.html">Slovenčina</a></li>
+	        <li class="sr"><a href="sr.html">српски</a></li>
+	        <!-- <li class="dropdown-divider"></li> -->
 	    </ul>
 	</div>
 
