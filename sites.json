@@ -4564,6 +4564,16 @@
     },
 
     {
+	"name": "Todoist",
+	"url": "https://www.todoist.com/settings",
+	"difficulty": "easy",
+	"notes": "At the bottom of the page is a delete account buttom, after clicking on it, you will need to re-enter your password.",
+	"domains": [
+	    "todoist.com"
+	]
+    },
+
+    {
         "name": "Topcoder",
         "url": "http://www.topcoder.com/help/p=636/",
         "difficulty": "hard",
