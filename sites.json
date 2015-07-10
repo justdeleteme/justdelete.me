@@ -2931,6 +2931,16 @@
     },
 
     {
+        "name": "Memrise",
+        "url": "http://www.memrise.com/settings/deactivate/",
+        "difficulty": "easy",
+        "notes": "A 'Delete my account' button is available from your account settings page.",
+        "domains": [
+            "memrise.com"
+        ]
+    },
+    
+    {
         "name": "MePergunte",
         "url": "http://mepergunte.com/perfil/configuracoes/excluir/",
         "difficulty": "easy",
