@@ -22,7 +22,7 @@ The sites, urls and additional notes are stored in `sites.json`. If you want to 
 4. Any steps for the process should be detailed in the notes (if necessary).
 5. Be sure to indent 4 spaces per level.
 6. Be sure to place your entry ALPHABETICALLY in the current list.
-7. Please test that your changes work by going to `localhost` or `localhost/index.php`
+7. Please test that your changes work by going to `localhost/dev.php` (tip: use `php -S localhost:80 -t justdelete.me/` to serve the repo directory).
 
 ##Translation
 
