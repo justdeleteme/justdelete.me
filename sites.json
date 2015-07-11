@@ -4239,7 +4239,7 @@
 
     {
         "name": "SourceForge",
-        "url": "https://sourceforge.net/account/remove",
+        "url": "https://sourceforge.net/auth/disable/",
         "difficulty": "medium",
         "notes": "Data created by the user such as posts and tickets will remain and be attributed to the account, even if deleted. The username will not become available.",
         "notes_fr": "Les données crées par l'utilisateur resteront, même après la suppression du compte. Le pseudo ne devient pas disponbile.",
