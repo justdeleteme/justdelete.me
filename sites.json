@@ -870,6 +870,16 @@
     },
 
     {
+        "name": "CryptFolio",
+        "url": "https://cryptfolio.com/",
+        "difficulty": "easy",
+        "notes": "Log into your User Profile and visit the Delete Account tab.",
+        "domains": [
+            "cryptfolio.com"
+        ]
+    },
+
+    {
         "name": "Daily Mile",
         "url": "http://www.dailymile.com/account/settings/edit",
         "difficulty": "easy",
