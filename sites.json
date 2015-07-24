@@ -1217,7 +1217,7 @@
 
     {
         "name": "Edpuzzle",
-        "url": "edpuzzle.com",
+        "url": "https://edpuzzle.com",
         "difficulty": "medium",
         "notes": "click on the contrat popup on the bottom of the screen and fill out the form, an admin will email asking for your username and will then delete it"
     },
@@ -2278,11 +2278,9 @@
 
     {
         "name": "Ingress",
-        "url": "https://www.ingress.com",
-        "difficulty": "impossible",
-        "notes": "You can't delete your Ingress Account without deleting your entire Google Account.",
-        "notes_de": "Sie können Ihren Ingress-Account nicht löschen ohne Ihren ganzen Google-Account zu löschen.",
-        "notes_pl": "Nie ma możliwości usunięcia konta Ingress bez usuwania całego konta Google.",
+        "url": "https://support.google.com/ingress/answer/2870382",
+        "difficulty": "hard",
+        "notes": "You need to fill in the form linked in the support article by clicking "contact us". Fill in your email address, agent name, device you play on and submit the form.",
         "domains": [
             "ingress.com"
         ]
