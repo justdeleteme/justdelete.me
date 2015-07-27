@@ -2791,6 +2791,13 @@
     },
 
     {
+        "name": "Linsensuppe",
+        "url": "https://www.linsensuppe.de",
+        "difficulty": "impossible",
+        "notes": "One cannot even change the password"
+    },
+
+    {
         "name": "Linuxcounter",
         "url": "https://linuxcounter.net/deleteaccount/profile.html",
         "difficulty": "easy",
