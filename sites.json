@@ -5169,7 +5169,7 @@
         "url": "https://zynga.com/privacy/faqs",
         "difficulty": "hard",
         "notes": "Place Delete My Account in the subject line and include your first name, last name, e-mail address and user ID number for the SNS from which you access our games (if applicable) in the body of the e-mail.",
-        "email": "mailto:privacy@zynga.com?subject=Delete My Account",
+        "email": "privacy@zynga.com?subject=Delete My Account",
         "domains": [
             "zynga.com"
         ]
