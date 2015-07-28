@@ -4460,6 +4460,16 @@
     },
 
     {
+        "name": "Simplifyd",
+        "url": "https://app.simplifyd.io/#/settings",
+        "difficulty": "easy",
+        "notes": "Click on the 'Close Account' button, and then push ok. Account deleted within 5 days",
+        "domains": [
+            "simplifyd.io"
+        ]
+    },
+
+    {
         "name": "SurveyMonkey",
         "url": "http://help.surveymonkey.com/contact-us",
         "difficulty": "medium",
