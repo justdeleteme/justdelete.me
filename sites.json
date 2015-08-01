@@ -923,10 +923,10 @@
 
     {
         "name": "Delta Airlines (SkyMiles)",
-        "url": "http://www.delta.com/content/www/en_US/support/talk-to-us/skymiles.html",
-        "difficulty": "hard",
-        "notes": "You cannot delete your Delta Skymiles account online.  You must contact them by mail in order to delete your account.",
-        "notes_fr": "Vouz ne pouvez pas supprimer votre compte Delta Skymiles en ligne. Il faut que vous les contacter par la poste pour supprimer votre compte.",
+        "url": "http://www.delta.com/contactus/pages/comment_complaint/index.jsp",
+        "difficulty": "medium",
+        "notes": "You can not delete your account on the site. You must use the linked form. Then select SkyMiles → Update SkyMiles Account and request them to close your account.",
+        "notes_fr": "Vous ne pouvez pas supprimer votre compte sur le site. Vous devez utiliser le formulaire lié. Ensuite, sélectionnez SkyMiles → Mise à jour compte SkyMiles et de leur demander de fermer votre compte.",
         "domains": [
             "delta.com"
         ]
