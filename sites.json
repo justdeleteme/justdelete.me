@@ -2327,7 +2327,7 @@
     {
         "meta": "popular",
         "name": "Instagram",
-        "url": "https://instagram.com/accounts/remove/request",
+        "url": "https://instagram.com/accounts/remove/request/permanent/",
         "difficulty": "easy",
         "domains": [
             "instagram.com"
