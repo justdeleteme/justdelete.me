@@ -256,6 +256,16 @@
             "assembla.com"
         ]
     },
+    
+    {
+        "name": "Avast!",
+        "url": "https://my.avast.com",
+        "difficulty": "easy",
+        "notes": "Login, go to \"Profile Details\" tab, and simply click on the \"Delete Account\" button.",
+        "domains": [
+            "assembla.com"
+        ]
+    },
 
     {
         "name": "Backblaze",
@@ -2073,6 +2083,16 @@
             "highbeam.com"
         ]
     },
+    
+    {
+        "name": "hitbox",
+        "url": "http://help.hitbox.tv/customer/portal/emails/new",
+        "difficulty": "hard",
+        "notes": "You have to send an email to the support team asking for deletion of your account. Your account will be added to a list of accounts for deletion, and it may take some time before it has actually been deleted.",
+        "domains": [
+            "hitbox.tv"
+        ]
+    },
 
     {
         "name": "HOL Virtual Hogwarts",
@@ -2993,7 +3013,17 @@
             "mixcloud.com"
         ]
     },
-
+    
+    {
+        "name": "Mixlr",
+        "url": "http://mixlr.com/settings/account/delete/",
+        "difficulty": "easy",
+        "notes": "Login to your account, go to account section of the settings page and choose the \"delete account\" option.",
+        "domains": [
+            "mixlr.com"
+        ]
+    },
+    
     {
         "name": "Mobify",
         "url": "http://www.mobify.com/contact/",
