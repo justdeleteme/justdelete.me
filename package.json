@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "del": "^1.2.1",
+    "gulp-rename": "*",
+    "del": "*",
+    "gulp-swig": "*",
+    "gulp-data": "*"
+  }
+}
