@@ -126,11 +126,13 @@ $(function(){
     // Banner scroll to bottom
 
     $('.banner').click(function(e) {
+        e.preventDefault();
      $('body').scrollTo('.banner-block');
     });
 
     $('.info').click(function(e) {
-     $('body').scrollTo('.info-block');
+        e.preventDefault();
+     $('body').scrollTo('.about');
     });
 
     // create the keys and konami variables
