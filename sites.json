@@ -5173,5 +5173,14 @@
         "domains": [
             "zynga.com"
         ]
+    },
+    {
+        "name": "Telegram",
+        "url": "https://telegram.org/deactivate",
+        "difficulty": "easy",
+        "notes": "Open deactivation page. Enter your phone number and one time password sent to your Telegram account. Delete your account then.",
+        "domains": [
+            "telegram.org"
+        ]
     }
 ]
