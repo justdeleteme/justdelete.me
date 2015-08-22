@@ -4661,7 +4661,7 @@
 
     {
         "name": "Twitch",
-        "url": "http://www.twitch.tv/user/close_account",
+        "url": "https://secure.twitch.tv/user/disable_account",
         "difficulty": "easy",
         "domains": [
             "twitch.tv"
