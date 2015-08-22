@@ -9,16 +9,6 @@
     },
 
     {
-        "name": "TinyDeal",
-        "url": "http://help.tinydeal.com/contact-us",
-        "difficulty": "hard",
-        "notes": "Contact customer service in order to get your account deleted.",
-        "domains": [
-            "tinydeal.com"
-        ]
-    },
-
-    {
         "name": "500px",
         "url": "https://500px.com/settings",
         "difficulty": "easy",
@@ -76,16 +66,6 @@
         "domains": [
             "learn.adobe.com",
             "adobe.com"
-        ]
-    },
-
-    {
-        "name": "Asense",
-        "url": "http://adsense.google.com",
-        "difficulty": "impossible",
-        "notes": "Best solution is to invite a fake account to have admin privileges, then log in as the fake account and revoke permission from yourself",
-        "domains": [
-            "adsense.google.com"
         ]
     },
 
@@ -284,24 +264,13 @@
             "assembla.com"
         ]
     },
-    
+
     {
         "name": "Audiomack",
         "url": "http://www.audiomack.com/manage",
         "difficulty": "easy",
         "domains": [
             "audiomack.com"
-        ]
-    },
-    
-    {
-        "name": "Awdio.com",
-        "url": "http://www.awdio.com/pages/privacy-policy",
-        "difficulty": "hard",
-        "notes": "Remove all songs from your account, then request deletion by emailing customer services.",
-        "email": "support@awdio.com",
-        "domains": [
-            "awdio.com"
         ]
     },
 
@@ -331,6 +300,7 @@
             "autoscout24.net"
         ]
     },
+
     {
         "name": "Avast!",
         "url": "https://my.avast.com",
@@ -338,6 +308,17 @@
         "notes": "Login, go to \"Profile Details\" tab, and simply click on the \"Delete Account\" button.",
         "domains": [
             "assembla.com"
+        ]
+    },
+
+    {
+        "name": "Awdio.com",
+        "url": "http://www.awdio.com/pages/privacy-policy",
+        "difficulty": "hard",
+        "notes": "Remove all songs from your account, then request deletion by emailing customer services.",
+        "email": "support@awdio.com",
+        "domains": [
+            "awdio.com"
         ]
     },
 
@@ -437,15 +418,6 @@
     },
 
     {
-        "name": "Beamly",
-        "url": "http://au.beamly.com/account/delete",
-        "difficulty": "easy",
-        "notes": "To delete your account, login and then next to your name select the drop down and go to 'Settings' once there scroll to the bottom of the page and select 'delete your account'.",
-        "domains": [
-            "beamly.com"
-        ]
-    },
-    {
         "name": "Beam",
         "url": "https://beam.pro/legal/privacy",
         "difficulty": "hard",
@@ -453,6 +425,16 @@
         "email": "support@beam.pro",
         "domains": [
             "beam.pro"
+        ]
+    },
+
+    {
+        "name": "Beamly",
+        "url": "http://au.beamly.com/account/delete",
+        "difficulty": "easy",
+        "notes": "To delete your account, login and then next to your name select the drop down and go to 'Settings' once there scroll to the bottom of the page and select 'delete your account'.",
+        "domains": [
+            "beamly.com"
         ]
     },
 
@@ -980,7 +962,7 @@
             "creditexpert.co.uk"
         ]
     },
-    
+
     {
         "name": "Crushee",
         "url": "http://www.crushee.com/pages/faq",
@@ -1336,6 +1318,7 @@
             "easel.io"
         ]
     },
+
     {
         "meta": "popular",
         "name": "eBay",
@@ -1819,7 +1802,7 @@
             "groundspeak.com"
         ]
     },
-    
+
     {
         "name": "GFace",
         "url": "https://crytek.kayako.com/Tickets/Submit",
@@ -1855,7 +1838,6 @@
             "giantbomb.com"
         ]
     },
-
 
     {
         "name": "GitHub",
@@ -2191,8 +2173,8 @@
             "jacquesmattheij.com"
         ]
     },
-    
-        {
+
+    {
         "name": "hackpad",
         "difficulty": "easy",
         "notes": "Your account can be easily deleted in account settings. Click \"Leave hackpad\".",
@@ -2275,7 +2257,7 @@
             "highbeam.com"
         ]
     },
-    
+
     {
         "name": "hitbox",
         "url": "http://help.hitbox.tv/customer/portal/emails/new",
@@ -3097,7 +3079,7 @@
             "mailchimp.com"
         ]
     },
-    
+
     {
         "name": "Mapbox",
         "url": "https://www.mapbox.com/account/billing/",
@@ -3108,7 +3090,7 @@
             "mapbox.com"
         ]
     },
-    
+
     {
         "meta": "popular",
         "name": "Match",
@@ -3167,7 +3149,7 @@
             "memrise.com"
         ]
     },
-    
+
     {
         "name": "MePergunte",
         "url": "http://mepergunte.com/perfil/configuracoes/excluir/",
@@ -3217,7 +3199,6 @@
         "email": "support@mister-wong.de",
         "difficulty": "hard",
         "notes": "You need to send an email to support and it may take up to 48 hours to process your request.",
-        "notes_de": "Sie müssen eine E-Mail an den Support senden. Es kann bis zu 48 Stunden brauchen Ihre Anfrage zu bearbeiten.",
         "domains": [
             "mister-wong.de"
         ]
@@ -3229,10 +3210,12 @@
         "email": "support@mister-wong.de",
         "difficulty": "hard",
         "notes": "You need to send an email to support and it may take up to 48 hours to process your request.",
+        "notes_de": "Sie müssen eine E-Mail an den Support senden. Es kann bis zu 48 Stunden brauchen Ihre Anfrage zu bearbeiten.",
         "domains": [
             "mister-wong.de"
         ]
     },
+
     {
         "name": "MixCloud",
         "url": "http://www.mixcloud.com/myaccount/account/",
@@ -3241,7 +3224,7 @@
             "mixcloud.com"
         ]
     },
-    
+
     {
         "name": "Mixlr",
         "url": "http://mixlr.com/settings/account/delete/",
@@ -3251,7 +3234,7 @@
             "mixlr.com"
         ]
     },
-    
+
     {
         "name": "Mobify",
         "url": "http://www.mobify.com/contact/",
@@ -3793,7 +3776,7 @@
             "http://www.peak.net/"
         ]
     },
-    
+
     {
         "name": "Penflip",
         "url": "https://www.penflip.com/profile/account",
@@ -3804,7 +3787,7 @@
             "penflip.com"
         ]
     },
-    
+
     {
         "name": "Personello Germany",
         "url": "http://de.personello.com/mypersonello/index/feedback",
@@ -4476,7 +4459,7 @@
             "snapchat.com"
         ]
     },
-    
+
     {
         "name": "Soluto",
         "url": "https://support.soluto.com/requests/new",
@@ -4488,7 +4471,7 @@
             "support.soluto.com"
         ]
     },
-    
+
     {
         "name": "Songkick",
         "url": "http://www.songkick.com/settings/account-settings",
@@ -4884,13 +4867,23 @@
     },
 
     {
-    "name": "Todoist",
-    "url": "https://www.todoist.com/settings",
-    "difficulty": "easy",
-    "notes": "At the bottom of the page is a delete account buttom, after clicking on it, you will need to re-enter your password.",
-    "domains": [
-        "todoist.com"
-    ]
+        "name": "TinyDeal",
+        "url": "http://help.tinydeal.com/contact-us",
+        "difficulty": "hard",
+        "notes": "Contact customer service in order to get your account deleted.",
+        "domains": [
+            "tinydeal.com"
+        ]
+    },
+
+    {
+        "name": "Todoist",
+        "url": "https://www.todoist.com/settings",
+        "difficulty": "easy",
+        "notes": "At the bottom of the page is a delete account buttom, after clicking on it, you will need to re-enter your password.",
+        "domains": [
+            "todoist.com"
+        ]
     },
 
     {
@@ -5247,6 +5240,16 @@
     },
 
     {
+        "name": "Western Union",
+        "url": "https://thewesternunion.custhelp.com/app/answers/detail/a_id/116/~/how-do-i-cancel-my-western-union-account%2Fprofile%3F",
+        "difficulty": "hard",
+        "domains": [
+            "westernunion.ch",
+            "westernunion.com"
+        ]
+    },
+
+    {
         "name": "WhatPulse",
         "url": "http://whatpulse.org/my/#home",
         "difficulty": "easy",
@@ -5256,7 +5259,7 @@
             "whatpulse.org"
         ]
     },
-    
+
     {
         "name": "WhatsApp",
         "url": "https://www.whatsapp.com/faq/search/?q=how%20do%20I%20delete%20my%20account?&p=desktop",
@@ -5515,15 +5518,6 @@
         "email": "privacy@zynga.com?subject=Delete My Account",
         "domains": [
             "zynga.com"
-        ]
-    },
-    {
-        "name": "Western Union",
-        "url": "https://thewesternunion.custhelp.com/app/answers/detail/a_id/116/~/how-do-i-cancel-my-western-union-account%2Fprofile%3F",
-        "difficulty": "hard",
-        "domains": [
-            "westernunion.ch",
-            "westernunion.com"
         ]
     }
 ]
