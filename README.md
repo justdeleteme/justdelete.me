@@ -3,6 +3,8 @@ JustDelete.me
 
 A directory of direct links to delete your account from web services.
 
+[![Deployment status from DeployBot](https://rmlewisuk.deploybot.com/badge/66802254013140/42527.svg)](http://deploybot.com)
+
 #Contributing
 
 The sites, urls and additional notes are stored in `sites.json`. If you want to add a site to the list you'll need the following information:
