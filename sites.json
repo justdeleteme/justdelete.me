@@ -220,6 +220,15 @@
             "argylesocial.com"
         ]
     },
+    
+    {
+        "name": "ArmorGames",
+        "url": "http://armorgames.com/settings/delete-account",
+        "difficulty": "easy",
+        "domains": [
+            "armorgames.com"
+        ]
+    },
 
     {
         "name": "Artsy",
@@ -1696,6 +1705,16 @@
         "notes_pl": "/msg NickServ DROP nick hasło",
         "domains": [
             "ezcrypt.it"
+        ]
+    },
+    
+    {
+        "name": "freesound",
+        "url": "http://www.freesound.org/home/delete/",
+        "difficulty": "medium",
+        "notes": "You cannot delete your account yourself if you have sounds uploaded to your account. In their own words: \"Because you have sounds on freesound, deleting your user is not a trivial task. As such, we ask you to please contact the administrators via the Contact Form [http://www.freesound.org/contact/]. They will help you with the deletion of your account....\". Alternatively - you can go through all your sounds, delete them one-by-one, and then delete your account.",
+        "domains": [
+            "freesound.org"
         ]
     },
 
