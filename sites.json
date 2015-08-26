@@ -2576,6 +2576,16 @@
             "internetometer.com"
         ]
     },
+    
+        {
+        "name": "Investopedia",
+        "url": "http://www.investopedia.com/corp/contactus.aspx",
+        "difficulty": "hard",
+        "notes": "Site provides no user account management interface or account deletion options. You have to use a form and select 'Delete Account' fromt the list of reasons you're contacting them. ",
+        "domains": [
+            "investopedia.com"
+        ]
+    },
 
     {
         "name": "IO9 (Gawker Media)",
