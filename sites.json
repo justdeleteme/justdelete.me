@@ -4886,6 +4886,18 @@
     },
 
     {
+        "name": "TicketWeb",
+        "url": "https://www.facebook.com/TicketWebUK/posts/695283370491342",
+        "difficulty": "hard",
+        "notes": "You must send them an e-mail requesting to close your account at social@ticketweb.co.uk",
+        "notes_pt_br": "Você deve enviar um pedido para fechar sua conta pelo e-mail: social@ticketweb.co.uk",
+        "notes_es": "Deberás solicitar que borren tu cuenta vía e-mail: social@ticketweb.co.uk",
+        "domains": [
+            "ticketweb.co.uk"
+        ]
+    },
+
+    {
         "name": "TinyDeal",
         "url": "http://help.tinydeal.com/contact-us",
         "difficulty": "hard",
