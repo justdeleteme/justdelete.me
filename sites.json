@@ -4197,6 +4197,16 @@
     },
 
     {
+        "name": "Rideindego",
+        "url": "https://www.rideindego.com/faq/how-do-i-cancel-my-membership/",
+        "difficulty": "impossible",
+        "notes": "You can only cancel the auto-renewal feature. I called them and asked to cancel my account and be removed from their mailing list and they told me my account was already not renewing and there was nothing else they could do.",
+        "domains": [
+            "rideindego.com"
+        ]
+    },
+
+    {
         "name": "Riffle",
         "url": "https://riffle.uservoice.com/knowledgebase/articles/244346-delete-your-account",
         "difficulty": "easy",
