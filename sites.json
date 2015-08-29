@@ -1016,6 +1016,16 @@
             "dashlane.com"
         ]
     },
+    
+    {
+        "name": "DataJoy",
+        "url": "https://www.getdatajoy.com/user/settings",
+        "difficulty": "easy",
+        "notes": "Click the \"Delete your account\" at the bottom of the settings page and type \"DELETE\" in the popup box.",
+        "domains": [
+            "getdatajoy.com"
+        ]
+    },
 
     {
         "name": "Deadspin (Gawker Media)",
@@ -4326,6 +4336,16 @@
         "notes_es": "Haz clic en el enlace 'Delete your account' al final de la página. Nota: En tu Dropbox, el contenido de este servicio en Dropbox no será borrado. Si lo necessita, puede borrar la carpeta 'Apps/scriptogram' de forma manual.",
         "domains": [
             "scriptogr.am"
+        ]
+    },
+
+    {
+        "name": "ShareLaTeX",
+        "url": "https://www.sharelatex.com/user/settings",
+        "difficulty": "easy",
+        "notes": "Click the \"Delete your account\" at the bottom of the settings page and type \"DELETE\" in the popup box.",
+        "domains": [
+            "sharelatex.com"
         ]
     },
 
