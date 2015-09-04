@@ -4235,6 +4235,16 @@
             "http://www.roblox.com/"
         ]
     },
+    
+    {
+        "name": "Roll20",
+        "url": "https://app.roll20.net/account/",
+        "difficulty": "easy",
+        "notes": "On the account page, scroll down to the \"Danger Zone\" and click on the \"Delete My Account\" button. After that, you will have to type \"DELETE\" in the pop-up box.",
+        "domains": [
+            "roll20.net"
+        ]
+    },
 
     {
         "name": "Rotten Tomatoes",
