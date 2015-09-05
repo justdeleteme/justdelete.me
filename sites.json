@@ -1280,6 +1280,16 @@
     },
 
     {
+        "name": "Dwell",
+        "url": "https://dwell.co.uk/contactus.php",
+        "difficulty": "impossible",
+        "notes": "It’s not possible to delete an account, you can either remove or replace your contact information with bogus details.",
+        "domains": [
+            "dwell.co.uk"
+        ]
+    },
+
+    {
         "name": "Dwolla",
         "url": "http://help.dwolla.com/customer/portal/articles/269223-how-can-i-delete-my-dwolla-account-",
         "difficulty": "hard",
