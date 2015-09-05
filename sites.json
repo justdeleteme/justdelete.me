@@ -1340,15 +1340,6 @@
     },
 
     {
-        "name": "Easel",
-        "url": "https://www.easel.io/users/edit#cancellation",
-        "difficulty": "easy",
-        "domains": [
-            "easel.io"
-        ]
-    },
-
-    {
         "meta": "popular",
         "name": "eBay",
         "url": "http://cgi1.ebay.com/ws/eBayISAPI.dll?CloseAccount",
