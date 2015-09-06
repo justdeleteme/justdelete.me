@@ -3229,17 +3229,6 @@
         "email": "support@mister-wong.de",
         "difficulty": "hard",
         "notes": "You need to send an email to support and it may take up to 48 hours to process your request.",
-        "domains": [
-            "mister-wong.de"
-        ]
-    },
-
-    {
-        "name": "MisterWong",
-        "url": "http://www.mister-wong.de",
-        "email": "support@mister-wong.de",
-        "difficulty": "hard",
-        "notes": "You need to send an email to support and it may take up to 48 hours to process your request.",
         "notes_de": "Sie müssen eine E-Mail an den Support senden. Es kann bis zu 48 Stunden brauchen Ihre Anfrage zu bearbeiten.",
         "domains": [
             "mister-wong.de"
