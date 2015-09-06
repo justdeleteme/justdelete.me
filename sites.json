@@ -2205,10 +2205,11 @@
     },
 
     {
-        "name": "hackpad",
-        "difficulty": "easy",
-        "notes": "Your account can be easily deleted in account settings. Click \"Leave hackpad\".",
-        "notes_de": "Dein Account kann ganz leicht von den Account Einstellungen aus gelöscht werden. Klicke einfach auf \"Leave hackpad\".",
+        "name": "Hackpad",
+        "url": "https://hackpad.com/Hackpad-FAQ-tq56fI63mz3#:h=Account-settings",
+        "difficulty": "hard",
+        "notes": "We can do that for you - just send an email.",
+        "email": "support@hackpad.com",
         "domains": [
             "hackpad.com"
         ]
