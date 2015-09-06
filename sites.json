@@ -5392,7 +5392,8 @@
         "name": "WolframAlpha.com",
         "url": "http://www.wolframalpha.com/fbfaqs.html",
         "difficulty": "hard",
-        "notes": "For the immediate future, send a message to info@wolframalpha.com, and your Wolfram ID will be deleted manually.",
+        "notes": "For the immediate future, send a message to WolframAlpha, and your Wolfram ID will be deleted manually.",
+        "email": "info@wolframalpha.com",
         "domains": [
             "wolframalpha.com"
         ]
