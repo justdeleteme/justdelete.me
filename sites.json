@@ -5552,15 +5552,6 @@
     },
 
     {
-        "name": "Zootool",
-        "url": "http://zootool.com/delete",
-        "difficulty": "easy",
-        "domains": [
-            "zootool.com"
-        ]
-    },
-
-    {
         "name": "Zurker",
         "url": "https://my.zurker.com/destroy",
         "difficulty": "easy",
