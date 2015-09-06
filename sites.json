@@ -2835,13 +2835,13 @@
     },
 
     {
-        "name": "Kno",
-        "url": "http://www.kno.com/help/customerService",
+        "name": "Intel Education Study (was Kno)",
+        "url": "https://www.study.intel.com/support",
         "difficulty": "hard",
         "notes": "You can close your account if you contact customer service either by phone or live chat",
         "notes_fr": "Vous pouvez supprimer votre compte si vous contactez le support du site au téléphone ou par Live Chat.",
         "domains": [
-            "kno.com"
+            "study.intel.com"
         ]
     },
 
