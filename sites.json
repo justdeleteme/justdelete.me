@@ -3020,7 +3020,7 @@
     },
 
     {
-        "name": "Linuxcounter",
+        "name": "The Linux Counter Project",
         "url": "https://linuxcounter.net/deleteaccount/profile.html",
         "difficulty": "easy",
         "notes": "Login -> Profile -> Delete account -> Yes"
