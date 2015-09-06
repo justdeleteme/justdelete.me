@@ -3904,10 +3904,10 @@
     },
 
     {
-        "name": "Playstation Network",
+        "name": "PlayStation Network",
         "url": "https://support.us.playstation.com/app/contact_options",
         "difficulty": "impossible",
-        "notes": "It is not possible to delete your Playstation Network account.  The best you can do is delete any personal information that you have stored on their website.",
+        "notes": "It is not possible to delete your PlayStation Network account.  The best you can do is delete any personal information that you have stored on their website.",
         "notes_fr": "Il n'est pas possible de supprimer votre compte PSN. Le meilleur que vous pouvez faire est de supprimer toutes vos informations enregistrées dans le site.",
         "domains": [
             "support.us.playstation.com",
