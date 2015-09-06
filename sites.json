@@ -5140,8 +5140,9 @@
     {
         "name": "Usersnap",
         "url": "https://usersnap.com/contact",
-        "difficulty": "medium",
-        "notes": "Send an e-mail to help@usersnap.com with a subject 'Delete my account'",
+        "difficulty": "hard",
+        "notes": "Send an email with the subject ‘Delete my account’",
+        "email": "help@usersnap.com",
         "domains": [
             "usersnap.com"
         ]
