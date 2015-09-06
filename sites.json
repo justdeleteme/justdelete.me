@@ -3503,10 +3503,10 @@
 
     {
         "name": "New Relic",
-        "url": "",
-        "difficulty": "hard",
-        "notes": "You can cancel your account by logging in and selecting the option 'cancel your account'. Account deletion is only possible by emailing support. Please note that they may not remove all of your data: http://newrelic.com/privacy",
-        "email": "support@newrelic.com",
+        "url": "https://docs.newrelic.com/docs/accounts-partnerships/accounts/account-maintenance/delete-your-new-relic-account",
+        "difficulty": "easy",
+        "notes": "From the New Relic menu bar, select (account) > Upgrade subscription > Cancel account.
+Select the confirmation prompt.",
         "domains": [
             "newrelic.com"
         ]
