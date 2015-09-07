@@ -3495,8 +3495,7 @@
         "name": "New Relic",
         "url": "https://docs.newrelic.com/docs/accounts-partnerships/accounts/account-maintenance/delete-your-new-relic-account",
         "difficulty": "easy",
-        "notes": "From the New Relic menu bar, select (account) > Upgrade subscription > Cancel account.
-Select the confirmation prompt.",
+        "notes": "From the New Relic menu bar, select (account) > Upgrade subscription > Cancel account. Select the confirmation prompt.",
         "domains": [
             "newrelic.com"
         ]
@@ -4652,11 +4651,7 @@ Select the confirmation prompt.",
         "name": "Stack Overflow / Stack Exchange Accounts",
         "url": "http://stackoverflow.com/help/deleting-account",
         "difficulty": "hard",
-        "notes": "If you haven’t posted on the site, it’s just one click.
-
-If you have voted or posted, please contact the Stack Exchange Team:
-
-Visit the contact form and select ‘I need to delete my user profile’. After you contact us, the team will reach out with further instructions.",
+        "notes": "If you haven’t posted on the site, it’s just one click. If you have voted or posted, please contact the Stack Exchange Team: Visit the contact form and select ‘I need to delete my user profile’. After you contact us, the team will reach out with further instructions.",
         "notes_fr": "Si vous n'avez pas posté, il ne faut qu'un clic. Sinon, remplacez votre bio par « please delete me » puis contactez le support du site.",
         "notes_it": "Se non hai effettuato alcuna azione sul sito, basta un click. Altrimenti, edita il tuo 'About me' biografia in 'please delete me' quindi contatta il servizio clienti.",
         "notes_pt_br": "Se você não postou no site, apenas um clique é necessário. Caso contrário, edite a sua 'About Me' biografia e escreva 'please delete me' e então contate o suporte.",
