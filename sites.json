@@ -1084,8 +1084,8 @@
     {
         "name": "DeviantArt",
         "url": "https://www.deviantart.com/settings/deactivation",
-        "difficulty": "easy",
-        "notes": "All your data is ereased immediately. Accounts can be reactivated within 30 days. After that, Accounts can't be reactivated.",
+        "difficulty": "medium",
+        "notes": "All your data is ereased immediately, except comments which will remain. Accounts can be reactivated within 30 days. After that, Accounts can't be reactivated.",
         "notes_fr": "Toutes vos données seront effacées immédiatement. Les comptes peuvent être réactivés pour 30 jours. Après ce periode, ils ne peuvent pas être réactivés.",
         "notes_de": "Alle Daten sind sofort gelöscht. Accounts können innerhalb von 30 Tagen reaktiviert werden. Nach dieser Zeitspanne können sie nicht mehr wiederhergestellt werden.",
         "notes_it": "Tutti i dati saranno immediatamente cancellati. L'account potrà essere riattivato entro 30 giorni, dopodichè non sarà piu recuperabile.",
@@ -3838,6 +3838,13 @@
         "name": "Photobucket",
         "url": "http://s113.photobucket.com/settings/status#",
         "difficulty": "easy"
+    },
+
+    {
+        "name": "PHP Classes",
+        "url": "http://www.phpclasses.org/faq/#delete-account",
+        "difficulty": "impossible",
+        "notes": "They refuse to delete accounts from the site."
     },
 
     {
