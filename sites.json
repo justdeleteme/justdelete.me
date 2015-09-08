@@ -3841,6 +3841,13 @@
     },
 
     {
+        "name": "PHP Classes",
+        "url": "http://www.phpclasses.org/faq/#delete-account",
+        "difficulty": "impossible",
+        "notes": "They refuse to delete accounts from the site."
+    },
+
+    {
         "name": "Picasa",
         "url": "http://picasaweb.google.com/",
         "difficulty": "impossible",
