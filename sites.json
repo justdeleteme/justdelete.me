@@ -3648,12 +3648,10 @@
 
     {
         "name": "Orkut",
-        "url": "https://accounts.google.com/DeleteService?service=orkut",
+        "url": "https://support.google.com/orkut/",
         "difficulty": "easy",
-        "notes_es": "Debería enviar un 'ticket' para que se elimine completamente la cuenta http://www.opendns.com/support/contact/",
         "domains": [
-            "forums.opendns.com",
-            "opendns.com"
+            "orkut.google.com"
         ]
     },
 
