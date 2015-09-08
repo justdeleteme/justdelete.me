@@ -2122,15 +2122,6 @@
     },
 
     {
-        "name": "Grooveshark",
-        "url": "http://grooveshark.com/#!/settings/account",
-        "difficulty": "easy",
-        "domains": [
-            "grooveshark.com"
-        ]
-    },
-
-    {
         "meta": "popular",
         "name": "Groupon",
         "url": "https://groupon.com/customer_support",
