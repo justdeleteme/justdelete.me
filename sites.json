@@ -220,7 +220,7 @@
             "argylesocial.com"
         ]
     },
-    
+
     {
         "name": "ArmorGames",
         "url": "http://armorgames.com/settings/delete-account",
@@ -1016,7 +1016,7 @@
             "dashlane.com"
         ]
     },
-    
+
     {
         "name": "DataJoy",
         "url": "https://www.getdatajoy.com/user/settings",
@@ -1718,7 +1718,7 @@
             "ezcrypt.it"
         ]
     },
-    
+
     {
         "name": "freesound",
         "url": "http://www.freesound.org/home/delete/",
@@ -3062,6 +3062,16 @@
     },
 
     {
+       "name":"Lookout",
+       "url":"https://www.lookout.com/d/settings",
+       "difficulty":"easy",
+       "notes": "log into your account, in the middle right.",
+       "domains": [
+         "lookout.com"
+       ]
+   },
+
+    {
         "name": "Lovefilm",
         "url": "https://www.lovefilm.com/account/cancel",
         "difficulty": "medium",
@@ -4225,7 +4235,7 @@
             "http://www.roblox.com/"
         ]
     },
-    
+
     {
         "name": "Roll20",
         "url": "https://app.roll20.net/account/",
