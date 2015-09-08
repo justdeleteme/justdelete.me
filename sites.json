@@ -220,7 +220,7 @@
             "argylesocial.com"
         ]
     },
-    
+
     {
         "name": "ArmorGames",
         "url": "http://armorgames.com/settings/delete-account",
@@ -796,13 +796,13 @@
     },
 
     {
-        "name": "Cnet",
+        "name": "CNET Download",
         "url": "https://cbsi.secure.force.com/CBSi/submitcase?template=template_cnet&referer=cnet.com&cfs=SFS_1",
         "difficulty": "hard",
-        "notes": "You have to ask the support to maybe get your account delete. Chose the category CNET Redigstration",
+        "notes": "You have to ask the support to get your account deleted. Choose the category CNET Registration",
         "domains": [
             "cnet.com",
-            "http://download.cnet.com"
+            "download.cnet.com"
         ]
     },
 
@@ -856,7 +856,7 @@
     },
 
     {
-        "name": "Codepen",
+        "name": "CodePen",
         "url": "http://blog.codepen.io/documentation/faq/how-do-i-delete-my-account/",
         "difficulty": "easy",
         "domains": [
@@ -1016,7 +1016,7 @@
             "dashlane.com"
         ]
     },
-    
+
     {
         "name": "DataJoy",
         "url": "https://www.getdatajoy.com/user/settings",
@@ -1718,7 +1718,7 @@
             "ezcrypt.it"
         ]
     },
-    
+
     {
         "name": "freesound",
         "url": "http://www.freesound.org/home/delete/",
@@ -2095,7 +2095,7 @@
         "url": "http://gravatar.com",
         "difficulty": "impossible",
         "notes": "You can't delete your Gravatar Account without deleting your entire WordPress Account.",
-        "notes_fr": "Gravatar appartient à Wordpress, ce qui veut dire que vous ne pouvez pas supprimer votre compte.",
+        "notes_fr": "Gravatar appartient à WordPress, ce qui veut dire que vous ne pouvez pas supprimer votre compte.",
         "notes_cat": "No es pot esborrar el seu compte de Gravatar sense borrar tot el compte de WordPress.",
         "notes_es": "No puedes borrar tu cuenta de Gravatar sin borrar toda tu cuenta de WordPress.",
         "notes_pl": "Nie ma możliwości usunięcia konta Gravatar bez usunięcia całego konta WordPress.",
@@ -2205,10 +2205,11 @@
     },
 
     {
-        "name": "hackpad",
-        "difficulty": "easy",
-        "notes": "Your account can be easily deleted in account settings. Click \"Leave hackpad\".",
-        "notes_de": "Dein Account kann ganz leicht von den Account Einstellungen aus gelöscht werden. Klicke einfach auf \"Leave hackpad\".",
+        "name": "Hackpad",
+        "url": "https://hackpad.com/Hackpad-FAQ-tq56fI63mz3#:h=Account-settings",
+        "difficulty": "hard",
+        "notes": "We can do that for you - just send an email.",
+        "email": "support@hackpad.com",
         "domains": [
             "hackpad.com"
         ]
@@ -2733,15 +2734,15 @@
     },
 
     {
-        "name": "jsFiddle",
+        "name": "JSFiddle",
         "url": "http://doc.jsfiddle.net/meta/channels.html?highlight=contact",
         "difficulty": "hard",
-        "notes": "Please send a request to support@jsfiddle.net if you'd like your account to be deleted. <a href='https://github.com/jsfiddle/jsfiddle-issues/issues/237'>More here</a>",
-        "notes_fr": "Veuillez envoyer votre demande au support à support@jsfiddle.net si vous voulez qu'on supprime votre compte. <a href='https://github.com/jsfiddle/jsfiddle-issues/issues/237'>En lisez plus ici</a>.",
-        "notes_it": "Spedisci una email a support@jsfiddle.net se desideri che il tuo account sia cancellato <a href='https://github.com/jsfiddle/jsfiddle-issues/issues/237'>More here</a>",
-        "notes_pt_br": "Envie um pedido para support@jsfiddle.net se você deseja que sua conta seja deletada. <a href='https://github.com/jsfiddle/jsfiddle-issues/issues/237'>Mais aqui</a>",
-        "notes_cat": "Enviï un mail a support@jsfiddle.net per demanar que eliminin el seu compte. <a href='https://github.com/jsfiddle/jsfiddle-issues/issues/237'>Més aquí</a>",
-        "notes_es": "Envía un mail a support@jsfiddle.net para pedir que eliminen tu cuenta. <a href='https://github.com/jsfiddle/jsfiddle-issues/issues/237'>Más aquí</a>",
+        "notes": "Please send email a request if you'd like your account to be deleted.",
+        "notes_fr": "Veuillez envoyer votre demande au support à support@jsfiddle.net si vous voulez qu'on supprime votre compte.",
+        "notes_it": "Spedisci una email a support@jsfiddle.net se desideri che il tuo account sia cancellato.",
+        "notes_pt_br": "Envie um pedido para support@jsfiddle.net se você deseja que sua conta seja deletada.",
+        "notes_cat": "Enviï un mail a support@jsfiddle.net per demanar que eliminin el seu compte.",
+        "notes_es": "Envía un mail a support@jsfiddle.net para pedir que eliminen tu cuenta.",
         "email": "support@jsfiddle.net",
         "domains": [
             "doc.jsfiddle.net",
@@ -2835,13 +2836,13 @@
     },
 
     {
-        "name": "Kno",
-        "url": "http://www.kno.com/help/customerService",
+        "name": "Intel Education Study (was Kno)",
+        "url": "https://www.study.intel.com/support",
         "difficulty": "hard",
         "notes": "You can close your account if you contact customer service either by phone or live chat",
         "notes_fr": "Vous pouvez supprimer votre compte si vous contactez le support du site au téléphone ou par Live Chat.",
         "domains": [
-            "kno.com"
+            "study.intel.com"
         ]
     },
 
@@ -3020,7 +3021,7 @@
     },
 
     {
-        "name": "Linuxcounter",
+        "name": "The Linux Counter Project",
         "url": "https://linuxcounter.net/deleteaccount/profile.html",
         "difficulty": "easy",
         "notes": "Login -> Profile -> Delete account -> Yes"
@@ -3059,6 +3060,16 @@
             "loseit.com"
         ]
     },
+
+    {
+       "name":"Lookout",
+       "url":"https://www.lookout.com/d/settings",
+       "difficulty":"easy",
+       "notes": "log into your account, in the middle right.",
+       "domains": [
+         "lookout.com"
+       ]
+   },
 
     {
         "name": "Lovefilm",
@@ -3220,17 +3231,6 @@
         "notes_es": "Haz clic en 'Accounts' arriba a la derecha, después selecciona 'Settings'. Ve al final de la página y pulsa 'Delete Your Mint Account' y finalmente 'YES, delete my Mint account'.",
         "domains": [
             "mint.com"
-        ]
-    },
-
-    {
-        "name": "MisterWong",
-        "url": "http://www.mister-wong.de",
-        "email": "support@mister-wong.de",
-        "difficulty": "hard",
-        "notes": "You need to send an email to support and it may take up to 48 hours to process your request.",
-        "domains": [
-            "mister-wong.de"
         ]
     },
 
@@ -3503,10 +3503,9 @@
 
     {
         "name": "New Relic",
-        "url": "",
-        "difficulty": "hard",
-        "notes": "You can cancel your account by logging in and selecting the option 'cancel your account'. Account deletion is only possible by emailing support. Please note that they may not remove all of your data: http://newrelic.com/privacy",
-        "email": "support@newrelic.com",
+        "url": "https://docs.newrelic.com/docs/accounts-partnerships/accounts/account-maintenance/delete-your-new-relic-account",
+        "difficulty": "easy",
+        "notes": "From the New Relic menu bar, select (account) > Upgrade subscription > Cancel account. Select the confirmation prompt.",
         "domains": [
             "newrelic.com"
         ]
@@ -3779,7 +3778,7 @@
     {
         "name": "PayPal",
         "url": "https://www.paypal.com/us/cgi-bin/webscr?cmd=_close-account",
-        "difficulty": "Hard",
+        "difficulty": "hard",
         "notes": "Log in. Click 'Profile' near the top of the page. Click 'My settings'. Click 'Close Account' in the 'Account type' section and follow the steps listed.",
         "domains": [
             "paypal.com"
@@ -3904,10 +3903,10 @@
     },
 
     {
-        "name": "Playstation Network",
+        "name": "PlayStation Network",
         "url": "https://support.us.playstation.com/app/contact_options",
         "difficulty": "impossible",
-        "notes": "It is not possible to delete your Playstation Network account.  The best you can do is delete any personal information that you have stored on their website.",
+        "notes": "It is not possible to delete your PlayStation Network account.  The best you can do is delete any personal information that you have stored on their website.",
         "notes_fr": "Il n'est pas possible de supprimer votre compte PSN. Le meilleur que vous pouvez faire est de supprimer toutes vos informations enregistrées dans le site.",
         "domains": [
             "support.us.playstation.com",
@@ -4236,7 +4235,7 @@
             "http://www.roblox.com/"
         ]
     },
-    
+
     {
         "name": "Roll20",
         "url": "https://app.roll20.net/account/",
@@ -4410,10 +4409,11 @@
     },
 
     {
-        "name": "Sigfig",
+        "name": "SigFig",
         "url": "https://support.sigfig.com/hc/en-us/articles/202586434-How-do-I-completely-delete-my-account-",
         "difficulty": "hard",
         "notes": "Contact customer service by email and request deletion.",
+        "email": "support@sigfig.com",
         "domains": [
             "sigfig.com"
         ]
@@ -4467,7 +4467,7 @@
 
     {
         "name": "Slashdot",
-        "url": "http://slashdot.org/faq/accounts.shtml",
+        "url": "http://slashdot.org/faq/#accounts3",
         "difficulty": "impossible",
         "domains": [
             "slashdot.org"
@@ -4558,7 +4558,7 @@
     },
 
     {
-        "name": "Soundcloud",
+        "name": "SoundCloud",
         "url": "http://soundcloud.com/settings/account#delete-user",
         "difficulty": "easy",
         "domains": [
@@ -4661,7 +4661,7 @@
         "name": "Stack Overflow / Stack Exchange Accounts",
         "url": "http://stackoverflow.com/help/deleting-account",
         "difficulty": "hard",
-        "notes": "If you haven't posted on the site, it's just one click. Otherwise, edit your 'About Me' bio to say 'please delete me' then contact support.",
+        "notes": "If you haven’t posted on the site, it’s just one click. If you have voted or posted, please contact the Stack Exchange Team: Visit the contact form and select ‘I need to delete my user profile’. After you contact us, the team will reach out with further instructions.",
         "notes_fr": "Si vous n'avez pas posté, il ne faut qu'un clic. Sinon, remplacez votre bio par « please delete me » puis contactez le support du site.",
         "notes_it": "Se non hai effettuato alcuna azione sul sito, basta un click. Altrimenti, edita il tuo 'About me' biografia in 'please delete me' quindi contatta il servizio clienti.",
         "notes_pt_br": "Se você não postou no site, apenas um clique é necessário. Caso contrário, edite a sua 'About Me' biografia e escreva 'please delete me' e então contate o suporte.",
@@ -4914,7 +4914,7 @@
 
     {
         "name": "Ticketmaster",
-        "url": "http://www.ticketmaster.com/h/help.html?tm_link=tm_i_help",
+        "url": "http://help.ticketmaster.com/contact-us/",
         "difficulty": "hard",
         "notes": "You must submit a request to close your account via the form.",
         "notes_it": "Devi inviare una richiesta attraverso il form per chiudere il tuo account.",
@@ -5140,8 +5140,9 @@
     {
         "name": "Usersnap",
         "url": "https://usersnap.com/contact",
-        "difficulty": "medium",
-        "notes": "Send an e-mail to help@usersnap.com with a subject 'Delete my account'",
+        "difficulty": "hard",
+        "notes": "Send an email with the subject ‘Delete my account’",
+        "email": "help@usersnap.com",
         "domains": [
             "usersnap.com"
         ]
@@ -5392,7 +5393,8 @@
         "name": "WolframAlpha.com",
         "url": "http://www.wolframalpha.com/fbfaqs.html",
         "difficulty": "hard",
-        "notes": "For the immediate future, send a message to info@wolframalpha.com, and your Wolfram ID will be deleted manually.",
+        "notes": "For the immediate future, send a message to WolframAlpha, and your Wolfram ID will be deleted manually.",
+        "email": "info@wolframalpha.com",
         "domains": [
             "wolframalpha.com"
         ]
@@ -5404,7 +5406,7 @@
         "url": "http://en.support.wordpress.com/deleting-accounts/",
         "difficulty": "impossible",
         "notes": "“WordPress.com accounts cannot be deleted.” The best you can do is remove any identifying data from your account.",
-        "notes_fr": "Les comptes Wordpress ne peuvent pas être supprimé. La meilleure chose à faire est de supprimer vos données perso.",
+        "notes_fr": "Les comptes WordPress ne peuvent pas être supprimé. La meilleure chose à faire est de supprimer vos données perso.",
         "notes_it": "'Gli account WordPress.com non possono essere eliminati.'. Il massimo che puoi fare è eliminare qualsiasi informazione dall'account.",
         "notes_pt_br": "“Contas no WordPress.com não podem ser deletadas.” O melhor que você pode fazer é remover qualquer dado pessoal de sua conta.",
         "notes_cat": "“Els comptes de WordPress.com no poden ser esborrats.” La  millor millor opció és esborrar qualsevol dada personal del compte.",
@@ -5521,11 +5523,11 @@
         "name": "YouTube",
         "url": "https://support.google.com/youtube/answer/55759",
         "difficulty": "impossible",
-        "notes": "You can't delete your YouTube account without deleting your entire Google Account or your Google + account. But you can delete your channel.",
-        "notes_fr": "Vous ne pouvez pas supprimer votre compte Youtube sans supprimer votre compte Google. Mais vous pouvez supprimer votre chaîne.",
+        "notes": "You can’t delete your YouTube account without deleting your entire Google or Google+ account. But you can delete your YouTube channel.",
+        "notes_fr": "Vous ne pouvez pas supprimer votre compte YouTube sans supprimer votre compte Google. Mais vous pouvez supprimer votre chaîne.",
         "notes_it": "Non puoi eliminare il tuoi account di YouTube senza eliminare anche il tuo account Google. Ma puoi eliminare il tuo canale.",
-        "notes_cat": "No pots esborrar el teu compte de Youtube sense borrar tot el compte de Google, però pots borrar el teu canal.",
-        "notes_es": "No puedes borrar tu cuenta de Youtube sin borrar toda la cuenta de Google, pero puedes borrar tu canal.",
+        "notes_cat": "No pots esborrar el teu compte de YouTube sense borrar tot el compte de Google, però pots borrar el teu canal.",
+        "notes_es": "No puedes borrar tu cuenta de YouTube sin borrar toda la cuenta de Google, pero puedes borrar tu canal.",
         "notes_pl": "Nie ma możliwosći usunięcia konta w usłudze YouTube bez usuwania całego konta Google. Możesz jedynie usunąć swój kanał.",
         "domains": [
             "youtube.com"
@@ -5548,15 +5550,6 @@
         "domains": [
             "accounts.zoho.com",
             "zoho.com"
-        ]
-    },
-
-    {
-        "name": "Zootool",
-        "url": "http://zootool.com/delete",
-        "difficulty": "easy",
-        "domains": [
-            "zootool.com"
         ]
     },
 
