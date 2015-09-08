@@ -220,7 +220,7 @@
             "argylesocial.com"
         ]
     },
-    
+
     {
         "name": "ArmorGames",
         "url": "http://armorgames.com/settings/delete-account",
@@ -1016,7 +1016,7 @@
             "dashlane.com"
         ]
     },
-    
+
     {
         "name": "DataJoy",
         "url": "https://www.getdatajoy.com/user/settings",
@@ -1084,8 +1084,8 @@
     {
         "name": "DeviantArt",
         "url": "https://www.deviantart.com/settings/deactivation",
-        "difficulty": "easy",
-        "notes": "All your data is ereased immediately. Accounts can be reactivated within 30 days. After that, Accounts can't be reactivated.",
+        "difficulty": "medium",
+        "notes": "All your data is ereased immediately, except comments which will remain. Accounts can be reactivated within 30 days. After that, Accounts can't be reactivated.",
         "notes_fr": "Toutes vos données seront effacées immédiatement. Les comptes peuvent être réactivés pour 30 jours. Après ce periode, ils ne peuvent pas être réactivés.",
         "notes_de": "Alle Daten sind sofort gelöscht. Accounts können innerhalb von 30 Tagen reaktiviert werden. Nach dieser Zeitspanne können sie nicht mehr wiederhergestellt werden.",
         "notes_it": "Tutti i dati saranno immediatamente cancellati. L'account potrà essere riattivato entro 30 giorni, dopodichè non sarà piu recuperabile.",
@@ -1718,7 +1718,7 @@
             "ezcrypt.it"
         ]
     },
-    
+
     {
         "name": "freesound",
         "url": "http://www.freesound.org/home/delete/",
@@ -3062,6 +3062,16 @@
     },
 
     {
+       "name":"Lookout",
+       "url":"https://www.lookout.com/d/settings",
+       "difficulty":"easy",
+       "notes": "log into your account, in the middle right.",
+       "domains": [
+         "lookout.com"
+       ]
+   },
+
+    {
         "name": "Lovefilm",
         "url": "https://www.lovefilm.com/account/cancel",
         "difficulty": "medium",
@@ -3495,8 +3505,7 @@
         "name": "New Relic",
         "url": "https://docs.newrelic.com/docs/accounts-partnerships/accounts/account-maintenance/delete-your-new-relic-account",
         "difficulty": "easy",
-        "notes": "From the New Relic menu bar, select (account) > Upgrade subscription > Cancel account.
-Select the confirmation prompt.",
+        "notes": "From the New Relic menu bar, select (account) > Upgrade subscription > Cancel account. Select the confirmation prompt.",
         "domains": [
             "newrelic.com"
         ]
@@ -3829,6 +3838,13 @@ Select the confirmation prompt.",
         "name": "Photobucket",
         "url": "http://s113.photobucket.com/settings/status#",
         "difficulty": "easy"
+    },
+
+    {
+        "name": "PHP Classes",
+        "url": "http://www.phpclasses.org/faq/#delete-account",
+        "difficulty": "impossible",
+        "notes": "They refuse to delete accounts from the site."
     },
 
     {
@@ -4226,7 +4242,7 @@ Select the confirmation prompt.",
             "http://www.roblox.com/"
         ]
     },
-    
+
     {
         "name": "Roll20",
         "url": "https://app.roll20.net/account/",
@@ -4652,11 +4668,7 @@ Select the confirmation prompt.",
         "name": "Stack Overflow / Stack Exchange Accounts",
         "url": "http://stackoverflow.com/help/deleting-account",
         "difficulty": "hard",
-        "notes": "If you haven’t posted on the site, it’s just one click.
-
-If you have voted or posted, please contact the Stack Exchange Team:
-
-Visit the contact form and select ‘I need to delete my user profile’. After you contact us, the team will reach out with further instructions.",
+        "notes": "If you haven’t posted on the site, it’s just one click. If you have voted or posted, please contact the Stack Exchange Team: Visit the contact form and select ‘I need to delete my user profile’. After you contact us, the team will reach out with further instructions.",
         "notes_fr": "Si vous n'avez pas posté, il ne faut qu'un clic. Sinon, remplacez votre bio par « please delete me » puis contactez le support du site.",
         "notes_it": "Se non hai effettuato alcuna azione sul sito, basta un click. Altrimenti, edita il tuo 'About me' biografia in 'please delete me' quindi contatta il servizio clienti.",
         "notes_pt_br": "Se você não postou no site, apenas um clique é necessário. Caso contrário, edite a sua 'About Me' biografia e escreva 'please delete me' e então contate o suporte.",
