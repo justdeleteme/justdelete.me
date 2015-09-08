@@ -3636,14 +3636,18 @@
 
     {
         "name": "OpenDNS",
-        "url": "http://forums.opendns.com/comments.php?DiscussionID=8326",
+        "url": "http://www.opendns.com/support/contact/",
         "difficulty": "hard",
-        "notes": "You must open a ticket to completely get your account deleted at http://www.opendns.com/support/contact/",
-        "notes_fr": "Vous devez ouvrir un ticket de support pour supprimer totalement votre compte à http://www.opendns.com/support/contact/",
-        "notes_it": "Devi aprire un ticket alla pagina http://www.opendns.com/support/contact/ per eliminare completamente il tuo account",
-        "notes_pt_br": "Você deve abrir um ticket para ter sua conta completamente apagada em http://www.opendns.com/support/contact/",
-        "notes_cat": "Hauría d'enviar un 'ticket' para que s'elimini completament el compte http://www.opendns.com/support/contact/",
-        "notes_es": "Deberías enviar un 'tiquet' para eliminar la cuenta completamente http://www.opendns.com/support/contact/"
+        "notes": "You must open a ticket to completely get your account deleted.",
+        "notes_fr": "Vous devez ouvrir un ticket de support pour supprimer totalement votre compte à.",
+        "notes_it": "Devi aprire un ticket alla per eliminare completamente il tuo account.",
+        "notes_pt_br": "Você deve abrir um ticket para ter sua conta completamente apagada em.",
+        "notes_cat": "Hauría d'enviar un 'ticket' para que s'elimini completament el compte.",
+        "notes_es": "Deberías enviar un 'tiquet' para eliminar la cuenta completamente.",
+        "email": "contact@opendns.com",
+        "domains": [
+          "opendns.com"
+        ]
     },
 
     {
