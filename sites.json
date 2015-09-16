@@ -1863,7 +1863,8 @@
         "email": "support@ghostmail.com",
         "difficulty": "hard",
         "notes": "Send them an email with Delete my account as title.",
-    }
+    },
+
     {
         "name": "Giant Bomb",
         "url": "https://auth.giantbomb.com/account/",
