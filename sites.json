@@ -1863,6 +1863,9 @@
         "email": "support@ghostmail.com",
         "difficulty": "hard",
         "notes": "Send them an email with Delete my account as title.",
+        "domains": [
+            "ghostmail.com"
+        ]
     },
 
     {
