@@ -4651,13 +4651,6 @@
         "name": "Spotify",
         "url": "https://support.spotify.com/close/",
         "difficulty": "easy",
-        "notes": "Login in. Click on "CLOSE MY ACCOUNT".",
-        "notes_fr": "Vous devez vous identifier. Cliquez sur "FERMER MON COMPTE".",
-        "notes_it": "Accedi. Fare clic su "CHIUDI IL MIO ACCOUNT".",
-        "notes_pt_br": "Entre in. Clique em "FECHAR MINHA CONTA".",
-        "notes_cat": "Inicia sessió. Feu clic a "TANCAR EL MEU COMPTE".",
-        "notes_es": "Inicia sesión. Haga clic en "CERRAR MI CUENTA".",
-        "notes_pl": "Zaloguj się. Kliknij na "ZAMKNIJ KONTO".",
         "domains": [
             "spotify.com",
             "support.spotify.com"
