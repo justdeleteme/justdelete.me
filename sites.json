@@ -4225,6 +4225,16 @@
     },
 
     {
+        "name": "Retrospring",
+        "url": "https://retrospring.net/settings/account",
+        "difficulty": "easy",
+        "notes": "Use the Delete button at the bottom of the page."
+        "domains": [
+            "retrospring.net"
+        ]
+    },
+
+    {
         "name": "Rideindego",
         "url": "https://www.rideindego.com/faq/how-do-i-cancel-my-membership/",
         "difficulty": "impossible",
