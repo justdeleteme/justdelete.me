@@ -1187,6 +1187,16 @@
     },
 
     {
+        "name": "Discord",
+        "email": "support@discordapp.com",
+        "difficulty": "hard",
+        "notes": "Contact Discord’s customer support and request for your account to be closed.",
+        "domains": [
+            "discordapp.com"
+        ]
+    },
+
+    {
         "name": "Disqus",
         "url": "http://disqus.com/pages/dashboard/#account",
         "difficulty": "easy",
@@ -4957,8 +4967,8 @@
     {
         "name": "TinyDeal",
         "url": "http://help.tinydeal.com/contact-us",
-        "difficulty": "hard",
-        "notes": "Contact customer service in order to get your account deleted.",
+        "difficulty": "impossible",
+        "notes": "You will most likely be told that it's impossible to delete your account when contacting customer service.",
         "domains": [
             "tinydeal.com"
         ]
