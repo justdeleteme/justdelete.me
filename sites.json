@@ -5044,6 +5044,16 @@
     },
 
     {
+        "name": "TripAdvisor",
+        "url": "https://www.tripadvisorsupport.com/hc/en-au/articles/200615117",
+        "difficulty": "hard",
+        "notes": "You must login and contact the staff to delete your account."
+        "domains": [
+            "tripadvisor.com"
+        ]
+    },
+
+    {
         "name": "TripIt",
         "url": "https://www.tripit.com/account/delete",
         "difficulty": "easy",
