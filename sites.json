@@ -4649,17 +4649,11 @@
 
     {
         "name": "Spotify",
-        "url": "https://www.spotify.com/se/about-us/contact/contact-spotify-support/?contact",
-        "difficulty": "hard",
-        "notes": "Contact Spotify’s customer services through their contact form and request for your account to be closed.",
-        "notes_fr": "Contactez le service clients en lui demandant la suppression de votre compte.",
-        "notes_it": "Contatta l'assistenza clienta di Spotify attraverso il loro modulo e richiedi la cancellazione dell'account.",
-        "notes_pt_br": "Contate a assistência ao cliente da Spotify através do formulário de contato e peça o fechamento da sua conta.",
-        "notes_cat": "Contacti amb l'assistència al client d'Spotify a través del formulari de contacte i demana el clausurament del compte.",
-        "notes_es": "Contacta con asistencia al cliente de Spotify a través del formulario de contacto y pide que cierren la cuenta.",
-        "notes_pl": "Skontaktuj się z obsługą techniczną poprzez formularz kontaktowy i poproś o usunięcie konta.",
+        "url": "https://support.spotify.com/close/",
+        "difficulty": "easy",
         "domains": [
-            "spotify.com"
+            "spotify.com",
+            "support.spotify.com"
         ]
     },
 
