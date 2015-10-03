@@ -5061,6 +5061,15 @@
     },
 
     {
+        "name": "Twenty20",
+        "url": "https://www.twenty20.com/delete-account?t20p=settings.index",
+        "difficulty": "easy",
+        "domains": [
+            "twenty20.com"
+        ]
+    },
+
+    {
         "name": "Twitch",
         "url": "https://secure.twitch.tv/user/disable_account",
         "difficulty": "easy",
