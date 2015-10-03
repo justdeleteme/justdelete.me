@@ -5051,7 +5051,7 @@
         "name": "TripAdvisor",
         "url": "https://www.tripadvisorsupport.com/hc/en-au/articles/200615117",
         "difficulty": "hard",
-        "notes": "You must login and contact the staff to delete your account."
+        "notes": "You must log in and contact the staff to delete your account.",
         "domains": [
             "tripadvisor.com"
         ]
