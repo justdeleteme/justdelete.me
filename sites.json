@@ -1187,6 +1187,16 @@
     },
 
     {
+        "name": "Discord",
+        "email": "support@discordapp.com",
+        "difficulty": "hard",
+        "notes": "Contact Discord’s customer support and request for your account to be closed.",
+        "domains": [
+            "discordapp.com"
+        ]
+    },
+
+    {
         "name": "Disqus",
         "url": "http://disqus.com/pages/dashboard/#account",
         "difficulty": "easy",
@@ -4649,17 +4659,11 @@
 
     {
         "name": "Spotify",
-        "url": "https://www.spotify.com/se/about-us/contact/contact-spotify-support/?contact",
-        "difficulty": "hard",
-        "notes": "Contact Spotify’s customer services through their contact form and request for your account to be closed.",
-        "notes_fr": "Contactez le service clients en lui demandant la suppression de votre compte.",
-        "notes_it": "Contatta l'assistenza clienta di Spotify attraverso il loro modulo e richiedi la cancellazione dell'account.",
-        "notes_pt_br": "Contate a assistência ao cliente da Spotify através do formulário de contato e peça o fechamento da sua conta.",
-        "notes_cat": "Contacti amb l'assistència al client d'Spotify a través del formulari de contacte i demana el clausurament del compte.",
-        "notes_es": "Contacta con asistencia al cliente de Spotify a través del formulario de contacto y pide que cierren la cuenta.",
-        "notes_pl": "Skontaktuj się z obsługą techniczną poprzez formularz kontaktowy i poproś o usunięcie konta.",
+        "url": "https://support.spotify.com/close/",
+        "difficulty": "easy",
         "domains": [
-            "spotify.com"
+            "spotify.com",
+            "support.spotify.com"
         ]
     },
 
@@ -4957,8 +4961,8 @@
     {
         "name": "TinyDeal",
         "url": "http://help.tinydeal.com/contact-us",
-        "difficulty": "hard",
-        "notes": "Contact customer service in order to get your account deleted.",
+        "difficulty": "impossible",
+        "notes": "You will most likely be told that it's impossible to delete your account when contacting customer service.",
         "domains": [
             "tinydeal.com"
         ]
@@ -5040,6 +5044,16 @@
         "notes_es": "Selecciona la opción 'Delete your account?' para borrar tu cuenta ",
         "domains": [
             "trello.com"
+        ]
+    },
+
+    {
+        "name": "TripAdvisor",
+        "url": "https://www.tripadvisorsupport.com/hc/en-au/articles/200615117",
+        "difficulty": "hard",
+        "notes": "You must log in and contact the staff to delete your account.",
+        "domains": [
+            "tripadvisor.com"
         ]
     },
 
