@@ -2534,23 +2534,6 @@
     },
 
     {
-        "name": "Instacanvas",
-        "url": "http://feedback.instacanv.as/knowledgebase/articles/117760-how-do-i-cancel-my-gallery-",
-        "difficulty": "hard",
-        "notes": "Email your username and email to customer services and they will delete your account.",
-        "notes_fr": "Envoyez votre email et votre pseudo au support, et ils supprimeront votre compte.",
-        "notes_it": "Spedisci un email al servizio clienti contenente l'username e elimineranno il tuo account.",
-        "notes_pt_br": "Envie um e-mail com seu usuário e e-mail para a assistência ao cliente e eles deletarão sua conta.",
-        "notes_cat": "Enviï un e-mail amb el seu nom d'usuari i e-mail a l'assistència al client i ells esborraran el seu compte.",
-        "notes_es": "Envía un e-mail con tu nombre de usuario y e-mail a la asistencia al cliente y ellos borrarán tu cuenta.",
-        "notes_pl": "Prześlij swój adres email i nazwę użytkownika do obsługi, a oni usuną Twoje konto.",
-        "domains": [
-            "feedback.instacanv.as",
-            "instacanv.as"
-        ]
-    },
-
-    {
         "name": "Instacast Cloud",
         "url": "http://instacastcloud.com/dashboard/dangerzone",
         "difficulty": "easy",
