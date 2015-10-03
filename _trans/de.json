@@ -30,7 +30,7 @@
 	"extensionp3": "Um die Erweiterung zu installieren, rufen Sie einfach den <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome Web Store</a> auf.",
 	"extensionl1": "<span class=\"dot-wrapper\"><span class=\"dot easy\"></span></span> - Einfacher Prozess",
 	"extensionl2": "<span class=\"dot-wrapper\"><span class=\"dot medium\"></span></span> -  Einige zusätzliche Schritte sind nötig",
-	"extensionl3": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Kann nicht gelöscht vollständig werden, ohne den jeweiligen Support zu kontaktieren",
+	"extensionl3": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Kann nicht vollständig gelöscht werden, ohne den jeweiligen Support zu kontaktieren",
 	"extensionl4": "<span class=\"dot-wrapper\"><span class=\"dot impossible\"></span></span> - Kann nicht gelöscht werden",
 	"banner": "Testen Sie unsere neue <span>Chrome Erweiterung</span>",
 	"footer": "Erstellt von <a href=\"http://robblewis.me\">Robb Lewis</a> und <a href=\"http://edpoole.me\">Ed Poole</a> | Fork auf <a href=\"http://github.com/rmlewisuk/justdelete.me\">GitHub</a> | Gehostet von <a href=\"https://www.digitalocean.com/?refcode=8e1d8283bd20b\">DigitalOcean</a> | Analytics von <a href=\"https://t.co/fvPnva7p4Y\">GoSquared</a>",
