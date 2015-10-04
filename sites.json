@@ -5083,7 +5083,7 @@
         "name": "Twitter",
         "url": "https://twitter.com/settings/accounts/confirm_deactivation",
         "difficulty": "easy",
-        "notes": "Your account is actually 'deactivated' before being deleted. Only after 30 days of remaining deactivated will it then be deleted. <a href='https://support.twitter.com/articles/106871-come-disattivare-l-account'>Altri dettagli</a>",
+        "notes": "Your account is deactivated before being deleted. After 30 days of remaining deactivated it will then be deleted.",
         "notes_fr": "Votre compte est désactivé avant qu'il est supprimé. Il est seulement après 30 jours d'être désactivé qu'un compte est supprimé définitivement.",
         "notes_it": "Il tuo account verrà 'disabilitato' prima di venir rimosso. Se dopo 30 giorni è ancora disattivato esso verrà eliminato.",
         "domains": [
