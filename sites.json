@@ -355,7 +355,7 @@
         "name": "Badoo",
         "url": "http://badoo.com/settings/",
         "difficulty": "easy",
-        "notes": "On the top right corner click 'Settings', then on the left hand side click 'Delete'. Type your information, to delete Badoo, enter your password and in the other box, explain why you want to leave. Click on the 'Confirm' button, you will receive a message page confirming your rquest was successfully completed.",
+        "notes": "On the top right corner click 'Settings', then on the left hand side click 'Delete'. Type your information, to delete Badoo, enter your password and in the other box, explain why you want to leave. Click on the 'Confirm' button, you will receive a message page confirming your request was successfully completed.",
         "notes_ru": "Зайдите в 'Настройки', затем слева нажмите 'Удалить', укажите причину удаления и подтвердите выбор нажав кнопку 'Подтвердить'.",
         "domains": [
             "badoo.com"
