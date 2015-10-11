@@ -178,6 +178,16 @@
     },
 
     {
+        "name": "Any.do",
+        "url": "https://support.any.do/hc/en-us/articles/202757841-How-can-I-delete-my-account",
+        "difficulty": "easy",
+        "notes": "Login to your account and navigate to Settings. Go to Profile and then press Delete Account. A dialog will appear asking you if you are sure. Press Delete. Does not work for the web app.",
+        "domains": [
+            "any.do"
+        ]
+    },
+
+    {
         "name": "AOL / Instant Messenger",
         "url": "http://cancel.aol.com",
         "difficulty": "easy",
