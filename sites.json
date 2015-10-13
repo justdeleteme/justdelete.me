@@ -365,6 +365,7 @@
         "url": "https://bitly.com/a/deactivate_account",
         "difficulty": "easy",
         "notes": "Select why you are deleting your account. Your account will be deleted but all your shortlinks will remain.",
+        "notes_pl": "Wybierz powód usunięcia konta. Konto zostanie usunięte ale wszystkie krótkie linki pozostaną.",
         "domains": [
             "support.bitly.com",
             "bitly.com"
@@ -779,6 +780,7 @@
         "url": "http://support.crashplan.com/",
         "difficulty": "hard",
         "notes": "Start a live chat session and a representative will delete your account.",
+        "notes_pl": "Uruchom live chat - obsługa usunie twoje konto.",
         "domains": [
             "support.crashplan.com",
             "crashplan.com"
@@ -850,7 +852,8 @@
         "name": "Delta Airlines (SkyMiles)",
         "url": "http://www.delta.com/content/www/en_US/support/talk-to-us/skymiles.html",
         "difficulty": "hard",
-        "notes": "You cannot delete your Delta Skymiles account online.  You must contact them by mail in order to delete your account.",
+        "notes": "You cannot delete your Delta Skymiles account online. You must contact them by mail in order to delete your account.",
+        "notes_pl": "Nie możesz usunąć konta OnLine. Musisz skontaktować się drogą E-Mail-ową w celu usunięcia konta",
         "domains": [
             "delta.com"
         ]
@@ -900,6 +903,7 @@
         "notes_pt_br": "Nenhuma informação no FAQ sobre remoção de contas, o operador no telefone disse que deletar não é possível.",
         "notes_cat": "No hi ha cap informació al FAQ sobre la cancel·lació de comptes, l'operador telefonic diu que no es poden esborrar els comptes.",
         "notes_es": "No hay información en el FAQ sobre la cancelación de cuentas, el operador telefónico dice que no se pueden borrar las cuentas.",
+        "notes_pl": "W FAQ nie ma informacji na temat usunięcia konta. Infolinia potwierdza, że usunięcie konta jest niemożliwe.",
         "domains": [
             "paket.de"
         ]
@@ -933,7 +937,7 @@
         "notes_pt_br": "Contate a assistência ao cliente da Digg e peça que sua conta seja fechada.",
         "notes_cat": "Contacti amb l'assistència al client de Digg i demani que es clausuri el seu compte.",
         "notes_es": "Contacte con asistencia al cliente de Digg y pida que se clausure su cuenta.",
-        "notes_pl": "Skontaktuj się z obsługą techniczną i poproś o usunięcie swojego konta",
+        "notes_pl": "Skontaktuj się z obsługą techniczną i poproś o usunięcie swojego konta.",
         "domains": [
             "digg.com"
         ]
@@ -944,6 +948,7 @@
         "url": "https://cloud.digitalocean.com/settings/account",
         "difficulty": "easy",
         "notes": "Check the \"Deactivate Account\" box in the settings.",
+        "notes_pl": "Wybierz opcję \"Deactivate Account\" w ustawieniach.",
         "domains": [
             "digitalocean.com"
         ]
@@ -1111,6 +1116,7 @@
         "notes_pt_br": "Algumas perguntas serão feitas antes de deletar sua conta.",
         "notes_cat": "Se li farà un petit qüestionari abans desborrar el compte.",
         "notes_es": "Se le hará un pequeño cuestionario antes de borrar la cuenta.",
+        "notes_pl": "Przed usunięciem konta musisz wypełnić kilka pytań ankietowych.",
         "domains": [
             "cgi1.ebay.com",
             "ebay.com"
@@ -1123,6 +1129,7 @@
         "difficulty": "impossible",
         "notes": "FAQ states that account can be deleted upon request, but e-mails requesting it are completely ignored.",
         "notes_pt_br": "FAQ diz que a conta pode ser deletada mediante requisição, mas e-mails que requerem isso são sumariamente ignorados.",
+        "notes_pl": "FAQ podaje, że konto może zostać usunięte po zgłoszeniu takiej chęci. Niestety wszystkie maile tego dotyczące są ignorowane.",
         "domains": [
             "edreams.co.uk",
             "edreams.net",
@@ -1320,6 +1327,7 @@
         "notes_pt_br": "Vá em account managemente no aplicativo",
         "notes_cat": "Vés a 'Account Management' dins l'aplicació",
         "notes_es": "Ve a 'Account Management' dentro de la aplicación",
+        "notes_pl": "Przejdź do zarządzania kontem w aplikacji.",
         "domains": [
             "flipboard.com"
         ]
@@ -1433,6 +1441,7 @@
         "notes_pt_br": "Para deletar a sua conta contate a assistência ao cliente",
         "notes_cat": "Per esborrar el seu compte contacti amb l'assistència al client",
         "notes_es": "Para borrar su cuenta contacte con  asistencia al cliente",
+        "notes_pl": "Usunięcie konta wymaga kontaktu z Pomocą techniczną.",
         "domains": [
             "gamespot.custhelp.com",
             "custhelp.com"
@@ -1450,6 +1459,7 @@
         "notes_pt_br": "Contate o suporte e peça que eles deletem sua conta.",
         "notes_cat": "Contacti amb l'assistència al client i demani que li esborrrin el compte.",
         "notes_es": "Contacte con asistencia al cliente y pide que te borren la cuenta.",
+        "notes_pl": "Skontaktuj się ze wsparciem technicznym i poproś o usunięcie konta.",
         "domains": [
             "get.gaug.es",
             "gaug.es"
@@ -1510,6 +1520,7 @@
         "difficulty": "hard",
         "notes": "You can't delete your account without contacting them. You must set the subject to 'Delete Account'",
         "notes_de": "Sie können Ihren Account nicht löschen ohne den Support zu kontaktieren. Sie müssen den Betreff auf 'Delete Account' setzen.",
+        "notes_pl": "Nie można usunąć konta bez kontaktu ze wsparciem. W temacie wiadomości musisz podać 'Delete Account'",
         "domains": [
             "ghash.io"
         ]
@@ -1628,6 +1639,7 @@
         "url": "http://custhelp.gogoinflight.com/",
         "difficulty": "hard",
         "notes": "Email customercare@gogoair.com and ask to have your account deleted.",
+        "notes_pl": "Wyślij E-Mail do customercare@gogoair.com i poproś o usunięcie konta.",
         "domains": [
             "gogoair.com"
         ]
@@ -1775,6 +1787,7 @@
         "url": "https://groupon.com/customer_support",
         "difficulty": "hard",
         "notes": "According to Groupon's privacy statement, you have to contact support directly and ask them to delete your account.",
+        "notes_pl": "Zgodnie z Polityką prywatności musisz skontaktować się bezpośrednio z Pomocą techniczną i zgłosić prośbę o usunięcie konta.",
         "domains": [
             "groupon.com"
         ]
@@ -1835,6 +1848,7 @@
         "url": "https://my.hellowallet.com/#MySettings",
         "difficulty": "easy",
         "notes": "Click 'Cancel My Membership' on the above URL and confirm.",
+        "notes_pl": "Kliknij 'Cancel My Membership' pod powyższym URL i potwierdź.",
         "domains": [
             "hellowallet.com"
         ]
