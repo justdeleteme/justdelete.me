@@ -4846,9 +4846,9 @@
 
     {
         "name": "SurveyMonkey",
-        "url": "http://help.surveymonkey.com/contact-us",
+        "url": "http://help.surveymonkey.com/articles/en_US/kb/Canceling-an-Account?deflect=Deleting%20my%20account",
         "difficulty": "medium",
-        "notes": "You have to contact them selecting the issue Login & account details and the issue details Deleting my account",
+        "notes": "Under the 'Deleting an account' menu, follow the steps if you have a 'BASIC account'. If you have paid for a subscription, refer to the paragraph below the steps.",
         "domains": [
             "surveymonkey.com"
         ]
