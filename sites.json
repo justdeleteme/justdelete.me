@@ -5161,6 +5161,16 @@
     },
 
     {
+        "name": "Uniqlo",
+        "url": "https://www.uniqlo.com/",
+        "difficulty": "easy",
+        "notes": "Login, then click 'Delete your account' at the bottom of the account profile page.",
+        "domains": [
+            "uniqlo.com"
+        ]
+    },
+
+    {
         "name": "Unroll.me",
         "url": "https://unroll.me/user/settings",
         "difficulty": "easy",
