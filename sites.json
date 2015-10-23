@@ -5108,11 +5108,12 @@
 
     {
         "name": "TypePad",
-        "url": "https://www.typepad.com/secure/account/cancel-account",
-        "difficulty": "easy",
+        "url": "https://www.typepad.com/secure/account/request-deactivate-account",
+        "difficulty": "medium",
         "domains": [
             "typepad.com"
-        ]
+        ],
+        "notes": "You can cancel an account if you are paying for a TypePad Pro account, but to deactivate entirely, you need to make a request to their customer support team through the web interface. Additional information is on their help page at http://help.typepad.com/cancel.html"
     },
 
     {
