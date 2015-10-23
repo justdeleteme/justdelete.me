@@ -4544,6 +4544,16 @@
     },
 
     {
+        "name": "SmartyPig",
+        "url": "https://www.smartypig.com/how-it-works/faq",
+        "difficulty": "hard",
+        "domains": [
+            "smartypig.com"
+        ],
+        "notes": "Instructions for closing the account is buried in their FAQ. You must close all of your goals and then e-mail customer support at support@smartypig.com."
+    },
+
+    {
         "name": "Snapchat",
         "url": "http://www.snapchat.com/a/delete_account",
         "difficulty": "easy",
