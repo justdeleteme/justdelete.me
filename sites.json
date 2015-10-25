@@ -398,6 +398,16 @@
             "basecamp.com"
         ]
     },
+    
+    {
+        "name": "Baskin Robbins",
+        "url": "https://www.baskinrobbins.com/content/baskinrobbins/en/signin/manageyouraccount.html",
+        "difficulty": "easy",
+        "notes": "Log in, then use the 'Delete my account' link in the top nav.",
+        "domains": [
+            "baskinrobbins.com"
+        ]
+    },
 
     {
         "name": "Battle.net",
@@ -558,6 +568,18 @@
         "domains": [
             "www.boerse.bz",
             "boerse.bz"
+        ]
+    },
+    
+    {
+        "name": "Boingo Wireless",
+        "url": "http://support.boingo.com/contactus",
+        "difficulty": "hard",
+        "notes": "E-mail support@boingo.com from the associated address whose account you want to close.",
+        "email": "support@boingo.com",
+        "domains": [
+            "support.boingo.com",
+            "boingo.com"
         ]
     },
 
@@ -3867,6 +3889,17 @@
         "difficulty": "impossible",
         "notes": "They refuse to delete accounts from the site."
     },
+    
+    {
+        "name": "Piazza",
+        "url": "https://piazza.com/support/contact",
+        "difficulty": "hard",
+        "notes": "E-mail team@piazza.com and ask to close your account. They will reply asking you to confirm, after which point you can acknowledge and it will be removed.",
+        "email": "team@piazza.com",
+        "domains": [
+            "piazza.com"
+        ]
+    },
 
     {
         "name": "Picasa",
@@ -4202,6 +4235,16 @@
         "email": "support@redditgifts.com",
         "domains": [
             "redditgifts.com"
+        ]
+    },
+    
+    {
+        "name": "Redfin",
+        "url": "https://www.redfin.com/myredfin/settings",
+        "difficulty": "easy",
+        "notes": "After logging in, click the Deactivate button at the bottom of the Settings page.",
+        "domains": [
+            "redfin.com"
         ]
     },
 
