@@ -1570,12 +1570,12 @@
         "name": "Finanzblick",
         "url": "https://finanzblick.de/webapp",
         "difficulty": "medium",
-        "notes": "Click on your username (top left) &rarr; click on 'Profileinstellungen' &rarr; 'Account löschen'. All data is fully erased.",
-        "notes_it": "Clicca sul tuo username (in alto a sinistra) &rarr; clicca su 'Profileinstellungen' &rarr; 'Account löschen'. Tutti i dati saranno cancellati.",
-        "notes_de": "Klicke auf deinen username (oben rechts) &rarr; klicke auf 'Profileinstellungen' &rarr; 'Account löschen'. Alle Daten sind augenblicklich gelöscht.",
-        "notes_pt_br": "Clique em seu usuário (topo esquerdo) &rarr; clique em 'Profileinstellungen' &rarr; 'Account löschen'. Todos os seus dados serão completamente apagados.",
-        "notes_cat": "Cliqui al seu usuari (adalt esquerra) &rarr; cliqui a 'Profileinstellungen' &rarr; 'Account löschen'. Totes les seves dades seràn eliminades.",
-        "notes_es": "Haz clic en tu usuario (arriba a la izquierda) &rarr; haz clic en 'Profileinstellungen' &rarr; 'Account löschen'. Todos tus datos serán eliminados.",
+        "notes": "Click on your username (top left) → click on 'Profileinstellungen' → 'Account löschen'. All data is fully erased.",
+        "notes_it": "Clicca sul tuo username (in alto a sinistra) → clicca su 'Profileinstellungen' → 'Account löschen'. Tutti i dati saranno cancellati.",
+        "notes_de": "Klicke auf deinen username (oben rechts) → klicke auf 'Profileinstellungen' → 'Account löschen'. Alle Daten sind augenblicklich gelöscht.",
+        "notes_pt_br": "Clique em seu usuário (topo esquerdo) → clique em 'Profileinstellungen' → 'Account löschen'. Todos os seus dados serão completamente apagados.",
+        "notes_cat": "Cliqui al seu usuari (adalt esquerra) → cliqui a 'Profileinstellungen' → 'Account löschen'. Totes les seves dades seràn eliminades.",
+        "notes_es": "Haz clic en tu usuario (arriba a la izquierda) → haz clic en 'Profileinstellungen' → 'Account löschen'. Todos tus datos serán eliminados.",
         "domains": [
             "finanzblick.de"
         ]
@@ -2492,7 +2492,7 @@
         "name": "imo.im",
         "url": "https://imo.im/login",
         "difficulty": "easy",
-        "notes": "You must login, go to your account settings and then click on the &lsquo;Delete Account&rsquo; link on the bottom left.",
+        "notes": "You must login, go to your account settings and then click on the 'Delete Account' link on the bottom left.",
         "notes_fr": "Connectez-vous, allez dans vos parametres puis cliquez sur « Delete Account » en bas à gauche.",
         "domains": [
             "imo.im"
