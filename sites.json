@@ -4875,6 +4875,16 @@
     },
 
     {
+        "name": "Tanga",
+        "url": "https://www.tanga.com/support",
+        "difficulty": "impossible",
+        "notes": "Contacting customer support, they will most likely tell you they don't have the option to.",
+        "domains": [
+            "tanga.com"
+        ]
+    },
+
+    {
         "name": "Tango",
         "url": "http://support.tango.me/entries/23534011-How-do-I-delete-my-Tango-account-",
         "difficulty": "medium",
@@ -5456,6 +5466,26 @@
         "domains": [
             "en.support.wordpress.com",
             "wordpress.com"
+        ]
+    },
+    
+    {
+        "name": "World Market",
+        "url": "http://www.worldmarket.com/category/customer-service/contact-us.do",
+        "difficulty": "impossible",
+        "notes": "Contacting customer support, they will most likely tell you they can't modify or delete accounts created on their website.",
+        "domains": [
+            "worldmarket.com"
+        ]
+    },
+    
+    {
+        "name": "World Market Explorer",
+        "url": "https://www.worldmarketexplorer.com/contact/",
+        "difficulty": "hard",
+        "notes": "Using the contact form, select 'Sign-up and Registration' from the category dropdown, then ask to be unenrolled.",
+        "domains": [
+            "worldmarketexplorer.com"
         ]
     },
 
