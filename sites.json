@@ -240,6 +240,18 @@
     },
 
     {
+        "name": "Ashampoo",
+        "url": "https://www.ashampoo.com/en/usd/ppy",
+        "difficulty": "hard",
+        "notes": "Request deletion by emailing privacy team. Ask them to close your account and send them your name and email address. You’ll receive a mail back from them with a personal removal link in it",
+        "notes_ru": "Отправьте письмо на английском языке с просьбой удалить учётную запись. Укажите в письме ваше имя и адрес электронной почты. В ответном письме вы получите персональную ссылку, пройдя по которой сможете удалить свою учётную запись",
+        "email": "privacy@ashampoo.com",
+        "domains": [
+            "ashampoo.com"
+        ]
+    },
+	
+    {
         "name": "Ask.fm",
         "url": "http://ask.fm/account/settings/optout",
         "difficulty": "easy",
