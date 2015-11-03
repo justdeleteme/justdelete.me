@@ -98,6 +98,16 @@
             "albumreminder.com"
         ]
     },
+    
+    {
+        "name": "ALDO",
+        "url": "http://www.aldoshoes.com/contact",
+        "difficulty": "hard",
+        "notes": "Use the contact form to ask customer service to delete your account.",
+        "domains": [
+            "aldoshoes.com"
+        ]
+    },
 
     {
         "name": "Alibaba",
@@ -3203,6 +3213,16 @@
     },
 
     {
+        "name": "Meritline",
+        "url": "http://www.meritline.com/t-contact.aspx",
+        "difficulty": "hard",
+        "notes": "Use the contact form to ask customer service to delete your account.",
+        "domains": [
+            "meritline.com"
+        ]
+    },
+
+    {
         "name": "Memrise",
         "url": "http://www.memrise.com/settings/deactivate/",
         "difficulty": "easy",
@@ -3309,6 +3329,16 @@
         "domains": [
             "account.mojang.com",
             "mojang.com"
+        ]
+    },
+
+    {
+        "name": "Monoprice",
+        "url": "http://www.monoprice.com/Help/Index?pn=contact",
+        "difficulty": "hard",
+        "notes": "Use the contact form to ask customer service to delete your account.",
+        "domains": [
+            "monoprice.com"
         ]
     },
 
@@ -5072,6 +5102,16 @@
         "difficulty": "easy",
         "domains": [
             "tumblr.com"
+        ]
+    },
+
+    {
+        "name": "Turbine",
+        "url": "http://support.turbine.com/?task=ticket",
+        "difficulty": "hard",
+        "notes": "Use the contact form to ask customer service to delete your account.",
+        "domains": [
+            "turbine.com"
         ]
     },
 
