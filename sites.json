@@ -503,6 +503,16 @@
     },
 
     {
+        "name": "Blend.io",
+        "url": "https://blend.io/help#delete-account",
+        "difficulty": "hard",
+        "notes": "Email your username to support@blend.io from the email address associated with your account requesting the deletion.",
+        "domains": [
+            "blend.io"
+        ]
+    },
+
+    {
         "name": "Blue Apron",
         "url": "https://www.blueapron.com/cancel_subscription",
         "difficulty": "easy",
