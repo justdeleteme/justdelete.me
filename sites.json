@@ -3558,6 +3558,16 @@
     },
 
     {
+        "name": "Nextdoor",
+        "url": "https://nextdoor.com/deactivate/",
+        "difficulty": "easy",
+        "notes": "You cannot permanently remove your account, only deactivate it.",
+        "domains": [
+            "nextdoor.com"
+        ]
+    },
+
+    {
         "name": "Nike+",
         "url": "https://secure-nikeplus.nike.com/plus/settings/",
         "difficulty": "easy",
