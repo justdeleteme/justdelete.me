@@ -1368,6 +1368,14 @@
     },
 
     {
+      "name": "Edmodo",
+      "url": "http://edmodo.com",
+      "difficulty": "hard",
+      "notes": "Must email Edmodo and request them to shut down",
+      "email": "support@edmodo.com"
+    },
+
+    {
         "name": "Edpuzzle",
         "url": "https://edpuzzle.com",
         "difficulty": "medium",
