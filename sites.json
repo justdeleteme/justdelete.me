@@ -1419,7 +1419,7 @@
         "notes_fr": "Il faut que vous demandez la suppression de votre compte dans un e-mail que vous envoyez à hello@elevateapp.com. Vous recevrez une réponse qui demande à la fois vos impressions de l'appli et une confirmation de la suppression. L'e-mail prochain que vous recevrez vous notifiera la suppression de votre compte.",
         "email": "support@elevateapp.com",
         "domains": [
-            "http://elevateapp.com/"
+            "elevateapp.com/"
         ]
     },
 
@@ -4037,6 +4037,11 @@
       "url": "Powtoon.com",
       "difficulty": "hard",
       "notes": "click on contact us link at bottom of page. Fill out form. After customer support double checks with you, they will delete accout.",
+      "email": "support@powtoon.com",
+      "domains": [
+        "powtoon.com"
+      ]
+
     },
 
     {
@@ -4046,7 +4051,7 @@
         "notes": "Log into your account -> Click 'Need to close your account?' near the bottom of the page -> Confirm deletion",
         "notes_fr": "Connectez-vous -> Cliquez sur « Need to close your account? » au bas de la page -> Confirmez la suppression de votre compte",
         "domains": [
-            "https://preyproject.com/"
+            "preyproject.com/"
         ]
     },
 
