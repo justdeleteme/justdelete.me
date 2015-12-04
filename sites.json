@@ -1410,7 +1410,7 @@
         "notes": "You must send an e-mail to hello@elevateapp.com requesting deletion. You will then receive a response from support asking for feedback and to confirm the deletion. The next e-mail you receive from support will notify you that your account has been deleted.",
         "notes_fr": "Il faut que vous demandez la suppression de votre compte dans un e-mail que vous envoyez à hello@elevateapp.com. Vous recevrez une réponse qui demande à la fois vos impressions de l'appli et une confirmation de la suppression. L'e-mail prochain que vous recevrez vous notifiera la suppression de votre compte.",
         "domains": [
-            "http://elevateapp.com/"
+            "elevateapp.com"
         ]
     },
 
@@ -3799,7 +3799,7 @@
         "notes": "You must send an e-mail to support@peak.net requesting deletion. You will then receive a response from support asking for feedback and to confirm the deletion. The next e-mail you receive from support will notify you that your account has been deleted.",
         "notes_fr": "Il faut que vous demandez la suppression de votre compte dans un e-mail que vous envoyez à support@peak.net. Vous recevrez une réponse qui demande à la fois vos impressions de l'appli et une confirmation de la suppression. L'e-mail prochain que vous recevrez vous notifiera la suppression de votre compte.",
         "domains": [
-            "http://www.peak.net/"
+            "www.peak.net"
         ]
     },
 
@@ -4006,7 +4006,7 @@
         "notes": "Log into your account -> Click 'Need to close your account?' near the bottom of the page -> Confirm deletion",
         "notes_fr": "Connectez-vous -> Cliquez sur « Need to close your account? » au bas de la page -> Confirmez la suppression de votre compte",
         "domains": [
-            "https://preyproject.com/"
+            "preyproject.com"
         ]
     },
 
@@ -4246,7 +4246,7 @@
         "difficulty": "impossible",
         "notes": "Not possible. 'We currently do not have a feature for players to delete their accounts. If you no longer wish to play on your account, it will remain inactive until you're ready to play again.'",
         "domains": [
-            "http://www.roblox.com/"
+            "www.roblox.com"
         ]
     },
 
@@ -4589,7 +4589,7 @@
         "notes_fr": "Insère 'delete me' à la place pour la description à ton profil et envoie un e-mail à team@soup.io avec ton soup URL et une demande de suppression.",
         "email": "team@soup.io",
         "domains": [
-            "http://www.soup.io/"
+            "www.soup.io"
         ]
     },
 
