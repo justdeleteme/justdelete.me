@@ -2310,6 +2310,15 @@
         ]
     },
 
+   {
+        "name": "Hinge",
+        "url": "https://hinge.desk.com/customer/portal/articles/1563556-terminate-my-account",
+        "difficulty": "easy",
+        "domains": [
+            "hinge.co"
+        ]
+   }
+
     {
         "name": "hitbox",
         "url": "http://help.hitbox.tv/customer/portal/emails/new",
