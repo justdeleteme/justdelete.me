@@ -275,6 +275,16 @@
     },
 
     {
+        "name": "Atavi",
+        "url": "http://atavi.com/user/remove",
+        "difficulty": "easy",
+        "domains": [
+            "atavi.com"
+        ],
+        "notes": "You may also 'a letter with a request to delete an account to support@atavi.com'."
+    },
+
+    {
         "name": "Audiomack",
         "url": "http://www.audiomack.com/manage",
         "difficulty": "easy",
