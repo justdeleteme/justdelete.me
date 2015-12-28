@@ -4175,6 +4175,16 @@
     },
 
     {
+        "name": "Redbooth",
+        "url": "https://redbooth.com/a/#!/settings/delete",
+        "difficulty": "easy",
+        "notes": "By deleting your account you will lose access to all your organizations and workspaces. This action is irreversible.",
+        "domains": [
+            "redbooth.com"
+        ]
+    },
+
+    {
         "meta": "popular",
         "name": "Reddit",
         "url": "https://ssl.reddit.com/prefs/delete/",
