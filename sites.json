@@ -97,10 +97,10 @@
 
     {
         "name": "Alibaba",
-        "url": "http://www.alibaba.com/help/contact-us.html",
-        "difficulty": "hard",
-        "notes": "Despite what it says in their FAQ there is actually no automatic way to delete your account. But they do see to be happy to do it if you ask them - you can contact them via http://www.alibaba.com/help/contact-us.html - I cancelled my account via their online chat system.",
-        "notes_fr": "Malgré la suggestion du FAQ, il n'y a pas au fait de façon automatique de supprimer votre compte. Cela dit, ils me semblent contents de le faire si vous le demandez - vous pouvez les contactez via http://www.alibaba.com/help/contact-us.html - j'ai supprimé mon compte en utilisant leur système tchat.",
+        "url": "https://accounts.alibaba.com/user/organization/deactive_account.htm",
+        "difficulty": "easy",
+        "notes": "Select Deactivate Account in your My Profile settings.",
+        "notes_fr": "Sélectionnez Compte Désactiver dans votre Mon Profile réglages.",
         "domains": [
             "alibaba.com"
         ]
