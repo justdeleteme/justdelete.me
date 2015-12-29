@@ -53,18 +53,14 @@
 
     {
         "name": "Adobe",
-        "url": "https://learn.adobe.com/wiki/display/wel/Delete+your+account",
-        "difficulty": "hard",
-        "notes": "You have to call them in order to delete your account. Alternatively, you can send them an email.",
-        "notes_fr": "Vous devez les appeler pour supprimer votre compte. Vous pouvez aussi envoyer un email.",
-        "notes_it": "Per eliminare il tuo account dovrai contattarli via telefono. Alternativamente puoi spedire una mail",
-        "notes_pt_br": "Você deve ligar para eles para deletar sua conta. De maneira alternativa, você pode enviá-los um e-mail.",
-        "notes_cat": "S'ha de posar en cotacte amb ells. Mitjançant telèfon o e-mail.",
-        "notes_es": "Tienes que poner en contacto con ellos. Mediante teléfono o e-mail.",
-        "notes_pl": "Możesz zadzwonić lub wysłać email z prośbą o usunięcie konta.",
-        "notes_ar": "يجب عليك أن تتصل بهم لكي تحذف حسابك او أن ترسل لهم بريد الكتروني",
+        "url": "https://helpx.adobe.com/ca/contact.html?step=ZNA_id-signing_stillNeedHelp",
+        "difficulty": "medium",
+        "notes": "You have to chat with a representative.",
+        "notes_fr": "Vous devez bavarder avec un délégué.",
+        "notes_it": "Tu devi chattare con un rappresentante.",
+        "notes_pt_br": "Tu deves teclar com um representante.",
+        "notes_es": "Usted debe hablar con un representante.",
         "domains": [
-            "learn.adobe.com",
             "adobe.com"
         ]
     },
