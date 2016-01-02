@@ -3384,6 +3384,16 @@
     },
 
     {
+        "name": "MultCloud",
+        "url": "https://www.multcloud.com/",
+        "difficulty": "easy",
+        "notes": "Login to your account, go to Options section of the Settings page and choose the \"I want to delete my account permanently\" option.",
+        "domains": [
+            "multcloud.com"
+        ]
+    },
+
+    {
         "name": "Multiplay.co.uk",
         "url": "https://multiplay.com/contactus/",
         "difficulty": "hard",
