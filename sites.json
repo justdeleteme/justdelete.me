@@ -5443,6 +5443,16 @@
     },
 
     {
+        "name": "Woot",
+        "url": "https://account.woot.com/support/",
+        "difficulty": "hard",
+        "notes": "From the support page, choose 'I want to look at my account!' → 'I want to deactivate my account.' and you will then see a form where you can fill out your request.",
+        "domains": [
+            "woot.com"
+        ]
+    },
+
+    {
         "meta": "popular",
         "name": "WordPress.com",
         "url": "http://en.support.wordpress.com/deleting-accounts/",
