@@ -1547,6 +1547,18 @@
     },
 
     {
+        "name": "FamilySearch",
+        "url": "https://ldsaccount.lds.org/contactSupport"
+        "difficulty": "medium",
+        "notes": "Use their "Contact Support" form. Or contact them in any of the ways outlined here: https://familysearch.org/ask/help."
+        "notes_fr": "Utilisez leur forme « Contact Support ». Ou communiquer avec eux dans l'une des façons décrites ici : https://familysearch.org/ask/help."
+        "domains": [
+            "familysearch.org",
+            "lds.org"
+        ]
+    },
+
+    {
         "name": "Feedly",
         "url": "https://feedly.com/#erase",
         "difficulty": "easy",
