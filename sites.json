@@ -1777,6 +1777,16 @@
     },
 
     {
+        "name": "Gametracker",
+        "url": "http://www.gametracker.com/account/manage/edit.php",
+        "difficulty": "easy",
+        "notes": "Account deletion takes 30 days to complete.",
+        "domains": [
+            "gametracker.com"
+        ]
+    },
+
+    {
         "name": "Gauges",
         "url": "http://get.gaug.es/tos/",
         "difficulty": "hard",
