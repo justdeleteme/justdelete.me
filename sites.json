@@ -1780,7 +1780,7 @@
         "name": "Gametracker",
         "url": "http://www.gametracker.com/account/manage/edit.php",
         "difficulty": "easy",
-        "notes": "Account deletion takes 30 days to complete.",
+        "notes": "You must be logged in to see this page. Account deletion takes 30 days to complete.",
         "domains": [
             "gametracker.com"
         ]
