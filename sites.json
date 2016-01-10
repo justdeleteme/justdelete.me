@@ -3581,6 +3581,16 @@
     },
 
     {
+        "name": "Nitrous Networks",
+        "url": "https://billing.nitrous-networks.com/submitticket.php?step=2&deptid=7",
+        "difficulty": "hard",
+        "notes": "You need to login in order to submit a ticket.",
+        "domains": [
+            "nitrous-networks.com"
+        ]
+    },
+
+    {
         "name": "NoIP",
         "url": "http://www.noip.com/members/account/delete.php",
         "difficulty": "easy",
