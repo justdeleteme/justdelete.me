@@ -3358,6 +3358,13 @@
     },
 
     {
+        "name": "Mover.io",
+        "url": "https://app.mover.io/",
+        "notes": "Login, then go to Account Details in the top right corner."
+        "difficulty": "medium",
+    },
+
+    {
         "name": "Moviepilot.de",
         "url": "http://www.moviepilot.de/users/null/edit_membership",
         "difficulty": "easy",
