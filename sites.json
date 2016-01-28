@@ -4557,6 +4557,16 @@
             "snapchat.com"
         ]
     },
+	
+	    {
+        "name": "Snapfish",
+        "url": "http://help.snapfish.com/",
+        "difficulty": "hard",
+        "notes": "You need to open a request with customer service to delete your account, and this may or may not require escalation.  The easiest way to open this request is from the live chat on the support site.   ",
+        "domains": [
+            "snapfish.com"
+        ]
+    },
 
     {
         "name": "Soluto",
