@@ -785,7 +785,18 @@
             "cl.ly"
         ]
     },
-
+    
+    {
+        "name": "CloudFlare",
+        "url": "https://support.cloudflare.com/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "You must first cancel any active subscriptions, change your DNS servers back, remove your domains, then create a support ticket asking for account deletion.",
+        "domains": [
+            "cloudflare.com",
+            "support.cloudflare.com"
+        ]
+    },
+    
     {
         "name": "CloudMagic",
         "url": "https://cloudmagic.com/a/v2/preferences",
