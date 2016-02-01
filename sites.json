@@ -2720,9 +2720,8 @@
 
     {
         "name": "JS Bin",
-        "url": "https://github.com/remy/jsbin/issues/1010",
-        "difficulty": "hard",
-        "notes": "You will need to open a GitHub issue with your username in order to close your account.",
+        "url": "http://jsbin.com/account/delete",
+        "difficulty": "easy",
         "domains": [
             "jsbin.com"
         ]
