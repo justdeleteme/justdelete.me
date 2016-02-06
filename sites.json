@@ -4932,6 +4932,17 @@
             "ticketmaster.com"
         ]
     },
+    
+    {
+        "name": "Ticktick",
+        "url": "https://ticktick.com/#settings",
+        "difficulty": "easy",
+        "notes": "After logging in, go to settings -> profile -> scroll down -> Click the 'Delete account' buttton.",
+        "notes_nl": "Nadat je bent ingelogd, gan naar settings -> profile -> scroll naar beneden -> Klik op de 'Delete account' knop.",
+        "domains": [
+            "ticktick.com"
+        ]
+    },
 
     {
         "name": "TinyDeal",
