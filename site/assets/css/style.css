@@ -455,6 +455,7 @@ button {
 	font-size: 12px;
 	margin: 0;
 	color: #293840;
+	word-wrap: break-word;
 	display: none;
 }
 
