@@ -5484,6 +5484,14 @@
     },
 
     {
+        "name": "Xmarks",
+        "url": "https://login.xmarks.com/account/delete_account",
+        "domains": [
+            "xmarks.com"
+        ]
+    },
+
+    {
         "name": "Xobni",
         "url": "https://www.xobni.com/account/settings",
         "difficulty": "easy",
