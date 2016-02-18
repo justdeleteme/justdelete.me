@@ -2312,6 +2312,26 @@
     },
 
     {
+        "name": "Holiday Pirates",
+        "url": "http://www.holidaypirates.com/user/profile/edit",
+        "difficulty": "easy",
+        "notes": "“Delete” button at the bottom of the page.",
+        "domains": [
+            "holidaypirates.com",
+            "urlaubspiraten.de",
+            "urlaubspiraten.at",
+            "piratinviaggio.it",
+            "vakantiepiraten.nl",
+            "wakacyjnipiraci.pl",
+            "voyagespirates.fr",
+            "viajerospiratas.es",
+            "ferienpiraten.ch",
+            "semesterpiraterna.se",
+            "travelpirates.com"
+        ]
+    },
+    
+    {
         "name": "HOL Virtual Hogwarts",
         "url": "http://hol.org.uk/profile.php?view=quithol",
         "difficulty": "impossible",
