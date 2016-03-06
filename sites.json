@@ -1045,10 +1045,10 @@
 
     {
         "name": "Deezer",
-        "url": "http://support.deezer.com/hc/en-gb/articles/201168742-Delete-My-Account",
-        "difficulty": "easy",
-        "notes": "You need to login on deezer.com and open your account settings. At the bottom of the page, you can find a link to delete your account.",
-        "notes_de": "Logge dich auf deezer.com ein und öffne deine Konto-Einstellungen. Unten auf der Seite findest du einen Link, um dein Konto zu löschen.",
+        "url": "http://www.deezer.com/account",
+        "difficulty": "medium",
+        "notes": "You need to login on deezer.com and open your account settings. At the bottom of the page, you can find a link to delete your account. There, you need to enter your Deezer password. This is NOT your Google/Facebook password, so you may have to create a Deezer password <a href=\"http://www.deezer.com/password/reset\">here</a>. Afterwards, you will get an e-mail with a confirmation link. After you enter your Deezer password on the confirmation page, your account is deleted.",
+        "notes_de": "Logge dich auf deezer.com ein und öffne deine Konto-Einstellungen. Unten auf der Seite findest du einen Link, um dein Konto zu löschen. Dort gibst du dein Deezer-Passwort ein. Das ist NICHT dein Google/Facebook-Password. Fordere ggf. <a href=\"http://www.deezer.com/password/reset\">hier</a> ein neues Deezer-Passwort an. Anschließend erhältst du eine E-Mail mit einem Bestätigungslink. Nachdem du dein Deezer-Passwort auf der Bestätigungsseite eingibst, wird dein Konto gelöscht.",
         "domains": [
             "deezer.com"
         ]
