@@ -4373,6 +4373,16 @@
     },
 
     {
+        "name": "Shazam",
+        "url": "https://support.shazam.com/hc/en-us/articles/204942527-Deleting-your-Shazam-data",
+        "difficulty": "impossible",
+        "notes": "Tags can be deleted individually, but your account itself cannot be deleted.",
+        "domains": [
+            "shazam.com"
+        ]
+    },
+
+    {
         "name": "Shopify",
         "url": "http://shopify.com/admin/settings/account",
         "difficulty": "easy",
