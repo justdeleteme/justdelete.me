@@ -2441,6 +2441,16 @@
             "icq.com"
         ]
     },
+    
+    {
+        "name": "Investopedia",
+        "url": "http://www.investopedia.com/accounts/manageprofile.aspx",
+        "difficulty":"hard",
+        "notes": "Close your account...not so quick. It's basically impossible to closee your account without writing to: Investopedia, LLC; Attn: Privacy Officer; 555 12th Street, Suite 500; Oakland, CA 94607",
+        "domains": [
+            "investopedia.com/"
+        ]
+    },
 
     {
         "name": "IFTTT",
