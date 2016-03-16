@@ -4909,6 +4909,17 @@
     },
 
     {
+        "name": "The Guardian",
+        "url": "http://www.theguardian.com/world/2013/apr/04/guardian-managing-online-profiles",
+        "difficulty": "hard",
+        "notes": "You need to contact the user help team via e-mail to request account deletion.",
+        "email": "userhelp@guardian.co.uk",
+        "domains": [
+            "theguardian.com"
+        ]
+    },
+
+    {
         "name": "the perfect shave",
         "url": "https://www.perfect-shave.de/einstellungen",
         "difficulty": "easy",
