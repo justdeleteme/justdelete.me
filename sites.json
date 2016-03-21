@@ -2387,6 +2387,27 @@
         ]
     },
 
+
+    {
+        "name": "Hype Machine",
+        "url": "http://hypem.com/remove_account",
+        "difficulty": "easy",
+        "domains": [
+            "hypem.com"
+        ]
+    },
+
+
+    {
+        "name": "Hypejar",
+        "url": "http://www.hypejar.com/settings/account",
+        "difficulty": "easy",
+        "domains": [
+            "hypejar.com"
+        ]
+    },
+
+
     {
         "name": "i use this (iPhone)",
         "url": "http://iphone.iusethis.com/user/delete_user",
