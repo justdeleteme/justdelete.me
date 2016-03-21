@@ -952,10 +952,9 @@
 
     {
         "name": "CrashPlan",
-        "url": "http://support.crashplan.com/",
+        "url": "https://www.crashplan.com/account/myaccount/my_account.vtl",
         "difficulty": "hard",
-        "notes": "Start a live chat session and a representative will delete your account.",
-        "notes_fr": "Démarrez une session Live Chat et un représentant supprimera votre compte.",
+        "notes": "Remove account through link on the Account page, enter password and then DELETE ALL.",
         "domains": [
             "support.crashplan.com",
             "crashplan.com"
