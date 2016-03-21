@@ -534,7 +534,7 @@
     },
 
     {
-        "name": "BodyBuilding",
+        "name": "Bodybuilding",
         "url": "http://www.bodybuilding.com/store/help/delete-bodyspace-account.htm",
         "difficulty": "impossible",
         "notes": "You can only deactivate your account by contacting support as they state on the help page. There is no way to permanently delete your account or data, and an inactive public profile will always be visible to public.",
@@ -1410,7 +1410,7 @@
         "notes": "You must send an e-mail to hello@elevateapp.com requesting deletion. You will then receive a response from support asking for feedback and to confirm the deletion. The next e-mail you receive from support will notify you that your account has been deleted.",
         "notes_fr": "Il faut que vous demandez la suppression de votre compte dans un e-mail que vous envoyez à hello@elevateapp.com. Vous recevrez une réponse qui demande à la fois vos impressions de l'appli et une confirmation de la suppression. L'e-mail prochain que vous recevrez vous notifiera la suppression de votre compte.",
         "domains": [
-            "http://elevateapp.com/"
+            "elevateapp.com"
         ]
     },
 
@@ -2143,15 +2143,6 @@
     },
 
     {
-        "name": "Grooveshark",
-        "url": "http://grooveshark.com/#!/settings/account",
-        "difficulty": "easy",
-        "domains": [
-            "grooveshark.com"
-        ]
-    },
-
-    {
         "meta": "popular",
         "name": "Groupon",
         "url": "https://groupon.com/customer_support",
@@ -2543,23 +2534,6 @@
     },
 
     {
-        "name": "Instacanvas",
-        "url": "http://feedback.instacanv.as/knowledgebase/articles/117760-how-do-i-cancel-my-gallery-",
-        "difficulty": "hard",
-        "notes": "Email your username and email to customer services and they will delete your account.",
-        "notes_fr": "Envoyez votre email et votre pseudo au support, et ils supprimeront votre compte.",
-        "notes_it": "Spedisci un email al servizio clienti contenente l'username e elimineranno il tuo account.",
-        "notes_pt_br": "Envie um e-mail com seu usuário e e-mail para a assistência ao cliente e eles deletarão sua conta.",
-        "notes_cat": "Enviï un e-mail amb el seu nom d'usuari i e-mail a l'assistència al client i ells esborraran el seu compte.",
-        "notes_es": "Envía un e-mail con tu nombre de usuario y e-mail a la asistencia al cliente y ellos borrarán tu cuenta.",
-        "notes_pl": "Prześlij swój adres email i nazwę użytkownika do obsługi, a oni usuną Twoje konto.",
-        "domains": [
-            "feedback.instacanv.as",
-            "instacanv.as"
-        ]
-    },
-
-    {
         "name": "Instacast Cloud",
         "url": "http://instacastcloud.com/dashboard/dangerzone",
         "difficulty": "easy",
@@ -2746,9 +2720,8 @@
 
     {
         "name": "JS Bin",
-        "url": "https://github.com/remy/jsbin/issues/1010",
-        "difficulty": "hard",
-        "notes": "You will need to open a GitHub issue with your username in order to close your account.",
+        "url": "http://jsbin.com/account/delete",
+        "difficulty": "easy",
         "domains": [
             "jsbin.com"
         ]
@@ -2758,7 +2731,7 @@
         "name": "JSFiddle",
         "url": "http://doc.jsfiddle.net/meta/channels.html?highlight=contact",
         "difficulty": "hard",
-        "notes": "Please send email a request if you'd like your account to be deleted.",
+        "notes": "Please email a request if you’d like your account to be deleted.",
         "notes_fr": "Veuillez envoyer votre demande au support à support@jsfiddle.net si vous voulez qu'on supprime votre compte.",
         "notes_it": "Spedisci una email a support@jsfiddle.net se desideri che il tuo account sia cancellato.",
         "notes_pt_br": "Envie um pedido para support@jsfiddle.net se você deseja que sua conta seja deletada.",
@@ -3648,33 +3621,35 @@
     },
 
     {
-        "name": "Open Shift",
-        "url": "https://www.openshift.com/faq/how-do-i-delete-my-account",
+        "name": "OpenShift",
+        "url": "https://developers.openshift.com/en/account-overview.html#_how_do_i_delete_my_account",
         "difficulty": "impossible",
-        "notes": "You can't delete your account including all data, only a 'soft delete' is possible where you can always re-enable your account. To achieve this, write an email to the support openshift@redhat.com",
-        "notes_de": "Es ist nicht möglich das Konto mit allen Daten zu löschen, es ist nur ein 'weiches Löschen' möglich, bei dem es immer die Möglichkeit des Wieder-Aktivierens gibt. Um das zu Erreichen, muss eine Email an den Support openshift@redhat.com verfasst werden."
+        "notes": "You can't delete your account including all data, only a ‘soft delete’ is possible where you can always re-enable your account.",
+        "notes_de": "Es ist nicht möglich das Konto mit allen Daten zu löschen, es ist nur ein 'weiches Löschen' möglich, bei dem es immer die Möglichkeit des Wieder-Aktivierens gibt."
     },
 
     {
         "name": "OpenDNS",
-        "url": "http://forums.opendns.com/comments.php?DiscussionID=8326",
+        "url": "http://www.opendns.com/support/contact/",
         "difficulty": "hard",
-        "notes": "You must open a ticket to completely get your account deleted at http://www.opendns.com/support/contact/",
-        "notes_fr": "Vous devez ouvrir un ticket de support pour supprimer totalement votre compte à http://www.opendns.com/support/contact/",
-        "notes_it": "Devi aprire un ticket alla pagina http://www.opendns.com/support/contact/ per eliminare completamente il tuo account",
-        "notes_pt_br": "Você deve abrir um ticket para ter sua conta completamente apagada em http://www.opendns.com/support/contact/",
-        "notes_cat": "Hauría d'enviar un 'ticket' para que s'elimini completament el compte http://www.opendns.com/support/contact/",
-        "notes_es": "Deberías enviar un 'tiquet' para eliminar la cuenta completamente http://www.opendns.com/support/contact/"
+        "notes": "You must open a ticket to completely get your account deleted.",
+        "notes_fr": "Vous devez ouvrir un ticket de support pour supprimer totalement votre compte à.",
+        "notes_it": "Devi aprire un ticket alla per eliminare completamente il tuo account.",
+        "notes_pt_br": "Você deve abrir um ticket para ter sua conta completamente apagada em.",
+        "notes_cat": "Hauría d'enviar un 'ticket' para que s'elimini completament el compte.",
+        "notes_es": "Deberías enviar un 'tiquet' para eliminar la cuenta completamente.",
+        "email": "contact@opendns.com",
+        "domains": [
+          "opendns.com"
+        ]
     },
 
     {
         "name": "Orkut",
-        "url": "https://accounts.google.com/DeleteService?service=orkut",
+        "url": "https://support.google.com/orkut/",
         "difficulty": "easy",
-        "notes_es": "Debería enviar un 'ticket' para que se elimine completamente la cuenta http://www.opendns.com/support/contact/",
         "domains": [
-            "forums.opendns.com",
-            "opendns.com"
+            "orkut.google.com"
         ]
     },
 
@@ -3823,7 +3798,7 @@
         "notes": "You must send an e-mail to support@peak.net requesting deletion. You will then receive a response from support asking for feedback and to confirm the deletion. The next e-mail you receive from support will notify you that your account has been deleted.",
         "notes_fr": "Il faut que vous demandez la suppression de votre compte dans un e-mail que vous envoyez à support@peak.net. Vous recevrez une réponse qui demande à la fois vos impressions de l'appli et une confirmation de la suppression. L'e-mail prochain que vous recevrez vous notifiera la suppression de votre compte.",
         "domains": [
-            "http://www.peak.net/"
+            "www.peak.net"
         ]
     },
 
@@ -4030,7 +4005,7 @@
         "notes": "Log into your account -> Click 'Need to close your account?' near the bottom of the page -> Confirm deletion",
         "notes_fr": "Connectez-vous -> Cliquez sur « Need to close your account? » au bas de la page -> Confirmez la suppression de votre compte",
         "domains": [
-            "https://preyproject.com/"
+            "preyproject.com"
         ]
     },
 
@@ -4270,7 +4245,7 @@
         "difficulty": "impossible",
         "notes": "Not possible. 'We currently do not have a feature for players to delete their accounts. If you no longer wish to play on your account, it will remain inactive until you're ready to play again.'",
         "domains": [
-            "http://www.roblox.com/"
+            "www.roblox.com"
         ]
     },
 
@@ -4613,7 +4588,7 @@
         "notes_fr": "Insère 'delete me' à la place pour la description à ton profil et envoie un e-mail à team@soup.io avec ton soup URL et une demande de suppression.",
         "email": "team@soup.io",
         "domains": [
-            "http://www.soup.io/"
+            "www.soup.io"
         ]
     },
 
@@ -5085,6 +5060,15 @@
     },
 
     {
+        "name": "Twenty20",
+        "url": "https://www.twenty20.com/delete-account?t20p=settings.index",
+        "difficulty": "easy",
+        "domains": [
+            "twenty20.com"
+        ]
+    },
+
+    {
         "name": "Twitch",
         "url": "https://secure.twitch.tv/user/disable_account",
         "difficulty": "easy",
@@ -5098,7 +5082,7 @@
         "name": "Twitter",
         "url": "https://twitter.com/settings/accounts/confirm_deactivation",
         "difficulty": "easy",
-        "notes": "Your account is actually 'deactivated' before being deleted. Only after 30 days of remaining deactivated will it then be deleted. <a href='https://support.twitter.com/articles/106871-come-disattivare-l-account'>Altri dettagli</a>",
+        "notes": "Your account is deactivated before being deleted. After 30 days of remaining deactivated it will then be deleted.",
         "notes_fr": "Votre compte est désactivé avant qu'il est supprimé. Il est seulement après 30 jours d'être désactivé qu'un compte est supprimé définitivement.",
         "notes_it": "Il tuo account verrà 'disabilitato' prima di venir rimosso. Se dopo 30 giorni è ancora disattivato esso verrà eliminato.",
         "domains": [
