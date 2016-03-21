@@ -1601,7 +1601,7 @@
 
     {
         "name": "Flattr",
-        "url": "https://flattr.com/deleteaccount",
+        "url": "https://flattr.com/settings/account/delete",
         "difficulty": "easy",
         "domains": [
             "flattr.com"
