@@ -4373,6 +4373,17 @@
     },
 
     {
+        "name": "Schoology",
+        "url": "https://app.schoology.com/settings/account/action?delete",
+        "difficulty": "easy",
+        "notes": "Click on the \"I Agree\" button.",
+        "notes_es": "Haz clic en el boton \"I Agree\" ",
+        "domains": [
+            "schoology.com"
+        ]
+    },
+
+    {
         "name": "Shopify",
         "url": "http://shopify.com/admin/settings/account",
         "difficulty": "easy",
