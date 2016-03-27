@@ -4288,6 +4288,15 @@
             "rovio.com"
         ]
     },
+    
+     {
+        "name": "Rue du Commerce",
+        "url": "http://www.rueducommerce.fr",
+        "difficulty": "impossible",
+        "notes": "No online request possible",
+        "notes_fr": "Pas de demande possible en ligne",
+    },
+
 
     {
         "name": "Runescape",
