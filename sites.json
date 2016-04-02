@@ -17,7 +17,8 @@
         "difficulty": "easy",
         "notes": "Login to your account, go to parameters, click Delete my account. Confirm by clicking I want to delete my account. And again by clicking Delete my 9GAG account.",
         "notes_it": "Logga il tuo account, vai su parameters, clicca Delete my account. Conferma cliccando I want to delete my account. E ancora cliccando Delete my 9GAG account."
-    },
+		"notes_de": "Logge dich in deinen Account ein, gehe auf parameters und klicke Delete my account an. Bestätige dies in dem du I want to delete my account und dann Delete my 9GAG account anklickst."
+	},
 
     {
         "name": "Abload",
@@ -710,6 +711,14 @@
         "url": "http://help.linkedin.com/app/answers/detail/a_id/63/kw/delete%20account",
         "difficulty": "easy"
     },
+	
+	{
+		"name": "LinksAlpha",
+		"url": "https://www.linksalpha.com/account/settings",
+		"difficulty": "easy",
+		"notes": "Login to your account, scroll down and click on 'Delete my Account'",
+		"notes_de": "Logge dich in deinen Account ein, scrolle nach unten und klicke auf 'Delete my Account'"
+	},
 
     {
         "name": "LiveJournal",
