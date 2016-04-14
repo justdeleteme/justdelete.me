@@ -2049,7 +2049,7 @@
     {
         "meta": "popular",
         "name": "Google",
-        "url": "https://www.google.com/accounts/Login",
+        "url": "https://myaccount.google.com/preferences#deleteservices",
         "difficulty": "easy",
         "domains": [
             "google.com",
