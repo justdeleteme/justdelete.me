@@ -1,5 +1,12 @@
 [
     {
+        "name": "US Largest Safelist",
+        "url": "http://uslargestsafelist.com/members/remove.php",
+        "difficulty": "easy",
+        "domains": [
+            "uslargestsafelist.com"
+        ]
+    },{
         "name": "4shared",
         "url": "http://www.4shared.com/web/account/settings#overview",
         "difficulty": "easy",
