@@ -275,6 +275,15 @@
     },
 
     {
+        "name": "Atlassian",
+        "url": "https://id.atlassian.com/manage/close-account",
+        "difficulty": "easy",
+        "domains": [
+            "atlassian.com"
+        ]
+    },
+
+    {
         "name": "Audiomack",
         "url": "http://www.audiomack.com/manage",
         "difficulty": "easy",
