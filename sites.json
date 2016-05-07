@@ -3885,12 +3885,8 @@
         "meta": "popular",
         "name": "Pinterest",
         "url": "https://pinterest.com/settings/",
-        "difficulty": "impossible",
-        "notes": "Accounts can be deactivated, which means that your pins and profile are hidden but not deleted.",
-        "notes_it": "Gli account possono essere disattivati, il che significa che i tuoi pin ed il tuoi profilo saranno nascosti ma non eliminati.",
-        "notes_pt_br": "Contas podem ser desativadas, o que significa que seus pins e perfil são ocultados mas não deletados.",
-        "notes_cat": "Els comptes poden ser desactivats, però els seus pins i perfil seràn ocultats, no esborrats.",
-        "notes_es": "Las cuentas pueden ser desactivadas, pero tus pins y perfil serán ocultados, no borrados.",
+        "difficulty": "easy",
+        "notes": "Accounts can be permanently closed by selecting the Deactivate Your Account link, then the link to permanently close your account, and by clicking the link in the confirmation E-mail.",
         "domains": [
             "pinterest.com"
         ]
