@@ -1643,6 +1643,17 @@
             "flixster.com"
         ]
     },
+    
+    {
+        "name": "Fluid UI",
+        "url": "https://www.fluidui.com/contact",
+        "difficulty": "hard",
+        "notes": "The easiest way is to log into your account and then start the support chat in the bootom right corner and ask for account deletion there. You can also contact the support by email: support@fluidui.com",
+        "email" : "support@fluidui.com",
+        "domains": [
+            "fluidui.com"
+        ]
+    },
 
     {
         "name": "Foodspotting",
