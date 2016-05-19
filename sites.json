@@ -726,6 +726,17 @@
             "cheddarapp.com"
         ]
     },
+    
+    {
+        "name": "ChooseYourBoss",
+        "url": "",
+        "difficulty": "easy",
+        "notes": "Login to your account, then click  « Delete my account » on the top right dropdown.",
+        "notes_fr": "Connectez-vous et cliquez sur « Supprimer mon compte ». dans liste déroulante en haut à droite.",
+        "domains": [
+            "chooseyourboss.com"
+        ]
+    },
 
     {
         "name": "Cinemagram",
