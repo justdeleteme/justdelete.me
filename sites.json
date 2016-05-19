@@ -4199,6 +4199,17 @@
             "rememberthemilk.com"
         ]
     },
+    
+    {
+        "name": "Remix jobs",
+        "url": "https://remixjobs.com/account/edit",
+        "difficulty": "easy",
+        "notes": "Login in, then click  « Delete the account » on the bottom of your account settings",
+        "notes_fr": "Connectez-vous et cliquez sur « Supprimer le compte ». en bas de vos paramètres de compte.",
+        "domains": [
+            "remixjobs.com"
+        ]
+    },
 
     {
         "name": "Replay Poker",
