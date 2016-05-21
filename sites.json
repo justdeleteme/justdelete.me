@@ -2059,15 +2059,15 @@
 
     {
         "name": "GoPetition",
-        "url": "http://www.gopetition.com/",
+        "url": "https://www.gopetition.com/accountclosure.php",
         "difficulty": "easy",
-        "notes": "Select a reason for closing and it'll take 2 clicks.",
-        "notes_fr": "Choisissez la raison de la suppression et cela se fait en 2 cliques.",
-        "notes_de": "Wähle einen Grund für die Löschung und es wird nur 2 Klicks benötigen.",
-        "notes_it": "Seleziona un motivo perchè stai chiudendo il tuo account e fatto",
-        "notes_pt_br": "Selecione um motivo para fechar a conta e irá levar dois cliques.",
-        "notes_cat": "Seleccioni un motiu per tancar el compte, només seran 2 clics",
-        "notes_es": "Selecciona un motivo para cerrar la cuenta, solo serán 2 clics",
+        "notes": "Enter a reason for closing and your password and click delete, however this is more like a deactivation as you can contact them to undelete it",
+        "notes_fr": "Saisissez une raison pour fermer et votre mot de passe et cliquez sur supprimer, mais cela est plus comme une désactivation que vous pouvez les contacter pour annuler la suppression",
+        "notes_de": "Geben Sie einen Grund für die Schließung und Ihr Passwort ein und klicken Sie auf löschen, was jedoch eher wie eine Deaktivierung ist, wie Sie sie es undelete kontaktieren",
+        "notes_it": "Inserisci un motivo per la chiusura e la password e fare clic su Elimina, tuttavia questo è più simile a una disattivazione, come si può contattarli per annullare l'eliminazione",
+        "notes_pt_br": "Entre com um motivo para o fechamento e sua senha e clique em excluir, no entanto, este é mais como uma desativação como você pode contatá-los para anular a eliminação",
+        "notes_cat": "Introduir un motiu per al tancament i la contrasenya i feu clic a Suprimeix, però, això s'assembla més a una desactivació com es pot contactar amb ells per restituir-lo de",
+        "notes_es": "Introducir un motivo para el cierre y su contraseña y haga clic en Eliminar, sin embargo, esto se parece más a una desactivación como se puede contactar con ellos para deshacer el borrado",
         "domains": [
             "gopetition.com"
         ]
