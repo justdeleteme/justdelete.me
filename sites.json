@@ -1960,10 +1960,10 @@
 
     {
         "name": "Gmail",
-        "url": "https://www.google.com/settings/datatools",
-        "difficulty": "easy",
-        "notes": "Login into your account →  Data Tools →  Delete Products →  Remove Gmail permanently ",
-        "notes_pl": "Zaloguj się na swoje konto → Zarządzanie danymi → Usuń usługi → Usuń usługę Gmail na stałe",
+        "url": "https://accounts.google.com/DeleteCaribouService",
+        "difficulty": "medium",
+        "notes": "You will need a new primary email address to delete just gmail, if you dont have one you will need to delete your entire google account",
+        "notes_pl": "Trzeba będzie nowy adres e-mail , aby usunąć podstawowej tylko w Gmailu , jeśli nie masz jednego trzeba będzie usunąć całe konto Google",
         "domains": [
             "mail.google.com"
         ]
