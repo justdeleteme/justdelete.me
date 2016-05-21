@@ -982,9 +982,8 @@
 
     {
         "name": "CryptFolio",
-        "url": "https://cryptfolio.com/",
+        "url": "https://cryptfolio.com/user#user_delete",
         "difficulty": "easy",
-        "notes": "Log into your User Profile and visit the Delete Account tab.",
         "domains": [
             "cryptfolio.com"
         ]
