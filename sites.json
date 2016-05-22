@@ -276,8 +276,9 @@
 
     {
         "name": "Audiomack",
-        "url": "http://www.audiomack.com/manage",
+        "url": "http://www.audiomack.com/dashboard#delete-account",
         "difficulty": "easy",
+        "notes" : "Click the delete account link in the bottom left corner",
         "domains": [
             "audiomack.com"
         ]
