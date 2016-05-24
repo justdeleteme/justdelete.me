@@ -21,7 +21,7 @@
         "name": "9GAG",
         "url": "https://9gag.com/member/delete",
         "difficulty": "easy",
-        "notes": "Login to your account, go to parameters, click Delete my account. Confirm by clicking I want to delete my account. And again by clicking Delete my 9GAG account.",
+        "notes": "Login to your account, go to me, click settings, click Delete my account. Confirm by clicking I want to delete my account. Enter your password and again by clicking Delete my 9GAG account.",
         "notes_fr": "Connectez vous, allez dans les parametres, cilquez sur supprimer mon compte. Confirmez en cliquant sur je supprimer mon compte. Et confirmez encore avec supprimer mon compte.",
         "notes_it": "Logga il tuo account, vai su parameters, clicca Delete my account. Conferma cliccando I want to delete my account. E ancora cliccando Delete my 9GAG account.",
         "notes_pt_br": "Faça login em sua conta, vá em parâmetros, clique em Delete my account. Confirme clicando em I want to delete my account. E novamente em Delete my 9GAG account.",
