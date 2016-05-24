@@ -4976,7 +4976,7 @@
         "name": "Torrent 411",
         "url": "https://www.t411.me/contactstaff/",
         "difficulty": "hard",
-        "notes": "you have to ask the staff to delete your account",
+        "notes": "You have to ask the staff to delete your account",
         "notes_fr": "Vous devez demander au staff pour supprimer votre compte",
         "domains": [
             "t411.me"
@@ -4992,6 +4992,16 @@
         ]
     },
 
+    {
+        "name": "TradeMe",
+        "url": "http://www.trademe.co.nz/help/116/closing-your-trade-me-account",
+        "difficulty": "hard",
+        "notes": "First you have to apply for a refund to your account. Then you have to ask the staff to delete your account",
+        "domains": [
+            "www.trademe.co.nz"
+        ]
+    },
+    
     {
         "name": "Transifex",
         "url": "http://support.transifex.com/customer/portal/articles/1052765-how-can-i-delete-my-account-",
