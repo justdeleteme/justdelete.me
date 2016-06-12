@@ -3067,6 +3067,16 @@
     },
 
     {
+        "name": "Lookout",
+        "url": "https://www.lookout.com/d/settings",
+        "difficulty": "easy",
+        "notes": "log into your account, in the middle right.",
+        "domains": [
+            "lookout.com"
+        ]
+    },
+
+    {
         "name": "LoseIt",
         "url": "http://www.loseit.com/#Settings:Account%20Information^Account%20Information",
         "difficulty": "easy",
@@ -3075,16 +3085,6 @@
             "loseit.com"
         ]
     },
-
-    {
-       "name":"Lookout",
-       "url":"https://www.lookout.com/d/settings",
-       "difficulty":"easy",
-       "notes": "log into your account, in the middle right.",
-       "domains": [
-         "lookout.com"
-       ]
-   },
 
     {
         "name": "Lovefilm",
