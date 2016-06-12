@@ -963,6 +963,17 @@
     },
 
     {
+        "name": "Credit Karma",
+        "url": "https://help.creditkarma.com/hc/en-us/articles/202466954-How-do-I-cancel-my-membership-",
+        "difficulty": "easy",
+        "notes": "Membership can be canceled either online or by mail. Once you cancel, you will no longer have access to your Credit Karma account history and you won’t be able to create a new account for six months.",
+        "domains": [
+            "creditkarma.com",
+            "help.creditkarma.com"
+        ]
+    },
+
+    {
         "name": "CreditExpert",
         "url": "https://www.creditexpert.co.uk/",
         "difficulty": "hard",
