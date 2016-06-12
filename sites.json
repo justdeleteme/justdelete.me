@@ -2595,6 +2595,17 @@
     },
 
     {
+        "name": "Intel Education Study (was Kno)",
+        "url": "https://www.study.intel.com/support",
+        "difficulty": "hard",
+        "notes": "You can close your account if you contact customer service either by phone or live chat",
+        "notes_fr": "Vous pouvez supprimer votre compte si vous contactez le support du site au téléphone ou par Live Chat.",
+        "domains": [
+            "study.intel.com"
+        ]
+    },
+
+    {
         "name": "Internetometer",
         "url": "http://internetometer.com/",
         "difficulty": "impossible",
@@ -2847,17 +2858,6 @@
         "notes_es": "Tardarán aproximadamente 180 días para eliminar tus datos del sistema.",
         "domains": [
             "klout.com"
-        ]
-    },
-
-    {
-        "name": "Intel Education Study (was Kno)",
-        "url": "https://www.study.intel.com/support",
-        "difficulty": "hard",
-        "notes": "You can close your account if you contact customer service either by phone or live chat",
-        "notes_fr": "Vous pouvez supprimer votre compte si vous contactez le support du site au téléphone ou par Live Chat.",
-        "domains": [
-            "study.intel.com"
         ]
     },
 
