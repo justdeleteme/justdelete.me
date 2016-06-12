@@ -3642,14 +3642,6 @@
     },
 
     {
-        "name": "OpenShift",
-        "url": "https://developers.openshift.com/en/account-overview.html#_how_do_i_delete_my_account",
-        "difficulty": "impossible",
-        "notes": "You can't delete your account including all data, only a ‘soft delete’ is possible where you can always re-enable your account.",
-        "notes_de": "Es ist nicht möglich das Konto mit allen Daten zu löschen, es ist nur ein 'weiches Löschen' möglich, bei dem es immer die Möglichkeit des Wieder-Aktivierens gibt."
-    },
-
-    {
         "name": "OpenDNS",
         "url": "http://www.opendns.com/support/contact/",
         "difficulty": "hard",
@@ -3663,6 +3655,14 @@
         "domains": [
           "opendns.com"
         ]
+    },
+
+    {
+        "name": "OpenShift",
+        "url": "https://developers.openshift.com/en/account-overview.html#_how_do_i_delete_my_account",
+        "difficulty": "impossible",
+        "notes": "You can't delete your account including all data, only a ‘soft delete’ is possible where you can always re-enable your account.",
+        "notes_de": "Es ist nicht möglich das Konto mit allen Daten zu löschen, es ist nur ein 'weiches Löschen' möglich, bei dem es immer die Möglichkeit des Wieder-Aktivierens gibt."
     },
 
     {
