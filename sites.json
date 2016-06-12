@@ -2259,6 +2259,16 @@
     },
 
     {
+        "name": "Her Future",
+        "url": "http://www.herfuture.com/profiles/settings/editProfileInfo",
+        "difficulty": "easy",
+        "notes": "Log in, then navigate to 'Settings', then scroll to the bottom and click the 'Leave Her Future' link.",
+        "domains": [
+            "herfuture.com"
+        ]
+    },
+
+    {
         "name": "Heroku",
         "url": "https://dashboard.heroku.com/account",
         "difficulty": "easy",
