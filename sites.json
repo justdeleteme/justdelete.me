@@ -4791,6 +4791,16 @@
     },
 
     {
+        "name": "Storenvy",
+        "url": "http://www.storenvy.com/account",
+        "difficulty": "easy",
+        "notes": "Log in, then navigate to 'Account Settings' > 'Profile'. Scroll to the bottom and click 'Delete my Storenvy store & account'. Click 'OK' when prompted to confirm.",
+        "domains": [
+            "storenvy.com"
+        ]
+    },
+
+    {
         "name": "Storify",
         "url": "http://storify.com/settings#account",
         "difficulty": "easy",
