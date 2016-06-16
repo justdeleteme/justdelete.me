@@ -3432,6 +3432,16 @@
     },
 
     {
+        "name": "Namecheap",
+        "url": "https://www.namecheap.com/support/knowledgebase/article.aspx/303/44/how-do-i-cancel-or-close-my-account-with-you",
+        "difficulty": "hard",
+        "notes": "You have to contact Customer Support to delete your account, and provide your account username, support pin and reason why you would like to close your account.",
+        "domains": [
+            "namecheap.com"
+        ]
+    },
+
+    {
         "name": "Nearpod",
         "url": "http://www.nearpod.com/contact/",
         "difficulty": "hard",
