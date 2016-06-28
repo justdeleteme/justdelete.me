@@ -4954,6 +4954,16 @@
     },
 
     {
+        "name": "TIDAL",
+        "url": "https://support.tidal.com/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "You have to contact customer service to have your account deleted.",
+        "domains": [
+            "tidal.com"
+        ]
+    },
+
+    {
         "name": "TinyDeal",
         "url": "http://help.tinydeal.com/contact-us",
         "difficulty": "impossible",
