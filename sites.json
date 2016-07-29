@@ -2103,10 +2103,10 @@
 
     {
         "name": "Grammarly",
-        "url": "https://ed.grammarly.com/accounts/me",
+        "url": "https://app.grammarly.com/profile/account",
         "difficulty": "easy",
         "domains": [
-            "ed.grammarly.com",
+            "app.grammarly.com",
             "grammarly.com"
         ]
     },
