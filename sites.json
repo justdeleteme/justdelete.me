@@ -3158,6 +3158,18 @@
     },
 
     {
+        "name": "Mediapart",
+        "url": "https://www.mediapart.fr/contenu/conditions-generales-d-utilisation",
+        "email": "contact@mediapart.fr",
+        "difficulty": "hard",
+        "notes": "No information is clearly provided how to delete account. You have to send an email to explicitly ask for deletion of every information related to your account otherwise they will only disable it.",
+        "notes_fr": "Il faut envoyer un mail et demander la suppression définitive de toute information liée au compte, sinon ils vont uniquement le désactiver(ex: les données bancaires demeurent). Conseil: Invoquer la CNIL (https://www.cnil.fr/fr/modele/courrier/supprimer-des-informations-vous-concernant-dun-site-internet).",
+        "domains": [
+            "mediapart.fr"
+        ]
+    },
+
+    {
         "name": "Medium",
         "url": "https://medium.com/me/settings",
         "difficulty": "easy",
