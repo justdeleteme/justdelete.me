@@ -211,6 +211,17 @@
     },
 
     {
+        "name": "Arcor.de",
+        "url": "http://www.arcor.de/hilfe/neu/index.php?sid=&aktion=anzeigen&rubrik=063001&id=20"
+        "difficulty": "hard",
+        "notes": "You have to call to request the deletion."
+        "domains": [
+            "home.arcor.de",
+            "arcor.de"
+        ]
+    },
+    
+    {
         "name": "Argyle Social",
         "url": "http://app.argylesocial.com/contact_us",
         "difficulty": "impossible",
