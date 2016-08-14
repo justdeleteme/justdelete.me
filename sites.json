@@ -212,9 +212,9 @@
 
     {
         "name": "Arcor.de",
-        "url": "http://www.arcor.de/hilfe/neu/index.php?sid=&aktion=anzeigen&rubrik=063001&id=20"
-        "difficulty": "hard",
-        "notes": "You have to call to request the deletion."
+        "url": "http://www.arcor.de/register/admin_kuendigen_pw.jsp",
+        "difficulty": "easy",
+        "notes": "Only viable if you have online accounts only.",
         "domains": [
             "home.arcor.de",
             "arcor.de"
