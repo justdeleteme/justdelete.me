@@ -1658,19 +1658,10 @@
         "name": "Forrst",
         "url": "http://forrst.com/settings",
         "difficulty": "easy",
-        "domains": [
-            "forrst.com"
-        ]
-    },
-
-    {
-        "name": "Forrst",
-        "url": "http://forrst.com/settings",
-        "difficulty": "easy",
         "notes_es": "Para borrar su cuenta no debe subir nada en 3 días.",
         "notes_pl": "Aby usunąć swoje konto, nie możesz dodawać żadnych treści przez co najmniej trzy dni.",
         "domains": [
-            "fotka.pl"
+            "forrst.com"
         ]
     },
 
@@ -1684,7 +1675,10 @@
         "notes_de": "Um deinen Account zu löschen, schreibe nichts für mindestens drei Tage.",
         "notes_pt_br": "Para deletar sua conta, você deve postar nada por pelo menos três dias.",
         "notes_cat": "Per esborrar el seu compte no ha de pujar res en 3 dies.",
-        "notes_es": "Para borrar tu cuenta no debes subir nada por lo menos 3 días."
+        "notes_es": "Para borrar tu cuenta no debes subir nada por lo menos 3 días.",
+        "domains": [
+            "fotka.pl"
+        ]
     },
 
     {
@@ -4610,13 +4604,8 @@
     {
         "name": "Speaker Deck",
         "url": "https://speakerdeck.com/tos",
-        "difficulty": "impossible",
-        "notes": "If you wish to terminate your Speaker Deck account, you may simply discontinue using Speaker Deck.",
-        "notes_fr": "Si vous ne voulez plus votre compte Speaker Desk, vous pouvez simplement arrêter votre usage du service.",
-        "notes_it": "Se desideri terminare il tuo Speaker Deck account, devi semplicemente non usarlo più.",
-        "notes_pt_br": "Se você deseja terminar sua conta Speaker Deck, você pode apenas parar de usar Speaker Deck.",
-        "notes_cat": "Si vol acabar amb el seu compte d'Speaker Deck, simplement deixi de fer servir Speaker Deck.",
-        "notes_es": "Dicen: «Si quieres eliminar tu cuenta de Speaker Deck, simplemente deja de usar Speaker Deck.»",
+        "difficulty": "https://speakerdeck.com/account",
+        "notes": "Scroll to the bottom of page and click on the 'Delete my account and all of my presentations'.",
         "domains": [
             "speakerdeck.com"
         ]
@@ -5047,15 +5036,6 @@
         "difficulty": "easy",
         "domains": [
             "tumblr.com"
-        ]
-    },
-
-    {
-        "name": "Tweetdeck",
-        "url": "https://www.tweetdeck.com/api/account-delete/",
-        "difficulty": "easy",
-        "domains": [
-            "tweetdeck.com"
         ]
     },
 
@@ -5547,14 +5527,9 @@
     {
         "meta": "popular",
         "name": "YouTube",
-        "url": "https://support.google.com/youtube/answer/55759",
-        "difficulty": "impossible",
-        "notes": "You can’t delete your YouTube account without deleting your entire Google or Google+ account. But you can delete your YouTube channel.",
-        "notes_fr": "Vous ne pouvez pas supprimer votre compte YouTube sans supprimer votre compte Google. Mais vous pouvez supprimer votre chaîne.",
-        "notes_it": "Non puoi eliminare il tuoi account di YouTube senza eliminare anche il tuo account Google. Ma puoi eliminare il tuo canale.",
-        "notes_cat": "No pots esborrar el teu compte de YouTube sense borrar tot el compte de Google, però pots borrar el teu canal.",
-        "notes_es": "No puedes borrar tu cuenta de YouTube sin borrar toda la cuenta de Google, pero puedes borrar tu canal.",
-        "notes_pl": "Nie ma możliwosći usunięcia konta w usłudze YouTube bez usuwania całego konta Google. Możesz jedynie usunąć swój kanał.",
+        "url": "https://myaccount.google.com/deleteservices",
+        "difficulty": "medium",
+        "notes": "You can request your data copy before you delete YouTube account.",
         "domains": [
             "youtube.com"
         ]
