@@ -888,6 +888,17 @@
             "coinbase.com"
         ]
     },
+    
+    {
+        "name": "CoinPayments",
+        "url": "https://www.coinpayments.net/help-support",
+        "difficulty": "impossible",
+        "notes": "",
+        "domains": [
+            "coinpayments.net",
+            "www.coinpayments.net"
+        ]
+    },   
 
     {
         "name": "Comment ça marche",
