@@ -5598,5 +5598,12 @@
         "domains": [
             "zynga.com"
         ]
+    },
+    
+    {
+        "name": "Online.net",
+        "url": "https://online.net",
+        "difficulty": "impossible",
+        "notes": "The french law force them to keep your account because he's linked to your bills."
     }
 ]
