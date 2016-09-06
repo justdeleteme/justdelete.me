@@ -1699,9 +1699,9 @@
 
     {
         "name": "Freelancer",
-        "url": "http://www.freelancer.com/report/contact.php",
-        "difficulty": "hard",
-        "notes": "Make sure your account balance is positive, then issue a support ticket requesting to close your account.",
+        "url": "https://www.freelancer.com/users/settings.php#AccountSettings",
+        "difficulty": "easy",
+        "notes": "At the bottom of the page, click 'Close account'.",
         "notes_fr": "Vous assurez que votre solde est positif, puis créez un ticket de support pour demander la suppression de votre compte.",
         "notes_de": "Stelle sicher, dass der Kontostand positiv ist, dann erstelle ein Support-Ticket um deinen Account zur Löschung zu beantragen.",
         "notes_it": "Assicurati che il saldo sia positivo, quindi apri un ticket di supporto per chiudere il tuo account.",
