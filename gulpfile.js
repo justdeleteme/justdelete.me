@@ -19,7 +19,7 @@ gulp.task('jsonlint', function() {
 });
     
 gulp.task('clean', function(callback) {
-    return del(['site/*.html'], callback);
+    return del(['docs/*.html'], callback);
 });
 
 gulp.task('translate', ['clean'], function() {
@@ -48,7 +48,7 @@ gulp.task('translate', ['clean'], function() {
                 assetPath: 'assets'
             }))
             .pipe(swig())
-            .pipe(gulp.dest('site'));
+            .pipe(gulp.dest('docs'));
     });
   
 });
