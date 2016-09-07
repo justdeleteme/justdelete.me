@@ -5024,8 +5024,8 @@
     
     {
         "name": "Trillian",
-        "url": "http://www.trillian.im/account/#delete"
-        "difficulty": "easy";
+        "url": "http://www.trillian.im/account/#delete",
+        "difficulty": "easy",
         "notes": "Select the option to delete your account and enter your username, password and the code which will be send to your mailaddress.",
         "notes_nl": "Selecteer de optie om uw account te verwijderen en vul de gebruikersnaam, wachtwoord en de code in die wordt verstuurd naar uw mailadres.",
         "domains": [
