@@ -1,5 +1,16 @@
 [
     {
+        "name": "247exchange",
+        "url": "https://help.247exchange.com/index.php?/Knowledgebase/Article/View/169/0/how-to-close-247exchange-account",
+        "difficulty": "medium",
+        "notes": "Send a request to the Compliance Department using the link: https://help.247exchange.com/index.php?/Tickets/Submit/RenderForm/4",
+        "notes_es": "Enviar una solicitud a el Departamento de Cumplimiento: https://help.247exchange.com/index.php?/Tickets/Submit/RenderForm/4",
+        "domains": [
+            "247exchange.com"
+        ]
+    },
+    
+    {
         "name": "4shared",
         "url": "http://www.4shared.com/web/account/settings#overview",
         "difficulty": "easy",
