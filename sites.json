@@ -3470,6 +3470,15 @@
         ]
     },
 
+  {
+        "name": "Netology",
+        "url": "http://netology.ru",
+        "difficulty": "impossible",
+        "domains": [
+            "netology.ru"
+        ]
+    },
+
     {
         "name": "Netlog",
         "url": "http://en.netlog.com/go/login",
