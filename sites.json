@@ -1042,6 +1042,17 @@
             "kinja.com"
         ]
     },
+	
+    {
+        "name": "Deezer",
+        "url": "https://www.deezer.com/account",
+        "difficulty": "easy",
+        "notes": "The Delete my account button ist at the bottom of the page. You have to cancel all subscriptions before you go forward.",
+        "notes_de": "Der button Delete my account ist ganz unten. Um den Account löschen zu können müssen alle Abos gekündigt sein.",
+        "domains": [
+            "deezer.com"
+        ]
+    },
 
     {
         "name": "Delicious",
