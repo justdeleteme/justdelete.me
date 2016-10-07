@@ -139,7 +139,7 @@
         "notes": "To close your account, contact Amazon by email (via this contact form) and request that your account be closed.",
         "notes_fr": "Pour fermer votre compte, contactez Amazon par mail (par le formulaire de contact) et demandez la fermeture de votre compte.",
         "notes_it": "Per chiudere il tuo account, contatta amazon via mail (utilizzando il form contattaci) richiedendo di chiudere il tuo account",
-        "notes_de": "Um deinen Account zu löschen, kontaktiere den Support über den Link und beantrage die Löschung dort.",
+        "notes_de": "Um deinen Account zu löschen, kontaktiere den Support über den Link und beantrage dort die Löschung.",
         "notes_pt_br": "Para fechar sua conta, contate Amazon por e-mail (usando este modelo de contato) e requira que sua conta seja fechada.",
         "notes_cat": "Per tancar el seu compte, contacti amb Amazon via e-mail (omplint aquest formulari de contacte) i demanant que es tanqui el seu compte.",
         "notes_es": "Para cerrar tu cuenta, contacta con Amazon via e-mail (rellenando este formulario de contacto) y pidiendo que se cierre tu cuenta.",
@@ -160,6 +160,14 @@
             "portal.aws.amazon.com",
             "amazon.com"
         ]
+    },
+
+    {
+        "name": "Amen",
+        "url": "https://getamen.com/help#faq-delete-account",
+        "difficulty": "medium",
+        "notes": "An Amen account must be deleted via request per E-Mail to the following E-Mail address: feedback@getamen.com"
+        "email": "feedback@getamen.com"
     },
 
     {
