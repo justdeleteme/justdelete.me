@@ -4792,6 +4792,16 @@
             "strava.com"
         ]
     },
+    
+    {
+        "name": "Stripe",
+        "url": "https://dashboard.stripe.com/account/data",
+        "difficulty": "easy",
+        "notes": "Select \"Close this account...\" in the data tab of your account settings.",
+        "domains": [
+            "stripe.com"
+        ]
+    },
 
     {
         "name": "StumbleUpon",
