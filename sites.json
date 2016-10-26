@@ -1468,10 +1468,10 @@
         "name": "Etsy",
         "url": "http://www.etsy.com/help/article/53",
         "difficulty": "hard",
-        "notes": "You can't have any unpaid Etsy bills or an open non-delivery reports. Your email address will remain on file.",
-        "notes_fr": "Vous ne pouvez pas avoir d'ardoise Etsy ou de rapport ouvert de défaut de livraison. Votre adresse e-mail restera enregistré.",
+        "notes": "You have to contact Etsy. As they've stated, “when a member closes an account, it becomes inaccessible and will remain deactivated, unless the member requests it reopened. Account information remains securely on file with them, and Etsy has a detailed Privacy Policy that explains how we use members' information. This policy includes a statement regarding data retention.”",
+        "notes_fr": "Vous devez contactez Etsy. Lorsqu'un membre ferme un compte, il devient inaccessible et reste désactivé, à moins que le membre demande sa réouverture. Les informations du compte restent conservées de manière sécuritsée, et Etsy a une politique de confidentialité détaillée expliquant comment ils utilisent les informations des membres. Cette politique inclut une déclaration concernant la conservation des données.",
         "notes_it": "Non puoi avere nessuna bolletta Etsy non pagata o un aperta segnalazione. La tua email rimarrà nei file",
-        "notes_pt_br": "Você não pode ter dívidas com a Etsy ou uma denúncia de entrega aberta. Seu endereço de e-mail permanecerá armazenado.",
+        "notes_pt_br": "Tem de contactar o Etsy. Como eles afirmam, quando uma conta é fechada, fica inacessível e desactivada, a menos que o dono da conta a queira reabrir. A informação da conta é guardada pelo Etsy e regulada pela Política de Privacidade. A Política inclui informação sobre retenção de dados.",
         "notes_cat": "No pot tindre pagaments pendents amb Etsy o una entrega pendent. El seu e-mail continuarà als seus fitxers.",
         "notes_es": "No puedes tener pagos pendientes con Etsy o una entrega pendiente. Tu e-mail permanencerá en las bases de datos.",
         "domains": [
