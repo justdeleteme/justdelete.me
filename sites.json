@@ -2633,6 +2633,15 @@
             "apple.com"
         ]
     },
+    
+    {
+        "name": "iversity",
+        "url": "https://iversity.org/de/user/deactivate",
+        "difficulty": "easy",
+        "domains": [
+            "iversity.com"
+        ]
+    },    
 
     {
         "name": "Jalopnik (Gawker Media)",
