@@ -963,6 +963,17 @@
     },
 
     {
+        "name": "Credit Karma",
+        "url": "https://help.creditkarma.com/hc/en-us/articles/202466954-How-do-I-cancel-my-membership-",
+        "difficulty": "easy",
+        "notes": "Membership can be canceled either online or by mail. Once you cancel, you will no longer have access to your Credit Karma account history and you won’t be able to create a new account for six months.",
+        "domains": [
+            "creditkarma.com",
+            "help.creditkarma.com"
+        ]
+    },
+
+    {
         "name": "CreditExpert",
         "url": "https://www.creditexpert.co.uk/",
         "difficulty": "hard",
@@ -1301,7 +1312,7 @@
 
     {
         "name": "Dwolla",
-        "url": "http://help.dwolla.com/customer/portal/articles/269223-how-can-i-delete-my-dwolla-account-",
+        "url": "http://help.dwolla.com/customer/en/portal/articles/1203269-closing-your-dwolla-account",
         "difficulty": "hard",
         "notes": "All accounts stay in their system for at least 3 years. Remove any banking information before you delete.",
         "notes_fr": "Tous les comptes restent dans le système pour 3 ans au moins. Enlevez toutes les informations bancaires avant la suppression.",
@@ -1753,7 +1764,7 @@
         "url": "http://www.gg.pl/pomoc/ustawienia-moje-konto-profil/",
         "difficulty": "easy",
         "notes": "You will find option to remove your account under Profile - My Account tab, after log in. Removed GG account number is going back to available numbers for new users.",
-        "notes_pl": "Po zalogowaniu się do konta w zakładce Moje konto - Profil znajduje się opcja usuń konto. Usunięty numer GG wraca do puli numerów dostępnych dla nowych użytkowników.",
+        "notes_pl": "Po zalogowaniu się do konta w zakładce Moje konto - Profil znajduje się opcja usuń konto. Usunięty numer GG wraca do puli numerów dostępnych dla nowych użytkowników.",
         "domains": [
             "www.gg.pl"
         ]
@@ -2248,6 +2259,16 @@
     },
 
     {
+        "name": "Her Future",
+        "url": "http://www.herfuture.com/profiles/settings/editProfileInfo",
+        "difficulty": "easy",
+        "notes": "Log in, then navigate to 'Settings', then scroll to the bottom and click the 'Leave Her Future' link.",
+        "domains": [
+            "herfuture.com"
+        ]
+    },
+
+    {
         "name": "Heroku",
         "url": "https://dashboard.heroku.com/account",
         "difficulty": "easy",
@@ -2574,6 +2595,17 @@
     },
 
     {
+        "name": "Intel Education Study (was Kno)",
+        "url": "https://www.study.intel.com/support",
+        "difficulty": "hard",
+        "notes": "You can close your account if you contact customer service either by phone or live chat",
+        "notes_fr": "Vous pouvez supprimer votre compte si vous contactez le support du site au téléphone ou par Live Chat.",
+        "domains": [
+            "study.intel.com"
+        ]
+    },
+
+    {
         "name": "Internetometer",
         "url": "http://internetometer.com/",
         "difficulty": "impossible",
@@ -2839,17 +2871,6 @@
     },
 
     {
-        "name": "Intel Education Study (was Kno)",
-        "url": "https://www.study.intel.com/support",
-        "difficulty": "hard",
-        "notes": "You can close your account if you contact customer service either by phone or live chat",
-        "notes_fr": "Vous pouvez supprimer votre compte si vous contactez le support du site au téléphone ou par Live Chat.",
-        "domains": [
-            "study.intel.com"
-        ]
-    },
-
-    {
         "name": "Koding",
         "url": "https://koding.com/Account/Delete",
         "difficulty": "easy",
@@ -3055,6 +3076,16 @@
     },
 
     {
+        "name": "Lookout",
+        "url": "https://www.lookout.com/d/settings",
+        "difficulty": "easy",
+        "notes": "log into your account, in the middle right.",
+        "domains": [
+            "lookout.com"
+        ]
+    },
+
+    {
         "name": "LoseIt",
         "url": "http://www.loseit.com/#Settings:Account%20Information^Account%20Information",
         "difficulty": "easy",
@@ -3063,16 +3094,6 @@
             "loseit.com"
         ]
     },
-
-    {
-       "name":"Lookout",
-       "url":"https://www.lookout.com/d/settings",
-       "difficulty":"easy",
-       "notes": "log into your account, in the middle right.",
-       "domains": [
-         "lookout.com"
-       ]
-   },
 
     {
         "name": "Lovefilm",
@@ -3630,14 +3651,6 @@
     },
 
     {
-        "name": "OpenShift",
-        "url": "https://developers.openshift.com/en/account-overview.html#_how_do_i_delete_my_account",
-        "difficulty": "impossible",
-        "notes": "You can't delete your account including all data, only a ‘soft delete’ is possible where you can always re-enable your account.",
-        "notes_de": "Es ist nicht möglich das Konto mit allen Daten zu löschen, es ist nur ein 'weiches Löschen' möglich, bei dem es immer die Möglichkeit des Wieder-Aktivierens gibt."
-    },
-
-    {
         "name": "OpenDNS",
         "url": "http://www.opendns.com/support/contact/",
         "difficulty": "hard",
@@ -3649,8 +3662,16 @@
         "notes_es": "Deberías enviar un 'tiquet' para eliminar la cuenta completamente.",
         "email": "contact@opendns.com",
         "domains": [
-          "opendns.com"
+            "opendns.com"
         ]
+    },
+
+    {
+        "name": "OpenShift",
+        "url": "https://developers.openshift.com/en/account-overview.html#_how_do_i_delete_my_account",
+        "difficulty": "impossible",
+        "notes": "You can't delete your account including all data, only a ‘soft delete’ is possible where you can always re-enable your account.",
+        "notes_de": "Es ist nicht möglich das Konto mit allen Daten zu löschen, es ist nur ein 'weiches Löschen' möglich, bei dem es immer die Möglichkeit des Wieder-Aktivierens gibt."
     },
 
     {
@@ -4779,6 +4800,16 @@
     },
 
     {
+        "name": "Storenvy",
+        "url": "http://www.storenvy.com/account",
+        "difficulty": "easy",
+        "notes": "Log in, then navigate to 'Account Settings' > 'Profile'. Scroll to the bottom and click 'Delete my Storenvy store & account'. Click 'OK' when prompted to confirm.",
+        "domains": [
+            "storenvy.com"
+        ]
+    },
+
+    {
         "name": "Storify",
         "url": "http://storify.com/settings#account",
         "difficulty": "easy",
@@ -5521,7 +5552,7 @@
         "name": "Yammer",
         "url": "https://www.yammer.com/mozillians/account/display_options",
         "difficulty": "easy",
-        "notes": "On the above URL, click the 'Delete your Yammer account' link in the topright and confirm.",
+        "notes": "On the above URL, click the 'Delete your Yammer account' link in the top right and confirm.",
         "domains": [
             "yammer.com"
         ]
