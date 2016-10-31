@@ -5086,6 +5086,15 @@
     },
 
     {
+        "name": "Twitpic",
+        "url": "https://twitpic.com/account/delete",
+        "difficulty": "easy",
+        "domains": [
+            "twitpic.com"
+        ]
+    },
+    
+    {
         "meta": "popular",
         "name": "Twitter",
         "url": "https://twitter.com/settings/accounts/confirm_deactivation",
