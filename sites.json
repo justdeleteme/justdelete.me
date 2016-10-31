@@ -3090,6 +3090,17 @@
     },
 
     {
+        "name": "Lufthansa",
+        "url": "https://www.lufthansa.com/online/myportal/lh/uk/my_account/profile/update?action=deleteProfileAction",
+        "difficulty": "easy",
+        "domains": [
+            "lh.com",
+            "lufthansa.com",
+            "lufthansa.de"
+        ]
+    },
+    
+    {
         "name": "Lumi",
         "url": "https://lumi.do/account/privacy/delete/user",
         "difficulty": "easy",
