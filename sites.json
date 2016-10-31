@@ -2906,6 +2906,17 @@
     },
 
     {
+        "name": "Kununu",
+        "url": "https://www.kununu.com/user/delete",
+        "difficulty": "easy",
+        "notes": "An email will be sent with a link to delete your account.",
+        "notes_de": "Es wird eine E-Mail mit einem Link zum Löschen des Accounts gesendet.",
+        "domains": [
+            "kununu.com"
+        ]
+    },
+    
+    {
         "name": "Last.fm",
         "url": "http://www.last.fm/settings/account",
         "difficulty": "easy",
