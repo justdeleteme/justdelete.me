@@ -211,6 +211,17 @@
     },
 
     {
+        "name": "Arcor.de",
+        "url": "http://www.arcor.de/register/admin_kuendigen_pw.jsp",
+        "difficulty": "easy",
+        "notes": "Only viable if you have online accounts only.",
+        "domains": [
+            "home.arcor.de",
+            "arcor.de"
+        ]
+    },
+    
+    {
         "name": "Argyle Social",
         "url": "http://app.argylesocial.com/contact_us",
         "difficulty": "impossible",
