@@ -5278,13 +5278,23 @@
             "vk.com"
         ]
     },
-
+    
     {
         "name": "WAYN",
         "url": "http://www.wayn.com/wayn.html?wci=unregister",
         "difficulty": "easy",
         "domains": [
             "wayn.com"
+        ]
+    },
+
+    {
+        "name": "Warmshowers",
+        "url": "https://www.warmshowers.org/faq#t21n3794",
+        "difficulty": "easy",
+        "notes": "Click the \"Cancel account\" button at the bottom of the page when editing your account.",
+        "domains": [
+            "warmshowers.org"
         ]
     },
 
