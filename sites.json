@@ -1971,14 +1971,15 @@
 
     {
         "name": "GMX",
-        "url": "http://www.gmx.net/",
-        "difficulty": "impossible",
-        "notes": "You can't delete your account, but you can deactivate it. (Start →  Mein Account →  Account stilllegen)",
-        "notes_de": "Du kannst deinen Account nicht löschen, aber du kannst ihn deaktivieren (Start →  Mein Account →  Account stilllegen)",
-        "notes_it": "Non puoi cancellare il tuo account, ma puoi disattivarlo. (Start →  Mein Account →  Account stilllegen)",
-        "notes_pt_br": "Você não pode deletar sua conta, mas você pode desativá-la. (Start →  Mein Account →  Account stilllegen)",
-        "notes_cat": "Vosté no pot esborrar el seu compte, però pot desactivar-lo. (Start →  Mein Account →  Account stilllegen)",
-        "notes_es": "No puedes borrar tu cuenta, pero puedes desactivarla. (Start →  Mein Account →  Account stilllegen)",
+        "url": "https://support.gmx.com/account/managing/delete.html",
+        "difficulty": "easy",
+        "notes": "Please be aware that after 6 month of deletion it is possible for anyone to register the same account (email address) again. (Log into your account → Home →  My Account → Delete Account → Enter your GMX password → Save Changes)",
+        "notes_de": "Bitte beachte, dass es nach 6 Monaten des Löschens möglich ist, dasselbe Konto erneut zu registrieren. (Melde dich auf deinem Konto an → Startseite → Mein Konto → Konto löschen → Geben dein GMX Passwort ein → Änderungen speichern)",
+        "notes_fr": "N'oubliez pas qu'après 6 mois de suppression, il est possible pour tout le monde d'enregistrer le même compte à nouveau. (Connectez-vous à votre compte → Accueil → Mon compte → Supprimer un compte → Entrez votre mot de passe GMX → Enregistrer les modifications)",
+        "notes_it": "Si prega di essere consapevoli del fatto che, dopo sei mesi di cancellazione è possibile per chiunque di registrarsi di nuovo lo stesso account. (Accedi al tuo account → Home → Il mio account → Elimina account → Inserire la password GMX → Salva modifiche)",
+        "notes_pt_br": "Lembre-se de que, após 6 meses de exclusão, é possível que qualquer pessoa registre a mesma conta novamente. (Efetue login na sua conta → Início → Minha conta → Apagar conta → Digite sua senha GMX → Salvar alterações)",
+        "notes_cat": "Recordeu que després de les 6 mes d'eliminació és possible per a qualsevol persona per registrar el mateix compte de nou. (Entrar en el seu compte → Inici → El meu compte → → Elimina el compte Introduïu la contrasenya GMX → Desa els canvis)",
+        "notes_es": "Tenga en cuenta que después de 6 meses de borrado, es posible que cualquier persona registre la misma cuenta de nuevo. (Acceda a su cuenta → Inicio → Mi cuenta → Eliminar cuenta → Ingrese su contraseña de GMX → Guardar cambios)",
         "domains": [
             "gmx.net"
         ]
