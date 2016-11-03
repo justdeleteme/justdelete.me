@@ -3125,6 +3125,16 @@
     },
 
     {
+        "name": "mailbox.org",
+        "url": "https://support-en.mailbox.org/knowledge-base/article/terminate-my-account",
+        "difficulty": "easy",
+        "notes": "The mailbox.org interface provides a form to terminate your account and request a refund. (Log into your account → Settings → mailbox.org → Cancel Account)",
+        "domains": [
+            "mailbox.org"
+        ]
+    },
+
+    {
         "name": "Mapbox",
         "url": "https://www.mapbox.com/account/billing/",
         "difficulty": "easy",
