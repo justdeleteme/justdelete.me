@@ -3125,6 +3125,16 @@
     },
 
     {
+        "name": "mailgun",
+        "url": "https://mailgun.uservoice.com/knowledgebase/articles/220442-how-do-i-cancel-my-account",
+        "difficulty": "easy",
+        "notes": "Click on your email address at the top right → Account Settings → Cancel Account",
+        "domains": [
+            "mailgun.com"
+        ]
+    },
+    
+    {
         "name": "Mapbox",
         "url": "https://www.mapbox.com/account/billing/",
         "difficulty": "easy",
