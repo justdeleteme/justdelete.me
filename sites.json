@@ -3687,13 +3687,14 @@
     {
         "name": "Pandora",
         "url": "http://help.pandora.com/customer/portal/articles/24624-cancel-account",
-        "difficulty": "hard",
-        "notes": "You have to email support from the email associated with your account. If you do not have access to that, you need to provide the email address, birth year, and zip code on the account.",
-        "notes_fr": "Vous devez envoyer un e-mail au support de l'adresse associé au compte. Si vous n'avez pas accès à l'adresse, il faut que vous donnez l'adresse, votre année de naissance et votre code postale.",
-        "notes_it": "Devi spedire un email al supporto usando l'email associata al tuo account. Se non hai accesso all'email, puoi fornire l'email, l'anno di nascita e il codice postale dell'account.",
-        "notes_pt_br": "Você terá de enviar um e-mail para o suporte com o e-mail associado a sua conta. Se você não tiver acesso a isto, você precisa especificar seu e-mail, ano de nascimento e código postal da conta.",
-        "notes_cat": "Has d'enviar un e-mail a l'assistència al client amb el compte d'email associat al compte de Pandora. Si no té accès al e-mail, haurà d'informar de l'email amb el que s'ha registrat, l'any de neixement i Codi Postal associat al compte.",
-        "notes_es": "Tienes que enviar un e-mail a asistencia al cliente con la cuenta de email asociada a la cuenta de Pandora. Si no tienes acceso al e-mail, deberás informar del email con el que te has registrado, tu año de nacimiento y el código postal asociado a la cuenta.",
+        "difficulty": "medium",
+        "notes": "It is easy to cancel the free account, but it requires more steps to cancel the paid subscription 'Pandora One' account. Follow Instructions in the link.",
+        "notes_de": "Es is einfach den kostenfreien account zu löschen, aber es braucht zusätzliche schritte für den kostenpflichtigen 'Pandora One' account. Folge den Anweisungen im Link.",
+        "notes_fr": "Il est facile d'annuler le compte gratuit, mais il faut plus d'étapes pour annuler l'abonnement payé 'Pandora One'. Suivez les instructions dans le lien.",
+        "notes_it": "E 'facile da cancellare l'account gratuito, ma richiede più passaggi per annullare l'abbonamento a pagamento 'Pandora One'. Seguire le istruzioni nel link.",
+        "notes_pt_br": "É fácil cancelar a conta gratuita, mas requer mais etapas para cancelar a conta de assinatura paga 'Pandora One'. Siga as instruções no link.",
+        "notes_cat": "És fàcil cancel·lar el compte gratuït, però requereix més passos per cancel·lar la subscripció de pagament 'Pandora One'. Seguiu les instruccions a l'enllaç.",
+        "notes_es": "Es fácil cancelar la cuenta gratuita, pero requiere más pasos para cancelar la suscripción pagada 'Pandora One' cuenta. Siga las instrucciones en el enlace.",
         "domains": [
             "help.pandora.com",
             "pandora.com"
