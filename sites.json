@@ -276,8 +276,9 @@
 
     {
         "name": "Audiomack",
-        "url": "http://www.audiomack.com/manage",
+        "url": "http://www.audiomack.com/dashboard#delete-account",
         "difficulty": "easy",
+        "notes" : "Click the delete account link in the bottom left corner",
         "domains": [
             "audiomack.com"
         ]
@@ -701,7 +702,7 @@
 
     {
         "name": "Change.org",
-        "url": "https://www.change.org/account_settings",
+        "url": "https://www.change.org/account_settings/close_account",
         "difficulty": "easy",
         "domains": [
             "change.org"
@@ -982,9 +983,8 @@
 
     {
         "name": "CryptFolio",
-        "url": "https://cryptfolio.com/",
+        "url": "https://cryptfolio.com/user#user_delete",
         "difficulty": "easy",
-        "notes": "Log into your User Profile and visit the Delete Account tab.",
         "domains": [
             "cryptfolio.com"
         ]
@@ -1263,7 +1263,7 @@
 
     {
         "name": "Droplr",
-        "url": "https://droplr.com/settings",
+        "url": "https://droplr.com/account",
         "difficulty": "easy",
         "domains": [
             "droplr.com"
@@ -1960,10 +1960,10 @@
 
     {
         "name": "Gmail",
-        "url": "https://www.google.com/settings/datatools",
-        "difficulty": "easy",
-        "notes": "Login into your account →  Data Tools →  Delete Products →  Remove Gmail permanently ",
-        "notes_pl": "Zaloguj się na swoje konto → Zarządzanie danymi → Usuń usługi → Usuń usługę Gmail na stałe",
+        "url": "https://accounts.google.com/DeleteCaribouService",
+        "difficulty": "medium",
+        "notes": "You will need a new primary email address to delete just gmail, if you dont have one you will need to delete your entire google account",
+        "notes_pl": "Trzeba będzie nowy adres e-mail , aby usunąć podstawowej tylko w Gmailu , jeśli nie masz jednego trzeba będzie usunąć całe konto Google",
         "domains": [
             "mail.google.com"
         ]
@@ -2049,25 +2049,32 @@
     {
         "meta": "popular",
         "name": "Google",
-        "url": "https://www.google.com/accounts/Login",
+        "url": "https://security.google.com/settings/security/deleteaccount",
         "difficulty": "easy",
         "domains": [
             "google.com",
             "google.co.uk"
         ]
     },
-
+    {
+      "name" : "Google+",
+      "url" : "https://plus.google.com/downgrade",
+      "difficulty" : "easy",
+      "domains" : [
+        "plus.google.com"  
+        ]
+    },
     {
         "name": "GoPetition",
-        "url": "http://www.gopetition.com/",
+        "url": "https://www.gopetition.com/accountclosure.php",
         "difficulty": "easy",
-        "notes": "Select a reason for closing and it'll take 2 clicks.",
-        "notes_fr": "Choisissez la raison de la suppression et cela se fait en 2 cliques.",
-        "notes_de": "Wähle einen Grund für die Löschung und es wird nur 2 Klicks benötigen.",
-        "notes_it": "Seleziona un motivo perchè stai chiudendo il tuo account e fatto",
-        "notes_pt_br": "Selecione um motivo para fechar a conta e irá levar dois cliques.",
-        "notes_cat": "Seleccioni un motiu per tancar el compte, només seran 2 clics",
-        "notes_es": "Selecciona un motivo para cerrar la cuenta, solo serán 2 clics",
+        "notes": "Enter a reason for closing and your password and click delete, however this is more like a deactivation as you can contact them to undelete it",
+        "notes_fr": "Saisissez une raison pour fermer et votre mot de passe et cliquez sur supprimer, mais cela est plus comme une désactivation que vous pouvez les contacter pour annuler la suppression",
+        "notes_de": "Geben Sie einen Grund für die Schließung und Ihr Passwort ein und klicken Sie auf löschen, was jedoch eher wie eine Deaktivierung ist, wie Sie sie es undelete kontaktieren",
+        "notes_it": "Inserisci un motivo per la chiusura e la password e fare clic su Elimina, tuttavia questo è più simile a una disattivazione, come si può contattarli per annullare l'eliminazione",
+        "notes_pt_br": "Entre com um motivo para o fechamento e sua senha e clique em excluir, no entanto, este é mais como uma desativação como você pode contatá-los para anular a eliminação",
+        "notes_cat": "Introduir un motiu per al tancament i la contrasenya i feu clic a Suprimeix, però, això s'assembla més a una desactivació com es pot contactar amb ells per restituir-lo de",
+        "notes_es": "Introducir un motivo para el cierre y su contraseña y haga clic en Eliminar, sin embargo, esto se parece más a una desactivación como se puede contactar con ellos para deshacer el borrado",
         "domains": [
             "gopetition.com"
         ]
@@ -4057,7 +4064,15 @@
             "put.io"
         ]
     },
-
+    {
+        "name" : "Quizlet",
+        "url" : "https://quizlet.com/delete-account",
+        "difficulty" : "easy",
+        "notes" : "Enter your password, click continue, then click the red delete button",
+        "domains" : [
+            "quizlet.com"
+        ]
+    },
     {
         "name": "Quora",
         "url": "http://www.quora.com/Quora-product/How-do-I-delete-my-Quora-account",
