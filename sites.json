@@ -1749,6 +1749,16 @@
     },
 
     {
+        "name": "fruux",
+        "url": "http://support.fruux.com/faq/how-to-delete-my-account",
+        "difficulty": "easy",
+        "notes": "Log into your account → Avatar icon on the top right → Red button 'Delete Account' on the bottom of the page",
+        "domains": [
+            "fruux.com"
+        ]
+    },
+
+    {
         "name": "Gadu-Gadu",
         "url": "http://www.gg.pl/pomoc/ustawienia-moje-konto-profil/",
         "difficulty": "easy",
