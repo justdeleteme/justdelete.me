@@ -5108,6 +5108,18 @@
     },
 
     {
+        "name": "Uber",
+        "url": "https://help.uber.com/h/24010fe7-7a67-4ee5-9938-c734000b144a",
+        "difficulty": "hard",
+        "notes": "You have to fill in that you want to delete your account, state why and wait for them to do so.",
+        "notes_pt_br": "Você tem de preencher que quer deletar a conta, por que e esperar que o façam.",
+        "notes_es": "Tienes que escribir que quieres cerrar la cuenta, por que y esperar que sea cerrada.",
+        "domains": [
+            "uber.com",
+        ]
+    },    
+    
+    {
         "name": "Ubuntu One",
         "url": "https://one.ubuntu.com/help/faq/how-can-i-delete-my-account/",
         "difficulty": "hard",
