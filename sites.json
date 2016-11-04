@@ -3090,6 +3090,18 @@
     },
 
     {
+        "name": "Lyft",
+        "url": "https://help.lyft.com/hc/en-us/articles/223281567-Delete-My-Account-",
+        "difficulty": "hard",
+        "notes": "You have to fill in multiple information to request them to delete your account and wait for them to do so.",
+        "notes_pt_br": "Você tem de preencher vários informações para pedir que a conta seja deletada e esperar que o façam.",
+        "notes_es": "Tienes que llenar alguns informaciones para cerren la cuenta y esperar que sea cerrada.",
+        "domains": [
+            "lyft.com",
+        ]
+    }, 
+
+    {
         "name": "Lumi",
         "url": "https://lumi.do/account/privacy/delete/user",
         "difficulty": "easy",
