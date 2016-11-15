@@ -973,6 +973,14 @@
     },
 
     {
+        "name": "Crunchyroll",
+        "url": "http://www.crunchyroll.com/nuke",
+        "difficulty": "easy",
+        "notes": "You can deactivate the account after filling out a form containing the reason for doing so (radio button list) and typing your password",
+        "domains": "crunchyroll.com"
+    },
+
+    {
         "name": "Crushee",
         "url": "http://www.crushee.com/pages/faq",
         "difficulty": "impossible",
