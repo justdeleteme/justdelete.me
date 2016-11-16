@@ -1366,6 +1366,16 @@
             "ebay.com"
         ]
     },
+    {
+      "name": "Edmodo",
+      "url": "http://edmodo.com",
+      "difficulty": "medium",
+      "notes": "You must email Edmodo and request that the account is shut down. They will respond within a few days and delete the email",
+      "email": "support@edmodo.com",
+      "domains": [
+        "edmodo.com",
+      ]
+    },
 
     {
         "name": "Edpuzzle",
@@ -2634,7 +2644,7 @@
             "apple.com"
         ]
     },
-    
+
     {
         "name": "iversity",
         "url": "https://iversity.org/de/user/deactivate",
@@ -2642,7 +2652,7 @@
         "domains": [
             "iversity.com"
         ]
-    },    
+    },
 
     {
         "name": "Jalopnik (Gawker Media)",
@@ -4014,7 +4024,7 @@
        "difficulty": "hard",
        "notes": "click on contact us link at bottom of page. Fill out form. After customer support double checks with you, they will delete accout.",
      },
- 
+
 
     {
         "name": "Prey",
