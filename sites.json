@@ -3431,6 +3431,15 @@
     },
 
     {
+        "name": "Napster",
+        "url": "http://www.napster.com/",
+        "difficulty": "impossible",
+        "domains": [
+            "napster.com"
+        ]
+    },
+
+    {
         "name": "NaNoWriMo",
         "url": "https://nanowrimo.org/account_settings",
         "difficulty": "easy",
