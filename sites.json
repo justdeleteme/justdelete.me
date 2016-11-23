@@ -3463,6 +3463,16 @@
     },
 
     {
+        "name": "NetAcad",
+        "url": "https://www.netacad.com/",
+        "difficulty": "hard",
+        "notes": "If you need to have your account deleted, log in, go to help, and submit a request for deletion.",
+        "domains": [
+            "netacad.com"
+        ]
+    },
+
+    {
         "meta": "popular",
         "name": "Netflix",
         "url": "https://support.netflix.com/en/node/407",
