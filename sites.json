@@ -4057,7 +4057,15 @@
             "put.io"
         ]
     },
-
+    {
+        "name" : "Quizlet",
+        "url" : "https://quizlet.com/delete-account",
+        "difficulty" : "easy",
+        "notes" : "Enter your password, click continue, then click the red delete button",
+        "domains" : [
+            "quizlet.com"
+        ]
+    },
     {
         "name": "Quora",
         "url": "http://www.quora.com/Quora-product/How-do-I-delete-my-Quora-account",
