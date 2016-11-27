@@ -2941,14 +2941,16 @@
     },
 
     {
-        "name": "League of Legends",
-        "url": "https://support.leagueoflegends.com/entries/461131-Disabling-Your-Account",
-        "difficulty": "impossible",
-        "notes": "Accounts may be disabled, but some data will be retained. E-mail support@riotgames.com with the subject \"Account Deactivation\" and include your username, summoner name, server and email used when registering the account in your ticket",
-        "email": "support@riotgames.com",
+        "name": "League of Legends (Riot Games)",
+        "url": "https://support.riotgames.com/hc/en-us/articles/202647784-Account-Deletion-FAQ#h2q4",
+        "difficulty": "hard",
+        "notes": "Account deletions will permanently delete all the information associated to your account, including username, Summoner name, email address, and purchase history. The account will no longer exist and will never be accessible again. This process is irreversible.",
         "domains": [
             "support.leagueoflegends.com",
-            "leagueoflegends.com"
+            "na.leagueoflegends.com",
+            "leagueoflegends.com",
+            "support.riotgames.com",
+            "riotgames.com"
         ]
     },
 
