@@ -1,5 +1,16 @@
 [
     {
+        "name": "1fichier",
+        "url": "http://www.4shared.com/web/account/settings#overview",
+        "difficulty": "easy",
+        "notes": "Just ask to delete you account to this email : contact@1fichier.com ",
+        "notes_fr": "Envoyez une simple demande de suppression de compte à cette adresse mail : contact@1fichier.com",
+        "domains": [
+            "1fichier.com"
+        ]
+    },
+  
+    {
         "name": "4shared",
         "url": "http://www.4shared.com/web/account/settings#overview",
         "difficulty": "easy",
@@ -1206,11 +1217,30 @@
     },
 
     {
+        "name": "Doneo",
+        "url": "http://www.doneo.org/2_index_membre.php?action=desinscription_membre&block=block2",
+        "difficulty": "easy",
+        "domains": [
+            "doneo.com"
+        ]
+    },
+
+    {
         "name": "Douban",
         "url": "http://www.douban.com/accounts/suicide/",
         "difficulty": "easy",
         "domains": [
             "douban.com"
+        ]
+    },
+
+    {
+        "name": "Dji",
+        "url": "http://www.dji.com",
+        "difficulty": "impossible",
+        "notes": "Even if you contact them, they won't delete your account.",
+        "domains": [
+            "dji.com"
         ]
     },
 
@@ -1773,6 +1803,17 @@
         "domains": [
             "gamespot.custhelp.com",
             "custhelp.com"
+        ]
+    },
+
+    {
+        "name": "Game tracker",
+        "url": "http://www.gametracker.com/account/manage/edit.php",
+        "difficulty": "easy",
+        "notes": "Scroll down in the account manager and click on close account button, 30 daysa fter closing the account, it will be deleted.",
+        "notes_fr": "Descendez dans les paramètres, cliquez sur le bouton close account, votre compte sera alors définitivement supprimé dans un délai de 30 jours.",
+        "domains": [
+            "gametracker.com"
         ]
     },
 
@@ -2633,7 +2674,7 @@
             "apple.com"
         ]
     },
-    
+
     {
         "name": "iversity",
         "url": "https://iversity.org/de/user/deactivate",
@@ -2641,7 +2682,7 @@
         "domains": [
             "iversity.com"
         ]
-    },    
+    },
 
     {
         "name": "Jalopnik (Gawker Media)",
@@ -2726,6 +2767,18 @@
             "jottacloud.com"
         ]
     },
+
+    {
+        "name": "Journal du geek",
+        "url": "http://www.journaldugeek.com/editer-profil/",
+        "difficulty": "easy",
+        "notes": "Log in. Go to your profil, scroll down and click 'Supprimer mon profil'",
+        "notes_fr": "Loggez vous, cliquez sur 'Modifiez mon profil', descendez en bas et cliquez sur 'Supprimer mon profil'",
+        "domains": [
+            "journaldugeek.com"
+        ]
+    },
+
 
     {
         "name": "JS Bin",
@@ -2962,6 +3015,17 @@
     },
 
     {
+        "name": "Létudiant'",
+        "url": "https://my.letudiant.fr/tableau-de-bord/parametres/",
+        "difficulty": "easy",
+        "notes": "Click 'Paramètres du compte', scroll drown and click the little link in black 'Supprimer définitivement mon compt' then validate and confirm the link sended you by mail",
+        "notes_fr": "Cliquez sur votre avatar, puis 'paramètres du comptes', allez tout en bas et cliquez sur le petit lien en noir 'Supprimer définitivement mon compte', confirmez puis cliquez sur le lien reçu par mail.",
+        "domains": [
+            "letudiant.fr"
+        ]
+    },
+
+    {
         "name": "LibraryThing",
         "url": "http://www.librarything.de/editprofile/change",
         "difficulty": "easy",
@@ -3104,6 +3168,26 @@
         "difficulty": "easy",
         "domains": [
             "lumosity.com"
+        ]
+    },
+
+    {
+        "name": "Mac-hack",
+        "url": "http://mac-hack.forumsactifs.com/",
+        "difficulty": "easy",
+        "domains": [
+            "made-in-china.com"
+        ]
+    },
+
+    {
+        "name": "mac-hack",
+        "url": "http://mac-hack.forumsactifs.com/",
+        "difficulty": "easy",
+        "notes": "Account Settings → Account Settings Drop-down → Delete my account.",
+        "notes_fr": "REndez-vous dans l'espace utilisateur, puis en bas cliquer sur supprimer mon compte.",
+        "domains": [
+            "made-in-china.com"
         ]
     },
 
@@ -4849,6 +4933,17 @@
     },
 
     {
+        "name": "Syncfusion",
+        "url": "https://www.syncfusion.com/forums/118270/delete-account",
+        "difficulty": "impossible",
+        "notes": "You have to write a comment in this post and they will only desactivate your account.",
+        "notes_fr": "Vous devez écrire un commentaire dans le fil de discussion, ils désactiveront votre compte, on ne sait pas s'ils le supprime.",
+        "domains": [
+            "syncfusion.com"
+        ]
+    },
+
+    {
         "name": "Tagged",
         "url": "http://www.tagged.com/account_cancel.html",
         "difficulty": "easy",
@@ -5003,13 +5098,10 @@
 
     {
         "name": "Transifex",
-        "url": "http://support.transifex.com/customer/portal/articles/1052765-how-can-i-delete-my-account-",
+        "url": "https://www.transifex.com/user/settings/",
         "difficulty": "impossible",
-        "notes": "You can't delete your account, but you can contact them via email to deactivate it.",
-        "notes_it": "Non puoi eliminare il tuo account, ma puoi contattarli tramite email per disattivarlo.",
-        "notes_pt_br": "Você não pode deletar sua conta, mas você pode contatá-los via e-mail para desativá-la.",
-        "notes_cat": "Vostè no podrà esborrar el compte, però podrà contactar via e-mail per desactivar-la.",
-        "notes_es": "No podrás borrar la cuenta, pero podrás contactarlos vía e-mail para desactivarla.",
+        "notes": "You can't delete your account, but you can desactivate it from the User Settings, at the bottom of the page.",
+        "notes_fr": "Vous ne pouvez pas supprimer votre compte, mais vous pouvez le désactiver dans les réglages utilisateurs.",
         "domains": [
             "support.transifex.com",
             "transifex.com"
