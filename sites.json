@@ -3754,6 +3754,15 @@
             "path.com"
         ]
     },
+    
+        {
+        "name": "Patook",
+        "url": "https://patook.com",
+        "difficulty": "easy",
+        "domains": [
+            "patook.com"
+        ]
+    },
 
     {
         "name": "Patrick-Krempf-Reminder",
