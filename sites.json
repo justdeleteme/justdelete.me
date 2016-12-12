@@ -1132,6 +1132,16 @@
     },
 
     {
+        "name": "Differable",
+        "url": "https://www.differable.com",
+        "difficulty": "hard",
+        "notes": "Send them an email and request for your account to be closed.",
+        "domains": [
+            "differable.com"
+        ]
+    },
+
+    {
         "name": "Digg",
         "url": "http://digg.com/contact",
         "difficulty": "hard",
