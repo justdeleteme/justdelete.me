@@ -1542,6 +1542,13 @@
     },
 
     {
+        "name": "Facebook Messenger",
+        "difficulty": "impossible",
+        "notes": "If you logged in with your Facebook account, you can just delete that account. If you registered using your phone number, there's no way to delete your account",
+        "notes_es": "Si iniciaste sesión con tu cuenta de Facebook, podés borrar esa cuenta. Si te registraste con tu número de celular, no hay forma de eliminar tu cuenta"
+    },
+
+    {
         "name": "Facile.it",
         "url": "https://www.facile.it/cancellazione/",
         "difficulty": "easy",
