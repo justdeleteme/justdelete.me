@@ -5153,6 +5153,17 @@
     },
 
     {
+        "name": "Unlocator",
+        "url": "https://unlocator.com/account/misc/remove-me",
+        "difficulty": "easy",
+        "notes": "Follow the link and make sure you are logged in.",
+        "notes_de": "Den Link aufrufen und sicherstellen, dass man eingeloggt ist.",
+        "domains": [
+            "unlocator.com"
+        ]
+    },
+
+    {
         "name": "Unroll.me",
         "url": "https://unroll.me/user/settings",
         "difficulty": "easy",
