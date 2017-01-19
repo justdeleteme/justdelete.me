@@ -188,6 +188,14 @@
     },
 
     {
+        "name": "Apiary",
+        "url": "https://apiary.io/",
+        "difficulty": "hard",
+        "notes": "Create a placeholder API, then delete all of your existing APIs. After that, send a request to terminate your account to the support email.",
+        "email": "support@apiary.io"
+    },
+
+    {
         "name": "App.net",
         "url": "https://account.app.net/settings/delete/",
         "difficulty": "easy",
