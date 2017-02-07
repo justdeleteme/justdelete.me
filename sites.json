@@ -5108,6 +5108,15 @@
     },
 
     {
+        "name": "Uber",
+        "url": "https://help.uber.com/h/24010fe7-7a67-4ee5-9938-c734000b144a",
+        "difficulty": "easy",
+        "domains": [
+            "uber.com"
+        ]
+    },
+    
+    {
         "name": "Ubuntu One",
         "url": "https://one.ubuntu.com/help/faq/how-can-i-delete-my-account/",
         "difficulty": "hard",
