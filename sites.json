@@ -3728,6 +3728,7 @@
         "name": "Pastebin",
         "url": "http://pastebin.com/delete_account",
         "difficulty": "easy",
+        "notes": "Password is required for deletion. Pastes will be removed and the username cannot be used again. No Recovery after deletion.",
         "domains": [
             "pastebin.com"
         ]
