@@ -4868,6 +4868,13 @@
             "support.tango.me"
         ]
     },
+    
+    {
+    	"name" : "Paukd",
+    	"url" : "https://paukd.com",
+    	"difficulty" : "easy",
+    	"notes" : "Login to your account, go to settings (small gear next to your username), click Delete my account. You'll receive a confirmation link via e-mail."
+    },    
 
     {
         "name": "TeamViewer",
@@ -5607,4 +5614,5 @@
             "zynga.com"
         ]
     }
+    
 ]
