@@ -231,6 +231,16 @@
     },
 
     {
+        "name": "Apple",
+        "url": "https://www.apple.com/privacy/contact/",
+        "difficulty": "hard",
+        "notes": "Deletion requests can be made through the regional Privacy Contact Form.",
+        "notes_es": "Las solicitudes de eliminación podrán enviarse a nuestra dirección de correo electrónico para asuntos de Privacidad.",
+        "notes_fr": "Les demandes de suppression peuvent être envoyées aux adresses électroniques Confidentialité.",
+        "notes_it": "Le richieste di cancellazione possono essere inoltrate ai competenti indirizzi email Privacy."
+    },
+
+    {
         "name": "Artsy",
         "url": "http://artsy.net/user/delete",
         "difficulty": "easy",
