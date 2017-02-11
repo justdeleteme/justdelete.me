@@ -3410,6 +3410,13 @@
             "jdownloader.org"
         ]
     },
+    
+    {
+        "name": "My Opera",
+        "url": "http://my.opera.com/community/contact/myopera/?selected=delete",
+        "difficulty": "hard",
+        "notes": "Use the form to contact community support and ask for deleting your account."
+    },
 
     {
         "name": "MyLife.com",
