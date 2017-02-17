@@ -1253,6 +1253,12 @@
     },
 
     {
+        "name": "drone.io",
+        "url": "https://drone.io/admin",
+        "difficulty": "easy"
+    },
+
+    {
         "name": "Dropbox",
         "url": "https://www.dropbox.com/account/delete",
         "difficulty": "easy",
