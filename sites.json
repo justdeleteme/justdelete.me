@@ -4207,6 +4207,14 @@
             "replaypoker.com"
         ]
     },
+    
+    {
+        "name": "LeetGamerZ",
+        "url": "http://www.leetgamerz.net/fr/user/deleteUser",
+        "difficulty": "easy",
+        "note": "You should delete or leave all of your teams before."
+    },
+
 
     {
         "name": "RescueTime",
