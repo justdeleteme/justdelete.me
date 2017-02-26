@@ -605,6 +605,16 @@
             "boxee.tv"
         ]
     },
+    
+    {
+        "name": "British Airways",
+        "url": "https://naprepin.custhelp.com/app/answers/detail/a_id/770/~/cancelling-your-executive-club-membership",
+        "difficulty": "hard",
+        "notes": "Must send a request in writing. See this page for contact details https://www.britishairways.com/travel/contact-executive-club/execclub/_gf/en_us",
+        "domains": [
+            "britishairways.com"
+        ]
+    },
 
     {
         "name": "Buffer",
