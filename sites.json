@@ -4941,6 +4941,17 @@
             "ticketmaster.com"
         ]
     },
+    
+    {
+        "name": "Tidal"
+        "difficulty": "hard",
+        "url": "http://tidal.com/contact",
+        "notes": "You must write an e-mail asking for account deletion.",
+        "notes_de": "Sie müssen eine E-Mail mit der Bitte um Account-Löschung senden.",
+        "domains": [
+            "tidal.com"
+        ]
+    },
 
     {
         "name": "TinyDeal",
