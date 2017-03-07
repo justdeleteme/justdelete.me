@@ -1748,6 +1748,16 @@
         ]
     },
 
+      {
+        "name": "Fruux",
+        "url": "https://fruux.com/account/login/",
+        "difficulty": "easy",
+        "notes":"You will need to go to Account setting and click delete account",
+        "domains": [
+            "fruux.com"
+        ]
+    },
+    
     {
         "name": "Gadu-Gadu",
         "url": "http://www.gg.pl/pomoc/ustawienia-moje-konto-profil/",
