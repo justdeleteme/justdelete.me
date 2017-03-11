@@ -3791,6 +3791,17 @@
     },
 
     {
+        "name": "PaySera",
+        "url": "https://bank.paysera.com/l.php?tmpl_into=middle&tmpl_name=m_helpdesk_ask_your_question",
+        "difficulty": "hard",
+        "notes": "Quote from the support staff: If you want to delete your Paysera account completely, please write us an email (support@paysera.com) with a request and indicate why you want to delete your account. This email has to be sent from the email address that you use to log in to your Paysera account. Please be informed that if you delete your account, you will not be able to create a new account in the future. Paysera account is free of charge and we recommend not to delete it, but close the account, and you will be able to activate it in the future yourself by logging in to your Paysera account.",
+        "notes_de": "Um den Account komplett zu löschen muss von der für die Registrierung verwendeten E-Mail-Adresse eine E-Mail an support@paysera.com in Englisch geschrieben werden. Hier dann darum bitten, dass der Account komplett gelöscht werden soll. Laut Support kann dann in Zukunft kein neuer Account angelegt werden.",
+        "domains": [
+            "paysera.com"
+        ]
+    },
+    
+    {
         "name": "PCPartPicker",
         "url": "http://pcpartpicker.com/contact/",
         "difficulty": "hard",
