@@ -2,12 +2,12 @@ language: node_js
 node_js:
   - "7"
 before_script:
-  - npm install -g del
-  - npm install -g fs
-  - npm install -g gulp
-  - npm install -g gulp-data
-  - npm install -g gulp-ga
-  - npm install -g gulp-jsonlint
-  - npm install -g gulp-rename
-  - npm install -g gulp-swig
+  - npm install del
+  - npm install fs
+  - npm install gulp@3.9.1
+  - npm install gulp-data
+  - npm install gulp-ga
+  - npm install gulp-jsonlint
+  - npm install gulp-rename
+  - npm install gulp-swig
 script: gulp
