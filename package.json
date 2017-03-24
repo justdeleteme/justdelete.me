@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "del": "*",
+    "gulp-rename": "*",
+    "gulp-swig": "*",
+    "gulp-data": "*"
+  },
+  "devDependencies": {
+    "gulp-jsonlint": "^1.1.0"
+  }
+}

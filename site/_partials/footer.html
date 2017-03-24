@@ -1,0 +1,16 @@
+<section class="info-block">
+    <div class="info-container">
+        <footer>
+            <span>{{ i18n.footer|safe }}</span>
+            <div class="share-buttons {% if rtl %} share-buttons-rtl {% endif %}" id="share buttons">
+            <!-- Twitter -->
+                <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://justdelete.me">Tweet</a>
+                <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+            </div>
+        </footer>
+    </div>		
+</section>
+
+<script src="{{assetPath}}/js/libs/jquery.js"></script>
+<script src="{{assetPath}}/js/libs/jquery.dropdown.js"></script>
+<script src="{{assetPath}}/js/scripts.js"></script>

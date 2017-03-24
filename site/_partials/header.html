@@ -1,0 +1,61 @@
+<!DOCTYPE HTML>
+<html>
+
+	<head>
+	
+		<title>{{ i18n.title }}</title>
+		
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1">
+		
+		<link rel="apple-touch-icon-precomposed" href="{{assetPath}}/icons/apple-touch-icon-precomposed.png">
+		<link rel="apple-touch-icon-precomposed" href="{{assetPath}}/icons/apple-touch-icon-72x72-precomposed.png">
+		<link rel="apple-touch-icon-precomposed" href="{{assetPath}}/icons/apple-touch-icon-120x120-precomposed.png">
+		<link rel="apple-touch-icon-precomposed" href="{{assetPath}}/icons/apple-touch-icon-144x144-precomposed.png">
+		
+		<link rel="shortcut icon" href="{{assetPath}}/icons/favicon.ico">
+		<link rel="stylesheet" type="text/css" href="{{assetPath}}/css/style.css" />
+		<link type="text/css" rel="stylesheet" href="{{assetPath}}/css/libs/jquery.dropdown.css" />
+		
+		<script type="text/javascript">
+			var GoSquared = {};
+			GoSquared.acct = "GSN-106715-K";
+			(function(w){
+			function gs(){
+			  w._gstc_lt = +new Date;
+			  var d = document, g = d.createElement("script");
+			  g.type = "text/javascript";
+			  g.src = "//d1l6p2sc9645hc.cloudfront.net/tracker.js";
+			  var s = d.getElementsByTagName("script")[0];
+			  s.parentNode.insertBefore(g, s);
+			}
+			w.addEventListener ?
+			  w.addEventListener("load", gs, false) :
+			  w.attachEvent("onload", gs);
+			})(window);
+		</script>
+		
+	</head>
+	
+	<body lang="{{ trans.code }}"{% if rtl %} dir="rtl"{% endif %}>
+		
+		<nav>
+			<!-- begin language switcher -->
+			<span class="language-switch" href="#" data-dropdown="#dropdown-1" id="{{ trans.code }}">{{ trans.name }}</span>
+			<!-- end language switcher -->
+			<a href="#about" class="info">About</a>
+			<a href="./fake-identity-generator" class="id-gen">Fake Identity Generator</a>
+		</nav>
+		
+		<header>
+			<h1>just<span>delete</span>.me</h1>
+			<p class="tagline">{{ i18n.tagline }}</p>
+
+			<p>
+				<a href="#extension" class="button banner">Chrome Extension</a>
+
+				<a class="button" href="http://github.com/rmlewisuk/justdelete.me">Fork&nbsp;on&nbsp;GitHub</a>
+
+				<a class="button" href="https://twitter.com/intent/tweet?text=Just+Delete+Me+-+A+directory+of+direct+links+to+delete+your+account+from+web+services.+http%3A%2F%2Fjustdelete.me">Tweet JDM</a>
+			</p>
+		</header>

@@ -1,0 +1,22 @@
+[
+    { "code": "ar", "name": "العربية" },
+    { "code": "cat", "name": "Català" },
+    { "code": "de", "name": "Deutsch" },
+    { "code": "en", "name": "English" },
+    { "code": "es", "name": "Español" },
+    { "code": "fa", "name": "فارسی" },
+    { "code": "fr", "name": "Français" },
+    { "code": "id", "name": "Indonesia" },
+    { "code": "it", "name": "Italiano" },
+    { "code": "nl", "name": "Nederlands" },
+    { "code": "pl", "name": "Polski" },
+    { "code": "pt_br", "name": "Português" },
+    { "code": "ro", "name": "Român" },
+    { "code": "ru", "name": "Pусский" },
+    { "code": "sk", "name": "Slovak" },
+    { "code": "sr", "name": "српски" },
+    { "code": "tr", "name": "Türk" },
+    { "code": "vi", "name": "Tiếng Việt" },
+    { "code": "zh-cn", "name": "中国的" },
+    { "code": "zh-tw", "name": "正體中文" }
+]

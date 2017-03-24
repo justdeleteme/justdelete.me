@@ -1,0 +1,242 @@
+{% include "site/_partials/header.html" %}
+		
+		<div class="search">
+			<div class="search-container">
+				<input type="text" id="search">
+				<a href="#">search</a>
+			</div>
+
+			<div class="sort-container">
+				<button class="popular">{{ i18n.popular }}</button>
+		    	<button data-dropdown="#dropdown-2" class="az-sort">A - Z</button>
+		    	<button data-dropdown="#dropdown-3" class="diff-sort">{{ i18n.difficulty }}</button>
+		    	<button class="reset">reset</button>
+			</div>
+		</div>
+		
+		<section class="main">
+			
+			<section class="adsense">
+				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<!-- Responsive JDM -->
+					<ins class="adsbygoogle"
+					     style="display:block"
+					     data-ad-client="ca-pub-9778304973218149"
+					     data-ad-slot="2668363715"
+					     data-ad-format="auto"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+				</script>
+			</section>
+			
+			<section class="sites" id="sites">
+				
+				<p class="no-results">Can't find what you're looking for? <a href='http://github.com/rmlewisuk/justdelete.me'>Help make justdelete.me better</a>.</p>
+				
+				{% for site in sites %}
+					<section class="site-block {{ site.difficulty }}">
+						<a class="site-header" href=" {{site.url}} ">
+	                        {{ site.name }}
+	                    </a>
+						
+						<p class="site-difficulty">		
+							{% if site.difficulty == 'easy' %}
+							  	{{ i18n.difficulty_easy }}
+							{% elseif site.difficulty == 'medium' %}
+								{{ i18n.difficulty_medium }}
+							{% elseif site.difficulty == 'hard' %}
+								{{ i18n.difficulty_hard }}
+							{% elseif site.difficulty == 'impossible' %}
+							  	{{ i18n.difficulty_impossible }}
+							{% endif %}
+	                    </p>
+						
+						{% if site.notes %}
+							<div class="tooltip-content">
+								{{ site.notes }}
+								{% if site.email %}
+	                                <br><a href="mailto:{{site.email}}?Subject=Account%20Deletion%20Request&body=Please%20delete%20my%20account,%20my%20username%20is%20 XXXXXX">{{ i18n.sendmail }} &raquo;</a>
+								{% endif %}
+							</div>
+							<a href="#" class="tooltip-toggle contains-info">{{ i18n.showinfo }}</a>
+						{% else %}
+							<p class="tooltip-toggle">{{ i18n.noinfo }}</p>
+						{% endif %}
+						
+						{% if site.meta %}
+                        	<span class="meta">{{ site.meta }}</span>
+                        {% endif %}
+					</section>
+				{% endfor %}
+				
+			</section>
+			
+		</section>
+		
+		<span id="about">about anchor</span>
+		
+		<section class="adsense">
+			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+				<!-- Responsive JDM -->
+				<ins class="adsbygoogle"
+					 style="display:block"
+					 data-ad-client="ca-pub-9778304973218149"
+					 data-ad-slot="2668363715"
+					 data-ad-format="auto"></ins>
+				<script>
+				(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+		</section>
+		
+		<section class="info-block about">
+			<div class="info-container">
+
+				<div class="info-block-half">
+					<h2>{{ i18n.whatisthis }}</h2>
+					
+					<p>{{ i18n.whatisthis1|safe}} </p>
+					<p>{{ i18n.whatisthis2|safe }} </p>
+					
+					<ul>
+						<li><a href="http://robblewis.me/just-delete-me?utm_source=JustDeleteMe&amp;utm_medium=link&amp;utm_campaign=Just+Delete+Me" target="_blank">Read the announcement blog post &raquo;</a></li>
+						<li><a href="http://robblewis.me/24-hours-of-just-delete-me/" target="_blank">See the first-day stats &raquo;</a></li>
+						<li><a href="http://thetechtailor.com/justdeleteme" target="_blank">Listen to an interview with Robb on The Tech Tailor podcast &raquo;</a></li>
+						<li><a href="http://robblewis.me/just-delete-me-one-million-page-views/">One Million Page Views &raquo;</a></li>
+					</ul>
+					<p><a href="https://twitter.com/justdeletedotme" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @justdeletedotme</a></p>
+				</div><div class="info-block-half">
+					<h2>{{ i18n.guide }}</h2>
+					<p>{{ i18n.guideexplanations }}</p>
+					<ul>
+						<li>{{ i18n.guideeasy|safe }}</li>
+						<li>{{ i18n.guidemedium|safe }}</li>
+						<li>{{ i18n.guidehard|safe }}</li>
+						<li>{{ i18n.guideimpossible|safe }}</li>
+					</ul>
+
+					<p>{{ i18n.donate }}</p>
+					<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+						<input type="hidden" name="cmd" value="_s-xclick">
+						<input type="hidden" name="hosted_button_id" value="E9VLGMSJ3R4Q4">
+						<input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
+						<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+					</form>
+				</div>
+			</div>
+		</section>
+		
+		<div class="banner-block">
+			<div class="banner-content">
+				<div class="banner-block-half">
+					<h2>{{ i18n.extension|safe }}</h2>
+					<p>{{ i18n.extensionp1|safe }}</p>
+					<p>{{ i18n.extensionp2|safe }}</p>
+					<p>{{ i18n.extensionp3|safe }}</p>			
+				</div><div class="banner-block-half">
+					<h2>{{ i18n.extensionguide|safe }}</h2>
+					<ul>
+						<li>{{ i18n.extensionl1|safe }}</li>
+						<li>{{ i18n.extensionl2|safe }}</li>
+						<li>{{ i18n.extensionl3|safe }}</li>
+						<li>{{ i18n.extensionl4|safe }}</li>		
+					</ul>			
+				</div>	
+			</div>
+			<div class="banner-block-extension"></div>
+		</div>
+		
+		{% include "site/_partials/footer.html" %}
+		
+		<script type="text/javascript">
+			$('.contains-info').click(function(e) {
+	            e.preventDefault();
+	            if ($(this).prev().hasClass('toggled')) {
+	                if ($(this).hasClass('text-toggled')) {
+	                    $(this).html("{{ i18n.showinfo }}").removeClass('text-toggled');
+	                } else {
+	                    $(this).html("{{ i18n.showinfo }}").removeClass('text-toggled');
+	                }
+	                $(this).prev().slideToggle().removeClass('toggled');
+	            } else {
+	                $('.toggled').next().html("{{ i18n.showinfo }}");
+	                $('.toggled').slideToggle().removeClass('toggled');
+	                $(this).prev().slideToggle().addClass('toggled');
+	                $(this).html("{{ i18n.hideinfo }}").addClass('text-toggled');
+	            }       
+	        });
+		</script>
+		
+		<!-- Language dropdown -->
+		<div id="dropdown-1" class="dropdown dropdown-tip has-icons">
+		    <ul class="dropdown-menu">
+		    	<li class="en"><a href="/">English</a></li>
+		        <li class="it"><a href="it.html">Italiano</a></li>
+		    	<li class="de"><a href="de.html">Deutsch</a></li>
+		        <li class="fr"><a href="fr.html">Français</a></li>
+		        <li class="nl"><a href="nl.html">Nederlands</a></li>
+		        <li class="es"><a href="es.html">Español</a></li>
+		        <li class="cat"><a href="cat.html">Català</a></li>
+		        <li class="pt_br"><a href="pt_br.html">Português</a></li>
+		        <li class="ru"><a href="ru.html">Pусский</a></li>
+		        <li class="vi"><a href="vi.html">Tiếng Việt</a></li>
+		        <li class="tr"><a href="tr.html">Türk</a></li>
+		        <li class="ar"><a href="ar.html">العربية</a></li>
+		        <li class="fa"><a href="fa.html">فارسی</a></li>
+		        <li class="zh-cn"><a href="zh-cn.html">中国的</a></li>
+		        <li class="zh-tw"><a href="zh-tw.html">正體中文</a></li>
+		        <li class="id"><a href="id.html">Indonesia</a></li>
+		        <li class="ro"><a href="ro.html">Român</a></li>
+		        <li class="pl"><a href="pl.html">Polski</a></li>
+		        <li class="sk"><a href="sk.html">Slovenčina</a></li>
+		        <li class="sr"><a href="sr.html">српски</a></li>
+		    </ul>
+		</div>
+		
+		<!-- Alphabetical sorting -->
+		<div id="dropdown-2" class="dropdown dropdown-tip">
+			<ul class="dropdown-menu ltr">
+				<span class="alpha-sort">
+					<li><a href="#">a</a></li>
+					<li><a href="#">b</a></li>
+					<li><a href="#">c</a></li>
+					<li><a href="#">d</a></li>
+					<li><a href="#">e</a></li>
+					<li><a href="#">f</a></li>
+					<li><a href="#">g</a></li>
+					<li><a href="#">h</a></li>
+					<li><a href="#">i</a></li>
+					<li><a href="#">j</a></li>
+					<li><a href="#">k</a></li>
+					<li><a href="#">l</a></li>
+					<li><a href="#">m</a></li>
+					<li><a href="#">n</a></li>
+					<li><a href="#">o</a></li>
+					<li><a href="#">p</a></li>
+					<li><a href="#">q</a></li>
+					<li><a href="#">r</a></li>
+					<li><a href="#">s</a></li>
+					<li><a href="#">t</a></li>
+					<li><a href="#">u</a></li>
+					<li><a href="#">v</a></li>
+					<li><a href="#">w</a></li>
+					<li><a href="#">x</a></li>
+					<li><a href="#">y</a></li>
+					<li><a href="#">z</a></li>
+				</span>
+			</ul>
+		</div>
+		
+		<div id="dropdown-3" class="dropdown dropdown-tip">
+			<ul class="dropdown-menu">
+				<span class="diff-sort">
+                    <li><a href="#">{{ i18n.difficulty_easy }}</a></li>
+                    <li><a href="#">{{ i18n.difficulty_medium }}</a></li>
+                    <li><a href="#">{{ i18n.difficulty_hard }}</a></li>
+                    <li><a href="#">{{ i18n.difficulty_impossible }}</a></li>
+				</span>
+			</ul>
+		</div>
+		
+	</body>
+	
+</html>
