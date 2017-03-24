@@ -3,7 +3,8 @@ var gulp      = require('gulp'),
     rename    = require('gulp-rename'),
     del       = require('del'),
     swig      = require('gulp-swig'),
-    data      = require('gulp-data')
+    data      = require('gulp-data'),
+    ga        = require('gulp-ga')
     jsonlint  = require('gulp-jsonlint');
     
 var translations = JSON.parse(fs.readFileSync('_trans/_config.json')),
@@ -48,6 +49,7 @@ gulp.task('translate', ['clean'], function() {
                 assetPath: 'assets'
             }))
             .pipe(swig())
+            .pipe(ga({url: 'tupaschoal.github.io/justdelete.me/', uid: 'UA-45971598-4'}))
             .pipe(gulp.dest('docs'));
     });
   
