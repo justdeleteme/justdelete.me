@@ -3,7 +3,7 @@ JustDelete.me
 
 A directory of direct links to delete your account from web services.
 
-[![Deployment status from DeployBot](https://rmlewisuk.deploybot.com/badge/66802254013140/42527.svg)](http://deploybot.com)
+[![Build Status](https://travis-ci.org/tupaschoal/justdelete.me.svg?branch=master)](https://travis-ci.org/tupaschoal/justdelete.me)
 
 # Contributing
 
