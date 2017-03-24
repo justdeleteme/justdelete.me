@@ -33,7 +33,7 @@
 	"extensionl3": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - 联系客服, 才能注销",
 	"extensionl4": "<span class=\"dot-wrapper\"><span class=\"dot impossible\"></span></span> - 不能注销",
 	"banner": "试用新的 <span>Chrome 扩展程序</span>",
-	"footer": "Made by <a href=\"http://robblewis.me\">Robb Lewis</a> and <a href=\"http://edpoole.me\">Ed Poole</a> | Fork on <a href=\"https://github.com/tupaschoal/justdelete.me\">GitHub</a> | Hosted by <a href=\"https://www.digitalocean.com/?refcode=8e1d8283bd20b\">DigitalOcean</a> | Analytics by <a href=\"https://t.co/fvPnva7p4Y\">GoSquared</a>",
+	"footer": "Made by <a href=\"http://robblewis.me\">Robb Lewis</a> and <a href=\"http://edpoole.me\">Ed Poole</a> | Fork on <a href=\"https://github.com/tupaschoal/justdelete.me\">GitHub</a>",
 	"help": "帮助翻译",
 	"donate": "主机托管需要资金. 如果你喜欢 JustDelete.me, 请考虑捐助.",
 	"sendmail": "发送 email",

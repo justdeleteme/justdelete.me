@@ -33,7 +33,7 @@
 	"extensionl3": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - No se puede suprimir permanentmente sin contactar con atención al cliente",
 	"extensionl4": "<span class=\"dot-wrapper\"><span class=\"dot impossible\"></span></span> - No puede ser eliminada",
 	"banner": "Prueba nuestra nueva <span>Extensión de Chrome</span>",
-	"footer": "Criado por <a href=\"http://robblewis.me\">Robb Lewis</a> e <a href=\"http://edpoole.me\">Ed Poole</a> | Fork en <a href=\"https://github.com/tupaschoal/justdelete.me\">GitHub</a> | Hospedado por <a href=\"https://www.digitalocean.com/?refcode=8e1d8283bd20b\">DigitalOcean</a> | Analytics por <a href=\"https://t.co/fvPnva7p4Y\">GoSquared</a>",
+	"footer": "Criado por <a href=\"http://robblewis.me\">Robb Lewis</a> e <a href=\"http://edpoole.me\">Ed Poole</a> | Fork en <a href=\"https://github.com/tupaschoal/justdelete.me\">GitHub</a>",
 	"help": "Ayude a traducir",
 	"donate": "El servicio de alojamiento de esta web de ayuda cuesta dinero, si te gusta JustDelete.me, considera hacer una donación, porfavor.",
 	"sendmail": "Enviar e-mail",

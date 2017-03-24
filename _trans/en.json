@@ -33,7 +33,6 @@
 	"extensionl3": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Cannot be fully deleted without contacting customer-services",
 	"extensionl4": "<span class=\"dot-wrapper\"><span class=\"dot impossible\"></span></span> - Cannot be deleted",
 	"banner": "Try our new <span>Chrome Extension</span>",
-	"footer": "Made by <a href=\"http://robblewis.me\">Robb Lewis</a> and <a href=\"http://edpoole.me\">Ed Poole</a> | Fork on <a href=\"https://github.com/tupaschoal/justdelete.me\">GitHub</a> | Hosted by <a href=\"https://www.digitalocean.com/?refcode=8e1d8283bd20b\">DigitalOcean</a> | Analytics by <a href=\"https://t.co/fvPnva7p4Y\">GoSquared</a>",
 	"help": "Help translate",
 	"donate": "Hosting costs money. If you like JustDelete.me, please consider making a donation.",
 	"sendmail": "Send email",
