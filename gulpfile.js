@@ -44,7 +44,7 @@ gulp.task("translate", ["clean"], function() {
             .pipe(data({
                 trans: translation,
                 i18n: trans,
-                sites: sites,
+                sites,
                 rtl: (rtl.indexOf(translation.code) === -1) ? false : true,
                 assetPath: "assets"
             }))
