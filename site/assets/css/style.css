@@ -45,10 +45,7 @@ nav a {
 	}
 
 .language-switch {
-	padding-left: 29px;
-	padding-top: 8px;
-	padding-bottom: 8px;
-	padding-right: 10px;
+	padding: 8px 10px 8px 29px;
 	cursor: pointer;
 }
 
