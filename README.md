@@ -3,6 +3,7 @@ JustDelete.me
 
 A directory of direct links to delete your account from web services.
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b69edf5c91994c41a8ad70ea852563ba)](https://www.codacy.com/app/tupaschoal/justdelete-me?utm_source=github.com&utm_medium=referral&utm_content=tupaschoal/justdelete.me&utm_campaign=badger)
 [![Build Status](https://travis-ci.org/tupaschoal/justdelete.me.svg?branch=master)](https://travis-ci.org/tupaschoal/justdelete.me)
 
 # Contributing
