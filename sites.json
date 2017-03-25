@@ -1675,17 +1675,6 @@
 
     {
         "name": "Fotka",
-        "url": "http://fotka.pl",
-        "difficulty": "easy",
-        "notes_es": "Para borrar su cuenta no debe subir nada en 3 días.",
-        "notes_pl": "Aby usunąć swoje konto, nie możesz dodawać żadnych treści przez co najmniej trzy dni.",
-        "domains": [
-            "fotka.pl"
-        ]
-    },
-
-    {
-        "name": "Fotka",
         "url": "http://www.fotka.pl/ustawienia/konto_usun",
         "difficulty": "medium",
         "notes": "To delete your account, you must not post anything for at least three days.",
@@ -1693,6 +1682,7 @@
         "notes_it": "Per eliminare il tuo account, non devi pubblicare niente per almeno tre giorni.",
         "notes_de": "Um deinen Account zu löschen, schreibe nichts für mindestens drei Tage.",
         "notes_pt_br": "Para deletar sua conta, você deve postar nada por pelo menos três dias.",
+        "notes_pl": "Aby usunąć swoje konto, nie możesz dodawać żadnych treści przez co najmniej trzy dni.",
         "notes_cat": "Per esborrar el seu compte no ha de pujar res en 3 dies.",
         "notes_es": "Para borrar tu cuenta no debes subir nada por lo menos 3 días."
     },
