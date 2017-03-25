@@ -1455,6 +1455,17 @@
     },
 
     {
+        "name": "eProject.me",
+        "url": "http://eproject.me",
+        "difficulty": "hard",
+        "notes": "Send an e-mail asking for the deletion.",
+        "email": "services@eproject.me",
+        "domains": [
+            "eproject.me"
+        ]
+    },
+
+    {
         "name": "eRepublik",
         "url": "http://www.erepublik.com/en/contact/none/none",
         "difficulty": "hard",
