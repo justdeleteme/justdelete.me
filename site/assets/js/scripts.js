@@ -106,7 +106,7 @@ $(function(){
     // jQuery ScrollTo plugin from http://lions-mark.com/jquery/scrollTo/
 
     $.fn.scrollTo = function( target, options, callback ){
-      if(typeof options === 'function' && arguments.length == 2){ callback = options; options = target; }
+      if(typeof options === 'function' && arguments.length === 2){ callback = options; options = target; }
       var settings = $.extend({
         scrollTarget  : target,
         offsetTop     : 50,
