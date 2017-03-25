@@ -40,12 +40,12 @@ gulp.task('translate', ['clean'], function() {
         }
         
         gulp.src('template.html')
-            .pipe(rename((translation.code == 'en' ? 'index' : translation.code) + '.html'))
+            .pipe(rename((translation.code === 'en' ? 'index' : translation.code) + '.html'))
             .pipe(data({
                 trans: translation,
                 i18n: trans,
                 sites: sites,
-                rtl: (rtl.indexOf(translation.code) == -1) ? false : true,
+                rtl: (rtl.indexOf(translation.code) === -1) ? false : true,
                 assetPath: 'assets'
             }))
             .pipe(swig())

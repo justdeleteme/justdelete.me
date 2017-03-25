@@ -62,11 +62,6 @@ $(function(){
 		window.location.hash = $(this).val();
     });
 	
-	// Call updateSearch when hash changes
-	$(window).on('hashchange', function() {
-		updateSearch();
-	});
-	
 	// Search function
 	function updateSearch() {
 		if ($('.no-results').is(':visible')) {
@@ -91,6 +86,11 @@ $(function(){
 		// (sometimes this is missed if the hash is changed directly)
 		$('#search').val(window.location.hash.substr(1));
 	}
+    
+    // Call updateSearch when hash changes
+    $(window).on('hashchange', function() {
+        updateSearch();
+    });
 	
 	// Update search results on page load (if there is a hash)
 	if (window.location.hash !== "" && window.location.hash !== "#") {
@@ -106,7 +106,7 @@ $(function(){
     // jQuery ScrollTo plugin from http://lions-mark.com/jquery/scrollTo/
 
     $.fn.scrollTo = function( target, options, callback ){
-      if(typeof options == 'function' && arguments.length == 2){ callback = options; options = target; }
+      if(typeof options === 'function' && arguments.length == 2){ callback = options; options = target; }
       var settings = $.extend({
         scrollTarget  : target,
         offsetTop     : 50,
