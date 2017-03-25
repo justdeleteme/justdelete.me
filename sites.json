@@ -5609,6 +5609,16 @@
     },
 
     {
+        "name": "Zendesk",
+        "url": "https://support.zendesk.com/hc/en-us/articles/223774027-Canceling-your-Support-account",
+        "difficulty": "easy",
+        "notes": "Go to Admin->Settings->Subscription and click \"Yes, cancel my account\"."
+        "domains": [
+            "zendesk.com"
+        ]
+    },
+
+    {
         "name": "Zoho",
         "url": "https://accounts.zoho.com/u/h#setting/closeaccount",
         "difficulty": "easy",
