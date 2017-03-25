@@ -1750,6 +1750,16 @@
     },
 
     {
+        "name": "Freshdesk",
+        "url": "https://freshdesk.com/",
+        "difficulty": "easy",
+        "notes": "On the top tab, click 'Admin' then 'Account', at the bottom, and search for the 'cancel my account' on the right. It is not really deleted, just closed.",
+        "domains": [
+            "freshdesk.com"
+        ]
+    },
+
+    {
         "name": "FriendFeed",
         "url": "https://friendfeed.com/account/delete",
         "difficulty": "easy",
