@@ -5163,6 +5163,17 @@
     },
 
     {
+        "name": "Unfuddle Ten",
+        "url": "https://unfuddle.io/app",
+        "difficulty": "hard",
+        "notes": "Send an email with the subject ‘Delete my account’, it is the only way.",
+        "email": "support@unfuddle.com",
+        "domains": [
+            "unfuddle.io"
+        ]
+    },
+
+    {
         "name": "UPS",
         "url": "https://www.ups.com/myups/deletereg",
         "difficulty": "easy",
