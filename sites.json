@@ -1655,6 +1655,16 @@
     },
 
     {
+        "name": "FogBugz",
+        "url": "https://www.fogcreek.com/fogbugz/",
+        "difficulty": "easy",
+        "notes": "On the top right corner, click 'Admin' then 'Your On Demand Account' and search for the close account button at the bottom right. It is not really deleted, just closed.",
+        "domains": [
+            "fogbugz.com"
+        ]
+    },
+
+    {
         "name": "Forrst",
         "url": "http://forrst.com/settings",
         "difficulty": "easy",
