@@ -3927,6 +3927,17 @@
     },
 
     {
+        "name": "PivotalTracker",
+        "url": "https://www.pivotaltracker.com/",
+        "email": "tracker@pivotal.io",
+        "notes": "You can delete your account using the website, but it is only fully deleted after e-mailing",
+        "difficulty": "medium",
+        "domains": [
+            "pivotaltracker.com"
+        ]
+    },
+
+    {
         "name": "Pixoona",
         "url": "http://www.pixoona.com/dashboard#user/delete",
         "difficulty": "easy",
