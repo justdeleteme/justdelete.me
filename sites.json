@@ -4902,6 +4902,17 @@
     },
 
     {
+        "name": "TargetProcess",
+        "url": "https://www.targetprocess.com/",
+        "email": "support@targetprocess.com",
+        "notes": "You need to e-mail them to ask for the deletion to be processed.",
+        "difficulty": "hard",
+        "domains": [
+            "targetprocess.com"
+        ]
+    },
+
+    {
         "name": "TeamViewer",
         "url": "https://login.teamviewer.com/",
         "difficulty": "easy",
