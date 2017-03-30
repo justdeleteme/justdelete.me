@@ -1064,6 +1064,17 @@
     },
 
     {
+        "name": "Desk.com",
+        "url": "desk.com",
+        "difficulty": "medium",
+        "email": "support@desk.com",
+        "notes": "Required to send e-mail, but it is quickly responded.",
+        "domains": [
+            "desk.com"
+        ]
+    },
+
+    {
         "name": "Desktoply",
         "url": "http://desktop.ly/settings",
         "difficulty": "easy",
