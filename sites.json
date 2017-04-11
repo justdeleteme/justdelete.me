@@ -3253,6 +3253,15 @@
     },
 
     {
+        "name": "Mi Account",
+        "url": "https://account.xiaomi.com/pass/del",
+        "difficulty": "easy",
+        "domains": [
+            "account.xiaomi.com"
+        ]
+    },
+
+    {
         "name": "Microsoft Account",
         "url": "https://account.live.com/closeaccount.aspx",
         "difficulty": "easy",
