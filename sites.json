@@ -3688,13 +3688,10 @@
     {
         "name": "OpenDNS",
         "url": "http://www.opendns.com/support/contact/",
-        "difficulty": "hard",
-        "notes": "You must open a ticket to completely get your account deleted.",
-        "notes_fr": "Vous devez ouvrir un ticket de support pour supprimer totalement votre compte à.",
-        "notes_it": "Devi aprire un ticket alla per eliminare completamente il tuo account.",
-        "notes_pt_br": "Você deve abrir um ticket para ter sua conta completamente apagada em.",
-        "notes_cat": "Hauría d'enviar un 'ticket' para que s'elimini completament el compte.",
-        "notes_es": "Deberías enviar un 'tiquet' para eliminar la cuenta completamente.",
+        "difficulty": "easy",
+        "notes": "Seems to have a button to delete account when heading to open the ticket.",
+        "notes_pt_br": "Parece ter um botão para deletar a conta ao ir abrir o ticket.",
+        "notes_es": "Parece que tiene un botón para eliminar la cuenta en el camino donde se abre el billete.",
         "email": "contact@opendns.com",
         "domains": [
           "opendns.com"
