@@ -2957,15 +2957,10 @@
     {
         "name": "Last.fm",
         "url": "http://www.last.fm/settings/account",
-        "difficulty": "easy",
-        "notes": "May take up to 7 days to delete your data.",
-        "notes_fr": "La suppression de votre compte peut prendre 7 jours.",
-        "notes_it": "La cancellazione dei dati dal sistema può richiedere fino a 7 giorni.",
-        "notes_de": "Es kann bis zu 7 Tage dauern um deine Daten zu löschen.",
-        "notes_pt_br": "Pode levar até 7 dias para deletar seus dados.",
-        "notes_cat": "La desactivació pot trigar 7 dies a eliminar les teves dades",
-        "notes_es": "La desactivación puede tardar 7 días en eliminar tus datos",
-        "notes_pl": "Twoje dane zostaną usunięte po upływie 7 dni.",
+        "difficulty": "impossible",
+        "notes": "May take up to 7 days to delete your data, but it can be reactivated at any time.",
+        "notes_pt_br": "Pode levar até 7 dias para deletar seus dados, mas ela pode ser reativada a qualquer momento.",
+        "notes_es": "La desactivación puede tardar 7 días en eliminar tus datos, pero puede reactivarse a cualquier momento.",
         "domains": [
             "last.fm"
         ]
