@@ -3075,6 +3075,20 @@
     },
 
     {
+        "name": "Threema",
+        "url": "https://myid.threema.ch/revoke",
+        "difficulty": "easy",
+        "notes": "In the app, go to your ID and select 'Delete ID' at the bottom. Alternatively go to https://myid.threema.ch/revoke and remove your ID with your revocation password. If you do not have one, you can only unlink your phone number and mail under https://myid.threema.ch/unlink.",
+        "notes_de": "Gehe in der App zu deiner ID und wähle 'ID löschen' am unteren Rand aus. Alternativ kannst du zu https://myid.threema.ch/revoke gehen und dort deine ID mit deinem Widerrufspassword löschen. Wenn du dies nicht hast, kannst du nur deine Telefonnummer und E-Mail-Adresse unter https://myid.threema.ch/unlink von der ID entfernen.",
+        "domains": [
+            "threema.ch",
+            "myid.threema.ch",
+            "work.threema.ch",
+            "web.threema.ch"
+        ]
+    },
+
+    {
         "name": "LiveJournal",
         "url": "http://www.livejournal.com/accountstatus.bml",
         "difficulty": "medium",
