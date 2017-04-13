@@ -1,0 +1,13 @@
+language: node_js
+node_js:
+  - "7"
+before_script:
+  - npm install del
+  - npm install fs
+  - npm install gulp@3.9.1
+  - npm install gulp-data
+  - npm install gulp-ga
+  - npm install gulp-jsonlint
+  - npm install gulp-rename
+  - npm install gulp-swig
+script: gulp
