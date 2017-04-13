@@ -655,6 +655,17 @@
             "burst.net"
         ]
     },
+    
+    {
+        "name": "Buycott",
+        "url": "https://www.buycott.com/",
+        "difficulty": "hard",
+        "notes": "To cancel your account you have to send them an email",
+        "email": "info@buycott.com",
+        "domains": [
+            "buycott.com"
+        ]
+    },
 
     {
         "name": "C&M News by Rеss.at",
