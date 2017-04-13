@@ -211,6 +211,17 @@
     },
 
     {
+        "name": "Arcor.de",
+        "url": "https://www.arcor.de/register/admin_kuendigen_pw.jsp",
+        "difficulty": "easy",
+        "notes": "Only viable if you have online accounts only.",
+        "domains": [
+            "home.arcor.de",
+            "arcor.de"
+        ]
+    },
+    
+    {
         "name": "Argyle Social",
         "url": "http://app.argylesocial.com/contact_us",
         "difficulty": "impossible",
@@ -605,7 +616,15 @@
             "boxee.tv"
         ]
     },
-
+    {
+        "name": "British Airways",
+        "url": "https://naprepin.custhelp.com/app/answers/detail/a_id/770/~/cancelling-your-executive-club-membership",
+        "difficulty": "hard",
+        "notes": "Must send a request in writing. See this page for contact details https://www.britishairways.com/travel/contact-executive-club/execclub/_gf/en_us",
+        "domains": [
+            "britishairways.com"
+        ]
+    },
     {
         "name": "Buffer",
         "url": "https://bufferapp.com/app/account/leave",
@@ -634,6 +653,17 @@
         "notes_fr": "Le personnel refuse de supprimer les comptes.",
         "domains": [
             "burst.net"
+        ]
+    },
+    
+    {
+        "name": "Buycott",
+        "url": "https://www.buycott.com/",
+        "difficulty": "hard",
+        "notes": "To cancel your account you have to send them an email",
+        "email": "info@buycott.com",
+        "domains": [
+            "buycott.com"
         ]
     },
 
@@ -841,7 +871,7 @@
 
     {
         "name": "Codecademy",
-        "url": "http://help.codecademy.com/customer/portal/articles/1394081-how-do-i-delete-my-account-",
+        "url": "https://www.codecademy.com/account/delete_acct",
         "difficulty": "easy",
         "notes": "Simply click the \"I understand, delete my account.\" button.",
         "notes_it": "Per ragioni di sicurezza, dobbiamo verificare che queste richieste ci arrivino dall'email che è registrata sul tuo account Codacademy",
@@ -1060,6 +1090,17 @@
         "notes_fr": "Vous ne pouvez pas supprimer votre compte sur le site. Vous devez utiliser le formulaire lié. Ensuite, sélectionnez SkyMiles → Mise à jour compte SkyMiles et de leur demander de fermer votre compte.",
         "domains": [
             "delta.com"
+        ]
+    },
+
+    {
+        "name": "Desk.com",
+        "url": "desk.com",
+        "difficulty": "medium",
+        "email": "support@desk.com",
+        "notes": "Required to send e-mail, but it is quickly responded.",
+        "domains": [
+            "desk.com"
         ]
     },
 
@@ -1455,6 +1496,17 @@
     },
 
     {
+        "name": "eProject.me",
+        "url": "http://eproject.me",
+        "difficulty": "hard",
+        "notes": "Send an e-mail asking for the deletion.",
+        "email": "services@eproject.me",
+        "domains": [
+            "eproject.me"
+        ]
+    },
+
+    {
         "name": "eRepublik",
         "url": "http://www.erepublik.com/en/contact/none/none",
         "difficulty": "hard",
@@ -1539,6 +1591,13 @@
         "domains": [
             "facebook.com"
         ]
+    },
+
+    {
+        "name": "Facebook Messenger",
+        "difficulty": "impossible",
+        "notes": "If you logged in with your Facebook account, you can just delete that account. If you registered using your phone number, there's no way to delete your account",
+        "notes_es": "Si iniciaste sesión con tu cuenta de Facebook, podés borrar esa cuenta. Si te registraste con tu número de celular, no hay forma de eliminar tu cuenta"
     },
 
     {
@@ -1655,11 +1714,12 @@
     },
 
     {
-        "name": "Forrst",
-        "url": "http://forrst.com/settings",
+        "name": "FogBugz",
+        "url": "https://www.fogcreek.com/fogbugz/",
         "difficulty": "easy",
+        "notes": "On the top right corner, click 'Admin' then 'Your On Demand Account' and search for the close account button at the bottom right. It is not really deleted, just closed.",
         "domains": [
-            "forrst.com"
+            "fogbugz.com"
         ]
     },
 
@@ -1667,10 +1727,8 @@
         "name": "Forrst",
         "url": "http://forrst.com/settings",
         "difficulty": "easy",
-        "notes_es": "Para borrar su cuenta no debe subir nada en 3 días.",
-        "notes_pl": "Aby usunąć swoje konto, nie możesz dodawać żadnych treści przez co najmniej trzy dni.",
         "domains": [
-            "fotka.pl"
+            "forrst.com"
         ]
     },
 
@@ -1683,6 +1741,7 @@
         "notes_it": "Per eliminare il tuo account, non devi pubblicare niente per almeno tre giorni.",
         "notes_de": "Um deinen Account zu löschen, schreibe nichts für mindestens drei Tage.",
         "notes_pt_br": "Para deletar sua conta, você deve postar nada por pelo menos três dias.",
+        "notes_pl": "Aby usunąć swoje konto, nie możesz dodawać żadnych treści przez co najmniej trzy dni.",
         "notes_cat": "Per esborrar el seu compte no ha de pujar res en 3 dies.",
         "notes_es": "Para borrar tu cuenta no debes subir nada por lo menos 3 días."
     },
@@ -1740,6 +1799,16 @@
     },
 
     {
+        "name": "Freshdesk",
+        "url": "https://freshdesk.com/",
+        "difficulty": "easy",
+        "notes": "On the top tab, click 'Admin' then 'Account', at the bottom, and search for the 'cancel my account' on the right. It is not really deleted, just closed.",
+        "domains": [
+            "freshdesk.com"
+        ]
+    },
+
+    {
         "name": "FriendFeed",
         "url": "https://friendfeed.com/account/delete",
         "difficulty": "easy",
@@ -1748,6 +1817,16 @@
         ]
     },
 
+    {
+        "name": "Fruux",
+        "url": "https://fruux.com/account/login/",
+        "difficulty": "easy",
+        "notes":"You will need to go to Account setting and click delete account",
+        "domains": [
+            "fruux.com"
+        ]
+    },
+    
     {
         "name": "Gadu-Gadu",
         "url": "http://www.gg.pl/pomoc/ustawienia-moje-konto-profil/",
@@ -2908,15 +2987,10 @@
     {
         "name": "Last.fm",
         "url": "http://www.last.fm/settings/account",
-        "difficulty": "easy",
-        "notes": "May take up to 7 days to delete your data.",
-        "notes_fr": "La suppression de votre compte peut prendre 7 jours.",
-        "notes_it": "La cancellazione dei dati dal sistema può richiedere fino a 7 giorni.",
-        "notes_de": "Es kann bis zu 7 Tage dauern um deine Daten zu löschen.",
-        "notes_pt_br": "Pode levar até 7 dias para deletar seus dados.",
-        "notes_cat": "La desactivació pot trigar 7 dies a eliminar les teves dades",
-        "notes_es": "La desactivación puede tardar 7 días en eliminar tus datos",
-        "notes_pl": "Twoje dane zostaną usunięte po upływie 7 dni.",
+        "difficulty": "impossible",
+        "notes": "May take up to 7 days to delete your data, but it can be reactivated at any time.",
+        "notes_pt_br": "Pode levar até 7 dias para deletar seus dados, mas ela pode ser reativada a qualquer momento.",
+        "notes_es": "La desactivación puede tardar 7 días en eliminar tus datos, pero puede reactivarse a cualquier momento.",
         "domains": [
             "last.fm"
         ]
@@ -3090,6 +3164,17 @@
     },
 
     {
+        "name": "Lufthansa",
+        "url": "https://www.lufthansa.com/online/myportal/lh/uk/my_account/profile/update?action=deleteProfileAction",
+        "difficulty": "easy",
+        "domains": [
+            "lh.com",
+            "lufthansa.com",
+            "lufthansa.de"
+        ]
+    },
+    
+    {
         "name": "Lumi",
         "url": "https://lumi.do/account/privacy/delete/user",
         "difficulty": "easy",
@@ -3200,6 +3285,15 @@
         "difficulty": "easy",
         "domains": [
             "mepergunte.com"
+        ]
+    },
+
+    {
+        "name": "Mi Account",
+        "url": "https://account.xiaomi.com/pass/del",
+        "difficulty": "easy",
+        "domains": [
+            "account.xiaomi.com"
         ]
     },
 
@@ -3431,6 +3525,15 @@
     },
 
     {
+        "name": "Napster",
+        "url": "http://www.napster.com/",
+        "difficulty": "impossible",
+        "domains": [
+            "napster.com"
+        ]
+    },
+
+    {
         "name": "NaNoWriMo",
         "url": "https://nanowrimo.org/account_settings",
         "difficulty": "easy",
@@ -3640,13 +3743,10 @@
     {
         "name": "OpenDNS",
         "url": "http://www.opendns.com/support/contact/",
-        "difficulty": "hard",
-        "notes": "You must open a ticket to completely get your account deleted.",
-        "notes_fr": "Vous devez ouvrir un ticket de support pour supprimer totalement votre compte à.",
-        "notes_it": "Devi aprire un ticket alla per eliminare completamente il tuo account.",
-        "notes_pt_br": "Você deve abrir um ticket para ter sua conta completamente apagada em.",
-        "notes_cat": "Hauría d'enviar un 'ticket' para que s'elimini completament el compte.",
-        "notes_es": "Deberías enviar un 'tiquet' para eliminar la cuenta completamente.",
+        "difficulty": "easy",
+        "notes": "Seems to have a button to delete account when heading to open the ticket.",
+        "notes_pt_br": "Parece ter um botão para deletar a conta ao ir abrir o ticket.",
+        "notes_es": "Parece que tiene un botón para eliminar la cuenta en el camino donde se abre el billete.",
         "email": "contact@opendns.com",
         "domains": [
           "opendns.com"
@@ -3669,6 +3769,15 @@
         "domains": [
             "account.live.com",
             "live.com"
+        ]
+    },
+    
+    {
+        "name": "Overcast.fm",
+        "url": "https://overcast.fm/account",
+        "difficulty": "impossible",
+        "domains": [
+            "overcast.fm"
         ]
     },
 
@@ -3791,6 +3900,17 @@
     },
 
     {
+        "name": "PaySera",
+        "url": "https://bank.paysera.com/l.php?tmpl_into=middle&tmpl_name=m_helpdesk_ask_your_question",
+        "difficulty": "hard",
+        "notes": "Quote from the support staff: If you want to delete your Paysera account completely, please write us an email (support@paysera.com) with a request and indicate why you want to delete your account. This email has to be sent from the email address that you use to log in to your Paysera account. Please be informed that if you delete your account, you will not be able to create a new account in the future. Paysera account is free of charge and we recommend not to delete it, but close the account, and you will be able to activate it in the future yourself by logging in to your Paysera account.",
+        "notes_de": "Um den Account komplett zu löschen muss von der für die Registrierung verwendeten E-Mail-Adresse eine E-Mail an support@paysera.com in Englisch geschrieben werden. Hier dann darum bitten, dass der Account komplett gelöscht werden soll. Laut Support kann dann in Zukunft kein neuer Account angelegt werden.",
+        "domains": [
+            "paysera.com"
+        ]
+    },
+    
+    {
         "name": "PCPartPicker",
         "url": "http://pcpartpicker.com/contact/",
         "difficulty": "hard",
@@ -3902,6 +4022,17 @@
         "notes_es": "Las cuentas pueden ser desactivadas, pero tus pins y perfil serán ocultados, no borrados.",
         "domains": [
             "pinterest.com"
+        ]
+    },
+
+    {
+        "name": "PivotalTracker",
+        "url": "https://www.pivotaltracker.com/",
+        "email": "tracker@pivotal.io",
+        "notes": "You can delete your account using the website, but it is only fully deleted after e-mailing",
+        "difficulty": "medium",
+        "domains": [
+            "pivotaltracker.com"
         ]
     },
 
@@ -4055,6 +4186,17 @@
         "notes": "Click Destroy my account completely, then click Delete everything.",
         "domains": [
             "put.io"
+        ]
+    },
+
+    {
+        "name": "Quip",
+        "url": "https://www.quipsupport.com/entries/25079898-How-do-I-delete-my-account-",
+        "difficulty": "hard",
+        "notes": "Email support@quip.com and ask them to delete your account.",
+        "email": "support@quip.com",
+        "domains": [
+          "quip.com"
         ]
     },
 
@@ -4870,6 +5012,17 @@
     },
 
     {
+        "name": "TargetProcess",
+        "url": "https://www.targetprocess.com/",
+        "email": "support@targetprocess.com",
+        "notes": "You need to e-mail them to ask for the deletion to be processed.",
+        "difficulty": "hard",
+        "domains": [
+            "targetprocess.com"
+        ]
+    },
+
+    {
         "name": "TeamViewer",
         "url": "https://login.teamviewer.com/",
         "difficulty": "easy",
@@ -4925,6 +5078,20 @@
         "notes_de": "Klicke auf 'Konto löschen' und dann auf 'Mein Konto jetzt unwiederruflich löschen",
         "domains": [
             "perfect-shave.de"
+        ]
+    },
+
+    {
+        "name": "Threema",
+        "url": "https://myid.threema.ch/revoke",
+        "difficulty": "easy",
+        "notes": "In the app, go to your ID and select 'Delete ID' at the bottom. Alternatively go to https://myid.threema.ch/revoke and remove your ID with your revocation password. If you do not have one, you can only unlink your phone number and mail under https://myid.threema.ch/unlink.",
+        "notes_de": "Gehe in der App zu deiner ID und wähle 'ID löschen' am unteren Rand aus. Alternativ kannst du zu https://myid.threema.ch/revoke gehen und dort deine ID mit deinem Widerrufspassword löschen. Wenn du dies nicht hast, kannst du nur deine Telefonnummer und E-Mail-Adresse unter https://myid.threema.ch/unlink von der ID entfernen.",
+        "domains": [
+            "threema.ch",
+            "myid.threema.ch",
+            "work.threema.ch",
+            "web.threema.ch"
         ]
     },
 
@@ -5159,6 +5326,17 @@
         "notes": "Click 'Delete my account' at the bottom of the user settings page.",
         "domains": [
             "unroll.me"
+        ]
+    },
+
+    {
+        "name": "Unfuddle Ten",
+        "url": "https://unfuddle.io/app",
+        "difficulty": "hard",
+        "notes": "Send an email with the subject ‘Delete my account’, it is the only way.",
+        "email": "support@unfuddle.com",
+        "domains": [
+            "unfuddle.io"
         ]
     },
 
@@ -5556,7 +5734,7 @@
         "meta": "popular",
         "name": "YouTube",
         "url": "https://support.google.com/youtube/answer/55759",
-        "difficulty": "impossible",
+        "difficulty": "hard",
         "notes": "You can’t delete your YouTube account without deleting your entire Google or Google+ account. But you can delete your YouTube channel.",
         "notes_fr": "Vous ne pouvez pas supprimer votre compte YouTube sans supprimer votre compte Google. Mais vous pouvez supprimer votre chaîne.",
         "notes_it": "Non puoi eliminare il tuoi account di YouTube senza eliminare anche il tuo account Google. Ma puoi eliminare il tuo canale.",
@@ -5574,6 +5752,16 @@
         "difficulty": "easy",
         "domains": [
             "zattoo.com"
+        ]
+    },
+
+    {
+        "name": "Zendesk",
+        "url": "https://support.zendesk.com/hc/en-us/articles/223774027-Canceling-your-Support-account",
+        "difficulty": "easy",
+        "notes": "Go to Admin->Settings->Subscription and click \"Yes, cancel my account\".",
+        "domains": [
+            "zendesk.com"
         ]
     },
 

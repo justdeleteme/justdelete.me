@@ -12,7 +12,7 @@
 	"hideinfo": "verstecke Info...",
 	"whatisthis": "Was ist das?",
 	"whatisthis1": "Viele Firmen nutzen <a href=\"http://darkpatterns.org/\">dark pattern</a>-Techniken, um es schwierig zu machen, deinen Account zu löschen. Das Ziel von JustDelete.me ist ein Verzeichnis von URLs, damit Sie Ihr Konto bei verschiedenen Webdiensten einfach löschen können.",
-	"whatisthis2": "Fehlt eine Seite, die hinzugefügt werden sollte? <a href=\"http://github.com/rmlewisuk/justdelete.me\">Forke das Projekt auf GitHub</a>.",
+	"whatisthis2": "Fehlt eine Seite, die hinzugefügt werden sollte? <a href=\"https://github.com/tupaschoal/justdelete.me\">Forke das Projekt auf GitHub</a>.",
 	"whatisthis3": "<em>E-Mail-Vorschläge sind zur Zeit deaktiviert</em>",
 	"guide": "Anleitung",
 	"guideexplanations": "Die Links oben sind farbkodiert, um die Schwierigkeit des Account-Löschens anzuzeigen:",
@@ -33,10 +33,10 @@
 	"extensionl3": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Kann nicht vollständig gelöscht werden, ohne den jeweiligen Support zu kontaktieren",
 	"extensionl4": "<span class=\"dot-wrapper\"><span class=\"dot impossible\"></span></span> - Kann nicht gelöscht werden",
 	"banner": "Testen Sie unsere neue <span>Chrome Erweiterung</span>",
-	"footer": "Erstellt von <a href=\"http://robblewis.me\">Robb Lewis</a> und <a href=\"http://edpoole.me\">Ed Poole</a> | Fork auf <a href=\"http://github.com/rmlewisuk/justdelete.me\">GitHub</a> | Gehostet von <a href=\"https://www.digitalocean.com/?refcode=8e1d8283bd20b\">DigitalOcean</a> | Analytics von <a href=\"https://t.co/fvPnva7p4Y\">GoSquared</a>",
+	"footer": "Erstellt von <a href=\"http://robblewis.me\">Robb Lewis</a> und <a href=\"http://edpoole.me\">Ed Poole</a> | Fork auf <a href=\"https://github.com/tupaschoal/justdelete.me\">GitHub</a>",
 	"help": "Hilf uns bei der Übersetzung",
 	"donate": "Hosting kostet Geld. Wenn du JustDelete.me magst, denke bitte über eine Spende nach.",
-	"sendmail": "E-mail senden",
+	"sendmail": "E-Mail senden",
 	"submit": "Seite eintragen",
 	"popular": "Beliebt"
 }

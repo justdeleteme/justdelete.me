@@ -222,14 +222,6 @@ button {
 	overflow: auto;
 }
 
-	.generate {
-		text-align: center;
-		margin-bottom: 10px;
-	}
-		.generate button {
-			padding: 20px;
-			border: 1px solid #d04343;
-		}
 	.tweet-button {
 		margin: 0 auto;
 		text-align: center;
