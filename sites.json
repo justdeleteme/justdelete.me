@@ -3105,20 +3105,6 @@
     },
 
     {
-        "name": "Threema",
-        "url": "https://myid.threema.ch/revoke",
-        "difficulty": "easy",
-        "notes": "In the app, go to your ID and select 'Delete ID' at the bottom. Alternatively go to https://myid.threema.ch/revoke and remove your ID with your revocation password. If you do not have one, you can only unlink your phone number and mail under https://myid.threema.ch/unlink.",
-        "notes_de": "Gehe in der App zu deiner ID und wähle 'ID löschen' am unteren Rand aus. Alternativ kannst du zu https://myid.threema.ch/revoke gehen und dort deine ID mit deinem Widerrufspassword löschen. Wenn du dies nicht hast, kannst du nur deine Telefonnummer und E-Mail-Adresse unter https://myid.threema.ch/unlink von der ID entfernen.",
-        "domains": [
-            "threema.ch",
-            "myid.threema.ch",
-            "work.threema.ch",
-            "web.threema.ch"
-        ]
-    },
-
-    {
         "name": "LiveJournal",
         "url": "http://www.livejournal.com/accountstatus.bml",
         "difficulty": "medium",
@@ -3177,6 +3163,17 @@
         ]
     },
 
+    {
+        "name": "Lufthansa",
+        "url": "https://www.lufthansa.com/online/myportal/lh/uk/my_account/profile/update?action=deleteProfileAction",
+        "difficulty": "easy",
+        "domains": [
+            "lh.com",
+            "lufthansa.com",
+            "lufthansa.de"
+        ]
+    },
+    
     {
         "name": "Lumi",
         "url": "https://lumi.do/account/privacy/delete/user",
@@ -5070,6 +5067,20 @@
         "notes_de": "Klicke auf 'Konto löschen' und dann auf 'Mein Konto jetzt unwiederruflich löschen",
         "domains": [
             "perfect-shave.de"
+        ]
+    },
+
+    {
+        "name": "Threema",
+        "url": "https://myid.threema.ch/revoke",
+        "difficulty": "easy",
+        "notes": "In the app, go to your ID and select 'Delete ID' at the bottom. Alternatively go to https://myid.threema.ch/revoke and remove your ID with your revocation password. If you do not have one, you can only unlink your phone number and mail under https://myid.threema.ch/unlink.",
+        "notes_de": "Gehe in der App zu deiner ID und wähle 'ID löschen' am unteren Rand aus. Alternativ kannst du zu https://myid.threema.ch/revoke gehen und dort deine ID mit deinem Widerrufspassword löschen. Wenn du dies nicht hast, kannst du nur deine Telefonnummer und E-Mail-Adresse unter https://myid.threema.ch/unlink von der ID entfernen.",
+        "domains": [
+            "threema.ch",
+            "myid.threema.ch",
+            "work.threema.ch",
+            "web.threema.ch"
         ]
     },
 
