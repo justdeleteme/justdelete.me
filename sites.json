@@ -4270,16 +4270,10 @@
 
     {
         "name": "Rotten Tomatoes",
-        "url": "http://flixster.desk.com/customer/portal/articles/169347-how-do-i-cancel-my-account-",
-        "difficulty": "hard",
-        "notes": "You need to contact flixster to cancel a native RT profile, while Facebook linked or Flixster.com accounts are easier to cancel.",
-        "notes_it": "Devi contattare flixster per eliminare il tuo profilo RT nativo, mentre il collegamento a Facebook o Flixter.com sono più facili da eliminare.",
-        "notes_pt_br": "Você precisará contatar flixster para cancelar o perfile nativo RT, enquanto contas ligadas ao Facebook ou Flixter.com são mais facilmente canceladas.",
-        "notes_cat": "Haurà de contactar amb flixter per cancel·lar el perfil natiu d'RT, mentres que els comptes associats amb Facebook o Flixster.com són més fàcils d'esborrar.",
-        "notes_es": "Deberás contactar con Flixter para cancelar el perfil nativo de RT, mientras que las cuentas asociadas con Facebook o Flixster.com son más fáciles de borrar.",
+        "url": "http://rottentomatoes.com/user/account/cancel",
+        "difficulty": "easy",
         "domains": [
-            "flixster.desk.com",
-            "desk.com"
+            "rottentomatoes.com"
         ]
     },
 
