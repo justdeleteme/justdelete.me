@@ -52,6 +52,15 @@
     },
 
     {
+        "name": "Academia",
+        "url": "https://www.academia.edu/settings#account-removal",
+        "difficulty": "easy",
+        "domains": [
+            "academia.edu"
+        ]
+    },
+
+    {
         "name": "Adobe",
         "url": "https://learn.adobe.com/wiki/display/wel/Delete+your+account",
         "difficulty": "hard",
