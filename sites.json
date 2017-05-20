@@ -5370,6 +5370,16 @@
             "whatsapp.com"
         ]
     },
+    
+    {
+        "name": "Which?",
+        "url": "http://www.which.co.uk/terms-and-conditions/your-which-membership/",
+        "difficulty": "hard",
+        "email": "which@which.co.uk",
+        "domains": [
+            "which.co.uk"
+        ]
+    },
 
     {
         "name": "whistle.im",
