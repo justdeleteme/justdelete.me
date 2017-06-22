@@ -1749,6 +1749,20 @@
     },
 
     {
+        "name": "Foap",
+        "url": "https://www.foap.com/pages/contact",
+        "difficulty": "medium",
+        "notes": "Account deletion requires contacting customer support.",
+        "domains": [
+            "https://www.foap.com/",
+            "http://community.foap.com/
+         ]
+    },
+        
+    
+    
+    
+    {
         "name": "Gadu-Gadu",
         "url": "http://www.gg.pl/pomoc/ustawienia-moje-konto-profil/",
         "difficulty": "easy",
