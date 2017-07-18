@@ -188,6 +188,14 @@
     },
 
     {
+        "name": "Apiary",
+        "url": "https://apiary.io/",
+        "difficulty": "hard",
+        "notes": "Create a placeholder API, then delete all of your existing APIs. After that, send a request to terminate your account to the support email.",
+        "email": "support@apiary.io"
+    },
+
+    {
         "name": "App.net",
         "url": "https://account.app.net/settings/delete/",
         "difficulty": "easy",
@@ -3452,6 +3460,16 @@
         "email": "unsubscribe@neopets.com",
         "domains": [
             "neopets.com"
+        ]
+    },
+
+    {
+        "name": "NetAcad",
+        "url": "https://www.netacad.com/",
+        "difficulty": "hard",
+        "notes": "If you need to have your account deleted, log in, go to help, and submit a request for deletion.",
+        "domains": [
+            "netacad.com"
         ]
     },
 
