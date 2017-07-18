@@ -977,7 +977,9 @@
         "url": "http://www.crushee.com/pages/faq",
         "difficulty": "impossible",
         "notes": "They mock the very idea of wanting to delete your account in their faq: \"Can I delete my account cause I totally h8 you guise??!!!111\"",
-        "domains": "crushee.com"
+        "domains": [
+            "crushee.com"
+        ]
     },
 
     {
