@@ -2295,6 +2295,16 @@
     },
 
     {
+        "name": "HipChat",
+        "url": "https://www.hipchat.com/account/delete",
+        "difficulty": "easy",
+        "notes": "Hit the Deactivate account button and retype your password.",
+        "domains": [
+            "hipchat.com"
+        ]
+    },
+
+    {
         "name": "hitbox",
         "url": "http://help.hitbox.tv/customer/portal/emails/new",
         "difficulty": "hard",
