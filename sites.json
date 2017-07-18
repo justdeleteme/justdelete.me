@@ -3359,6 +3359,17 @@
     },
 
     {
+        "name": "Mover",
+        "url": "https://app.mover.io/account",
+        "difficulty": "easy",
+        "notes": "“Delete Account” button at the bottom of the “Leave Mover“ tab",
+        "domains": [
+            "app.mover.io",
+            "mover.io"
+        ]
+    },
+
+    {
         "name": "Multiplay.co.uk",
         "url": "https://multiplay.com/contactus/",
         "difficulty": "hard",
