@@ -5273,6 +5273,15 @@
     },
 
     {
+        "name": "Wacom Cloud",
+        "url": "https://cloud.wacom.com/user/edit",
+        "difficulty": "easy",
+        "domains": [
+            "cloud.wacom.com"
+        ]
+    },
+    
+    {
         "name": "WAYN",
         "url": "http://www.wayn.com/wayn.html?wci=unregister",
         "difficulty": "easy",
