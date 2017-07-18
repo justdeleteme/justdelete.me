@@ -2944,6 +2944,16 @@
             "leagueoflegends.com"
         ]
     },
+    
+    {
+        "name": "Letgo",
+        "url": "https://us.letgo.com/en/contact",
+        "difficulty": "hard",
+        "notes": "· In the contact form, select "Edit or delete profile" as the subject and add a message, Tap the 'Send' button",
+        "domains": [
+            "letgo.com"
+        ]
+    }
 
     {
         "name": "Letterboxd",
