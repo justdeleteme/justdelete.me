@@ -5282,6 +5282,16 @@
     },
 
     {
+        "name": "Warmshowers",
+        "url": "https://www.warmshowers.org/faq#t21n3794",
+        "difficulty": "easy",
+        "notes": "Click the \"Cancel account\" button at the bottom of the page when editing your account.",
+        "domains": [
+            "warmshowers.org"
+        ]
+    },
+
+    {
         "name": "Waze",
         "url": "https://www.waze.com/dashboard/delete_account",
         "difficulty": "easy",
