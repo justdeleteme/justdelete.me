@@ -398,6 +398,16 @@
             "basecamp.com"
         ]
     },
+    
+    {
+        "name": "Baskin Robbins",
+        "url": "https://www.baskinrobbins.com/content/baskinrobbins/en/signin/manageyouraccount.html",
+        "difficulty": "easy",
+        "notes": "Log in, then use the 'Delete my account' link in the top nav.",
+        "domains": [
+            "baskinrobbins.com"
+        ]
+    },
 
     {
         "name": "Battle.net",
@@ -558,6 +568,18 @@
         "domains": [
             "www.boerse.bz",
             "boerse.bz"
+        ]
+    },
+    
+    {
+        "name": "Boingo Wireless",
+        "url": "http://support.boingo.com/contactus",
+        "difficulty": "hard",
+        "notes": "E-mail support@boingo.com from the associated address whose account you want to close.",
+        "email": "support@boingo.com",
+        "domains": [
+            "support.boingo.com",
+            "boingo.com"
         ]
     },
 
@@ -3844,6 +3866,17 @@
         "difficulty": "impossible",
         "notes": "They refuse to delete accounts from the site."
     },
+    
+    {
+        "name": "Piazza",
+        "url": "https://piazza.com/support/contact",
+        "difficulty": "hard",
+        "notes": "E-mail team@piazza.com and ask to close your account. They will reply asking you to confirm, after which point you can acknowledge and it will be removed.",
+        "email": "team@piazza.com",
+        "domains": [
+            "piazza.com"
+        ]
+    },
 
     {
         "name": "Picasa",
@@ -4179,6 +4212,16 @@
         "email": "support@redditgifts.com",
         "domains": [
             "redditgifts.com"
+        ]
+    },
+    
+    {
+        "name": "Redfin",
+        "url": "https://www.redfin.com/myredfin/settings",
+        "difficulty": "easy",
+        "notes": "After logging in, click the Deactivate button at the bottom of the Settings page.",
+        "domains": [
+            "redfin.com"
         ]
     },
 
@@ -4852,6 +4895,16 @@
     },
 
     {
+        "name": "Tanga",
+        "url": "https://www.tanga.com/support",
+        "difficulty": "impossible",
+        "notes": "Contacting customer support, they will most likely tell you they don't have the option to.",
+        "domains": [
+            "tanga.com"
+        ]
+    },
+
+    {
         "name": "Tango",
         "url": "http://support.tango.me/entries/23534011-How-do-I-delete-my-Tango-account-",
         "difficulty": "medium",
@@ -5441,6 +5494,26 @@
         "domains": [
             "en.support.wordpress.com",
             "wordpress.com"
+        ]
+    },
+    
+    {
+        "name": "World Market",
+        "url": "http://www.worldmarket.com/category/customer-service/contact-us.do",
+        "difficulty": "impossible",
+        "notes": "Contacting customer support, they will most likely tell you they can't modify or delete accounts created on their website.",
+        "domains": [
+            "worldmarket.com"
+        ]
+    },
+    
+    {
+        "name": "World Market Explorer",
+        "url": "https://www.worldmarketexplorer.com/contact/",
+        "difficulty": "hard",
+        "notes": "Using the contact form, select 'Sign-up and Registration' from the category dropdown, then ask to be unenrolled.",
+        "domains": [
+            "worldmarketexplorer.com"
         ]
     },
 
