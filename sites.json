@@ -3719,15 +3719,9 @@
 
     {
         "name": "Pastebin",
-        "url": "http://pastebin.com/profile",
-        "difficulty": "impossible",
-        "notes": "You can remove your pastes, but there's no link to delete your account.",
-        "notes_fr": "Vous pouvez supprimer vos pastes, mais il n'y aucun lien permettant de supprimer votre compte.",
-        "notes_it": "Puoi cancellare completamente i tuoi paste, ma non esiste il modo di cancellare l'account.",
-        "notes_pt_br": "Você pode remover seus pastes, mas não há um link para remover sua conta.",
-        "notes_cat": "Pot esborrar els seus 'pastes', però no hi ha cap enllaç per esborrar el compte.",
-        "notes_es": "Puedes borrar sus 'pastes', pero no hay ningún enlace para borrar la cuenta.",
-        "notes_pl": "Nie ma możliwości usunięcia konta, możesz tylko usunąć dodane przez siebie treści.",
+        "url": "http://pastebin.com/delete_account",
+        "difficulty": "easy",
+        "notes": "Password is required for deletion. Pastes will be removed and the username cannot be used again. No Recovery after deletion.",
         "domains": [
             "pastebin.com"
         ]
