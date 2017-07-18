@@ -4796,6 +4796,16 @@
     },
 
     {
+        "name": "Streetlife",
+        "url": "https://www.streetlife.com/account/close/",
+        "difficulty": "easy",
+        "notes": "Give the reason `Other` and enter a reason",
+        "domains": [
+            "streetlife.com"
+        ]
+    },
+
+    {
         "name": "StumbleUpon",
         "url": "https://www.stumbleupon.com/settings/delete-account",
         "difficulty": "easy",
