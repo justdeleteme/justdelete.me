@@ -2436,6 +2436,17 @@
     },
 
     {
+        "name": "iFixit",
+        "url": "https://www.ifixit.com/",
+        "difficulty": "impossible",
+        "notes": "We don't delete user accounts (because of the strong ties between users and revision history on guides, Answers, device pages, etc) but we're happy to remove any and all personal information of yours from our displaying on our site. Feel free to email our awesome customer support team about this for more information: support@ifixit.com",
+        "domains": [
+            "ifixit.com"
+            "pro.ifixit.com"
+        ]
+    },
+
+    {
         "name": "IFTTT",
         "url": "https://ifttt.com/settings/deactivate",
         "difficulty": "easy",
