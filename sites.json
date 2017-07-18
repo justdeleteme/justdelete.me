@@ -4633,6 +4633,16 @@
             "splitwise.com"
         ]
     },
+    
+    {
+        "name": "Spoon",
+        "url": "https://spoon.net/account",
+        "difficulty": "easy",
+        "domains": [
+            "spoon.net"
+        ],
+        "notes": "Scroll down to the bottom of your account page and click on the \"Delete account\" link. A modal will pop up notifying that your subscription will be canceled and your data will be deleted. Click \"Delete\" to confirm.",
+    },
 
     {
         "name": "Spotify",
