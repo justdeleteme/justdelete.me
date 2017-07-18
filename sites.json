@@ -150,6 +150,23 @@
     },
 
     {
+        "name": "Amazon UK",
+        "url": "https://www.amazon.co.uk/gp/help/customer/contact-us/ref=cu_cf_email?ie=UTF8&language=en_GB&mode=email#a",
+        "difficulty": "hard",
+        "notes": "To close your account, contact Amazon by email (via this contact form) and request that your account be closed.",
+        "notes_fr": "Pour fermer votre compte, contactez Amazon par mail (par le formulaire de contact) et demandez la fermeture de votre compte.",
+        "notes_it": "Per chiudere il tuo account, contatta amazon via mail (utilizzando il form contattaci) richiedendo di chiudere il tuo account",
+        "notes_de": "Um deinen Account zu löschen, kontaktiere den Support über den Link und beantrage die Löschung dort.",
+        "notes_pt_br": "Para fechar sua conta, contate Amazon por e-mail (usando este modelo de contato) e requira que sua conta seja fechada.",
+        "notes_cat": "Per tancar el seu compte, contacti amb Amazon via e-mail (omplint aquest formulari de contacte) i demanant que es tanqui el seu compte.",
+        "notes_es": "Para cerrar tu cuenta, contacta con Amazon via e-mail (rellenando este formulario de contacto) y pidiendo que se cierre tu cuenta.",
+        "notes_pl": "Skontakuj się z Amazonem za pomocą formularza kontaktowego i poproś o usunięcie swojego konta.",
+        "domains": [
+            "amazon.co.uk"
+        ]
+    },
+
+    {
         "name": "Amazon AWS",
         "url": "https://portal.aws.amazon.com/gp/aws/manageYourAccount?#productToCancel",
         "difficulty": "easy",
