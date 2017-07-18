@@ -880,6 +880,21 @@
     },
 
     {
+        "name": "Codewars",
+        "url": "https://www.codewars.com/about/terms-of-service",
+        "difficulty": "impossible",
+        "notes": "If you wish to terminate your Codewars account, you may simply discontinue using Codewars.",
+        "notes_fr": "Si vous ne voulez plus votre compte Codewars, vous pouvez simplement arrêter votre usage du service.",
+        "notes_it": "Se desideri terminare il tuo Codewars account, devi semplicemente non usarlo più.",
+        "notes_pt_br": "Se você deseja terminar sua conta Codewars, você pode apenas parar de usar Codewars.",
+        "notes_cat": "Si vol acabar amb el seu compte d'Codewars, simplement deixi de fer servir Codewars.",
+        "notes_es": "Dicen: «Si quieres eliminar tu cuenta de Codewars, simplemente deja de usar Codewars.»",
+        "domains": [
+            "codewars.com"
+        ]
+    },
+
+    {
         "name": "Coinbase",
         "url": "https://www.coinbase.com/settings/cancel",
         "difficulty": "easy",
