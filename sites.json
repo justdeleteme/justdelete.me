@@ -3197,6 +3197,16 @@
     },
 
     {
+        "name": "Metacritic",
+        "url": "http://www.metacritic.com/contact-us",
+        "difficulty": "hard",
+        "email": "support@metacritic.com",
+        "domains": [
+            "metacritic.com"
+        ]
+    },
+
+    {
         "name": "Microsoft Account",
         "url": "https://account.live.com/closeaccount.aspx",
         "difficulty": "easy",
