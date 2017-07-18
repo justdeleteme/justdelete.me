@@ -902,7 +902,7 @@
 
     {
         "name": "Couchsurfing",
-        "url": "https://www.couchsurfing.org/delete_profile.html?delete=1",
+        "url": "https://www.couchsurfing.com/preferences/deactivate",
         "difficulty": "impossible",
         "notes": "Cannot be deleted fully, reactivation is always available. Fill out the form and select 'I understand. Please delete my profile.'.",
         "notes_fr": "Ne sera pas completement supprimé, reactivation toujours possible. Remplissez le formulaire et selectionnez 'I understand. Please delete my profile.",
@@ -912,7 +912,9 @@
         "notes_cat": "No pot ser completament eliminat, la reactivació serà possible sempre. Ompli el formulari i seleccioni 'I understand. Please delete my profile.'.",
         "notes_es": "No puedes eliminarla completamente, la reactivación siempre será posible. Rellena el formulario y selecciona 'I understand. Please delete my profile.'.",
         "domains": [
-            "couchsurfing.org"
+            "support.couchsurfing.org",
+            "couchsurfing.org",
+            "couchsurfing.com"
         ]
     },
 
