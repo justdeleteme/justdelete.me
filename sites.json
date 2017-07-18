@@ -1465,6 +1465,16 @@
     },
 
     {
+        "name": "ESPN",
+        "url": "https://www.espn.com",
+        "difficulty": "easy",
+        "notes": "At the bottom of the account settings page there is a Remove Account button",
+        "domains": [
+            "espn.com"
+        ]
+    },
+
+    {
         "name": "Etsy",
         "url": "http://www.etsy.com/help/article/53",
         "difficulty": "hard",
@@ -2626,7 +2636,7 @@
             "apple.com"
         ]
     },
-    
+
     {
         "name": "iversity",
         "url": "https://iversity.org/de/user/deactivate",
@@ -2634,7 +2644,7 @@
         "domains": [
             "iversity.com"
         ]
-    },    
+    },
 
     {
         "name": "Jalopnik (Gawker Media)",
