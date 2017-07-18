@@ -1655,6 +1655,16 @@
     },
 
     {
+        "name": "Fooducate",
+        "url": "http://fooducate.com/deleteaccount",
+        "difficulty": "easy",
+        "notes": "Log into your profile, fill out reason (optional), click Delete",
+        "domains": [
+            "fooducate.com"
+        ]
+    },
+
+    {
         "name": "Forrst",
         "url": "http://forrst.com/settings",
         "difficulty": "easy",
