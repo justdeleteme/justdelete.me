@@ -4365,6 +4365,15 @@
     },
 
     {
+        "name": "Sedo",
+        "url": "https://sedo-us1.custhelp.com/app/answers/detail/a_id/350/~/how-can-i-close-my-account",
+        "difficulty": "hard",
+        "domains": [
+            "sedo.com"
+        ]
+    },
+
+    {
         "name": "ShareLaTeX",
         "url": "https://www.sharelatex.com/user/settings",
         "difficulty": "easy",
