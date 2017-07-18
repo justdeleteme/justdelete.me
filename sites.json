@@ -1042,6 +1042,17 @@
             "kinja.com"
         ]
     },
+	
+    {
+        "name": "Deezer",
+        "url": "https://www.deezer.com/account",
+        "difficulty": "easy",
+        "notes": "The Delete my account button ist at the bottom of the page. You have to cancel all subscriptions before you go forward.",
+        "notes_de": "Der button Delete my account ist ganz unten. Um den Account löschen zu können müssen alle Abos gekündigt sein.",
+        "domains": [
+            "deezer.com"
+        ]
+    },
 
     {
         "name": "Delicious",
@@ -3137,6 +3148,18 @@
         "domains": [
             "uk.match.com",
             "match.com"
+        ]
+    },
+	
+    {
+        "name": "Maxdome",
+        "url": "http://faq.maxdome.de/content/36/280/en/wie-kann-ich-meinen-account-loeschen.html",
+        "difficulty": "impossible",
+        "notes": "It is necessary to contact the customer support and ask for deletion. They just quit the subscription and don't delete the account.",
+        "notes_de": "Das Löschen des Accounts geht nur über den Kundensupport und selbst dann wird nur das Abo gekündigt. Der Account bleibt bestehen.",
+        "domains": [
+            "maxdome.de",
+            "maxdome.com"
         ]
     },
 
