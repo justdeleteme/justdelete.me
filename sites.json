@@ -1,4 +1,13 @@
-[
+    {
+        "name": "empregos.com.br",
+        "url": "http://www.empregos.com.br",
+        "url":"http://candidato.empregos.com.br/minha-pagina.aspx",
+        "difficulty":"hard",
+        "domains":[
+            "empregos.com"
+        ]
+    };
+    
     {
         "name": "4shared",
         "url": "http://www.4shared.com/web/account/settings#overview",
