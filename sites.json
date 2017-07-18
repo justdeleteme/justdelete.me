@@ -4053,9 +4053,9 @@
 
     {
         "name": "Quora",
-        "url": "http://www.quora.com/Quora-product/How-do-I-delete-my-Quora-account",
-        "difficulty": "hard",
-        "notes": "First deactivate your account. Log in, go to 'Settings', 'Privacy', and then 'Deactivate Account'. You can then e-mail privacy@quora.com if you want to completely delete your account.",
+        "url": "https://www.quora.com/settings/privacy",
+        "difficulty": "medium",
+        "notes": "After logging in, from Settings → Privacy, use the 'Delete Account' link at the bottom of the page. Note that there is a 14 day delay until your account is fully deleted.",
         "domains": [
             "quora.com"
         ]
@@ -5424,6 +5424,16 @@
         "email": "info@wolframalpha.com",
         "domains": [
             "wolframalpha.com"
+        ]
+    },
+
+    {
+        "name": "Woot",
+        "url": "https://account.woot.com/support/",
+        "difficulty": "hard",
+        "notes": "From the support page, choose 'I want to look at my account!' → 'I want to deactivate my account.' and you will then see a form where you can fill out your request.",
+        "domains": [
+            "woot.com"
         ]
     },
 
