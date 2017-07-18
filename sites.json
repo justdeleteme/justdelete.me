@@ -2003,6 +2003,17 @@
             "gogoair.com"
         ]
     },
+    
+    {
+        "name": "GoldenLine",
+        "url": "http://goldenline.pl",
+        "difficulty": "easy",
+        "notes": "Go to your account settings and choose 'Delete account'",
+        "notes_pl": "W ustawieniach swojego konta kliknij 'Usuń Konto'",
+        "domains": [
+            "goldenline.pl"
+        ]
+    },
 
     {
         "name": "Good Noows",
