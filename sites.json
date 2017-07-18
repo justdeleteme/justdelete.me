@@ -3716,6 +3716,17 @@
             "parkmobile.zendesk.com"
         ]
     },
+    
+    {
+        "name": "Passpack",
+        "url": "http://help.passpack.com/knowledgebase/idx.php/37/159/article/How-to-Delete-Your-Passpack-Account.html",
+        "difficulty": "easy",
+        "email": "",
+        "notes": "Sign into your Passpack account. Click on your Account tab then click the delete your account link in the lower left hand corner of the page. You will then be asked to insert your Packing Key to confirm that you are sure. Click Delete to permanently delete your account.",
+        "domains": [
+            "passpack.com"
+        ]
+    },
 
     {
         "name": "Pastebin",
