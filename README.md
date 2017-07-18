@@ -5,7 +5,7 @@ A directory of direct links to delete your account from web services.
 
 [![Deployment status from DeployBot](https://rmlewisuk.deploybot.com/badge/66802254013140/42527.svg)](http://deploybot.com)
 
-#Contributing
+# Contributing
 
 The sites, urls and additional notes are stored in `sites.json`. If you want to add a site to the list you'll need the following information:
 
@@ -20,7 +20,7 @@ The sites, urls and additional notes are stored in `sites.json`. If you want to 
 - `email`: *(optional)* If you have to send an email to a company to cancel your account, add the email address here. We'll do the rest.
 - `domains`: *(optional)* This is used by the [Chrome extension](https://github.com/MikeRogers0/justdelete.me-chrome-extension)
 
-##Contribution checklist
+## Contribution checklist
 
 1. Have you updated to the latest version of the project? `git pull`
 2. If you have modified an existing service's difficulty, please explain why/give sources.
@@ -30,7 +30,7 @@ The sites, urls and additional notes are stored in `sites.json`. If you want to 
 6. Be sure to place your entry ALPHABETICALLY in the current list.
 7. Please test that your changes work validating `sites.json` with something like [JSON Lint](http://jsonlint.com/)
 
-##Translation
+## Translation
 
 If you want to translate the site:
 
