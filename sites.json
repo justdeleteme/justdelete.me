@@ -5458,6 +5458,21 @@
             "wunderlist.com"
         ]
     },
+    
+    {
+        "name": "Xbox Live",
+        "url": "http://support.xbox.com/my-account/microsoft-account/delete-information-microsoft-account",
+        "difficulty": "impossible",
+        "notes": "Note You cannot delete your gamertag, but if you use an Xbox 360, you can transfer your gamertag to another Microsoft account. This option is not available on Xbox One. To do this, see Move your Xbox Live profile to another Microsoft account on Xbox 360.",
+        "notes_de": "Hinweis: Das Löschen Ihres Gamertags ist nicht möglich. Wenn Sie jedoch eine Xbox 360 verwenden, können Sie Ihren Gamertag auf ein anderes Microsoft-Konto übertragen. Diese Option ist auf der Xbox One nicht verfügbar. Weitere Informationen hierzu finden Sie unter Xbox Live-Profil auf ein anderes Microsoft-Konto auf Xbox 360 übertragen.",
+        "notes_fr": "Remarque Vous ne pouvez pas supprimer votre gamertag, mais si vous utilisez une console Xbox 360, vous pouvez transférer votre gamertag vers un autre compte Microsoft. Cette option n'est pas disponible sur Xbox One. Pour effectuer cette procédure, consultez Transférer votre profil Xbox Live vers un autre compte Microsoft sur Xbox 360.",
+        "notes_it": "Nota: non è possibile eliminare il proprio gamertag, ma se si utilizza una console Xbox 360, è possibile trasferire il gamertag a un altro account Microsoft. Questa opzione non è disponibile su Xbox One. A tale scopo, vedere Spostare il profilo Xbox Live per associarlo a un altro account Microsoft su Xbox 360.",
+        "notes_pt_br": "Observação Você não pode excluir o gamertag, mas se usar um Xbox 360, poderá transferir o gamertag para outra conta Microsoft. Essa opção não está disponível no Xbox One. Para fazer isso, consulte Mover o perfil do Xbox Live para outra conta Microsoft no Xbox 360.",
+        "notes_es": "Nota No puedes eliminar tu gamertag, pero si usas una Xbox 360, puedes transferir tu gamertag a otra cuenta Microsoft. Esta opción no está disponible en Xbox One. Para hacer esto, consulta Mover tu perfil de Xbox Live a otra cuenta Microsoft en Xbox 360.",
+        "domains": [
+            "xbox.com"
+        ]
+    },
 
     {
         "name": "Xfire",
