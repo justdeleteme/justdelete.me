@@ -1653,6 +1653,16 @@
             "foodspotting.com"
         ]
     },
+    
+    {
+        "name": "ForeverMissed.com",
+        "url": "http://www.forevermissed.com/contactus",
+        "difficulty": "hard",
+        "notes": "Use the contact form to ask customer service to delete your account.",
+        "domains": [
+            "forevermissed.com"
+        ]
+    },
 
     {
         "name": "Forrst",
@@ -3563,6 +3573,16 @@
         "notes_fr": "Cochez la case pour confirmer, puis cliquez « Change ».",
         "domains": [
             "noip.com"
+        ]
+    },
+
+    {
+        "name": "NovoEd",
+        "url": "http://help.novoed.com/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "Create a new request titled 'Please delete my account' using your e-mail address and the topic 'Course Not Listed/Not Course Related'.",
+        "domains": [
+            "novoed.com"
         ]
     },
 
