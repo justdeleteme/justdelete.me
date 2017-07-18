@@ -33,10 +33,10 @@
 	"extensionl3": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Невозможно полностью удалить без обращения в службу поддержки",
 	"extensionl4": "<span class=\"dot-wrapper\"><span class=\"dot impossible\"></span></span> - Невозможно удалить",
 	"banner": "Попробуйте наше новое <span>расширение для Chrome</span>",
-	"footer": "Сделали <a href=\"http://robblewis.me\">Robb Lewis</a> и <a href=\"http://edpoole.me\">Ed Poole</a> | Fork on <a href=\"http://github.com/rmlewisuk/justdelete.me\">GitHub</a> | Хостинг <a href=\"https://www.digitalocean.com/?refcode=8e1d8283bd20b\">DigitalOcean</a> | Статистика <a href=\"https://t.co/fvPnva7p4Y\">GoSquared</a>",
+	"footer": "Сделали <a href=\"http://robblewis.me\">Robb Lewis</a> и <a href=\"http://edpoole.me\">Ed Poole</a> | Форкнуть на <a href=\"http://github.com/rmlewisuk/justdelete.me\">GitHub</a> | Хостинг <a href=\"https://www.digitalocean.com/?refcode=8e1d8283bd20b\">DigitalOcean</a> | Статистика <a href=\"https://t.co/fvPnva7p4Y\">GoSquared</a>",
 	"help": "Помогайте переводить",
 	"donate": "Хостинг стоит денег. Если вам понравился JustDelete.me, пожалуйста, сделайте пожертвование.",
 	"sendmail": "E-mail отправлен",
-	"submit": "Submit a site",
-	"popular": "Popular"
+	"submit": "Предложить сайт",
+	"popular": "Популярное"
 }
