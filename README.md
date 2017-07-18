@@ -48,6 +48,8 @@ Usa las comillas angulares (« ») para citar las declaraciones de los dueños d
 
 ## Misc
 
+The site now builds using [Gulp](http://gulpjs.com/). If you want to preview changes to `sites.json` as you make them in your fork, install the [Gulp dependencies](/gulpfile.js) using [npm](https://www.npmjs.com/) and the output will be in the `site/` directory (e.g. open `site/index.html` in your browser to view the English site).
+
 Search functionality modified from [DevCenter.me](https://github.com/stevestreza/DevCenter.me).
 
 ### Licence

@@ -1570,12 +1570,12 @@
         "name": "Finanzblick",
         "url": "https://finanzblick.de/webapp",
         "difficulty": "medium",
-        "notes": "Click on your username (top left) &rarr; click on 'Profileinstellungen' &rarr; 'Account löschen'. All data is fully erased.",
-        "notes_it": "Clicca sul tuo username (in alto a sinistra) &rarr; clicca su 'Profileinstellungen' &rarr; 'Account löschen'. Tutti i dati saranno cancellati.",
-        "notes_de": "Klicke auf deinen username (oben rechts) &rarr; klicke auf 'Profileinstellungen' &rarr; 'Account löschen'. Alle Daten sind augenblicklich gelöscht.",
-        "notes_pt_br": "Clique em seu usuário (topo esquerdo) &rarr; clique em 'Profileinstellungen' &rarr; 'Account löschen'. Todos os seus dados serão completamente apagados.",
-        "notes_cat": "Cliqui al seu usuari (adalt esquerra) &rarr; cliqui a 'Profileinstellungen' &rarr; 'Account löschen'. Totes les seves dades seràn eliminades.",
-        "notes_es": "Haz clic en tu usuario (arriba a la izquierda) &rarr; haz clic en 'Profileinstellungen' &rarr; 'Account löschen'. Todos tus datos serán eliminados.",
+        "notes": "Click on your username (top left) → click on 'Profileinstellungen' → 'Account löschen'. All data is fully erased.",
+        "notes_it": "Clicca sul tuo username (in alto a sinistra) → clicca su 'Profileinstellungen' → 'Account löschen'. Tutti i dati saranno cancellati.",
+        "notes_de": "Klicke auf deinen username (oben rechts) → klicke auf 'Profileinstellungen' → 'Account löschen'. Alle Daten sind augenblicklich gelöscht.",
+        "notes_pt_br": "Clique em seu usuário (topo esquerdo) → clique em 'Profileinstellungen' → 'Account löschen'. Todos os seus dados serão completamente apagados.",
+        "notes_cat": "Cliqui al seu usuari (adalt esquerra) → cliqui a 'Profileinstellungen' → 'Account löschen'. Totes les seves dades seràn eliminades.",
+        "notes_es": "Haz clic en tu usuario (arriba a la izquierda) → haz clic en 'Profileinstellungen' → 'Account löschen'. Todos tus datos serán eliminados.",
         "domains": [
             "finanzblick.de"
         ]
@@ -2476,7 +2476,7 @@
         "name": "imo.im",
         "url": "https://imo.im/login",
         "difficulty": "easy",
-        "notes": "You must login, go to your account settings and then click on the &lsquo;Delete Account&rsquo; link on the bottom left.",
+        "notes": "You must login, go to your account settings and then click on the 'Delete Account' link on the bottom left.",
         "notes_fr": "Connectez-vous, allez dans vos parametres puis cliquez sur « Delete Account » en bas à gauche.",
         "domains": [
             "imo.im"
@@ -3020,7 +3020,7 @@
         "name": "The Linux Counter Project",
         "url": "https://linuxcounter.net/deleteaccount/profile.html",
         "difficulty": "easy",
-        "notes": "Login -> Profile -> Delete account -> Yes"
+        "notes": "Login → Profile → Delete account → Yes"
     },
 
     {
@@ -3121,8 +3121,8 @@
         "name": "Mapbox",
         "url": "https://www.mapbox.com/account/billing/",
         "difficulty": "easy",
-        "notes": "Enter Password -> Scroll to bottom -> Click 'Delete Account'",
-        "notes_de": "Passwort eingeben -> An das Ende der Seite scrollen -> 'Delete Account' klicken",
+        "notes": "Enter Password → Scroll to bottom → Click 'Delete Account'",
+        "notes_de": "Passwort eingeben → An das Ende der Seite scrollen → 'Delete Account' klicken",
         "domains": [
             "mapbox.com"
         ]
@@ -3133,7 +3133,7 @@
         "name": "Match",
         "url": "http://uk.match.com/myaccount/myunsubscription.php",
         "difficulty": "medium",
-        "notes": "Login -> Suspend Account -> Enter email & password -> Save -> Delete Account",
+        "notes": "Login → Suspend Account → Enter email & password → Save → Delete Account",
         "domains": [
             "uk.match.com",
             "match.com"
@@ -3819,8 +3819,8 @@
         "name": "Personello Germany",
         "url": "http://de.personello.com/mypersonello/index/feedback",
         "difficulty": "hard",
-        "notes": "It is necessary to contact the support, for example through 'Mein Konto' -> 'Meinung abgeben'.",
-        "notes_de": "Es ist nötig den Support zu kontaktieren oder über das Webinterface seine Meinung abzugeben unter 'Mein Konto' -> 'Meinung abgeben'"
+        "notes": "It is necessary to contact the support, for example through 'Mein Konto' → 'Meinung abgeben'.",
+        "notes_de": "Es ist nötig den Support zu kontaktieren oder über das Webinterface seine Meinung abzugeben unter 'Mein Konto' → 'Meinung abgeben'"
     },
 
     {
@@ -3980,12 +3980,12 @@
         "name": "Postcrossing",
         "url": "http://www.postcrossing.com/removal",
         "difficulty": "easy",
-        "notes": "Log into your account -> Click the link (data fully deleted, not possible to revert this).",
-        "notes_fr": "Connectez-vous -> Appuyez le lien (toutes les données sont supprimées définitivement).",
-        "notes_it": "Entra nel tuo account -> Clicca il link (informazioni completamente eliminate, operazione non reversibile).",
-        "notes_pt_br": "Faça login em sua conta -> Clique no link (dados totalmente apagados, não é possível reverter).",
-        "notes_cat": "Entri al seu compte -> Cliqui a l'enllaç (les dades s'eliminen permanentment, no es pot revertir).",
-        "notes_es": "Entra en tu cuenta -> Haz clic en el enlace (los datos se eliminan permanentmente, no es posible de deshacerlo).",
+        "notes": "Log into your account → Click the link (data fully deleted, not possible to revert this).",
+        "notes_fr": "Connectez-vous → Appuyez le lien (toutes les données sont supprimées définitivement).",
+        "notes_it": "Entra nel tuo account → Clicca il link (informazioni completamente eliminate, operazione non reversibile).",
+        "notes_pt_br": "Faça login em sua conta → Clique no link (dados totalmente apagados, não é possível reverter).",
+        "notes_cat": "Entri al seu compte → Cliqui a l'enllaç (les dades s'eliminen permanentment, no es pot revertir).",
+        "notes_es": "Entra en tu cuenta → Haz clic en el enlace (los datos se eliminan permanentmente, no es posible de deshacerlo).",
         "domains": [
             "postcrossing.com"
         ]
@@ -4004,8 +4004,8 @@
         "name": "Prey",
         "url": "https://panel.preyproject.com/settings/account",
         "difficulty": "easy",
-        "notes": "Log into your account -> Click 'Need to close your account?' near the bottom of the page -> Confirm deletion",
-        "notes_fr": "Connectez-vous -> Cliquez sur « Need to close your account? » au bas de la page -> Confirmez la suppression de votre compte",
+        "notes": "Log into your account → Click 'Need to close your account?' near the bottom of the page → Confirm deletion",
+        "notes_fr": "Connectez-vous → Cliquez sur « Need to close your account? » au bas de la page → Confirmez la suppression de votre compte",
         "domains": [
             "preyproject.com"
         ]
@@ -4015,8 +4015,8 @@
         "name": "Prezi",
         "url": "https://prezi.com/profile/delete_user_account/",
         "difficulty": "easy",
-        "notes": "Log into your account -> Click the link -> Enter your password and click on Delete Account.",
-        "notes_fr": "Connectez-vous -> Cliquez sur le lien -> Entrez votre mot de passe et cliquez sur « Delete Account ».",
+        "notes": "Log into your account → Click the link → Enter your password and click on Delete Account.",
+        "notes_fr": "Connectez-vous → Cliquez sur le lien → Entrez votre mot de passe et cliquez sur « Delete Account ».",
         "domains": [
             "prezi.com"
         ]
@@ -4026,7 +4026,7 @@
         "name": "Prosper",
         "url": "https://www.prosper.com/secure/account/borrower/close_account.aspx",
         "difficulty": "easy",
-        "notes": "Log into your account -> Click the link -> Click on Close My Account Now.",
+        "notes": "Log into your account → Click the link → Click on Close My Account Now.",
         "domains": [
             "prosper.com"
         ]
@@ -5353,7 +5353,7 @@
         "url": "https://www.whatsapp.com/faq/search/?q=how%20do%20I%20delete%20my%20account?&p=desktop",
         "difficulty": "medium",
         "notes": "From the app: Settings → Account → Delete your account.",
-        "notes_fr": "Depuis l'app: Réglages -> Compte -> Supprimer mon compte.",
+        "notes_fr": "Depuis l'app: Réglages → Compte → Supprimer mon compte.",
         "notes_it": "Dall'applicazione: Impostazioni → Account → Elimina il tuo account.",
         "notes_pt_br": "No aplicativo: Settings → Account → Delete your account.",
         "notes_cat": "Des de l'aplicació: Settings → Account → Delete your account.",
