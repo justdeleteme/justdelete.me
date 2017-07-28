@@ -5177,7 +5177,7 @@
 
     {
         "name": "Ustream",
-        "url": "http://www.ustream.tv/account/preferences",
+        "url": "http://www.ustream.tv/dashboard/account/preferences",
         "difficulty": "easy",
         "notes": "Scroll down to the bottom of the 'Account Settings' page and click 'Delete Account'",
         "notes_fr": "Tout en bas de la page il y a 'Parametre du compte' cliquez 'Supprimer mon compte'.",
