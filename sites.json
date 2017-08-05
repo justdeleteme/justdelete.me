@@ -890,6 +890,16 @@
     },
 
     {
+        "name": "Collegeboard",
+        "url": "https://pages.collegeboard.org/account-help/how-do-i-delete-my-account",
+        "difficulty": "hard",
+        "notes": "You have to call their customer service at 866-315-6068",
+        "domains": [
+            "collegeboard.org"
+        ]
+    },
+    
+    {
         "name": "Comment ça marche",
         "url": "http://www.commentcamarche.net/communaute/remove.php3",
         "difficulty": "medium",
@@ -1696,6 +1706,16 @@
             "foursquare.com"
         ]
     },
+    
+    {
+        "name": "FreeCodeCamp",
+        "url": "https://www.freecodecamp.org/settings",
+        "difficulty": "easy",
+        "notes": "You'll need to access your account settings; it's under a section labeled Danger Zone",
+        "domains": [
+            "freecodecamp.org"
+        ]
+    },
 
     {
         "name": "Freelancer",
@@ -2067,6 +2087,16 @@
     },
 
     {
+        "name": "gPodder",
+        "url": "https://www.gpodder.net/account/",
+        "difficulty": "easy",
+        "notes": "Go to account, select Delete Account at bottom of page, and click the red button labeled Delete Account.",
+        "domains": [
+            "gpodder.net"
+        ]
+    },
+    
+    {
         "name": "GoSquared",
         "url": "https://www.gosquared.com/home/account/close",
         "difficulty": "easy",
@@ -2208,7 +2238,7 @@
             "jacquesmattheij.com"
         ]
     },
-
+    
     {
         "name": "Hackpad",
         "url": "https://hackpad.com/Hackpad-FAQ-tq56fI63mz3#:h=Account-settings",
