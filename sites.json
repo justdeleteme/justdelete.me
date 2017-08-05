@@ -890,6 +890,16 @@
     },
 
     {
+        "name": "Collegeboard",
+        "url": "https://pages.collegeboard.org/account-help/how-do-i-delete-my-account",
+        "difficulty": "hard",
+        "notes": "You have to call their customer service at 866-315-6068",
+        "domains": [
+            "collegeboard.org"
+        ]
+    },
+    
+    {
         "name": "Comment ça marche",
         "url": "http://www.commentcamarche.net/communaute/remove.php3",
         "difficulty": "medium",
