@@ -1204,6 +1204,17 @@
             "disqus.com"
         ]
     },
+    
+    {
+        "name": "DocuSign",
+        "url": "https://support.docusign.com/guides/ndse-user-guide-close-your-account",
+        "notes": "Visit DocuSign’s customer support web page and fill out the web form with your account information and the request to delete your account."
+        "difficulty": "hard",
+        "domains": [
+            "docusign.com",
+            "support.docusign.com"
+        ]
+    },
 
     {
         "name": "Douban",
