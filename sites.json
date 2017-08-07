@@ -5225,6 +5225,16 @@
     },
 
     {
+        "name": "Vessel",
+        "url": "https://support.vessel.com/hc/en-us/articles/205695763-Removing-Your-Vessel-Account",
+        "difficulty": "hard",
+        "notes": "You need to follow the 'contact us' link and request account deletion using the questions and feedback form.",
+        "domains": [
+            "vessel.com"
+        ]
+    }
+
+    {
         "name": "Viadeo",
         "url": "http://www.viadeo.com/settings/account/?language=fr&ga_from=Fu:%2Fsettings%2Faccount%2F;Fb%3Amenu_box_right%3BFe%3AL1-account-settings%3B",
         "difficulty": "easy",
