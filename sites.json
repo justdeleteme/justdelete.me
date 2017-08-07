@@ -2182,7 +2182,18 @@
             "gumtree.com"
         ]
     },
-
+	
+    {
+        "name": "Habitica",
+        "url": "https://habitica.com/#/options/settings/settings",
+        "dfficulty": "easy",
+        "notes": "Login to your account, click on the gear icon in the top right-hand corner of the page and click in 'Site'. At the bottom of the page, click in 'Delete Account. A pop up will appear, then type 'DELETE' into the text box and click in 'Do it, delete my account!'",
+        "notes_pt_br": "Faça login em sua conta, clique no símbolo de engrenagem na parte superior esquerda da página e clique em 'Site'. Na parte de baixo da página clique em 'Delete Account'. Um pop-up aparecerá, então digite 'DELETE' na caixa de texto e finalize cicando em 'Do it, delete my account!'",
+        "domains": [
+            "habitica.com"
+        ]
+    },
+	
     {
         "name": "Hack This Site",
         "url": "https://www.hackthissite.org/forums/viewtopic.php?f=9&t=4800&sid=7edb515c2462108e30ddec760c2ddfebv",
