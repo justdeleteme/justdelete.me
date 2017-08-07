@@ -4012,6 +4012,16 @@
     },
 
     {
+        "name": "Premiumize.me",
+        "url": "https://www.premiumize.me/deleteaccount",
+        "difficulty": "easy",
+        "notes": "Log into your account -> Click the link -> Click on Send verification code -> Paste the code you got on your email and click Delete Account.",
+        "domains": [
+            "premiumize.me"
+        ]
+    },
+
+    {
         "name": "Prezi",
         "url": "https://prezi.com/profile/delete_user_account/",
         "difficulty": "easy",
