@@ -726,6 +726,17 @@
             "cheddarapp.com"
         ]
     },
+    
+    {
+        "name": "ChooseYourBoss",
+        "url": "",
+        "difficulty": "easy",
+        "notes": "Login to your account, then click  « Delete my account » on the top right dropdown.",
+        "notes_fr": "Connectez-vous et cliquez sur « Supprimer mon compte ». dans liste déroulante en haut à droite.",
+        "domains": [
+            "chooseyourboss.com"
+        ]
+    },
 
     {
         "name": "Cinemagram",
@@ -4188,6 +4199,17 @@
         "difficulty": "easy",
         "domains": [
             "rememberthemilk.com"
+        ]
+    },
+    
+    {
+        "name": "Remix jobs",
+        "url": "https://remixjobs.com/account/edit",
+        "difficulty": "easy",
+        "notes": "Login in, then click  « Delete the account » on the bottom of your account settings",
+        "notes_fr": "Connectez-vous et cliquez sur « Supprimer le compte ». en bas de vos paramètres de compte.",
+        "domains": [
+            "remixjobs.com"
         ]
     },
 
