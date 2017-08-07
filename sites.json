@@ -163,6 +163,21 @@
     },
 
     {
+        "name": "Ancestry",
+        "url": "https://support.ancestry.com/s/question/0D51500001jn5OdCAI",
+        "difficulty": "impossible",
+        "notes": "We do not 'delete' or 'terminate' accounts on ACC. If you no longer wish to use the site, you may delete all personal information from your profile and then stop logging in.",
+        "notes_fr": "ACC ne supprime pas les comptes. Cependant vous pouvez supprimer les informations qui sont dessus et arreter de vous connecter.",
+        "notes_it": "Non è possibile chiudere o terminare un account su ACC. Se non desideri più utilizzare il sito, puoi comunque eliminare tutti i dati personali dal tuo profilo e non loggarci più",
+        "notes_pt_br": "Nós não 'deletamos' ou 'terminamos' contas na ACC. Caso você não queira mais utilizar o site, você pode deletar todas as suas informações pessoas em seu perfil e então parar de logar-se.",
+        "notes_cat": "Nosaltres no 'esborrem' o 'finalitzem' comptes d'ACC. En el cas que no vulgui utilitzar més el lloc, pot esborrar totes les teves dades personals del seu perfil i evitar entrar més.",
+        "notes_es": "«Nosotros no 'borramos' o 'finalizamos' cuentas de ACC. En el supuesto que no quieras utilizar más el sitio, puede borrar toda tu información personal de tu perfil y evitar entrar más a tu cuenta.»",
+        "domains": [
+            "support.ancestry.com"
+            ]
+    },
+
+    {
         "name": "Animal Crossing Community",
         "url": "http://www.animalcrossingcommunity.com/help_main.asp?HelpSectionID=5#Topic201",
         "difficulty": "impossible",
@@ -747,6 +762,13 @@
         "domains": [
             "citeulike.org"
         ]
+    },
+
+    {
+        "name": "Classmates",
+        "url": "https://secure.classmates.com/auth/removemember",
+        "difficuly": "easy",
+        "notes": "Provide a reason by selecting a radio button and select 'Remove Registration'.",
     },
 
     {
