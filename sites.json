@@ -5273,6 +5273,16 @@
     },
 
     {
+        "name": "Voxer",
+        "url": "https://support.voxer.com/hc/en-us/articles/204330173-How-do-I-delete-my-Voxer-account-",
+        "difficulty": "medium",
+        "notes": "Account can only be deleted from Android or iOS app, not the Voxer website. Your friends will still see your profile until they delete your profile from their friends tab and chats tab.",
+        "domains": [
+            "voxer.com"
+        ]
+    },
+
+    {
         "name": "WAYN",
         "url": "http://www.wayn.com/wayn.html?wci=unregister",
         "difficulty": "easy",
