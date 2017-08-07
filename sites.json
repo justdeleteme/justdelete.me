@@ -952,10 +952,9 @@
 
     {
         "name": "CrashPlan",
-        "url": "http://support.crashplan.com/",
+        "url": "https://www.crashplan.com/account/myaccount/my_account.vtl",
         "difficulty": "hard",
-        "notes": "Start a live chat session and a representative will delete your account.",
-        "notes_fr": "Démarrez une session Live Chat et un représentant supprimera votre compte.",
+        "notes": "Remove account through link on the Account page, enter password and then DELETE ALL.",
         "domains": [
             "support.crashplan.com",
             "crashplan.com"
@@ -1602,7 +1601,7 @@
 
     {
         "name": "Flattr",
-        "url": "https://flattr.com/deleteaccount",
+        "url": "https://flattr.com/settings/account/delete",
         "difficulty": "easy",
         "domains": [
             "flattr.com"
@@ -2380,6 +2379,27 @@
             "hypejar.com"
         ]
     },
+
+
+    {
+        "name": "Hype Machine",
+        "url": "http://hypem.com/remove_account",
+        "difficulty": "easy",
+        "domains": [
+            "hypem.com"
+        ]
+    },
+
+
+    {
+        "name": "Hypejar",
+        "url": "http://www.hypejar.com/settings/account",
+        "difficulty": "easy",
+        "domains": [
+            "hypejar.com"
+        ]
+    },
+
 
     {
         "name": "i use this (iPhone)",
@@ -4932,6 +4952,16 @@
         "notes_es": "Deberás solicitar que borren tu cuenta vía formulario.",
         "domains": [
             "ticketmaster.com"
+        ]
+    },
+
+    {
+        "name": "TIDAL",
+        "url": "https://support.tidal.com/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "You have to contact customer service to have your account deleted.",
+        "domains": [
+            "tidal.com"
         ]
     },
 
