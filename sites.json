@@ -330,6 +330,16 @@
             "awdio.com"
         ]
     },
+    
+    {
+        "name": "Babbel",
+        "url": "https://www.babbel.com/users/settings/edit",
+        "difficulty": "easy",
+        "notes": "Sign in, then click the delete account button. Go to your email account and follow the steps in the Babbel email.",
+        "domains": [
+            "babbel.com"
+        ]
+    },
 
     {
         "name": "Backblaze",
