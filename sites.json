@@ -918,16 +918,9 @@
 
     {
         "name": "Coursera",
-        "url": "https://www.coursera.org/about/contact",
-        "difficulty": "hard",
-        "notes": "Contact support and request they delete your account.",
-        "notes_fr": "Contactez le support et demandez la suppression de vore compte.",
-        "notes_it": "Contatta il supporto e richiedi la cancellazione del tuo account.",
-        "notes_de": "Kontaktiere den Support und sie löschen deinen Account.",
-        "notes_pt_br": "Contate o suporte e peça que eles deletem sua conta.",
-        "notes_cat": "Contacti amb l'assistència al client i demani que li esborrrin el compte.",
-        "notes_es": "Contacta con asistencia al cliente y pide que te borren la cuenta.",
-        "notes_pl": "Skontaktuj się z obsługą i poproś o usunięcie swojego konta.",
+        "url": "https://www.coursera.org/account-settings",
+        "difficulty": "easy",
+        "notes": "Account can be deleted from the \"Account Settings\" page.",
         "domains": [
             "coursera.org"
         ]
