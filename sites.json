@@ -460,6 +460,16 @@
     },
 
     {
+        "name": "Bit Trade Australia",
+        "url": "https://www.btradeaustralia.com/helpdesk/",
+        "difficulty": "hard",
+        "notes": "You have to login and submit a Help Desk ticket requesting account deletion.",
+        "domains": [
+            "btradeaustralia.com"
+        ]
+    },
+
+    {
         "name": "Bitbucket",
         "url": "https://bitbucket.org/account/",
         "difficulty": "easy",
