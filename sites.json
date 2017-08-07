@@ -16,7 +16,16 @@
             "500px.com"
         ]
     },
-
+    
+    {
+        "name": "SadlyUnfriended",
+        "url": "http://www.sadlyunfriended.com",
+        "difficulty": "easy",
+        "notes": "Login to your account, and visit http://www.sadlyunfriended.com/close_account.php. Alternatively, remove the Sadly Unfriended application from Facebook and follow the email instructions.",
+        "domains": [
+            "sadlyunfriended.com.com"
+        ]
+    },
     {
         "name": "9GAG",
         "url": "https://9gag.com/member/delete",
