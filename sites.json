@@ -638,6 +638,16 @@
     },
 
     {
+        "name": "Buycott",
+        "url": "https://www.buycott.com/terms",
+        "difficulty": "hard",
+        "email": "info@buycott.com",
+        "domains": [
+            "buycott.com"
+        ]
+    },
+
+    {
         "name": "C&M News by Rеss.at",
         "url": "http://www.ress.at/profil/profil_entfernen.php",
         "difficulty": "easy",
