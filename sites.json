@@ -4304,13 +4304,9 @@
 
     {
         "name": "RunKeeper",
-        "url": "http://runkeeper.com/I-Love-RunKeeper",
+        "url": "https://runkeeper.com/settings/privacy",
         "difficulty": "medium",
-        "notes": "After clicking the button, you will have to enter your password, complete a capcha, click another button, AND a confirmation modal dialog.",
-        "notes_it": "Dopo aver cliccato il bottone dovrai: inserire la tua password, completare un capcha, clicare un altro bottone E un dialogo di conferma.",
-        "notes_pt_br": "Após clicar no botão, você terá que digitar sua senha, completar o captcha, clicar em outro botão, E a confirmar.",
-        "notes_cat": "Després de clicar al botó, haurà d'entrar la contrasenya i completar el 'captcha', clicar un altre botó i confirmar a la finestra de diàleg.",
-        "notes_es": "Después de pulsar el botón, deberás entrar la contraseña y completar el 'captcha', pulsar otro botón y confirmar en la ventana de diálogo.",
+        "notes": "Privacy and Terms of Service > delete your account > Yes, please delete my Runkeeper account",
         "domains": [
             "runkeeper.com"
         ]
