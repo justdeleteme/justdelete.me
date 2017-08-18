@@ -5609,5 +5609,15 @@
         "domains": [
             "onet.pl"
         ]
+    },
+    
+    {
+        "name": "cda",
+        "url": "https://www.cda.pl/kontakt",
+        "difficulty": "hard",
+        "notes": "You need to contact with support",
+        "domains": [
+            "cda.pl"
+        ]
     }
 ]
