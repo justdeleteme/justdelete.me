@@ -1188,9 +1188,9 @@
 
     {
         "name": "Discord",
-        "email": "support@discordapp.com",
-        "difficulty": "hard",
-        "notes": "Contact Discord’s customer support and request for your account to be closed.",
+        "url": "https://support.discordapp.com/hc/en-us/articles/212500837-How-do-I-permanently-delete-my-account-",
+        "difficulty": "easy",
+        "notes": "Follow their guide on how to.",
         "domains": [
             "discordapp.com"
         ]
