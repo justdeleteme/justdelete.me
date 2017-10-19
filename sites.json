@@ -1197,6 +1197,26 @@
     },
 
     {
+        "name": "Discshop.fi",
+        "email": "asiakaspalvelu@discshop.fi",
+        "difficulty": "hard",
+        "notes": "Contact Discshop.fi's customer support and request for your account to be closed.",
+        "domains": [
+            "discshop.fi"
+        ]
+    },
+
+    {
+        "name": "Discshop.se",
+        "email": "info@discshop.se",
+        "difficulty": "hard",
+        "notes": "Contact Discshop.se's customer support and request for your account to be closed.",
+        "domains": [
+            "discshop.se"
+        ]
+    },
+
+    {
         "name": "Disqus",
         "url": "http://disqus.com/pages/dashboard/#account",
         "difficulty": "easy",
