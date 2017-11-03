@@ -4840,6 +4840,16 @@
             "swagbucks.com"
         ]
     },
+    
+    {
+        "name": "Synap",
+        "url": "https://synap.ac/settings",
+        "difficulty": "easy",
+        "notes": "Use the 'Delete my account' button, and type in 'DELETE' when prompted to confirm.",
+        "domains": [
+            "synap.ac"
+        ]
+    },
 
     {
         "name": "Tagged",
