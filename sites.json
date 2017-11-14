@@ -4054,8 +4054,8 @@
     {
         "name": "Quora",
         "url": "http://www.quora.com/Quora-product/How-do-I-delete-my-Quora-account",
-        "difficulty": "hard",
-        "notes": "First deactivate your account. Log in, go to 'Settings', 'Privacy', and then 'Deactivate Account'. You can then e-mail privacy@quora.com if you want to completely delete your account.",
+        "difficulty": "easy",
+        "notes": "Log in to your account, go to 'Settings', 'Privacy', and then 'Delete Account'. You will be asked to type in your account password and confirm deletion.",
         "domains": [
             "quora.com"
         ]
