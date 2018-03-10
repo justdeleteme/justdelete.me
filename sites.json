@@ -1188,9 +1188,7 @@
 
     {
         "name": "Discord",
-        "email": "support@discordapp.com",
-        "difficulty": "hard",
-        "notes": "Contact Discord’s customer support and request for your account to be closed.",
+        "difficulty": "easy",
         "domains": [
             "discordapp.com"
         ]
