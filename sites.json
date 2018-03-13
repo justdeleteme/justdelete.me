@@ -70,6 +70,16 @@
     },
 
     {
+        "name": "Adzuna",
+        "url": "https://www.adzuna.co.uk/jobs/my-preferences",
+        "difficulty": "easy",
+        "notes": "Log in to your account and got to prefferences. There is a delete accunt link at the mottom of the content area.",
+        "domains": [
+            "adzuna.co.uk"
+        ]
+    },
+
+    {
         "name": "Affero",
         "url": "http://www.affero.net/ndmd1.html",
         "difficulty": "easy",
@@ -2626,7 +2636,7 @@
             "apple.com"
         ]
     },
-    
+
     {
         "name": "iversity",
         "url": "https://iversity.org/de/user/deactivate",
@@ -2634,7 +2644,7 @@
         "domains": [
             "iversity.com"
         ]
-    },    
+    },
 
     {
         "name": "Jalopnik (Gawker Media)",
