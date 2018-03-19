@@ -2935,10 +2935,9 @@
 
     {
         "name": "League of Legends",
-        "url": "https://support.leagueoflegends.com/entries/461131-Disabling-Your-Account",
-        "difficulty": "impossible",
-        "notes": "Accounts may be disabled, but some data will be retained. E-mail support@riotgames.com with the subject \"Account Deactivation\" and include your username, summoner name, server and email used when registering the account in your ticket",
-        "email": "support@riotgames.com",
+        "url": "https://support.riotgames.com/hc/en-us/articles/202647784-Account-Deletion-FAQ",
+        "difficulty": "hard",
+        "notes": "See point: How do I request to get my account deleted?",
         "domains": [
             "support.leagueoflegends.com",
             "leagueoflegends.com"
