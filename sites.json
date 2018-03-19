@@ -4840,6 +4840,17 @@
             "swagbucks.com"
         ]
     },
+    
+    {
+        "name": "Tablondeanuncios.com",
+        "url": "https://www.tablondeanuncios.com/mis-anuncios/",
+        "difficulty": "easy",
+        "notes": "Login to your account, go to Opciones, click Eliminar cuenta. Confirm by clicking I want to delete my account. Then, your account and your classified ads will be deleted.",
+        "notes_es": "Entra en tu cuenta, ve a 'Opciones', haz clic en 'Eliminar cuenta'. Haz clic en la pantalla de confirmación. Entonces, se borrará tu cuenta y todos los anuncios publicados.",
+        "domains": [
+            "tablondeanuncios.com"
+        ]
+    },
 
     {
         "name": "Tagged",
