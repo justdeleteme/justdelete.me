@@ -1452,6 +1452,17 @@
             "3docean.net",
             "activeden.net"
         ]
+    }
+    
+    {
+        "name": "Epic Games",
+        "url": "http://help.epicgames.com/customer/portal/emails/new",
+        "difficulty": "hard",
+        "notes": "You have to send them a request to delete the account using the contact form. Subject: REQUEST TO REMOVE MY ACCOUNT",
+        "email": "help@epicgames.com",
+        "domains": [
+            "epicgames.com"
+        ]
     },
 
     {
