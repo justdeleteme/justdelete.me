@@ -5050,6 +5050,18 @@
             "tumblr.com"
         ]
     },
+    
+    {
+        "name": "Tunngle",
+        "url": "https://www.tunngle.net/account/close",
+        "difficulty": "easy",
+        "domains": [
+		    "tunngle.net",
+		    "tunngle.com",
+		    "tunngle.org",
+		    "tunngle.de"
+	    ]
+    },
 
     {
         "name": "Tweetdeck",
