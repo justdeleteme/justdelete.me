@@ -1455,6 +1455,13 @@
     },
 
     {
+        "name": "Epic Games",
+        "url": "https://epicgames.desk.com/customer/en/portal/articles/2937300-how-do-i-delete-my-epic-account",
+        "difficulty": "hard",
+        "notes": "It's not possible to delete your account by yourself. You need to fill in a form with your registered email address, your name, the reason, etc... They'll try to help you soon."
+    },
+
+    {
         "name": "eRepublik",
         "url": "http://www.erepublik.com/en/contact/none/none",
         "difficulty": "hard",
