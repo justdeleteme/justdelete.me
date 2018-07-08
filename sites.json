@@ -1198,7 +1198,7 @@
 
     {
         "name": "Disqus",
-        "url": "http://disqus.com/pages/dashboard/#account",
+        "url": "https://disqus.com/home/settings/account",
         "difficulty": "easy",
         "domains": [
             "disqus.com"
