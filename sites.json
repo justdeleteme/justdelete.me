@@ -5600,4 +5600,14 @@
             "zynga.com"
         ]
     }
+    
+    {
+        "name": "HeadHunter",
+        "url": "https://hh.ru/account/delete_me",
+        "difficulty": "easy",
+        "domains": [
+            "hh.ru",
+            "headhunter.ru"
+        ]
+}
 ]
