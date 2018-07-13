@@ -1675,6 +1675,15 @@
     },
 
     {
+        "name": "Forvo",
+        "url": "https://forvo.com/account-delete/",
+        "difficulty": "easy",
+        "domains": [
+            "forvo.com"
+        ]
+    },
+
+    {
         "name": "Fotka",
         "url": "http://www.fotka.pl/ustawienia/konto_usun",
         "difficulty": "medium",
