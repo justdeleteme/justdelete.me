@@ -5271,7 +5271,17 @@
             "vk.com"
         ]
     },
-
+    
+    {
+       "meta": "popular",
+       "name": "Wattpad",
+       "url": "https://www.wattpad.com/user_close",
+       "difficulty": "easy",
+       "domains": [
+           "wattpad.com"
+       ]
+    },
+   
     {
         "name": "WAYN",
         "url": "http://www.wayn.com/wayn.html?wci=unregister",
