@@ -5052,6 +5052,17 @@
     },
 
     {
+        "name": "TunnelBear",
+        "url": "https://help.tunnelbear.com/customer/portal/articles/2770787",
+        "difficulty": "hard",
+        "notes": "You need to send them an account deletion request trough email (with your email address in it), in order to delete your account. The process will be ended within 30 days...",
+        "email": "support@tunnelbear.com",
+        "domains": [
+            "tunnelbear.com"
+        ]
+    },
+
+    {
         "name": "Tweetdeck",
         "url": "https://www.tweetdeck.com/api/account-delete/",
         "difficulty": "easy",
