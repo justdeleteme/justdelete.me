@@ -53,7 +53,7 @@ Search functionality modified from [DevCenter.me](https://github.com/stevestreza
 ### Licence
 
 Licensed under the MIT License (MIT).
-Copyright (c) 2013 Robb Lewis, various contributors.
+Copyright (c) 2013 [@Robb Lewis](https://github.com/rmlewisuk), various contributors.
 See `LICENSE.md`.
 
 Country Flag Icons Copyright (c) 2013 Go Squared Ltd. http://www.gosquared.com/
