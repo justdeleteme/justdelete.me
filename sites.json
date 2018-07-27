@@ -3531,6 +3531,15 @@
             "newsblur.com"
         ]
     },
+    
+    {
+        "name": "Nexus Mods",
+        "url": "https://nexusmods.com/users/deleteaccount",
+        "difficulty": "easy",
+        "domains": [
+            "nexusmods.com"
+        ]
+    },
 
     {
         "name": "Nike+",
