@@ -1497,7 +1497,17 @@
             "eventful.com"
         ]
     },
-
+    
+    {
+        "name": "Eventim",
+        "url": "https://www.eventim.de/tickets.html?affiliate=EVE&doc=feature%2FhelpContact%2Fcontact&fun=contact&hilfeid=&hilfetitel=Hilfe+%26+Kontakt",
+        "difficulty": "hard",
+        "notes": "Contact support and they will delete your account",
+        "domains": [
+            "eventim.de"
+        ]
+    }
+    
     {
         "name": "Evernote",
         "url": "https://www.evernote.com/Deactivate.action",
