@@ -486,6 +486,17 @@
             "bitly.com"
         ]
     },
+    
+    {
+        "name": "Bittrex",
+        "url": "https://support.bittrex.com/hc/en-us/requests/new?ticket_form_id=114093958171",
+        "difficulty": "hard",
+        "notes": "You have to create an entirely new account just for their support site. You then have to submit a ticket to have your main site account deleted. After they delete your main site account, you'd also have to submit a separate ticket to have your support site account deleted.",
+        "domains": [
+            "support.bittrex.com",
+            "bittrex.com"
+        ]
+    },
 
     {
         "meta": "popular",
