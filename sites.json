@@ -963,6 +963,16 @@
     },
 
     {
+        "name": "Crevado Portfolios",
+        "url": "https://crevado.com/",
+        "difficulty": "easy",
+        "notes": "Log into your account and then click the Account link on the top right of the page and scroll to the bottom of the page for the Account Deletion option.",
+        "domains": [
+            "crevado.com"
+        ]
+    },
+
+    {
         "name": "CreditExpert",
         "url": "https://www.creditexpert.co.uk/",
         "difficulty": "hard",
