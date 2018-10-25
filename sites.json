@@ -4934,6 +4934,16 @@
             "ticketmaster.com"
         ]
     },
+    
+    {
+        "name": "Tinder",
+        "url": "https://www.help.tinder.com/hc/en-us/articles/115003358846-How-do-I-delete-my-account-",
+        "difficulty": "medium",
+        "notes": "You must install the app in order to delete your account. After logging into the app, select your profile, settings, and then select delete account.",
+        "domains": [
+            "tinder.com"
+        ]
+    },
 
     {
         "name": "TinyDeal",
