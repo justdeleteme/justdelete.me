@@ -5599,5 +5599,15 @@
         "domains": [
             "zynga.com"
         ]
-    }
+    },
+    
+    {
+        "name": "Avito",
+        "url": "https://www.avito.ru/registration/remove",
+        "difficulty": "easy",
+        "notes": "Enter any reason to delete",
+        "domains": [
+            "avito.ru"
+        ]
+    }    
 ]
