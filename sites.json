@@ -5511,6 +5511,16 @@
     },
 
     {
+        "name": "Yandex",
+        "url": "https://passport.yandex.com/profile/delete?origin=passport_profile",
+        "difficulty": "easy",
+        "notes": "On the above URL, confirm the deletion by entering the CAPTCHA code. If backup email and/or phone added you will need to send a confirmation code and fill in the code(s). Press &laquo;Delete account&raquo; and confirm deletion in the dialog box.",
+        "domains": [
+            "yandex.com"
+        ]
+    },    
+    
+    {
         "name": "Yammer",
         "url": "https://www.yammer.com/mozillians/account/display_options",
         "difficulty": "easy",
