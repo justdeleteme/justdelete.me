@@ -1,5 +1,14 @@
 [
     {
+        "name": "Pixel Starships",
+        "url": "https://twitter.com/PixelStarships/status/1087183970624655360",
+        "difficulty": "impossible",
+        "domains": [
+            "www.pixelstarships.com"
+        ]
+    },
+
+    {
         "name": "4shared",
         "url": "http://www.4shared.com/web/account/settings#overview",
         "difficulty": "easy",
