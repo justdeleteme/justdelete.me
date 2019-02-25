@@ -4222,6 +4222,16 @@
     },
 
     {
+        "name": "Revolut",
+        "url": "https://www.revolut.com/help/profile/i-want-to-terminate-my-revolut-account",
+        "difficulty": "impossible",
+        "notes": "However, if you would like to close your account, you will first need to withdraw all of the funds in all currency pockets. All transactions (card payments, transfers) should be completed - it’s required in order to close your account. Revolut cards linked to the account will be terminated and you won’t be able to link them to another account or use it again. After you’ve ensured these steps have been completed, please talk to a live agent. They will ask you some security questions before we can delete your account. Please bear in mind that as a regulated financial institution we are obligated to keep data about our former users for 6 years.",
+        "domains": [
+            "revolut.com"
+        ]
+    },
+
+    {
         "name": "Rideindego",
         "url": "https://www.rideindego.com/faq/how-do-i-cancel-my-membership/",
         "difficulty": "impossible",
