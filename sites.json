@@ -5562,6 +5562,15 @@
     },
 
     {
+        "name": "Zapier",
+        "url": "https://zapier.com/app/settings/delete",
+        "difficulty": "medium",
+        "domains": [
+            "zapier.com"
+        ]
+    },
+
+    {
         "name": "Zattoo",
         "url": "https://zattoo.com/account/delete",
         "difficulty": "easy",
