@@ -643,6 +643,15 @@
             "burst.net"
         ]
     },
+    {
+        "name": "Buycraft",
+        "url": "https://server.tebex.io/profile/delete",
+        "difficulty": "easy",
+        "notes": "Buycraft was moved to Tebex, just click the 'delete profile' button in your account menu",
+        "domains": [
+            "tebex.io"
+        ]
+    },
 
     {
         "name": "C&M News by Rеss.at",
@@ -4881,6 +4890,15 @@
         "domains": [
             "login.teamviewer.com",
             "teamviewer.com"
+        ]
+    },
+    {
+        "name": "Tebex",
+        "url": "https://server.tebex.io/profile/delete",
+        "difficulty": "easy",
+        "notes": "Just click the 'delete profile' button in your account menu",
+        "domains": [
+            "tebex.io"
         ]
     },
 
