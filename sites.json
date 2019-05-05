@@ -2635,6 +2635,17 @@
         "notes": "Closing your account will delete your profile and all of your publications. There is no going back, so don't say we didn't warn you.",
         "notes_fa": "با بستن حساب کاربریتان تمامی مجلات و اطلاعات شما حذف می‌شود. این اطلاعات غیز قابل بازگشت خواهند بود."
     },
+    
+    {
+        "name": "itch.io",
+        "url": "https://itch.io/support",
+        "difficulty": "hard",
+        "notes": "You need to contact support via email to get your account deleted.",
+        "domains": [
+            "itch.io"
+        ],
+        "email:": "support@itch.io"
+    },
 
     {
         "name": "iTunes / Apple ID",
