@@ -1767,6 +1767,15 @@
             "www.gg.pl"
         ]
     },
+    {
+        "name": "GameJolt",
+        "url": "http://gamejolt.com",
+        "difficulty": "impossible",
+        "notes": "According to many sources, you can get your account stripped of everything and banned by contacting support, but there is no way to delete your account.",
+        "domains": [
+            "gamejolt.com"
+        ]
+    },
 
     {
         "name": "Gamespot",
