@@ -647,7 +647,7 @@
         "name": "Buycraft",
         "url": "https://server.tebex.io/profile/delete",
         "difficulty": "easy",
-        "notes": "Buycraft was moved to Tebex, just click the 'delete profile' button in your account menu",
+        "notes": "Buycraft was moved to Tebex, just click the 'delete profile' button in your account menu. You might need to delete all your existing stores first.",
         "domains": [
             "tebex.io"
         ]
@@ -4896,7 +4896,7 @@
         "name": "Tebex",
         "url": "https://server.tebex.io/profile/delete",
         "difficulty": "easy",
-        "notes": "Just click the 'delete profile' button in your account menu",
+        "notes": "Just click the 'delete profile' button in your account menu.  You might need to delete all your existing stores first.",
         "domains": [
             "tebex.io"
         ]
