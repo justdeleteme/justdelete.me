@@ -7,6 +7,15 @@
             "4shared.com"
         ]
     },
+    {
+        "name": "Apex Minecraft Hosting",
+        "url": "https://billing.apexminecrafthosting.com/submitticket.php",
+        "difficulty": "hard",
+        "notes": "You need to log into your billing panel and send a ticket regarding the account deletion. If you only have a multicraft account, you can send a ticket without logging in."
+        "domains": [
+            "apexminecrafthosting.com"
+        ]
+    },
 
     {
         "name": "500px",
