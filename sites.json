@@ -4373,6 +4373,16 @@
             "sharelatex.com"
         ]
     },
+    
+    {
+        "name": "Sharesome",
+        "url": "https://sharesome.com/delete-account/",
+        "difficulty": "easy",
+        "notes": "Enter your account password.",
+        "domains": [
+            "sharesome.com"
+        ]
+    },
 
     {
         "name": "Shopify",
