@@ -1315,6 +1315,16 @@
             "dwolla.com"
         ]
     },
+    
+        {
+        "name": "DWR",
+        "url": "https://www.dwr.com/contact-us.html",
+        "difficulty": "impossible",
+        "notes": "After contacting service@dwr.com, they stated, 'Once DWR account is created, we cannot delete it.'",
+        "domains": [
+            "dwr.com"
+        ]
+    },
 
     {
         "name": "DynDNS",
