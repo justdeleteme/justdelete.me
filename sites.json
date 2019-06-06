@@ -2221,6 +2221,18 @@
     },
 
     {
+        "name": "Headliner",
+        "url": "https://learn.headliner.app/hc/en-us/articles/360003796513-How-do-I-delete-my-account-",
+        "difficulty": "hard",
+        "notes": "You have to send an email to support@headliner.app",
+        "notes_fr": "Vous devez envoyer un mail à support@headliner.app",
+        "email": "support@headliner.app",
+        "domains": [
+            "headliner.app"
+        ]
+    },
+
+    {
         "name": "HelloFax",
         "url": "https://www.hellofax.com/home/myAccount",
         "difficulty": "easy",
