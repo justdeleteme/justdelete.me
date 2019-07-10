@@ -89,6 +89,16 @@
             "airbnb.com"
         ]
     },
+    
+    {
+        "name": "AirVPN",
+        "url": "https://airvpn.org/",
+        "difficulty": "hard",
+        "notes": "You need to contact customer services to delete your account, and the account deletion isn't immediate. They say they will delete your account in 5 business days.",
+        "domains": [
+            "airvpn.org"
+        ]
+    },
 
     {
         "name": "Album Reminder",
