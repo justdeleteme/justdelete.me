@@ -3705,6 +3705,17 @@
     },
 
     {
+      "name": "PaperKarma",
+      "url": "https://www.paperkarma.com/faq",
+      "difficulty": "hard",
+      "email": "human@paperkarma.com",
+      "notes": "Send an email to human@paperkarma.com requesting deletion. If you have a subscription plan through the App Store or Google Play, be sure to cancel your subscription in the proper store.",
+      "domains": [
+          "paperkarma.com"
+      ]
+    },
+
+    {
         "name": "Parkmobile",
         "url": "https://parkmobile.zendesk.com/hc/en-us/articles/203299300-How-do-I-cancel-my-account-",
         "difficulty": "hard",
