@@ -5363,7 +5363,17 @@
             "whatsapp.com"
         ]
     },
-
+    
+    {
+        "name": "whirlpool.net.au",
+        "url": "http://whirlpool.net.au/wiki/wp_deleteaccount",
+        "difficulty": "impossible",
+        "notes": "Whirlpool refuses to permanently delete accounts and instead suggests that the best solution is 'simply to exercise self control and not log in any more'. In exceptional circumstances (e.g. death, legal threats, security risks) you may contact a moderator to request that your account be marked as inactive or placed in the penalty box. The site also refuses to delete a large amount of posts on your behalf, so the best solution may be to turn on 2FA, change your username/email address to something that's not used elsewhere and not login anymore.",
+        "domains": [
+            "whirlpool.net.au"
+        ]
+    },
+    
     {
         "name": "whistle.im",
         "url": "https://whistle.im/browser#vcard",
