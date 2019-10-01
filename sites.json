@@ -1978,6 +1978,17 @@
     },
 
     {
+        "name": "Gocatch",
+        "url": "http://gocatch.zendesk.com/hc/en-us/articles/115005902046-How-to-deactivate-or-reactivate-your-GoCatch-account",
+        "difficulty": "hard",
+        "notes": "Either submit a request via the Gocatch support site (https://gocatch.zendesk.com/hc/en-us/requests/new) or send an email to support@gocatch.com and ask to your account permanently deleted (specify that you do not want it to be able to be reactivated at a later date). Although the information on the support page only mentions account 'deactivation', the company appears to honour requests for deletion.",
+        "domains": [
+            "gocatch.com",
+            "gocatch.zendesk.com
+        ]
+    },
+    
+    {
         "meta": "popular",
         "name": "GoDaddy",
         "url": "http://support.godaddy.com/groups/go-daddy-customers/forum/topic/how-do-i-delete-my-account-with-godaddy/",
