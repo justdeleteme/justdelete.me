@@ -1453,7 +1453,18 @@
             "activeden.net"
         ]
     },
+    
+    {
+        "name": "Wilson epark",
+        "url": "http://myaccount.epark.com.au/ContactUs.aspx",
+        "difficulty": "hard",
+        "notes": "No information about requesting account deletion is published on the Wilson epark website. To delete your account, you must send the company a written request. Send your request to epark either via the form on the 'Contact Us' page (linked), or by sending an email info@epark.com.au. They seem to action requests promptly (under 2 hours in my case), but I don't know if this is the norm.",
+        "domains": [
+            "myaccount.epark.com.au
+        ]
+    },
 
+    
     {
         "name": "eRepublik",
         "url": "http://www.erepublik.com/en/contact/none/none",
