@@ -82,6 +82,17 @@
     },
 
     {
+        "name": "Agoda",
+        "url": "http://www.agoda.com/en-au/info/agoda-privacy.html",
+        "difficulty": "hard",
+        "notes": "Agoda states on their privacy page that 'you may request that we delete your account'. To delete your Agoda account, you must submit a request to the site's privacy team by either emailing privacy@agoda.com or using the customer support form at http://www.agoda.com/en-au/info/contact-agoda.html. You will receive a response to the email address you provided requesting that you complete a 'DSSR' form (Data Subject Rights Request)' before the request can be actioned. You must return the completed DSSR form (PDF file) to csat@agoda.com using the subject line 'YourDSRR-Data Subject Right Request'. Agoda will eventually delete your account (and action any other requests related to privacy rights you have elected to exercise in the DSSR form), but they provide no expected timeframe.",
+        "domains": [
+            "agoda.com"
+            
+        ]
+    },
+    
+    {
         "name": "Airbnb",
         "url": "https://www.airbnb.com/users/settings",
         "difficulty": "easy",
