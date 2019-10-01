@@ -458,7 +458,19 @@
             "behance.net"
         ]
     },
+    
 
+    {
+        "name": "Bigstock",
+        "url": "http://help.bigstockphoto.com/help/articles/kbat04/My-Account?l=en_US&c=BigstockKB%3ACustomers&fs=Search&pn=1#d",
+        "difficulty": "hard",
+        "notes": "To delete your account, you must email support@bigstockphoto.com and request that your account be deleted.",
+        "domains": [
+            "bigstockphoto.com",
+            "help.bigstockphoto.com"
+        ]
+    },
+   
     {
         "name": "Bitbucket",
         "url": "https://bitbucket.org/account/",
