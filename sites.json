@@ -4736,14 +4736,9 @@
 
     {
         "name": "Steam",
-        "url": "https://support.steampowered.com/newticket.php",
-        "difficulty": "impossible",
-        "notes": "If you contact Steam support, they will most likely tell you just to not use the account. If your account has no games on it, it will be disabled after a while.",
-        "notes_fr": "Si vous contactez le support, il vous dit qu'il ne faut qu'arrêter votre usage du compte. Si le compte n'a pas de jeux, il va être supprimé automatiquement après un certain temps.",
-        "notes_it": "Se contatti il supporto Steam, risponderanno semplicemente di non usare l'account. Se l'account non ha nessun gioco abbinato, sarà disabilitato automaticamente dopo un certo periodo di tempo",
-        "notes_pt_br": "Se você contatar o suporte Steam, eles irão te dizer para apenas não usar a conta. Se você não tiver jogos na sua conta, ela será desabilitada após um tempo.",
-        "notes_cat": "Si contacta amb l'assistència al client d'Steam, li respondran que deixi d'utilitzar el seu compte. Si no ha comprat jocs el compte serà deshabilitat al cap d'un temps.",
-        "notes_es": "Si contactas con la asistencia al cliente de Steam, te responderán que deja de utilizar su cuenta. Si no has comprado juegos la cuenta será deshabilitado al cabo de un tiempo.",
+        "url": "https://help.steampowered.com/en/wizard/HelpDeleteAccount",
+        "difficulty": "medium",
+        "notes": "Login to your steam account and request an account deletion.",
         "domains": [
             "support.steampowered.com",
             "steampowered.com"
