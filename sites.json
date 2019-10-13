@@ -1567,6 +1567,15 @@
     },
 
     {
+      "name": "Feedbin",
+      "url": "https://feedbin.com/settings/account",
+      "difficulty": "easy",
+      "domains": [
+          "feedbin.com"
+      ]
+    },
+
+    {
         "name": "Finanzblick",
         "url": "https://finanzblick.de/webapp",
         "difficulty": "medium",
@@ -2527,6 +2536,16 @@
     },
 
     {
+      "name": "Inoreader",
+      "url": "https://www.inoreader.com/all_articles",
+      "difficulty": "easy",
+      "notes": "Look for a \"Settings\" icon at top right corner. Then go to \"Reset or cancel\" and press \"Cancel account\" button at the bottom",
+      "domains": [
+          "inoreader.com"
+      ]
+    },
+
+    {
         "name": "Instacast Cloud",
         "url": "http://instacastcloud.com/dashboard/dangerzone",
         "difficulty": "easy",
@@ -2626,7 +2645,7 @@
             "apple.com"
         ]
     },
-    
+
     {
         "name": "iversity",
         "url": "https://iversity.org/de/user/deactivate",
@@ -2634,7 +2653,7 @@
         "domains": [
             "iversity.com"
         ]
-    },    
+    },
 
     {
         "name": "Jalopnik (Gawker Media)",
