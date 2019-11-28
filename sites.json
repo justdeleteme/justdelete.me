@@ -2221,6 +2221,16 @@
     },
 
     {
+        "name": "Headspace",
+        "url": "https://my.headspace.com/profile/account",
+        "difficulty": "easy",
+        "notes": "Click \"Delete my account\" and follow the instructions that appear.",
+        "domains": [
+            "headspace.com"
+        ]
+    },
+
+    {
         "name": "HelloFax",
         "url": "https://www.hellofax.com/home/myAccount",
         "difficulty": "easy",
