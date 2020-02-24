@@ -458,6 +458,18 @@
             "behance.net"
         ]
     },
+    
+    {
+        "name": "bet365",
+        "url": "https://help.bet365.com/contact",
+        "difficulty": "hard",
+        "notes": "To delete the account, contact customer service. It is recommended to do it via chat and ask to close the account, as there is no link to do so.",
+        "notes_fr": "Pour supprimer le compte, contactez le service clientèle. Il est recommandé de le faire via le chat et de demander la fermeture du compte, car il n'y a pas de lien pour le faire.",
+        "notes_nl": "Neem contact op met de klantenservice om het account te verwijderen. Het is aan te raden om dit te doen via chat en te vragen om de account te sluiten, aangezien er geen link is om dit te doen.",
+        "domains": [
+            "https://www.bet365.com"
+        ]
+    },
 
     {
         "name": "Bitbucket",
