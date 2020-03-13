@@ -4155,7 +4155,7 @@
         "meta": "popular",
         "name": "Reddit",
         "url": "https://ssl.reddit.com/prefs/delete/",
-        "difficulty": "easy",
+        "difficulty": "hard",
         "notes": "Reddit does not allow for the actual deletion of your account but rather just let's you deactivate it. Your content is also not deleted automatically: \"Deactivating your account will not delete the content of posts and comments you've made on reddit. To do so, please delete them individually.\". If you are an EU citizen, you may request an actual deletion of your personal data: \"To contact us about exercising data subject rights under GDPR, please write to eurepresentative@reddit.com\".",
         "domains": [
             "ssl.reddit.com",
