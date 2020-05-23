@@ -3908,6 +3908,16 @@
     },
 
     {
+        "name": "postale.io",
+        "url": "https://postale.io/admin/my/show",
+        "difficulty": "easy",
+        "notes": "Click on the 'Delete account' red button at the bottom of the page. Only administrator accounts can delete an account though.",
+        "domains": [
+            "postale.io"
+        ]
+    },
+    
+    {
         "name": "PlayStation Network",
         "url": "https://support.us.playstation.com/app/contact_options",
         "difficulty": "impossible",
