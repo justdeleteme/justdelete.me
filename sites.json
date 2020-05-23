@@ -3911,7 +3911,7 @@
         "name": "postale.io",
         "url": "https://postale.io/admin/my/show",
         "difficulty": "easy",
-        "notes": "Click on the 'Delete account' red button at the bottom of the page. Only administrator accounts can delete an account though.",
+        "notes": "Click on the 'Delete account' red button at the bottom of the page. Note that only administrator accounts can delete an account.",
         "domains": [
             "postale.io"
         ]
