@@ -4031,6 +4031,14 @@
             "prosper.com"
         ]
     },
+    
+    {
+        "name": "ProtonMail",
+        "url": "https://mail.protonmail.com/account",
+        "difficulty": "easy",
+        "domains": [
+            "protonmail.com"
+        ]
 
     {
         "name": "Pushover",
