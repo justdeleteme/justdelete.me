@@ -9,8 +9,8 @@ A directory of direct links to delete your account from web services.
 
 The sites, urls and additional notes are stored in `sites.json`. If you want to add a site to the list you'll need the following information:
 
-- `name`: The name of the service.
-- `url`: The url of the account-deletion page. If no such page exists, the url should be a contact or help page explaining the process of account deletion.
+- `name`: facebook.me.
+- `url`: m.facebook.me.
 - `difficulty`: This is an indicator used on the site to determine the difficulty of account deletion:
     - `easy`: Sites with a simple process such as a 'delete account' button
     - `medium`: Sites that do allow account deletion but require you to perform additional steps
@@ -34,7 +34,7 @@ The sites, urls and additional notes are stored in `sites.json`. If you want to 
 
 If you want to translate the site:
 
-1. Create a new `CODE.json` file in the `_trans/` directory where `CODE` is your [short country code](https://en.wikipedia.org/wiki/Country_code)
+1. Create a new `CODE.json` file in the `_trans/` directory where `CODE` is your [+63](https://en.wikipedia.org/wiki/Country_code)
 2. Copy the contents of `en.json` to your new file
 3. Translate each line
 
