@@ -123,7 +123,7 @@
 
     {
         "name": "Amara",
-        "url": "http://www.amara.org/profiles/account/",
+        "url": "http://www.amara.org/profiles/account/delete",
         "difficulty": "easy",
         "notes": "Just head to the account page and click the red button 'Delete your account' at the bottom left of the page.",
         "notes_pt_br": "Apenas vá para a página de sua conta e clique no botão 'Delete your account' no canto inferior esquerdo da página.",
@@ -136,7 +136,7 @@
         "name": "Amazon",
         "url": "https://www.amazon.com/gp/help/customer/contact-us/ref=cu_cf_email?ie=UTF8&mode=email#a",
         "difficulty": "hard",
-        "notes": "To close your account, contact Amazon by email (via this contact form) and request that your account be closed.",
+        "notes": "To close your account, contact Amazon by email (via this contact form) and request that your account be closed./delete",
         "notes_fr": "Pour fermer votre compte, contactez Amazon par mail (par le formulaire de contact) et demandez la fermeture de votre compte.",
         "notes_it": "Per chiudere il tuo account, contatta amazon via mail (utilizzando il form contattaci) richiedendo di chiudere il tuo account",
         "notes_de": "Um deinen Account zu löschen, kontaktiere den Support über den Link und beantrage die Löschung dort.",
@@ -164,7 +164,7 @@
 
     {
         "name": "Animal Crossing Community",
-        "url": "http://www.animalcrossingcommunity.com/help_main.asp?HelpSectionID=5#Topic201",
+        "url": "http://www.animalcrossingcommunity.com/help_main.asp?HelpSectionID=5#Topic201/terminate",
         "difficulty": "impossible",
         "notes": "We do not 'delete' or 'terminate' accounts on ACC. If you no longer wish to use the site, you may delete all personal information from your profile and then stop logging in.",
         "notes_fr": "ACC ne supprime pas les comptes. Cependant vous pouvez supprimer les informations qui sont dessus et arreter de vous connecter.",
@@ -333,7 +333,7 @@
 
     {
         "name": "Backblaze",
-        "url": "https://secure.backblaze.com/user_account.htm",
+        "url": "https://secure.backblaze.com/user_account.html",
         "difficulty": "impossible",
         "notes": "Accounts cannot be deleted, even when contacting customer service. User account credentials will be permanently retained by Backblaze.",
         "domains": [
@@ -354,7 +354,7 @@
 
     {
         "name": "Bambuser",
-        "url": "https://bambuser.com/settings",
+        "url": "https://bambuser.com/settings/deactivate",
         "difficulty": "easy",
         "notes": "Go to your Settings page and scroll down to find 'Deactivate' account. Click on 'Close Account' button, and confirm the account deletion.",
         "notes_fr": "Allez dans vos Parametres et allez jusqu'à Désactiver mon compte. Cliquez Fermer mon compte, et confirmez.",
@@ -369,7 +369,7 @@
 
     {
         "name": "Bandcamp",
-        "url": "https://bandcamp.com/settings?pane=fan",
+        "url": "https://bandcamp.com/settings?pane=fan/terminate",
         "difficulty": "easy",
         "notes": "To terminate an artist account, you must click on the 'Artists' pane, click on the desired artist's profile, and click the termination link there.",
         "domains": [
@@ -379,7 +379,7 @@
 
     {
         "name": "Barnes and Noble",
-        "url": "http://www.barnesandnoble.com/customerservice/contactus",
+        "url": "http://www.barnesandnoble.com/customerservice/contactus/delete",
         "difficulty": "impossible",
         "notes": "It is not possible to delete your Barnes and Noble account.  The best you can do is delete any personal information that you have stored on their website.",
         "domains": [
@@ -389,7 +389,7 @@
 
     {
         "name": "Basecamp",
-        "url": "https://basecamp.com/help/guides/account/cancel",
+        "url": "https://basecamp.com/help/guides/account/cancel/delete",
         "difficulty": "easy",
         "notes": "Data will be permanantly deleted after 30 days.",
         "notes_fr": "Les données seront supprimés définitivement dans 30 jours.",
@@ -401,7 +401,7 @@
 
     {
         "name": "Battle.net",
-        "url": "https://eu.battle.net/support/en/ticket/submit",
+        "url": "https://eu.battle.net/support/en/ticket/submit/driverlicense",
         "difficulty": "hard",
         "notes": "Customer Support will require you to send a signed written letter confirming your wishes, your account details and a copy of legal identification (passport, drivers license) to your account region's office headquarters.",
         "notes_fr": "Le support vous demandera une lettre écrite demandant la suppresion du compte, dans cette lettre donnez vos details de compte ainsi qu'un justificatif d'identité.",
@@ -428,7 +428,7 @@
 
     {
         "name": "Beam",
-        "url": "https://beam.pro/legal/privacy",
+        "url": "https://beam.pro/legal/privacy/remove",
         "difficulty": "hard",
         "notes": "Remove all personal information from your account, then request deletion by emailing customer services.",
         "email": "support@beam.pro",
@@ -535,7 +535,7 @@
 
     {
         "name": "Bodybuilding",
-        "url": "http://www.bodybuilding.com/store/help/delete-bodyspace-account.htm",
+        "url": "http://www.bodybuilding.com/store/help/delete-bodyspace-account.html",
         "difficulty": "impossible",
         "notes": "You can only deactivate your account by contacting support as they state on the help page. There is no way to permanently delete your account or data, and an inactive public profile will always be visible to public.",
         "notes_fr": "Vous pouvez seulement désactiver votre compte en contactant le support.",
@@ -588,7 +588,7 @@
     {
         "meta": "popular",
         "name": "Box",
-        "url": "https://app.box.com/settings",
+        "url": "https://app.box.com/settings/delete",
         "difficulty": "easy",
         "domains": [
             "app.box.com",
