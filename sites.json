@@ -1097,6 +1097,12 @@
             "deviantart.com"
         ]
     },
+    
+    {
+        "name": "DevPost",
+        "url": "https://devpost.com/settings/delete_account",
+        "difficulty": "easy"
+    },
 
     {
         "name": "DHL (Paket.de)",
