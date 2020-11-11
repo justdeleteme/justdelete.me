@@ -5599,5 +5599,14 @@
         "domains": [
             "zynga.com"
         ]
+    },
+
+    {
+        "name": "gpodder",
+        "url": "https://gpodder.net/account/delete",
+        "difficulty": "easy",
+        "domains": [
+            "gpodder.net"
+        ]
     }
 ]
