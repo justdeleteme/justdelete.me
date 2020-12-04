@@ -1388,6 +1388,17 @@
     },
 
     {
+        "name": "Educaplay",
+        "url": "https://www.educaplay.com",
+        "difficulty": "easy",
+        "notes": "You must go to your profile, click on Account Settings and then on Delete Account",
+        "notes_es": "Tienes que ir a tu perfil, hacer clic en Configuración de cuenta y luego en Eliminar cuenta",
+        "domains": [
+            "educaplay.com",
+        ]
+    },
+    
+    {
         "name": "EdX",
         "url": "https://www.edx.org/student-faq",
         "difficulty": "impossible",
