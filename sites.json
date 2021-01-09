@@ -4956,6 +4956,16 @@
     },
 
     {
+        "name": "Too Good To Go",
+        "url": "https://space.toogoodtogo.com/privacy",
+        "difficulty": "easy",
+        "notes": "Click on Delete your account, enter your email. Then click on the confirmation link in the email. Alternatively, you can delete your account in the app settings.",
+        "domains": [
+            "toogoodtogo.com"
+        ]
+    },
+
+    {
         "name": "Topcoder",
         "url": "http://www.topcoder.com/help/p=636/",
         "difficulty": "hard",
