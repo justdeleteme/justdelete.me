@@ -4152,6 +4152,16 @@
     },
 
     {
+        "name": "Rebuy",
+        "url": "https://www.rebuy.de/my/contact",
+        "difficulty": "medium",
+        "domains": [
+            "rebuy.de",
+            "rebuy.com"
+        ]
+    },
+
+    {
         "meta": "popular",
         "name": "Reddit",
         "url": "https://ssl.reddit.com/prefs/delete/",
