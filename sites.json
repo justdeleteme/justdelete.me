@@ -607,6 +607,16 @@
     },
 
     {
+        "name": "Bring!",
+        "url": "https://www.getbring.com/help-center-main-categories/profile-settings",
+        "difficulty": "hard",
+        "email": "feedback@getbring.com",
+        "domains": [
+            "getbring.com"
+        ]
+    },
+
+    {
         "name": "Buffer",
         "url": "https://bufferapp.com/app/account/leave",
         "difficulty": "easy",
