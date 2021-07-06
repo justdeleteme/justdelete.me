@@ -3647,6 +3647,16 @@
     },
 
     {
+        "name": "OPSWAT"
+        "url": "https://go.opswat.com/delete"
+        "difficulty": "medium",
+        "notes": "You need to click on a link sent to your email to start the deletion process. A deletion confirmation email will be sent to your email when your account is fully deleted."
+        "domains": [
+            "opswat.com"
+        ]
+    },
+    
+    {
         "name": "Orkut",
         "url": "https://support.google.com/orkut/",
         "difficulty": "easy",
