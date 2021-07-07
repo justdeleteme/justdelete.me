@@ -1189,8 +1189,8 @@
     {
         "name": "Discord",
         "email": "support@discordapp.com",
-        "difficulty": "hard",
-        "notes": "Contact Discord’s customer support and request for your account to be closed.",
+        "difficulty": "medium",
+        "notes": "Account can be deleted from the app after password + 2FA authentication. If those are not available account can be deleted via support only.",
         "domains": [
             "discordapp.com"
         ]
