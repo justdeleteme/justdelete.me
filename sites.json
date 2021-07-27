@@ -1875,7 +1875,7 @@
         "name": "Giant Bomb",
         "url": "https://auth.giantbomb.com/account/",
         "email": "support@giantbomb.com",
-        "difficulty": "impossible",
+        "difficulty": "hard",
         "notes": "You can't delete your account without contacting support.",
         "notes_fr": "Il est impossible de supprimer votre compte sans contacter le support.",
         "domains": [
