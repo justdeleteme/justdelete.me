@@ -1835,6 +1835,19 @@
             "groundspeak.com"
         ]
     },
+    
+    {
+        "name": "get.tech",
+        "url": "http://get.tech/",
+        "difficulty": "hard",
+        "notes": "Contact the following email from the registered email to remove your account.",
+        "notes_de": "Kontaktiere die folgende E-Mail von der registrierten E-Mail Adresse um dein Account zu löschen.",
+        "email": "marketing@radixregistry.com",
+        "domains": [
+            "get.tech",
+            "controlpanel.tech"
+        ]
+    },
 
     {
         "name": "GFace",
