@@ -4972,6 +4972,13 @@
         "domains": [
             "topface.com"
         ]
+        
+        
+    {  
+        "name": "Torn",
+        "url": "https://www.torn.com/preferences.php#tab=accountClosure"
+        "difficulty": "easy"
+        "notes": "Login to your toen acccount before using the link"
     },
 
     {
