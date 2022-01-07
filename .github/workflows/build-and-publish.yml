@@ -1,0 +1,32 @@
+name: Build & Publish
+
+on:
+  push:
+    branches:
+      - production
+  schedule:
+    - cron: "0 2 * * 1-5"
+
+jobs:
+  build-site:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Install NPM Dependencies
+      run: npm install
+    - name: Build Site
+      run: npm run build
+    - name: Create CNAME File
+      run: echo "justdeleteme.arndissler.de" >> build/CNAME
+    - name: Stage Files
+      run: git add --force build
+    - name: Commit files to local branch
+      run: |
+        git config --local user.email "actions@github.com"
+        git config --local user.name "GitHub Actions"
+        git commit -m "Build for deploy"
+    - name: Publish
+      run: |
+        git subtree split --prefix build_production --branch build_production
+        git push --force origin build_production:build_productions
+        git branch -D build_production
