@@ -5599,5 +5599,15 @@
         "domains": [
             "zynga.com"
         ]
+    },
+    
+    {
+        "name": "nvidia",
+        "url": "https://www.nvidia.com/en-us/privacy/start",
+        "difficulty": "easy",
+        "notes": "Login to your account, then from there follow the instructions.",
+        "domains": [
+            "nvidia.com"
+        ]
     }
 ]
