@@ -3331,7 +3331,15 @@
             "morningstar.com"
         ]
     },
-
+    {
+        "name": "Molotov",
+        "url": "https://www.molotov.tv/account/profile",
+        "difficulty": "easy",
+        "domains": [
+            "molotov.tv"
+       ]
+       "notes": "Log in, go to your profile setting, finally find at the bottom of the page (Delete my account).",
+        "notes_fr": "Connectez-vous, allez dans vos paramètre de profil, enfin trouver en bas de page (Supprimer mon compte).",
     {
         "name": "Moviepilot.de",
         "url": "http://www.moviepilot.de/users/null/edit_membership",
@@ -5262,7 +5270,16 @@
             "vine.co"
         ]
     },
-
+  {
+        "name": "Vinted",
+        "url": "www.vinted.fr",
+        "difficulty": "easy",
+        "domains": [
+            "vinted.fr"
+        ],
+        "notes": "Go to settings, account settings, at the bottom select (Delete my account), click on (I confirm that all my transactions are well finalized) and do (Delete my account)",
+        "notes_fr": "Allez dans Paramètres, paramètres du compte, sélectionnez en bas (Supprimer mon compte), cliquez sur (Je confirme que toutes mes transactions sont bien finalisées) et faites (Supprimer mon compte)",
+    },
     {
         "name": "VK/ВКонтакте",
         "url": "http://vk.com/settings?act=deactivate",
