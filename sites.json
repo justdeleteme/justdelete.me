@@ -5271,6 +5271,16 @@
             "vk.com"
         ]
     },
+    
+    {
+        "name": "Vrbo",
+        "url": "https://help.vrbo.com/articles/How-do-I-delete-my-account"
+        "difficulty": "hard",
+        "notes": "To delete your account, select \"Contact Us\", select any of the listed categories, select \"Chat (new)\", ask the chatbot to speak to a real person, and ask the person to delete your account.  They will send you an email asking for you to confirm that you wish to have your account deleted.  Reply to the email confirming that you wish to delete your account."
+        "domains": [
+            "vrbo.com"
+        ]
+    },
 
     {
         "name": "WAYN",
