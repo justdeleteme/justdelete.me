@@ -5599,5 +5599,12 @@
         "domains": [
             "zynga.com"
         ]
-    }
-]
+    },
+    
+    {
+        "name": "Namecheap",
+        "url": "https://www.namecheap.com/support/knowledgebase/article.aspx/303/44/how-do-i-cancel-or-close-my-namecheap-account/",
+        "difficulty": "medium",
+        "domains": [
+            "namecheap.com"
+        ]
