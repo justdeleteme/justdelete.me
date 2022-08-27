@@ -1160,15 +1160,6 @@
     },
 
     {
-        "name": "diHITT",
-        "url": "http://www.dihitt.com/user/delete_profile",
-        "difficulty": "easy",
-        "domains": [
-            "dihitt.com"
-        ]
-    },
-
-    {
         "name": "Diigo",
         "url": "https://www.diigo.com/",
         "difficulty": "easy",
@@ -2816,22 +2807,6 @@
     },
 
     {
-        "name": "Klout",
-        "url": "http://klout.com/#/edit-settings/optout",
-        "difficulty": "medium",
-        "notes": "It can take up to 180 days for all your data to be removed from the system.",
-        "notes_fr": "La suppression totale de votre compte peut prendre 180 jours.",
-        "notes_it": "La cancellazione dei dati dal sistema può richiedere fino a 180 giorni.",
-        "notes_de": "Es kann bis zu 180 Tage dauern, bis all deine Daten aus dem System entfernt sind",
-        "notes_pt_br": "Pode levar até 180 dias para que todos os seus dados sejam removidos do sistema.",
-        "notes_cat": "Trigaran aproximadament 180 dies per eliminar les teves dades del sistema .",
-        "notes_es": "Tardarán aproximadamente 180 días para eliminar tus datos del sistema.",
-        "domains": [
-            "klout.com"
-        ]
-    },
-
-    {
         "name": "Intel Education Study (was Kno)",
         "url": "https://www.study.intel.com/support",
         "difficulty": "hard",
@@ -3647,15 +3622,6 @@
     },
 
     {
-        "name": "Orkut",
-        "url": "https://support.google.com/orkut/",
-        "difficulty": "easy",
-        "domains": [
-            "orkut.google.com"
-        ]
-    },
-
-    {
         "name": "Outlook",
         "url": "https://account.live.com/CloseAccount.aspx",
         "difficulty": "easy",
@@ -3843,23 +3809,6 @@
         "url": "http://www.phpclasses.org/faq/#delete-account",
         "difficulty": "impossible",
         "notes": "They refuse to delete accounts from the site."
-    },
-
-    {
-        "name": "Picasa",
-        "url": "http://picasaweb.google.com/",
-        "difficulty": "impossible",
-        "notes": "You can't delete your Google Account for Picasa Web Albums without deleting your entire Google Account.",
-        "notes_fr": "Vous ne pouvez pas supprimer votre compte Picassa sans supprimer votre compte Google.",
-        "notes_it": "Non puoi eliminare il tuo account Picasa Web Albums senza eliminare l'intero Account Google.",
-        "notes_pt_br": "Você não pode deletar sua conta Picasa sem deletar toda sua Conta Google.",
-        "notes_cat": "No pot esborrar el seu compte a Picasa sense esborrar el seu compte de Google.",
-        "notes_es": "No puedes borrar tu cuenta de Picasa sin borrar toda la cuenta de Google.",
-        "notes_pl": "Nie ma możliwosći usunięcia konta w usłudze Picasa Web Albums bez usuwania całego konta Google.",
-        "domains": [
-            "picasaweb.google.com",
-            "picasa.google.com"
-        ]
     },
 
     {
@@ -4553,22 +4502,6 @@
         "difficulty": "easy",
         "domains": [
             "songkick.com"
-        ]
-    },
-
-    {
-        "name": "Sonico",
-        "url": "http://www.sonico.com/tyc.php",
-        "difficulty": "hard",
-        "notes": "Send a request to legal@sonico.com and request deletion.",
-        "notes_fr": "Envoyez une demande de suppression à legal@sonico.com .",
-        "notes_it": "Invia la richiesta a legal@sonico.com",
-        "notes_pt_br": "Envie um pedido para legal@sonico.com e peça a remoção.",
-        "notes_cat": "Enviï una petició per esborrar el seu compte a legal@sonico.com.",
-        "notes_es": "Envía una petición para borrar tu cuenta a legal@sonico.com.",
-        "email": "legal@sonico.com",
-        "domains": [
-            "sonico.com"
         ]
     },
 
