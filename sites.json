@@ -2628,6 +2628,16 @@
     },
     
     {
+        "name": "Iubenda",
+        "url": "https://www.iubenda.com/en/account",
+        "difficulty": "easy",
+        "notes": "General info > Delete my account",
+        "domains": [
+            "iubenda.com"
+        ]
+    },
+
+    {
         "name": "iversity",
         "url": "https://iversity.org/de/user/deactivate",
         "difficulty": "easy",
