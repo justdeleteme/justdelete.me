@@ -5099,7 +5099,18 @@
             "typepad.com"
         ]
     },
-
+    
+    {
+        "name": "Uber",
+        "url": "https://myprivacy.uber.com/privacy/deleteyouraccount",
+        "difficulty": "easy",
+        "notes": "Just login into your account using thah link and confirm the deletion.",
+        "notes_es": "Simplemente hay que iniciar sesion en ese enlace y confirmar la eliminación de la cuenta.",
+        "domains": [
+            "uber.com"
+        ]
+    },
+    
     {
         "name": "Ubuntu One",
         "url": "https://one.ubuntu.com/help/faq/how-can-i-delete-my-account/",
