@@ -2138,10 +2138,10 @@
     {
         "meta": "popular",
         "name": "Groupon",
-        "url": "https://groupon.com/customer_support",
-        "difficulty": "hard",
-        "notes": "According to Groupon's privacy statement, you have to contact support directly and ask them to delete your account.",
-        "notes_fr": "Selon le politique de confidentialité de Groupon, vous devez contacter le support du site directement pour demander la suppresion de votre compte.",
+        "url": "https://privacy.groupon.com/policies",
+        "difficulty": "easy",
+        "notes": "First log in. Then navigate to the link. Click 'data request' and then 'delete my data.' Follow the instructions and confirm.",
+        "notes_fr": "Connectez-vous d'abord. Ensuite, accédez au lien. Cliquez sur 'demande de données', puis sur 'supprimer mes données.' Suivez les instructions et validez.",
         "domains": [
             "groupon.com"
         ]
