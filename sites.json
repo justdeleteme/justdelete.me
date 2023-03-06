@@ -1188,9 +1188,9 @@
 
     {
         "name": "Discord",
-        "email": "support@discordapp.com",
-        "difficulty": "hard",
-        "notes": "Contact Discord’s customer support and request for your account to be closed.",
+        "url": "https://discord.com/",
+        "difficulty": "easy",
+        "notes": "Login to Discord.com and go to User Settings -> My Account -> Account Removal -> Delete Account",
         "domains": [
             "discordapp.com"
         ]
