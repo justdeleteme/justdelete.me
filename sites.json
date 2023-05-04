@@ -176,6 +176,14 @@
             "animalcrossingcommunity.com"
         ]
     },
+    {
+        "name": "Ankama",
+        "url": "https://support.ankama.com/hc/en-us/requests/new?ticket_form_id=625847",
+        "difficulty": "hard",
+        "notes": "You have to request the account deletion through the support",
+        "notes_fr": "La supprétion du compte doit se faire a travers un message au support technique",
+        "notes_es": "Hay que pedir al soporte tecnico que borren la cuenta"
+    },
 
     {
         "name": "AOL / Instant Messenger",
