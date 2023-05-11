@@ -1260,6 +1260,17 @@
             "dropbox.com"
         ]
     },
+    
+    {
+        "name": "drop.com"
+        "url": "drop.com/support"
+        "difficulty": "hard"
+        "notes": "In dropdown box, select "Account inquiries". Then in the comment box, ask for your account to be deleted."
+        "domains": [
+            "drop.com",
+            "massdrop.com"
+        ]
+    },
 
     {
         "name": "Droplr",
