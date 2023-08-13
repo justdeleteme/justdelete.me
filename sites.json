@@ -2832,6 +2832,16 @@
     },
 
     {
+        "name": "Ko-Fi",
+        "url": "https://ko-fi.com/account/#canceldiv",
+        "difficulty": "easy",
+        "notes": "Click 'Delete Account' at the bottom of the account settings page.",
+        "domains": [
+            "ko-fi.com"
+        ]
+    },
+
+    {
         "name": "Intel Education Study (was Kno)",
         "url": "https://www.study.intel.com/support",
         "difficulty": "hard",
