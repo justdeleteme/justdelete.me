@@ -4922,6 +4922,17 @@
     },
 
     {
+        "name": "Threads",
+        "url": "https://www.instagram.com/accounts/remove/request/permanent/",
+        "difficulty": "impossible",
+        "notes": "You must submit a request to close your INSTAGRAM account via form. However, it's impossible to delete without deleting your instagram account.",
+        "notes_es": "Deberás solicitar que borren tu cuenta de INSTAGRAM vía formulario. Sin embargo, es imposible eliminarlo sin eliminar tu cuenta de Instagram.",
+        "domains": [
+            "threads.net"
+        ]
+    },
+    
+    {
         "name": "Ticketmaster",
         "url": "http://help.ticketmaster.com/contact-us/",
         "difficulty": "hard",
