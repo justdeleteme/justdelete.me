@@ -5599,5 +5599,16 @@
         "domains": [
             "zynga.com"
         ]
+    },
+
+    {
+        "name": "Kendall County History",
+        "url": "https://kendallcountyhistory.com/contact-us/",
+        "difficulty": "easy",
+        "notes": "You can use the google form in contact us page and ask them to remove your profile.",
+        "email": "contact@kendallcountyhistory.com?subject=Delete My Profile",
+        "domains": [
+            "kendallcountyhistory.com"
+        ]
     }
 ]
