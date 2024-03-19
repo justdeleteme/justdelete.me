@@ -5599,5 +5599,15 @@
         "domains": [
             "zynga.com"
         ]
+    },
+
+    {
+        "name": "Super Tux Kart",
+        "url": "https://online.supertuxkart.net/users.php",
+        "difficulty": "easy",
+        "notes": "Enter your passwords in the account deletion page.",
+        "domains": [
+            "online.supertuxkart.net"
+        ]
     }
 ]
