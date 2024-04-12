@@ -5365,6 +5365,15 @@
     },
 
     {
+        "name": "Whattpad",
+        "url": "https://www.wattpad.com/user_close",
+        "difficulty": "easy",
+        "domains": [
+            "wattpad.com"
+        ]
+    },
+
+    {
         "name": "whistle.im",
         "url": "https://whistle.im/browser#vcard",
         "difficulty": "easy",
