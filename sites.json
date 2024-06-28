@@ -460,6 +460,17 @@
     },
 
     {
+        "name": "Bet365",
+        "url": "https://help.bet365.com/en/contact",
+        "difficulty": "hard",
+        "notes": "To delete your account, you have to scroll down and click 'contact' button, then 'open live chat', send 'account deletion' to the virtual assistant and follow the steps.",
+        "notes_es": "Para eliminar la cuenta, tienes que scrollear hasta abajo, clickear el botón 'contáctenos' abrir el 'chat en vivo' y mandarle 'baja de cuenta' al asistente virtual, luego seguir los pasos.",
+        "domains": [
+            "bet365.com"
+        ]
+    },
+
+    {
         "name": "Bitbucket",
         "url": "https://bitbucket.org/account/",
         "difficulty": "easy",
