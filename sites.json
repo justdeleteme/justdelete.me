@@ -1,5 +1,15 @@
 [
     {
+    "name": "Daily Brain Coach",
+    "url": "https://dailybraincoach.com/en/auth?mode=login&redirect=/account",
+    "difficulty": "easy",
+    "domains": [
+        "dailybraincoach.com"
+    ],
+    "notes": "You must be logged in to access account settings and delete your account."
+}
+
+    {
         "name": "4shared",
         "url": "http://www.4shared.com/web/account/settings#overview",
         "difficulty": "easy",
