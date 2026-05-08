@@ -7,7 +7,15 @@
             "4shared.com"
         ]
     },
-
+{
+    "name": "AniTroves",
+    "url": "https://anitroves.com/acount",
+    "difficulty": "easy",
+    "notes": "Click Delete account, write your account password, click Delete account and done.",
+    "domains": [
+      "anitroves.com"
+    ]
+  },
     {
         "name": "500px",
         "url": "https://500px.com/settings",
