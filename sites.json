@@ -2361,6 +2361,16 @@
             "huddle.com"
         ]
     },
+    
+    {
+        "name": "HuggingFace",
+        "url": "https://huggingface.co/settings/account",
+        "difficulty": "easy",
+        "notes": "Scroll down and press \"Delete my account\". Enter your username and type \"delete my account\".",
+        "domains": [
+            "huggingface.co"
+        ]
+    },
 
     {
         "name": "Hulu",
