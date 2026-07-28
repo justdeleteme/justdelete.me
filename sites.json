@@ -750,6 +750,16 @@
     },
 
     {
+        "name": "ClearMyInbox",
+        "url": "https://www.clearmyinbox.ai/account",
+        "difficulty": "easy",
+        "notes": "Log in, open the Account page, click Delete Account and confirm with your email address. Deletion is immediate, permanent and also revokes the Gmail connection.",
+        "domains": [
+            "clearmyinbox.ai"
+        ]
+    },
+
+    {
         "name": "CleverReach",
         "url": "https://www.cleverreach.com",
         "difficulty": "hard",
