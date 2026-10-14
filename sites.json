@@ -89,7 +89,17 @@
             "airbnb.com"
         ]
     },
-
+    {
+        "name": "AIskyla",
+        "url": "https://aiskyla.com/privacy#delete-account",
+        "difficulty": "hard",
+        "notes": "To delete your account and associated gift records, send an email to support@aiskyla.com with your registered email address.",
+        "email": "support@aiskyla.com?subject=Delete%20AIskyla%20Account",
+        "domains": [
+            "aiskyla.com"
+        ]
+    },
+    
     {
         "name": "Album Reminder",
         "url": "http://www.albumreminder.com/usercenter/deleteaccount/",
